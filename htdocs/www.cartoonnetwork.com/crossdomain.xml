@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+	<allow-http-request-headers-from domain="*.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="*.turner.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="*.cdn.turner.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="gamecreator.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="gcstage.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="starwarsgamecreator.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="theclonewars.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="staging.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="clonewarssvc1.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="clonewarssvc2.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="cnleaderboardsvc.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="tda.cartoonnetwork.com" headers="*" secure="false" />
+	<allow-http-request-headers-from domain="cnn.vo.llnwd.net" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="i.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="audience.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="aud-ite.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="pollserver.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="dev2.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="qai.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="int.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="audience-int.cartoonnetwork.com" headers="*" secure="false"/>
+	<allow-access-from domain="*.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="www.cartoonnetwork.com" secure="false" />
+	<allow-access-from domain="cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="*.cartoonnetwork.tv" />
+	<allow-access-from domain="www.cartoonnetwork.tv" />
+	<allow-access-from domain="cartoonnetwork.tv" />
+	<allow-access-from domain="*.cartoonnetwork.us" />
+	<allow-access-from domain="www.cartoonnetwork.us" />
+	<allow-access-from domain="cartoonnetwork.us" />
+	<allow-access-from domain="www.cartoon.co.jp" />
+	<allow-access-from domain="cartoon.co.jp" />
+	<allow-access-from domain="www.cartoonnetwork.com.au" />
+	<allow-access-from domain="cartoonnetwork.com.au" />
+	<allow-access-from domain="www.cartoonnetworkindia.com" />
+	<allow-access-from domain="cartoonnetworkindia.com" />
+	<allow-access-from domain="www.cartoonnetwork.com.tw" />
+	<allow-access-from domain="cartoonnetwork.com.tw" />
+	<allow-access-from domain="www.cartoonnetwork.co.nz" />
+	<allow-access-from domain="cartoonnetwork.co.nz" />
+	<allow-access-from domain="www.cartoonnetwork.com.ph" />
+	<allow-access-from domain="cartoonnetwork.com.ph" />
+	<allow-access-from domain="www.cartoonnetworkasia.com" />
+	<allow-access-from domain="cartoonnetworkasia.com" />
+	<allow-access-from domain="www.adultswim.com.au" />
+	<allow-access-from domain="adultswim.com.au" />
+	<allow-access-from domain="www.pogo.tv" />
+	<allow-access-from domain="pogo.tv" />
+	<allow-access-from domain="www.cartoonnetworkya.com" />
+	<allow-access-from domain="cartoonnetworkya.com" />
+	<allow-access-from domain="www.cartoonnetworkla.com" />
+	<allow-access-from domain="cartoonnetworkla.com" />
+	<allow-access-from domain="www.cartoonnetwork.com.ar" />
+	<allow-access-from domain="cartoonnetwork.com.ar" />
+	<allow-access-from domain="www.cartoonnetwork.com.br" />
+	<allow-access-from domain="cartoonnetwork.com.br" />
+	<allow-access-from domain="www.cartoonnetwork.com.mx" />
+	<allow-access-from domain="cartoonnetwork.com.mx" />
+	<allow-access-from domain="www.cartoonnetwork.com.ve" />
+	<allow-access-from domain="cartoonnetwork.com.ve" />
+	<allow-access-from domain="www.cartoonnetwork.cl" />
+	<allow-access-from domain="cartoonnetwork.cl" />
+	<allow-access-from domain="www.adultswimla.com" />
+	<allow-access-from domain="adultswimla.com" />
+	<allow-access-from domain="www.adultswim.com.ar" />
+	<allow-access-from domain="adultswim.com.ar" />
+	<allow-access-from domain="www.adultswim.cl" />
+	<allow-access-from domain="adultswim.cl" />
+	<allow-access-from domain="www.adultswim.com.mx" />
+	<allow-access-from domain="adultswim.com.mx" />
+	<allow-access-from domain="www.adultswim.com.ve" />
+	<allow-access-from domain="adultswim.com.ve" />
+	<allow-access-from domain="www.adultswim.com.br" />
+	<allow-access-from domain="adultswim.com.br" />
+	<allow-access-from domain="www.boomerangla.com" />
+	<allow-access-from domain="boomerangla.com" />
+	<allow-access-from domain="www.boomerang.com.mx" />
+	<allow-access-from domain="boomerang.com.mx" />
+	<allow-access-from domain="www.boomerang.com.ar" />
+	<allow-access-from domain="boomerang.com.ar" />
+	<allow-access-from domain="www.boomerang.com.br" />
+	<allow-access-from domain="boomerang.com.br" />
+	<allow-access-from domain="www.boomerang.com.ve" />
+	<allow-access-from domain="boomerang.com.ve" />
+	<allow-access-from domain="www.boomerang.cl" />
+	<allow-access-from domain="boomerang.cl" />
+	<allow-access-from domain="www.cartoonnetwork.co.uk" />
+	<allow-access-from domain="cartoonnetwork.co.uk" />
+	<allow-access-from domain="www.cartoonnetwork.fr" />
+	<allow-access-from domain="cartoonnetwork.fr" />
+	<allow-access-from domain="www.cartoonnetwork.es" />
+	<allow-access-from domain="cartoonnetwork.es " />
+	<allow-access-from domain="www.cartoonnetwork.it" />
+	<allow-access-from domain="cartoonnetwork.it" />
+	<allow-access-from domain="www.cartoonnetwork.pl" />
+	<allow-access-from domain="cartoonnetwork.pl" />
+	<allow-access-from domain="www.cartoonnetwork.nl" />
+	<allow-access-from domain="cartoonnetwork.nl" />
+	<allow-access-from domain="www.cartoonnetwork.nu" />
+	<allow-access-from domain="cartoonnetwork.nu" />
+	<allow-access-from domain="www.cartoonnetwork.se" />
+	<allow-access-from domain="cartoonnetwork.se" />
+	<allow-access-from domain="www.cartoonnetwork.dk" />
+	<allow-access-from domain="cartoonnetwork.dk" />
+	<allow-access-from domain="www.cartoonnetwork.ro" />
+	<allow-access-from domain="cartoonnetwork.ro" />
+	<allow-access-from domain="www.cartoonnetwork.hu" />
+	<allow-access-from domain="www.cartoonnetwork.ca" />
+	<allow-access-from domain="cartoonnetwork.ca" />
+	<allow-access-from domain="cartoonnetwork.hu" />
+	<allow-access-from domain="www.cartoonnetwork.de" />
+	<allow-access-from domain="cartoonnetwork.hu" />
+	<allow-access-from domain="www.cartoonnetworkhq.net" />
+	<allow-access-from domain="cartoonnetworkhq.net" />
+	<allow-access-from domain="www.cartoonnetworkeurope.com" />
+	<allow-access-from domain="cartoonnetworkeurope.com" />
+	<allow-access-from domain="www.boomerangtv.co.uk" />
+	<allow-access-from domain="boomerangtv.co.uk" />
+	<allow-access-from domain="www.boomerangtv.fr" />
+	<allow-access-from domain="boomerangtv.fr" />
+	<allow-access-from domain="www.boomerangtv.es" />
+	<allow-access-from domain="boomerangtv.es" />
+	<allow-access-from domain="www.toonami.co.uk" />
+	<allow-access-from domain="toonami.co.uk" />
+	<allow-access-from domain="aolsvc.cartoonnetwork.kol.aol.com" />
+	<allow-access-from domain="kol.cartoonnetwork.com" />
+	<allow-access-from domain="www.toonamijetstream.com" />
+	<allow-access-from domain="toonamijetstream.com" />
+	<allow-access-from domain="*.toonamijetstream.com" />
+	<allow-access-from domain="www.tickleu.com" />
+	<allow-access-from domain="tickleu.com" />
+	<allow-access-from domain="*.tickleu.com" />
+	<allow-access-from domain="*.adultswim.com" secure="true"/>
+	<allow-access-from domain="www.adultswim.com" secure="true"/>
+	<allow-access-from domain="*.adultstage.turner.com" secure="true"/>
+	<allow-access-from domain="adultstage.turner.com" secure="true"/>
+	<allow-access-from domain="*.dubitlimited.com" secure="true"/>
+	<allow-access-from domain="otis.turner.com"  secure="true"/>
+	<allow-access-from domain="*.turner.com" secure="true" />
+	<allow-access-from domain="staging.cartoonnetwork.com" secure="true"/>
+	<allow-access-from domain="aud-ite.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="mmstage.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="aud-ite.fusionfall.com" secure="false" /> 
+	<allow-access-from domain="audience.cartoonnetwork.com" secure="false" /> 
+	<allow-access-from domain="topscores.cartoonnetwork.com" secure="false" /> 
+  	<allow-access-from domain="s.cnn.net" secure="true" /> 
+  	<allow-access-from domain="*.cnn.com" secure="true" /> 
+  	<allow-access-from domain="*.cnn.net" secure="true" /> 
+  	<allow-access-from domain="ref-avtr.cartoonnetwork.com" secure="true" /> 
+  	<allow-access-from domain="mastercontrol.cartoonnetwork.com" />
+  	<allow-access-from domain="minimatch.cartoonnetwork.com"  secure="false" />
+  	<allow-access-from domain="gamecreator.cartoonnetwork.com" secure="false" />
+  	<allow-access-from domain="gcstage.cartoonnetwork.com" secure="false" />
+  	<allow-access-from domain="www.fusionfall.com" />
+	<allow-access-from domain="staging.fusionfall.com" />
+	<allow-access-from domain="fusionfall.com" />
+	<allow-access-from domain="clearspringcnn.blogspot.com" />
+	<allow-access-from domain="*.clearspring.com" />
+	<allow-access-from domain="*.cdn.turner.com" secure="true" />
+	<allow-access-from domain="ht.cdn.turner.com" secure="true" />
+	<allow-access-from domain="cnn-0.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-1.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-2.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-3.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-4.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-5.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-6.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-7.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-8.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn-9.vo.llnwd.net" secure="true" />
+	<allow-access-from domain="cnn.vo.llnwd.net" secure="false"/> 
+	<allow-access-from domain="http-trd-ak.cdn.turner.com" secure="true" />
+	<allow-access-from domain="http-trd-l3.cdn.turner.com" secure="true" />
+	<allow-access-from domain="teg8devapp1.turner.com" />
+	<allow-access-from domain="teg8frev1.turner.com" secure="false" /> 
+	<allow-access-from domain="ctnp1devapp1.cartoonnetwork.com:9990" secure="false" /> 
+	<allow-access-from domain="www.cryptidsarereal.com" secure="false" /> 
+	<allow-access-from domain="*.cryptidsarereal.com" secure="false"/>
+	<allow-access-from domain="redesign.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="i.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="pollserver.cartoonnetwork.com" secure="false"/>
+	<allow-access-from domain="www.addictinggames.com" secure="false"/>
+	<allow-access-from domain="www.miniclip.com" secure="false"/>
+	<allow-access-from domain="www.roblox.com" secure="false"/>
+	<allow-access-from domain="www.wildtangent.com" secure="false"/>
+	<allow-access-from domain="gts.dartmotif.com" secure="false"/>
+	<allow-access-from domain="*nbakidsp1dev1.turner.com" secure="false"/>
+	<allow-access-from domain="*.funnygarbage.com" secure="false"/>
+	<allow-access-from domain="*.heatwave.com" secure="false"/>
+	<allow-access-from domain="*.xgraves.com" secure="false"/>
+	<allow-access-from domain="www.mixels.com" secure="true"/>
+	<allow-access-from domain="staging.mixels.com" secure="true"/>
+	<allow-access-from domain="*.flare3d.com" secure="true"/>
+	<allow-access-from domain="cn-games-services:5555" secure="false"/>
+</cross-domain-policy>

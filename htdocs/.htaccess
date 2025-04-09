@@ -1,0 +1,29 @@
+Header set Access-Control-Allow-Origin "*"
+
+RewriteEngine On
+RewriteBase /
+
+# Fix trailing slash problem
+RewriteCond %{HTTP_HOST} ^([^:]+)
+RewriteCond %{DOCUMENT_ROOT}/content/%1/$1 -d [OR]
+RewriteCond %{DOCUMENT_ROOT}/%1/$1 -d
+RewriteRule ^(.*[^/])$ http://%1/$1/ [S=5,R=301]
+RewriteCond %{DOCUMENT_ROOT}/content/$1 -d [OR]
+RewriteCond %{DOCUMENT_ROOT}/$1 -d
+RewriteRule ^(.*[^/])$ /$1/ [S=4,R=301]
+
+# Redo rewrite if rewrite to /content failed
+RewriteCond %{ENV:REDIRECT_STATUS} ^.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^content/(.*)$ /$1 [S=3]
+
+# Prevent infinite redirect loops
+RewriteCond %{ENV:REDIRECT_STATUS} ^.
+RewriteRule ^ - [S=2]
+
+# Do rewrite to /content
+RewriteCond %{HTTP_HOST} ^localhost:?
+RewriteRule (.*) /content/$1 [S=1]
+RewriteCond %{HTTP_HOST} ^([^:]+)
+RewriteRule (.*) /content/%1/$1

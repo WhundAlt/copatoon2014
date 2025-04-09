@@ -1,8 +1,7 @@
 {
-    "name": "your-application-name",
-    "description": "A description of your application",
-    "require": {
-      "php": "^7.4 || ^8.0"
-    }
+  "name": "your-vendor-name/your-package-name",
+  "description": "A description of your application",
+  "require": {
+    "php": "^7.4 || ^8.0"
   }
-  
+}

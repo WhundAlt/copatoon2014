@@ -1,0 +1,1 @@
+1|Crowdfunder|1|1|1||2|Special Story|1|1|1||3|Welcome to Games of Honor|1.0-b37|194|1||4|Advanced Weaponry|1|1|1||5|Industrial Magnate|1|1|1|

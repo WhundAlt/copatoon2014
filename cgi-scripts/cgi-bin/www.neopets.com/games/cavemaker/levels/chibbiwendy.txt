@@ -1,0 +1,48 @@
+I hate arrows!
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xxD                          xxxxxxxxxxx
+xxxxx xx                           xxxxxxxxxxx
+xxxxx xx      xxxxxxxxxxxxxxxxxx   xxxxxxxxxxx
+xxxxx xxKKKK  xxxxxxxxxxxxxxxxxx   xxxxxxxxxxx
+xxwwwmxx                           xxxxxxxxxxx
+xx   xxx                           zzxxxxxxxxx
+xx   zzz      xxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxx
+xx"xxxxx      xxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxx
+xx"xxx         xxxxxxxxxxxxxxxxxxxxzzzzzxxxxxx
+xx"xxx         xxxxxxxxxxxxxxxxxxxxxxxxzxxxxxx
+xx"xxx         xxxxxxxxxxxxxxxxxxxxxxxxzxxxxxx
+xx"xxxxxxxxx]                     wwwwxzxxxxxx
+xx"xx....xxx                          xzxxxxxx
+xx"xxooooxxx                          xzxxxxxx
+xx"xxooooxxx===xxxxxxxxxxxxxxxxxxx]]  xzxxxxxx
+xx"xxooooxxxmmmx>  //////////////x    xzxxxxxx
+xx"xx////xxxxxxx   V V V V V VVVVx    xzxxxxxx
+xx"mm   Vxxxxxxx^                < ]]]xzxxxxxx
+xxzxx                                 xzxxxxxx
+xxzzz                                 xzxxxxxx
+xxzzz   >       V================    +xzxxxxxx
+xxxxx^ <"xxxxxxx>mmmmmmmmmmmmmmmm^xxxxxzxxxxxx
+xxxxx   "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxx
+xxxxx=  "xxxxxxxxxxxxxxx+bbb+bbbbb+xxxxzxxxxxx
+xxxxx> ^"xxx++xxxxxxxxxxzxxxzxxxxxzzzzzzxxxxxx
+xxxxx   "zzz++zzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxx
+xxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx^   4wwwwwwwwwwww    wwwwwww 3   xxxxxxxx
+xxxxx>                           <    xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxx==[xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooxxx   xxxxxxxx
+xxxxxxxxx.....xxxxxxxxx//////+++xxx   xxxxxxxx
+xxxx>wwww     wwwwwwwww^VVVVV+++xxx  [xxxxxxxx
+xxxx                         ///      xxxxxxxx
+xxxx^>>>>#    <<<<          >///     ^xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

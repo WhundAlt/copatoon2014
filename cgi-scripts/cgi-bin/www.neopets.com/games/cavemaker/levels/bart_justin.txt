@@ -1,0 +1,44 @@
+Twizted
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x|||||             < KoooooooooooooK         |bbbbbbbbb++++bb|             V               |        xx
+x|+++|               KoooooooooooooK         |bbbbbbbbb|++|bb|                             | <      xx
+x|+++|               KoooooooooooooK         |bbbbbbbbb||||bb|                             | [======xx
+x|+++|               KoooooooooooooK         |bbbbbbbbb|bbbbb|                             |       "xx
+x|+++|               KoooooooooooooK         |bbbbbbbbb|bbbbb|                             |       "xx
+x|+++|               KoooooooooooooK         |bbbbbbb||||||bb|           V             <   | [======xx
+x|+++|               KoooooooooooooK   >     |||||||||    |bb|                             | "      xx
+x|+++|               KoooooooooooooK                      |bb|                             | "      xx
+x|+++|               K/////////////K   ^     KKKKKKKKKK   |bb|           >                 xxxxx    xx
+x|||||                                      xxxxxKKKKKKK  ||||            x x  = = = = =  xxxxxxx   xx
+xx                    xxxxxxxxxxxxxxx      xxxoooxKKKKKKK                xx xxmmmmmmmmmmmxxxxxxxxx  xx
+xx                    xooooooooooxxxxxxxxxxxxxoooxxKKKKKKKKKKKxxxxxxxxxxxxx^xxxxxxxxxxxxxxxxxxxxxxx xx
+xx                    xoooooooooox          xxoooxxxKKKKKKKKKKxxxxxxxxxxxxx^xxxxxxx   x             xx
+xx                    xoooooooooox          xxoooxxxxKKKKKKKKxxxwww                   x  +          xx
+xx                    xoooooooooox          xx|||xxxxxKKKKKKxxxw                      x  b        xxxx
+xx                    xoooooooooox          xx|x|xxxxxxKKKKxxxw                       x2   o     xxxxx
+xx      >          ^  x||||||||||x             x|xxxxxxxKKxxxw     xxxxx+++^+++xxxx   xxxxxxx   xxxxxx
+xx                    x         |x             x|xxxxxxxxxxxw     xxxxxxx++ ++xxxxxx           xxxxxxx
+xx                    x||||||||||x         xxx x|xxxxxxxxxxw  |||||xxxxxxx+ +xxxxxxxx         xxxxxxxx
+xx                    x|         x        xxxx x|xxxxxxxxxw   |+ +|xxxxxxxx|xxxxxxxxxx       xxxxxxxxx
+xx        xxxxx       x||||||||||x       xxxxx x|xxxxxxxxw    xx"x|xxxxxxxx|xxxxxxxxxxx     xxxxxxxxxx
+xx[=]   ^xx   xx      x         |x      xxxxxx x|xxxxxxxw    xxx"x|xxxxxxxx|xxxxxxxxxxxx   xxxxxxxxxxx
+xx      xxx          >|||||||||||      xxxxxxx              xxxx"x|xxxxxxxx|xxxxxxxxxxxxx           xx
+xx#    xxxx D                   |     xxxxxxxx  ^          xxxxx"x|xxxxxxxx|xxxxxxxxxxxxxx          xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x|xxxxxxxx|xxxxxxxxxxxxxxxxxxxxxxx~xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x|xxxxxxxx|xx          xxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxx x|xxxxxxxx|xx          xxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxx x|xxxxxxxx|xx          xxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>   Kxxxxxx x|xxxxxxxx|xx  xxxxxx  xxxx+       xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx.xx x|xxxxxxxx|xx  xx..xx  xxxx+       xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx ++++xx x|xxxxxxxx|xx  xx +xx  xxxxxxxxx xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx ++++>K x||||||||||xx  xx [xx  xxxxxxxxx xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwwxxxxxzxxxxx xxx xxxxxx +++++++++++xx      xx            xxxx
+xx L zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz G zzzzzzxxxxx^   <xxxxxx +++++++++++xx      xx            xxxx
+xx[=]xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxwwxxxxxx xxx.xxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxx
+xx " xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx++xxxxxx xxx wwwwwwwwwwwwwwww  xxxxxxxxxxxxxxxxxxxxxx
+xxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz++                             xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

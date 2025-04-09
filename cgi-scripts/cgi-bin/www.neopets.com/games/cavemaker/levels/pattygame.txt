@@ -1,0 +1,44 @@
+Hidden_Treasures
+terrain 1
+background 1
+water clear
+                       "xxxxxxxxzzGxxxxx
+                       "wwxxxxxzzzxxxxxx
+                       "  zzzzzzzxxw wwx
+                       "[[xxxxxxxxw    x
+                       "   "wwww       x
+mm         +++         "   "           x
+xx         ]]]             "           x
+xx                         "      o    x
+xx #                       "    mxxx   x
+xx[[[  b [[  [ b   =====   "   xxxxx   x
+xx        "                "   xxxxx   x
+xxxxx     "      xx        "   xxxxx   x
+xxxxx     "      xx    o   "   xxxxx   x
+xxxxx m      [[  xx   [[[[ "   xxxxx   x
+xxxxx x m [      xx        "           x
+xxxxx x x        xx        "           x
+xxxxx x x m  mm  xx     ===            x
+xxxxx x x x[ xx  xx            K ]]]]  x
+xxxxx x x x  xx  xx            K       x
+xxxxx x x x  xx  xx            K       x
+xxxxx x x x[ xx  xx         /  x       x
+xxxxx x x x mxx  xx        ]]  x       x
+xxxxx x x x[xxx  xx            x]]]]]]]x
+xxxxx x x x  xxxxxx    m       x       x
+xxxxx x x x  xxxxxx    x  m    x       x
+xxxxx x x xxzxxxxxx    x  xmmmmx1      x
+xxxxxmxmx zzzzzzLzxmmxxxm+xxxxxx+++  mmx
+xxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxx  xxx
+xxxxxxxxxxxxxxxxxzxxxxxxxxxxxxx   x xxxx
+xxxxxxxxxxxxxxxxxz>    Vwwwwwww   x xxxx
+xxxxxxxxxxxxxxxxxz                x xxxx
+xxxxxxxxxxxxxxxxxz                x xxxx
+xxxxxxxxxxxxxxxxxz^                 wwww
+xxxxxxxxxxxxxxxxxz                      
+xxxxxxxxxxxxxxxxxz    m         m       
+xxxxxxxxxxxxxxxxxz /  x|||||||||x     D 
+xxxxxxxxxxxxxxxxxxxxxxx+++++++++xxxxzzxx
+xxxxxxxxxxxxxxxxxxxxxxx+++++++++xxxxzxxx
+xxxxxxxxxxxxxxxxxxxxxxx+++++++++zzzzzxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,44 @@
+Extreme_Adventure
+terrain 1
+background 1
+water clear
+xxxxxxxxx          x                   x
+xxxxxxxxx          xbbbbb  >  |K|K|K|K<x
+xxxxxxxxx "xxxxx   xb+b+b     K|K|K|K| x
+xxxxxxxxx "wwwwx   x[================] x
+xxxxxxxxx """""x   w    x"    =======]+x
+xxxxxxxxx "  ""x   m    x"     KKKKKKx x
+xxxxxxxxx "  +"x   x    x"     KKKKKKx+x
+xxxxxxxxx""   "x   w    x"    KKKKKKKx x
+xxxxxxxxx" 4  "x   m    x"""  KKKKKKKx+x
+xxxxxxxxx"+   "x   x    xxxx""KKKKKKKx x
+xxxxxxxxx"   +"x   w       G""|||||||x+x
+xxxxxxxxx"    "x          KK""       x x
+xxxxxxxxx" + ""x         |KKK        x+x
+xxxxxxxxx""""  x    /    ||||        x x
+xxxxxxxxx  "   x  [==]   |           x+x
+xxxxxxxxx  "   x    4    |     >    ^x x
+xxxxxxxxx  "   x  [===   |           x+x
+x          "   x      xxxK          xx x
+x          "   w  +[=]x  xxxxxxxxxxxx  x
+x+///////  "   xxxxxxxx  xxxxxxxxxxxx  x
+x+VVVVVVV               "xxxxxxxxxxxx  x
+x+             xxxxxxxxx"xxxxxxxxxxxx  x
+xxxxxxxxxxxx xxx   KKKKK"x  bKbKbbbKb  x
+x   w    ooooKxw   +++++"x  bKbbbKbbb  x
+x        oooooxm   +++++"x  bbbbbbbbb  x
+x     + >|||||xx]"[xxxxxxx  +bbbbbbbb  x
+x]  = xxxwwwwwx  "  K       xxxxxxxxxxxx
+xbmm moKx====Kx  "  K       xxxxxxxxxxxx
+x"xxxxoox====Kx  "  K       xxxxxxxxxxxx
+x"boooooxmmmmK >   <K       xxxxxxxxxxxx
+x"boooooxxxxxKxbxKxKx       xxxxxxxxxxxx
+x"booooobb  <<xxxxxxK       xxxxxxxxxxxx
+x"booooob+         xx   4   xxxxxxxxxxxx
+xmbooooo b         "K       xxxxxxxxxxxx
+xxxoooooxxxx ^  <  "x       xxxxxxxxxxxx
+xx |||||ww xxxxxxxx"x       xxxxxxxxxxxx
+Kx      +++        "x       xxxxxxxxxxxx
+xK#     bbb    >  <"x       xxxxxxxxxxxx
+Kx>    ^bbbK K >  <"x   D   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

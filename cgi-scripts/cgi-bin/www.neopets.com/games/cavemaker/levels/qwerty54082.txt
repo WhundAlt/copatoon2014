@@ -1,0 +1,31 @@
+have fun
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx         |zz         xxx
+xxx       " |zz         xxx
+xxx   "==   |xx         xxx
+xxx   "x  V |xx======]  xxx
+xxx # "x "  |xx         xxx
+xxxxxxxx    |xx         xxx
+xxx~  V   < |xx    4    xxx
+xxx         |xx    +    xxx
+xxx         |xx    =    xxx
+xxx         |xx         xxx
+xxx   >     |xx  1      xxx
+xxxo         xx /       xxx
+xxxbbbbbbbbbbxx         xxx
+xxxb+b+b+b+b+xx      2 +xxx
+xxx+b+b+b+b+bxx||||xxxxxxxx
+xxxb+b+b+b+b+xx         xxx
+xxx+b+b+b+b+bxx         xxx
+xxxxxxxxxxxx"xx         xxx
+xxxwwwwwwww "xx   3     xxx
+xxxGL    4  "xx         xxx
+xxxmmmmmmmmm5xx5    + D xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,40 @@
+Flyin Arrows (fixed)
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xooooooooooooooV      <  o        V<<<<<<xxx
+xKKKKKKKKKKKKKK    ooo   b               xxx
+x||||||||||||||    KKK        V<<<<   >>^xxx
+x                  ||| oo o              xxx
+x                      bb^b   >>>>V   ^<<xxx
+x                     ^/////             xxx
+x                             V<<<<   >>^xxx
+x                        ^               xxx
+x               >        //   >>>>V   ^<<xxx
+x                        VV              xxx
+x                          ++++++     >>^xxx
+x                          oooooo        xxx
+x                          KKKKKK     >>^xxx
+x                          |||||| <      xxx
+x               ^      VV             ^<<xxx
+x               />     //                xxx
+x                                     >>^xxx
+x                ooo                     xxx
+x              V KKK                  ^<<xxx
+x              > |||^     #              xxx
+x^               <                    >>^xxx
+x                                        xxx
+x> >     >/    >                      ^<<<<x
+x> >     >/   >                       /<<<<x
+x1             >          >         D /<<m x
+xG   +++++ ++++  mmmmmmxxxxmmmmmm  xxxVmmxxx
+x=   ===== ====  xxxxxxxxxxxxxxxx  xxx xxxxx
+x         ^      wwwwww </ wwwwww     <xxxxx
+x                        V        xxxxxxxxxx
+x               ^        < L      xxxxxxxxxx
+x~                     mmmm=    m xxxxxxxxxx
+x                      xxxx     x xxxxxxxxxx
+xmmmmmmmmmmmmmmmmmmmmmmxxxxmmmmmxmxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

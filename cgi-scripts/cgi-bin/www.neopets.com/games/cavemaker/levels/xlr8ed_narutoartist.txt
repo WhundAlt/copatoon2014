@@ -1,0 +1,58 @@
+Odd_Air
+terrain 4
+background 1
+water murky
+xxbboooooooooox  zzzzzzzz"""""""x
+xxbbooooooooooxD xxxxxxxzbbbbbb"x
+xxxxoxxoxxoxxoxxxx   wwwxbbbbbb"x
+xwwwKwwKwwKwwKwwxw      xKKKKKK"x
+x               x       x      "x
+x   b  b  b  b #x++o    x      "x
+x xxxxxxxxxxxxxxx===    x      "x
+x wwwwwwwwwwwwwwxmm++   x      "x
+x               x=======x      "x
+x=====          xbbbbbb"xmm     x
+x               xbbGbbb"x=======x
+x               xbbbbbb"x     ++x
+x               xbbbbbb"x   KKKKx
+x               xbbbbbb"x   mmmmx
+x               xbbbbbb"x=======x
+x               xbbbbbb xb      x
+x               x=======x b     x
+x               x      ox  b    x
+x               x    ===x   b  +x
+x       /    mmmx       x     2ox
+x||||KKKKKKKKKKKx =     x=======x
+xwwwwwwwwwwwwwwwx       xb      x
+x               xKKK|||Kx b     x
+x       >      /x       xmmb   mx
+xKKKKKKKKKKKK|||x~      x=======x
+xwwwwwwww  Kwwwwx       x==+++==x
+x          K    x       x==+o+==x
+x          K    x       x==+++==x
+x  V    .  K    x    ^  x=======x
+x          K    xmmm    xooooooox
+x          K    x|KK    xooooooox
+x       .  K    x^.K    xKKK||KKx
+x          K    x  K    xwwww wwx
+x          K    x  K    xbbbb^bbx
+x      o   K    x  K    x.......x
+xKK|KKKKKKKK    x  K    xbbbb^bbx
+xwwwwwwwwwwK    x  K    x.......x
+x  =       K    x mK    wbbbb^bbx
+x      o   K    x Kw            x
+x      KKKKK  mmx Km  .         x
+x      K...K  xxx===            x
+x      K+++K  x.x        mmm   mx
+x      K+++K    x        bbbb bbx
+x      K===K    x        ooooooox
+x      KbbbK    x=== ===========x
+x   .  K...K    x   o      1    x
+x      KbbbK<   xKKKK           x
+x      K...K<   x...K           x
+x      bbbbK<   x|||||||||||||||x
+x        mmK<   x^      ^      ^x
+x===============================x
+xbb.bb+++b++b+++x      bbbbbbbbbx
+xbbmbb+++b++b+++x      bbbbbb+++x
+xxxxxxxxxxxxxzzzzzzzzxxxxxxxxxxxx

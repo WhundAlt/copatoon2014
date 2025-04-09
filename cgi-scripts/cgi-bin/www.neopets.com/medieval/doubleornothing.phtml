@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Double or Nothing!</title>
+</head>
+<body>
+    <table>
+		<tr>
+			<td class="content">
+				<!-- r0 -->
+				<b>Double or Nothing</b>
+				<p></p>
+				<center>
+					<img border="0" height="200" src="http://images.neopets.com/medieval/coin_skeith.gif" width="300">
+					<p><b>
+                        <?php 
+                            $phrase = rand(1,6);
+                            if($phrase == 1)
+                            {
+                                echo "The King better not find me gambling with his money.";
+                            }
+                            elseif($phrase == 2)
+                            {
+                                echo "Fancy a game of chance?";
+                            }
+                            elseif($phrase == 3)
+                            {
+                                echo "All this money could be yours!";
+                            }
+                            elseif($phrase == 4)
+                            {
+                                echo "Hows a game with old Snargan!";
+                            }
+                            elseif($phrase == 5)
+                            {
+                                echo "Wanna win a fortune? Get over here!";
+                            }
+                            else
+                            {
+                                echo "Hey, you over there, fancy a gamble?";
+                            }
+                        ?>
+                        </b><br></p>
+					<p></p>
+				</center>To play Double or Nothing all you needs to hand Snargan the Castle Treasurer <b>10 NP</b>, thats all it costs to play. Click on the coin below to toss it. If it's <b>heads</b> you double your cash, and you can keep going as many times as you want. If it's <b>tails</b> then Snargan keeps yer cash!
+				<p><b>Toss the Coin :</b></p>
+				<p></p>
+				<table align="center" border="0" cellpadding="3" cellspacing="0">
+					<tbody>
+						<tr>
+							<td align="center" height="100" width="100">
+								<a href="process_doubleornothing.phtml?type=cointoss&points=5"><img border="0" height="80" src="http://images.neopets.com/medieval/coin_tails.gif" width="80"></a><br>
+								<b>Click Me</b>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p></p>
+				<p><br clear="all"></p>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

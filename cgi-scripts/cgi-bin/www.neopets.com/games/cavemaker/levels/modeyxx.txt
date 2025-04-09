@@ -1,0 +1,46 @@
+RUN
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                        xxxxxxxxxxxxxxxxx
+x                        xwwwwwwwwwwwwwwxx
+x                        x              xx
+x                        x              xx
+x                        x              xx
+x                        x    D         xx
+x                        x  xxxxx \"     xx
+x                        x        \"     xx
+x                        x        \"     xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx    \"   \"     xx
+xxwwwwwwwwwwwwwwwwwwwwwwww    \"   \"     xx
+xx                            \"   \"     xx
+xx                            \"         xx
+xx                            \"  V < V <xx
+xx                            \"         xx
+xx                            \"  V ^ <  xx
+xx                            \"         xx
+xx                    =  =    \"V  ^xx
+xx                            \"         xx
+xx                 =      V      ^xxxx
+xx   =  =   =                      xxxxGxx
+xx              =                 ^x    xx
+xx                                 x    xx
+xx       |||||||||||||||||| >  >  ^x    xx
+xx =     V   V   V   V    V  xxxxxxx   =xx
+xx                          ^    <      xx
+xx                                      xx
+xxmmm=[                             =   xx
+xxxxx    |   |   |   |    |             xx
+xx tx    | + |   | + |    | +          [xx
+xx#xx   =|===|= =|[[[|=  =|[[[          xx
+xx x                             ^mmmo mxx
+xxVx                           xx\"xxxxxxxx
+xx x            mmmmmm         x \" V   <xx
+xx x            xxxxxx         x \" |+V| xx
+xx x            x    xmmmmmmmmmx   |++| xx
+xx xmmmmmmmmmmmmx    xxxxxxxxxxxzz |||| xx
+xx xxxxxxxxxxxxxxKKx    3     3  x      xx
+xx>               |x             x >   ^xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

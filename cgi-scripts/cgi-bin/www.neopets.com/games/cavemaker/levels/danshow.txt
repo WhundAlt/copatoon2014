@@ -1,0 +1,84 @@
+Treasure Trove (rev)
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx ++++ GK <xt     zzzzzxxxxxxxxxt           xx
+xx ++++ K <|x      zzzzzxxxxxxx+x  x  x  x   xx
+xxV<<<<< x  xxxxx  xxxx=xxxxxxx+x  x  x  x   xx
+xx       x ^     < xxxxzxxxxxxx+x  x  x  x   xx
+xx       xxxxxxxxxxxxxx=xxxxxxx+x  x  x  x   xx
+xx       xxLzzzzzzzzzzzzx+xxxxx+xxxxxxxxxx   xx
+xx       xxxxxxxxxxxxxx=x+xxxxx+xxxxxxxxx    xx
+xx>      xxxxxxxxxxxxxxzx+xxxxx+xxxxxxxxx    xx
+xx   # ^ >     <x       x+xxxxx+xxxxxxxxx  x xx
+xxxxxxxxxxbbxxxxx       xoxxxxx+xxxxxxxxx  x xx
+xx          x++K     "xxxoxxxxx+x  o    x  x xx
+xx       xxxx+KK     "|K o    x+x"]===] x  x xx
+xx  [====xxxxKKKx    "|| <    x+x"      xxxx xx
+xx       xxxxK<<x    "KK       b "      x    xx
+xx       xxxx   x    "xxx x      "      x x  xx
+xx=xxx          x    "xxx xxxxxxxxxx====x x  xx
+xx xxx >       ^x    "xxx^w<xoxxxx      x x  xx
+xx x+xxxxxxxxxxxx    "xxxxx xKxxxx      x x  xx
+xx x+xx   KKK   x    "xVw<x x      x+++ x xxxxx
+xx x+xx   K|K   x     x x x x^<    x+++ x    xx
+xx x+xxV  <|K   x     x>m w^x=xxxxxxxxxxx  x xx
+xxxxK  <  K|K   x     xxx xxx xxx  xxxxxx  x xx
+xx        K|K   x     xxx xxx xxx..xxxxxx  x xx
+xx        K|K   x     x>w^xxx       |> Vx  x xx
+xx        K|K ++x     x xxxxx  >    |K  x  x xx
+xx        K|K ++x     w xxxxxxxxxxxxxx  x  x xx
+xx        |KK ++x  >  m^xxxxxxxxxx   x  x  x xx
+xx  "xxxxx xxxxxxxxxxxxxxxxxxxxxxx...x  x  x xx
+xx  "xV|| ^|     < x >                  x  x xx
+xx  "x V^  <       xV                  <x  x xx
+xx  "x             x  xxxxxxxxxxxxxxxxxxx  x xx
+xx  "xKKxx+++      x  x...........xxxxxxx  x xx
+xx /"  "xx++++     x ^                 <x  x xx
+xx  "  "xxxx++     x>                 V x  x xx
+xx     "xxxx++     xxxxxxxxxxxxxxxxxxx  x  x xx
+xx     "xxxxxx.......................x  x  x xx
+xxKKKxxxxxxxxxxxV          <            x  x xx
+xx...xxxxxxxxxxx>^         |         <|^x  x xx
+xx   xxxxxxxxxxxxxxx===xxxxxxxxxxxxxxxxxxxxx xx
+xx                 x   xooooooooooooooooK    xx
+xx                 x+++xoooooooooooooooox    xx
+xx                 x===xoooooooooooooooox    xx
+xxxx               x   xoooooooooooooooox    xx
+xxxxxxxx        /  x   xoooooooooooooooox    xx
+xxxxxxxxx||||||xxxxx+++xoooooooooooooooox    xx
+xxxxxxx++xxVVVV    x===xoooooooooooooooox    xx
+xxxxxxx++xx        x   xK<<<<<<<<<<<<<<<x    xx
+xxxxxxx++xx        x                    x    xx
+xxxxxxxKKxx        x                    x    xx
+xx                 xxxxx                x    xx
+xx>    ^^             <x               ^x    xx
+xx|>                   w               |x    xx
+xx                     K              <|x    xx
+xx                     K              <|x    xx
+xx                     K              <|x    xx
+xx                     K              <|x    xx
+xx                     K              <|x    xx
+xx^        <||>       ^K               <x    xx
+xxxxxxxxxxxKKKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx      xxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx      xxxxxxxxx xxx    xxxxxxxxxxxxxxxxxxxxxx
+xx"   D xKK+xxxxx xxx..x xxxxxxxxxxxxxxxxxxxxxx
+xx"xxxxxxKK+xxxxx      x xxxxxxxxxxxxxxxxxxxxxx
+xx"      KKKxxxxx      x xxxxxxxxxxxxxxxxxxxxxx
+xx"      KKK    xxxxxxxx xxxxxxxxxxxxxxxxxxxxxx
+xxx======KKK             xxxxxxxxxxxxxxxxxxxxxx
+xxx>     ||K xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx                    xxxxxxxxxxxxxxxxxxxxxxxx
+xxxV                  <xxxxxxxxxxxxxxxxxxxxxxxx
+xxx                    xxxxxxxxxxxxxxxxxxxxxxxx
+xxx                    xxxxxxxxxxxxxxxxxxxxxxxx
+xxx>>>              <<^xxxxxxxxxxxxxxxxxxxxxxxx
+xxx>>>|     <       <<Vxxxxxxxxxxxxxxxxxxxxxxxx
+xxx      xxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxx
+xxx^                  <xxxxxxxxxxxxxxxxxxxxxxxx
+xxxmmmmmmmmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

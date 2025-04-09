@@ -1,0 +1,54 @@
+Act_Fast
+terrain 4
+background 1
+water dark
+#                                
+                                 
+                                 
+                                 
+^ +++++++++++++++                
+xxxxxxxxxxxxxxxx+                
+                +                
+                +                
+                +                
+                +                
+                +                
+               [========]        
+ ooooooooooooooooooo             
+ ooooooooooooooooooo             
+ ooooooooooooooooooo             
+ ooooooooooooooooooo             
+ ooooooooooooooooooo             
+ <<<<<<<<<<<<<<<<<<<             
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
++                                
++                  ^<<<<<<<<     
+zxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+GL    t           x              
+      K           x              
+      K           x              
+xxxxxbx           x              
+                  x              
+    1             x              
+  ++++++++        x              
+              3   x              
+          ++++++  x              
+                  x              
+             <    x              
+                  x              
+        +   +K2   x              
+        [=====]   x              
+                  x              
++++++             x              
+xxxxx             x              
+                  x              
+                  x              
+  D 55            x              
+xxxxxxxxxxxxxxxxxxx              

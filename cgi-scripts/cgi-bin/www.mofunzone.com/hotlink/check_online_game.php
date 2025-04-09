@@ -1,0 +1,1 @@
+mofunzone_allow_game=true

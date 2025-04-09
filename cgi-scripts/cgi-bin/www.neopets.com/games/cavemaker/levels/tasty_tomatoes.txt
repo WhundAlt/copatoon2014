@@ -1,0 +1,56 @@
+Dynamite n Arrows
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx      o     >        <|  xxxxxxxxxxxxxx
+xxx            =>       <|  xxxxxxxxxxxxxx
+xxx             =>      <|  xxxxxxxxxxxxxx
+xxx              =>     <|  xxxxxxxxxxxxxx
+xxx  oo           =>    <|            xxxx
+xxx                =>   <|            xxxx
+xxx                 =>  <|            xxxx
+xxx                  => <|            xxxx
+xxx       >    V      = >|          < xxxx
+xxxxx      Kxxx xxxxxxzzxxzxxxxxxxxx""xxxx
+xxxx #     Kxxx xxxxxxzzzxzxxxxxxxxx""xxxx
+xxxx       K V <      xzzzzx        ""xxxx
+xxxx       K | "      xxzzzx xx     ""xxxx
+xxxx       K | "xxxx  xxxz+x ww     ""xxxx
+xxxx       K | "xxxx  xxxmxx ""     ""xxxx
+xxxx       b+| "xxxx  xxxxxx "" ======xxxx
+xxxxm mD 5^b+| "xxxx  xooooo "" ooooooxxxx
+xxxx============ V x  xooooo "" ooooooxxxx
+xxxx          x    x  x||||| "" ||||||xxxx
+xxxx          x    x  x      ""       xxxx
+xxxx          x    x  x      ""       xxxx
+xxxx          x       x      ""       xxxx
+xxxx          x  ^ <  x      ""       xxxx
+xxxx          x    m  x      ""       xxxx
+xxxx          x  xxxm x      ""       xxxx
+xxxx          x    xxxx      ""       xxxx
+xxxx          x~      x      ""       xxxx
+xxxx          x       x      ""       xxxx
+xxxxxxxxxxxxxxx       x      ""       xxxx
+xxxx          x       x               xxxx
+xxxx          x       x               xxxx
+xxxx          xxxxxxzzx               xxxx
+xxxx          xxxxxxzzx               xxxx
+xxxx          xxxxxxzzx               xxxx
+xxxx          xxxxxxzzx               xxxx
+xxxx          xxxxxxzzx               xxxx
+xxxx          xxxxxxxzx               xxxx
+xxxx          xxxxxx|V|               xxxx
+xxxx          xxxxxx| |               xxxx
+xxxx          xxxxxx| |              3xxxx
+xxxxxxxxxxxxxxxxxxxx| |^             ^xxxx
+xxxxx++||3||||||||||||||||||||||||+|||xxxx
+xxxxx++|||||||||||||||||||4|+|||||||||xxxx
+xxxxx++|||||||||||+||||||||||||||||||5xxxx
+xxxxxxxxx+xxxxxxxxxx+xxxxxx+xx+xxxxxx+xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

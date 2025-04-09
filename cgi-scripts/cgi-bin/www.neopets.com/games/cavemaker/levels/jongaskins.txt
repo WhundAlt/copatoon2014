@@ -1,0 +1,46 @@
+Mwuahaha Jongaskins
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x>      V     |         x++++ o          x
+x             |         x++++ b          x
+x      >      |         x++++ /    D    <x
+x      x      |         xxxxx"    KK     x
+x^   ><       |         xLzGx" K    K    x
+x    x| <     |        1xzzzx" KK        x
+x  >< V       |         zzzzx" KK        x
+x  x| <       |         zzzzx" KKK    KK x
+x#><          |         xzzzx" K|Kxxx    x
+xxxxxxxxxxxxxxxzxxxzxxxzxK Kx" K|KK      x
+x             xzxxxzxxxzxK Kx" K||K      x
+x     K       xzxxxzxxxzxK Kx =K||KK     x
+x     KK      xzxxxzxxxzxK Kx  K|||K     x
+x     K|K     xmxxxmxxxzxKKKx  K|||KK    x
+x     K||K    xxxxxxxxxzxKKKx  K||||KK >^x
+x     KKKKK    x o >     ///x  KKKKKKK   x
+x     KKKKK    x o>  V      x  KKKKKKK   x
+x     |||||    x>b  x>  |   x  |||||||   x
+x ++++        |x    x   |   x            x
+x ++++        |  <  x   | + x            x
+x ++++        |x    x   | + x            x
+x ====        |x    x   | + x            x
+x             |x    x   | + xzx          x
+x             |x^^^^x   | + xzx^       ^ x
+x         ^   |        xxxxxxzxxxzxxxxzx"x
+x             |      xxxzzxxxzx>     V  "x
+xV          < |xxxxxxxzzzzxzzzx >   V   "x
+x  zx]|]|]|]|xxx+++++xzzzz+zzzx  > V    "x
+x>   | | | | |xx++++++zzxxxxzzx  ^  <   "x
+x >         ^ xx=====xxxxzzxxzx ^    <  "x
+x   x         x      xzzxzz++zx^      < "x
+x   x         x      xzz+zxxxxxxxz||xxzx"x
+x   x         x      xzxxxxzzzz  z++x   "x
+x   x         x      xz++++zzzz  zxxx   "x
+x   x         x      xxxxxxxxxx         "x
+x  xxmmmmmmmmmx                          x
+x   xxxxxxxxxxx                  m    m  x
+xx              xxx xxxxxxxxxxxxxxxxxxxx x
+xxxxxxxxxxxxxxxxx.x ++++    x...x    ++++x
+x4                  ++++             ++++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

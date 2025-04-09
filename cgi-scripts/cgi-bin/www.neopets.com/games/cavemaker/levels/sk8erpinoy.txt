@@ -1,0 +1,46 @@
+The Mind Boggler
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwwwwwwwwwwwwwwwwwwtxx
+xxx             bbb  xxxx
+xxw            bbbbb wwxx
+xx        "xxxzxxxxxzx xx
+xz+       "xxxzxxxxxzxxxx
+xz+ D     "wmw+zzzzz+mmxx
+xzxxxxxxxx"xxx=xxxxxxxxxx
+xzwwxxxwww"www wwwwwwwwxx
+xz  www   "           1xx
+xz  b     "     3b     xx
+xz  b     " ++++bbb++++xx
+xz++b     " xxxxxzxxxxxxx
+xz++x  m  " wxxoxzxoxxwxx
+xxzxxxzxx "  wxxoooxxw xx
+xxzxzzzxx "   wxxxxxw  xx
+xxzxzxxxw "    wxxxw  +xx
+xxzxzxww  "     wxw   =xx
+xxzxzx    "      w     xx
+xxzx+x    "            xx
+xxzx+x   4   K     4   xx
+xx+xKx                 xx
+xx|x|x           mmm + xx
+xx w w           xxx + xx
+xx      oo   ommmxxxmLmxx
+xx     /ooooooxxxxxxxzxxx
+xx^    |oooooxwwwwwwwwwxx
+xx++  = ooooox         xx
+xx++    xxxxxx        +xx
+xx++^mm               =xx
+xxzxxxx      +     =   xx
+xxzxxxx   =  =  =      xx
+xxzzbbb =ooooooooooooo xx
+xxzzxxx +KKKKKKKKKKKKKKxx
+xxzzxxx =///////////// xx
+xxzzxxx^            #  xx
+xxzzxxx+ ^          <  xx
+xxzzxxxxxxxxxxxxxxx====xx
+xxGzzzzzzzzzzzzzzzzzxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx

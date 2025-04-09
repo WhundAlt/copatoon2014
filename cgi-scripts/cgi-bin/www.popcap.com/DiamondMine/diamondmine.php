@@ -1,0 +1,6 @@
+<?
+	if (stristr($siteid, "real"))
+		Header("Location: http://www.popcap.com/gamepopup.php?theGame=diamondmine&siteid=real");
+	else
+		Header("Location: http://www.popcap.com/gamepopup.php?theGame=diamondmine");
+?>

@@ -1,0 +1,46 @@
+Area 28
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x       + +   bb+                        x   "          wwww      x
+x  #    b+b     b+  b         +          xb  "                    x
+x      ++b+ +b+++b+++b    ++  b  b    G  xbb "                    x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx       Kxxxxxxbb "                    x
+x"                                 |+++++x==="   bbb b b b b b b bx
+x"b                                |+++++x   "                  L x
+x" b                         +     |+++++x   "               xxxxxx
+x"  b     b b b b b b b     +++ /  K+++++x   "               wwxxxx
+x"   b                    xxxxxxxxxxxxxxxx   "                 wxwx
+x"    b+                  xoooooooooooooox   "                  w x
+x"     b     + +  +  +  + xoooooooooooooox   "                    x
+x"    b  + 4              xoooooooooooooox m "   ++++             x
+x"   b   xxxxxxxxxxxxxxxxxxooooooooooooooxmx "  xxxxx   b         x
+x" +b             wwwwwwwwxooooooooooooooxxx " xxwwwxxx   b       x
+x" b                      xooooooooooooooxww " xxxmxxwx     b     x
+x"b                       |||||||||||||||w   " wwxxww w       b   x
+x"                        |||||||||||||||    " x ww             b x
+x"                                           " xxxmmm m          bx
+x" b b bbb b b b b b >                       " xoxxxxmx m  m      x
+x"                                           "  b V xxx x  xxxxx  x
+x"   +                                       " ===  xxx xmmxxxxx  x
+x"+  +                                       " x x  xxxoxxxxxxxx  x
+xx++++ +                                     " x x xxxxxxxxx     bx
+xxxx+++++  bb bb         ========   bb   xKKKKxx x xxx xxxxx     +x
+xxxxxxxxx                x            b  xKK/xxx x xxx +          x
+xxxxxxxxxmmmmmmmxxxxxxxxxx             bbxx|  xx x    =========  bx
+xxxxxxxxxxxxxxxxxxxxxxxxxx               x       x     +   + +    x
+xxxxxxxxxxxxxxxxxxxxxxxxxx   mmmmmmmmmmmmxmm^  mox    ==  =====   x
+xxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxx      +   ++   bx
+x                wwx          xV                  <    ========   x
+x             "    x          x                                   x
+x       ===== "    xx         x    bbbb                          bx
+x     +   ===="    xxxxx      b    bbbb                           x
+x     b       "    wxwxx      x    bbbb       xx   mmmm        mmmx
+x             "     w wxKKKKxxx    bbbb       xxxxxxxxx   5    xxxx
+x   D         "          ||    <   bbbbbb       xxxxxxxxxxxxxxxxxxx
+x b   b       "                    bb++++                 xxxxx+++x
+x  bbb        "                    bb++++                 bbb ++++x
+x             "                    bb++++bbbbbb        xxxxxxxx++xx
+xmmmmmmmmm    "      mmmmmmm       bb++++bbbbbbxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

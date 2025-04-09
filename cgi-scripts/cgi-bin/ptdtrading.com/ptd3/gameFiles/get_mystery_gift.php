@@ -1,0 +1,1 @@
+rnd=1&rslt=1&mgn=551&mgs=13

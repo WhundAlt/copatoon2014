@@ -1,0 +1,52 @@
+Where to go next...
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx    xxx                         xxxxxx
+xxxxxx+++ xxx                         xxxxxx
+xxxxxx=== xxx                         xxxxxx
+xxxxxx    xxx==xxxxxxxxxxxxxxxxxxxxx  xxxxxx
+xxxxxx  1   x  xxxxxxxxxxxxxxxxxxxxx  xxxxxx
+xxxxxx ===xxx==xxxxxxxxxxxxxxxV <xxx  xxxxxx
+xxxxxx    xxx                    xxx  xxxxxx
+xxxx   4  xxx  D               x xxx  xxxxxx
+xxxxxxxx    xxxxxxxxxxxxxxxxxx x xxx  xxxxxx
+xxxxxxxxx   xxxx  xxxxxxxxxxxx=x xxx  xxxxxx
+xxx   xxxx  xxxx  xxxxxxxxx      xxx  xxxxxx
+xxx   xxxxx xxxx  xxxxxxxxx >   ^  x  xxxxxx
+xxK V    <x xxxx  xxx   xxx=xxxxx  x  xxxxxx
+xx+x xx=x x    3      " xxx>      xx  xxxxxx
+xx+x x  x xxxxxxxxxxxx" xxx>/   < xx  xxxxxx
+xxVx x=xx xxxxxxxxxxxx" xxxxxxxxx=xx  xxxxxx
+xxKx>  > ^xxxxxxxxxxxx" xxx           x + xx
+xx xxx=xxxxxxxxxxxxx  "   x           x + xx
+xx xxx x  xxxxxxxxx   "        xx==xxxx + xx
+xx  >      <                 o  x       = xx
+xx"xxxxxx  x==xxxxxx      xxxx  x         xx
+xx"xxxxxxxxx++xxxxxx #    xxxx  x==]      xx
+xx" xxxxxxxx==x   "xxx "xxxxxx  x      xxxxx
+xx  Vxxxxxx   x+  "xxx "xxxxxx  x    3  xwxx
+xx    xxxx    xx  "xxx "xxxxxx  xxxx    x xx
+xxx]  xxx   xxx   "xxx "xxxxxx  xwx     w xx
+xx    xx      x   "xxx "xxxxxx    w x=x m xx
+xx   /xx      x"  "xx  "xxxxxx==x m  "  x xx
+xx ]>Kxxxx    x"   x"  "xxx     xLxmm"mmxGxx
+xx    xx   KK x"   x"  "xxx"  mmxzxxx"xxzzxx
+xx    xK   KK x"   x"mmmxxx"x=xxxzxxx"xxzzxx
+xxx]   K   bb x"   x"xxxxxx"xzzzzzxxx"xxzzxx
+xx     K   bb x"  "x"   wxx"xxxxxxxxx"xxxzxx
+xx  > |K / KK x   "x"   "xx>    >V   "xxzzxx
+xxxxKxxxxxxxxxx   "xm   "xx     V<   "xxzzxx
+xxxxoxxxxxxx"""   "xx   "xx          "xxzxxx
+xxxxxxxxxxxx      "x"   "xx          "xxzzxx
+xxxxxxxxxxxx m    "x"   mxx"         "xxzzxx
+xxxxxxxxxxxx+x    "w"   xxx"    "    "xxxzxx
+xxxxxxxxxxxxxx    """   xxx"         "zzzzxx
+xxxxxxxxxxxxxxmmmmm mmmmxxx           zzzzxx
+xxxxxxxxxxxxxxxxxxx"xxxxxxxmmmmmmmmmmmxxxxxx
+xxxxxxxxxxxxxx+wwww""""""xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx""""""mmmm+xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

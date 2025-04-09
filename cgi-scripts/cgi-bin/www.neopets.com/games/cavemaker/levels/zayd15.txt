@@ -1,0 +1,46 @@
+Seven_Arrows
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx  D                                   xx
+xx======================================xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                   >  V           x"xx
+xx"x                                  x"xx
+xx"x             |>    V              x"xx
+xx"x                                  x"xx
+xx"x                >              V  x"xx
+xx"x         +            +           x"xx
+xx"x         >            <     o     x"xx
+xx"x                |           <     x"xx
+xx"x                V                 x"xx
+xx"x                              +   x"xx
+xx"x             >           +    V   x"xx
+xx"x                     V   |> <     x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                                  x"xx
+xx"x                     x"xx
+xx"x                                  x"xx
+xx"x                <          +      x"xx
+xx"x                      |>   V      x"xx
+xx"              ^                 <  x"xx
+xx"       o                           x"xx
+xx========x                           x"xx
+xx       xx]     ^  ^  ^  ^  ^  ^  ^  x"xx
+xx      xxx]                          x"xx
+xx #   xxxx]++                         "xx
+xx          ++                         "xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,106 @@
+Trials of Arrows
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwwww  www    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxwwwxxw              wxxxxxxxxw  wwxx
+xxxxxxxxxxxxxxxx xxwwxxxxw   wx                wwwxxxxw     xx
+xxxxww  ww wxxxx xw  xxxx     x                    wxx      xx
+xxx         xxx  x   xxx      x                     xx      xx
+xxxm        wxx       xx      w                     xx      xx
+xxxxxmm      xx       xx            ooo             wx      xx
+xxxxxxxx     xx       xx            [=]              x      xx
+xxxxxxxx     xx       xx          > ///                     xx
+xxxxxxx      ww        x                                    xx
+xxxxxxx                x                                    xx
+xxxxxxw                                                     xx
+xxxxxx                                                      xx
+xxxwxx                                                      xx
+xxx xx                    > VVVVV <                         xx
+xxx  x                        /                           < xx
+xxx  x                    ^  < >  ^                         xx
+xxx  x                                                      xx
+xxx  x                    > VVVVV <                         xx
+xxx                           /                             xx
+xxx                       ^  < >  ^                         xx
+xxx                                                         xx
+xxx                                                         xx
+xxx                                                         xx
+xxw                                                         xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          xx
+xx                                                          wx
+xx                                                           x
+x                                                            x
+x                                                            x
+x/<<</</<                     ^                      >      Vx
+xVV  VVV                    + #                            </x
+x>>  >>>^                  <[===]>                   ^     <Vx
+x                           [===]     mmmmm                </x
+x                           [===]     wwwww                <Vx
+x                           [===]                          </x
+x                 mmmmmmmmmmmmmmmmmmmmm mmm                 Vx
+x                 xxxxxxxx         xxxx xxx                  x
+x                 >/>/>/>/                                   x
+x                  VVVVVVV            + +                 ^ <x
+x                                    [===]                   x
+x                 ^      <         =                         x
+x                         ==     =                           x
+x                     + =                                    x
+x                   + =                                      x
+x                 + =                                        x
+x   ++ b  b  b    =                                          x
+x   ==                                                       x
+x   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+x   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwx
+x     xxxxx                                                  x
+x    xxxxxx                                                  x
+x   xxxxxxx                                                  x
+x  xxxxxxxx                                                  x
+x xzzzxxxxx                                                mmx
+x xzzzxxxxx                                                xxx
+x  zzzzxxxx                                                xxx
+xx  zxzzxxx                                                xxx
+xxx  xxzzxx                n       n                       xxx
+xxxz  xxzzz             n                                  xxx
+xxxzz  xxzz           n   []     = =         b             xxx
+xxxzzx  xxz         n   =          "  b        b           xxx
+xxxzzxx  xx       n   =            "     b       b         xxx
+xxxzzxxx  x         =              "        b              xxx
+xxxzzxxxx         =                "   b  b    b           xxx
+xxxzzxxxxx +G+L+                   "    b        b         xxx
+xxxzxxxxxxx[====                   "  bb    b    b         xxx
+xbb^V<<| <<                        "          bb           xxx
+xVb^ ^b b>     <                   "     b                 xxx
+x>|  |>>|>     []                  "        b   b         mxxx
+x|V^ ^<>>V     <                   "   b                  xxxx
+x<>b  ^|<<     [=]          ^^^^   "   b  b               xxxx
+xV   < ^<V^    <             //>  ^"          b           xxxx
+x V<           [==]                "                      xxxx
+x V |    <<                   ^ <  "    b b  b  b        mxxxx
+x  >>>  b|b    mmmmmmmmmmmmmmmmmmmm mmmmmmmm     b      mxxxxx
+x  bb <V<^b    wwwwwwwwwwww=======w wwwwwwww     =     mxxxxxx
+x>>    >|V                 K     K[========]   =       xxxxxxx
+xbbbb^<<V<b    """"""""""""K     K++++++++++ =         xxxxxxx
+xxxxxxxxxxxx               K     K[========]         mmxxxxxxx
+xxxxxxxxxxxxmmmmmmmmmmmmmmmK  D  Kmmmmmmmmmmmmmmmmmmmxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

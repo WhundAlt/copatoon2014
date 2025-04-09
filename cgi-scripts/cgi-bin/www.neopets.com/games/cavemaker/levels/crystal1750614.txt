@@ -1,0 +1,46 @@
+Mu ha ha ha!(Water)
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx          xxx  ++++++++++     LG     x
+xxxx          xxx  ooooooooooooo  KKK    x
+xxxx          xxx  oooooooooooooo KKKK   x
+xxxx          xxx  |//////////////|||/   x
+xwww          xxx                        x
+x             xxx x                  ^   x
+x             xxx x               xxxxxxxx
+x +               x ^             xwwwwwwx
+x+D+         xxxxxxxxxxxxxxxxxxxxxx      x
+xxxx         xxxxxxxxxxxxxxxxxxxxxx      x
+x   =       =wwwwwwwwwwwwwwwwwwwww       x
+x                                   +++++x
+x    =    =                         bbbbbx
+x          xxxxxxxxxxxxxxxxxxxxxxxx bbbbbx
+x     ==] 5                      #       x
+x                                        x
+x  "xxxxxxxxxx                           x
+x  "x/>>>>>>>o++x                        x
+x  "x/>>>>>>>o++x                        x
+x  "x xxxxxxxxxxx                        x
+x  "x^ <                                 x
+x  "xxxx       +                    mmmmmx
+x  "   x   [=] x+    +            xxxxxxxx
+x  "   xxx     xx|  +++           wwwwwwwx
+x  "   x       xxx +++++   >     <   ++++x
+x  ~  +xmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    xxxxxxxxxx                          x
+x                                        x
+x                    +++++++++++++++++++ x
+x            +       xxxxxxxxxxxxxxxxxxx x
+x           xxx            ......        x
+x                                        x
+x                                        x
+x    +                                   x
+x   xxx                                  x
+x                                        x
+x                                        x
+x                                        x
+x     ++++++++++++++++++                 x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

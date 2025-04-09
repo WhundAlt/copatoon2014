@@ -1,0 +1,11 @@
+<?php
+if($_GET["success"] != 0)
+{
+    echo "totalnp=1000&success=" . $_GET["success"] . "&error=You+won+a+prize%21";
+}
+else
+{
+    $random = rand(6,17);
+    echo "totalnp=1000&success=" . $random . "&error=You+won+a+prize%21";
+}
+?>

@@ -1,0 +1,46 @@
+Look Before you move
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x              xxx""  oooooooooooo x     x
+x              xxx""  oooooooooooo x     x
+x              xxx"" b<<<<<<<<<<<< x     x
+xxxxxxxxx KK   xxx""               x     x
+x+++++++++x K  xxx""             ^       x
+x+++++++++x K  xxx""================     x
+x++++++KK+z Kmmo x""               x     x
+x+++++++++z xxxx=x""  V        >  < ]]   x
+xxxxxxxxxxx    x"z""            ||x      x
+x              z"z""            ||x ]]   x
+x              z"z""            ||x      x
+x        V<    xbx""            ||x ]]   x
+x        V^KVKKxzx""     ++++   ||x      x
+x        V^<<b<xzx""    xxxxxx  ||x    ]]x
+x        >/>>>^xzx""    wxxxxw  ||x     "x
+x        <V>>>Vxzx""     wxxw   ||x    x"x
+x||||||||||||||xzx""      ww    ||xbbbbx+x
+x//////////////xzx""            ||xbbbbx"x
+xK            |xzx""            ||xbbbbx"x
+xK            |xzx""    ++++    ||xbbbbx"x
+xK       +++++|xzx""   xxxxxx   ||xbbbbx"x
+xK       +++++|xzx""   wxxxxw   ||x    x"x
+xK       ||||||xzx""    wxxw    ||x    x+x
+xK             xzx""     ww     ||x    x"x
+xK             xzx""            ||x    x"x
+xKKKKKKKKKKKK""xzx""            ||x    x"x
+x++++++      ""xzx""      ++    ||x    x+x
+x++++++      ""xzx""     +xx+   ||x    x"x
+x======      ""xzx""    +xxxx+  ||x    x"x
+x""""""      ""xzx""   +xxxxzz+ ||x    x"x
+x   """  ""  ""xzx""   xxxxx]xx ||x    x"x
+x          """"xzx""   wwwww"ww ||x^^^^x"x
+x      ""  """"xzx""        "   ||xxxxxx+x
+x            ""xzx""  >/>       ||x    x+x
+x            ""xmx""   V    "   ||x    x"x
+x              xxx""        xx  ||x4   x"x
+x              xxx""       mxz  //x    x"x
+x              xxx""   K  mxxzx^^/x    x"x
+x              xxx""  K+K xxxzxx^  V<xzz"x
+xD         2   xxx""  K+K xxxmxx^<<< x#z"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

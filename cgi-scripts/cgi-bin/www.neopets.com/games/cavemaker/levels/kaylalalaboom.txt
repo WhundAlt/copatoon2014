@@ -1,0 +1,58 @@
+Let it Snow!
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooobbxx
+xxxxxxxxxxx>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  xx
+xxxxxxxxxxx                                                                xx
+xxxxxxxxxxx                                           bbbbbbbbbbbb         xx
+xxxxxxxxxxx           |||||            K  b           bbbbbbbbbbbb         xx
+xxxxxxxxxxx^          |||||            K  b           bbbbbbbbbbbb         xx
+xxxxxxxxxxx           |||||            K  b           bbbbbbbbbbbb         xx
+xxxxxxxxxxx           |||||            K  b           bbbbbbbbbbbb         xx
+xxxxxxxxxxx#   /     |||||||      /    K  b           bbbbbbbbbbbb         xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xx
+xxxxxxxxxxxoo^V<                          <xVVxVVVxVxVxVxVxVxVx>        V "xx
+xxxxxxxxxxxoo^ xxxxxxxxxxxxxxxxxxxxxxxxxxx x  x x x x x x x x x x         "xx
+xxxxxxxxxxxoo^ x                           x  x x x x x x x x x x         "xx
+xxxxxxxxxxxxx^<x                           x  x x x x x x x x x x         "xx
+xxxxxxxxxxx                               ^ ^^ ^ ^ ^ ^ ^ ^ ^ ^ ^        / "xx
+xxxxxxxxxxxzxxKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK||||||||||||xxx
+xxxxxxxxxxxzxxKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK||||||||||||xxx
+xxxxxxxxxxx                                                                xx
+xxxxxxxxxxx                                                                xx
+xxxxxxxxxxx===  ++                               ++++                      xx
+xxxxxxxxxxx    ====  ++                         ======                     xx
+xxxxxxxxxxxt        ====  ++                                               xx
+xzzzzzzzzzz              ====                 ++                           xx
+xzzzzzzzzzz           ++                     ====                          xx
+x"xxxxxxxxx          ====                                +++++             xx
+x"xxxxxxxxx                 ++       ++++++++           ]]]]]]]            xx
+x"xxxxxxxxx                ====     ==========                             xx
+x"xxxxxxxxx            ++       +++                                        xx
+x"xxxxxxxxx           ====     =====                                       xx
+x"xxxxxxxxx                ++                                    ++++++    xx
+x"xxxxxxxxx               ====                                  ]]]]]]]]   xx
+x"xxxxxxxxx                                                                xx
+x"xxxzzzzzz                                                                xx
+x"xxxzzz+zz                                                                xx
+x"xxxzzxxxx                                                                xx
+x"xxxzzxxxx                                                                xx
+x"xxxzzxxxxmmm  mmm     mmmmm             mmmmm      mmmmmmmmm           D xx
+x"xxxzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxzzzzzzzzzzzzzzLzzzzzzzzzzzzzzzzzzzGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

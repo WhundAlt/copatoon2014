@@ -1,0 +1,46 @@
+Cavern of Arrows
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx       x            1x  xx    zzzzzz   x
+xx                        xx    zzzzzz  +x
+xx #           +          xxG   xxxxxx ++x
+xxxx           +          xxxxxxx      oox
+xxxxx          +          xx        ooxxox
+xxxxxx         +          xx       ooxoxox
+xV <zzz       +++         xx      oooxoxox
+xVxxxxxx      +++         xx     ooooxxxox
+x xxxxxxx"zxxxxxxxx       zz    ooooooooox
+xV <     "     > V =    ==zzzxxxxxxxxxxxxx
+x        "          =  =  xxxxxxxxxxxxxxxx
+x        "           ==      ++++    ++++x
+x  ^   < " >   ^            ====== xxxxxxx
+x        "         =======        =xx++++x
+x>    V  "  V    <               = zz++++x
+x/////   "   /////        xxxxxxxxxxxxxxxx
+x++++/ ^ " ^ /++++              V       <x
+x++++/>     </++++        V  <        <  x
+x==========xxxxxxx              >    > V x
+xxxxxxxxxxxxxxxxxx                       x
+xV        <xxxxxxx                    ^ ^x
+x//////x   xxxxxxx         xzxxxxxxxxxxxxx
+x//////x   xxxxxxx         x xxxxxxxxxxxxx
+x      x  ^      <         z zzzzzxxxxxxxx
+x+     xxxxxxxxxx          xxx+++++++++++x
+xx+    xbbbxbbbbx          xxx+++++++++++x
+xxx+   x+++zzx++x          xxx///////////x
+xxxx+  x+++z++++x          xxx///////////x
+xxxxx+  xxx"xxxxx          xxx           x
+xxxxxx+    "     ^       V    <     V   <x
+xxxxxxxzz[="=====]                       x
+x   xxxxxxx"xxxxxxV               <      x
+x  "xxxxxxx"xxxxxx>           ^          x
+x  "z  xxxz"zxxxxx                ^ <    x
+x  "z" x+zz"zzz+xx                       x
+x+++x" xxxx xxxxxx       >     ^         x
+x+++x"      zzzzzz                       x
+x+++x"                    ||||||||      ^x
+x======zxxxxxxxxxxx======xxxxxxxxxxxzxxxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzxzzzzzzzzzzzzDx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

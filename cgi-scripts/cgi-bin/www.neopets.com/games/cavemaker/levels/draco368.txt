@@ -1,0 +1,104 @@
+The Great Fall
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxx
+xx   |>    />     Vx
+xx   ^     V< < <//x
+xx # ^      < < <//x
+xxxxx            </x
+x/ </      <     </x
+x/>VV            </x
+x/>              </x
+x/>              </x
+x/>              </x
+x/>             1</x
+x/>   b          </x
+x/>              </x
+x/> V            </x
+x/>/      K  ^   </x
+x/>   ^          </x
+x/>              </x
+x/>            ^ </x
+x/>      ^       </x
+x/> V       ^    </x
+x/>              </x
+x/>     K        </x
+x/>              </x
+x/>   ^          </x
+x/> /     ^   ^  </x
+x/> V            </x
+x/>/   ^         </x
+x/>  ^      K    </x
+x/>             1</x
+x/>    K         </x
+x/> V     ^   ^  </x
+x/>              </x
+x/>     ^        </x
+x/>              </x
+x/>   ^    ^ K   </x
+x/> /            </x
+x/>/V            </x
+x/>           ^  </x
+x/>    ^         </x
+x/>        K     </x
+x/>   ^          </x
+x/>              </x
+x/> /    ^   ^   </x
+x/> V           3</x
+x/>    ^         </x
+x/>              </x
+x/>  ^    ^ ^    </x
+x/>              </x
+x/>              </x
+x/>  ^       ^   </x
+x/> /    b       </x
+x/> V           1</x
+x/>              </x
+x/>    ^   ^     </x
+x/>  ^           </x
+x/>      K       </x
+x/>              </x
+x/>              </x
+x/>    /   ^     </x
+x/>              </x
+x/>              </x
+x/>            ^ </x
+x/>     ^        </x
+x/>   ^     b    </x
+x/> /            </x
+x/> V           4</x
+x/>       ^   ^  </x
+x/>              </x
+x/>              </x
+x/>  ^    ^ /    </x
+x/>              </x
+x/>              </x
+x/>  ^       ^   </x
+x/>      b       </x
+x/>              </x
+x/>             3</x
+x/> /  ^   ^     </x
+x/> V^           </x
+x/>      K    ^  </x
+x/>              </x
+x/>    ^         </x
+x/>  ^     b     </x
+x/>              </x
+x/>              </x
+x/>      ^   ^   </x
+x/>  ^           </x
+x/> /           4</x
+x/> V      ^     </x
+x/>              </x
+x/>         ^   ^</x
+x/>  b  ^        </x
+x/>              </x
+x/> V         ^  </x
+x/>              </x
+x/>              </x
+x/>     b        </x
+x                  x
+x+++ ^^^^^^^^^^^   x
+x+++//////////// D x
+xxxxxxxxxxxxxxxxxxxx

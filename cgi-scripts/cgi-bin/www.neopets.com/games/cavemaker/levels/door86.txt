@@ -1,0 +1,86 @@
+Treasure dive
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                       x
+xx                                       x
+xx                                       x
+xx                                       x
+xx+                                      x
+xxx                                      x
+xx                                       x
+xx+                                      x
+xxxx                                     x
+xxx                                      x
+xxx +                                    x
+xxxxx    1                               x
+xxxxx                1                   x
+xxxxxx+       1                          x
+xxxxxxx                           1      x
+xxxxxx    KK                             x
+xxxxx      K                         # D x
+xxxx~    +KKKK                      xxxxxx
+xxx      KK..KK                         xx
+xxx       K  K                          xx
+xx                                      xx
+xx                                      xx
+xx                   KK                +xx
+xx                    K                xxx
+xx+    +             KKKK+             xxx
+xxx  +xxx           KK..KK         +   xxx
+xxxxxxx              K  K          x +xxxx
+xxxxx                             xxxxxxxx
+xxx                                xxxxxxx
+xx+                                 xxxxxx
+xxx                                   xxxx
+xxxx                                   xxx
+xxx              x +                    xx
+xx             +xxxx                    xx
+xx           xxxxxxxx                   xx
+xx            xxxxx                     xx
+xx              x           KKK         xx
+xx                          K           xx
+xx                       KKKK           xx
+xx                    +KK..KKKK         xx
+xx                    KK  +KKKKK        xx
+xx                    KK  KK...K        xx
+xx                    K.  .. ++K        xx
+xx                     KK    KK         xx
+xx                                      xx
+xx                                      xx
+xx            +                        xxx
+xx            KK         x             xxx
+xx            K       +xxx+         + xxxx
+xx          KKKK      xxxxxx        xxxxxx
+xx         KK..KK     xxx+             xxx
+xx          K  K        xx              xx
+xx                                      xx
+xx                                      xx
+xx                        xxxxx         xx
+xx                       x    xx        xx
+xx                       x   +xx        xx
+xx                      xx  xxx         xx
+xx                     xxx              xx
+xxx+                 xxxxx +            xx
+xxxx                xxxxxxxxx           xx
+xxxxx  +             xxxxxx           +xxx
+xxxxxxxxx              xxx            xxxx
+xxxxxx                                 xxx
+xxx                                  +xxxx
+xx                                   xxxxx
+xx                                  xxxxxx
+xx      +xx +                         xxxx
+xx      xxxxx                          xxx
+xx         xxx                          xx
+xx         x                            xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                     xxx
+xxx        + x           +             xxx
+xxxx       xxxx       xxxx           +xxxx
+xxxxx+   xxxxxxxxx+  xxxxxxx   +    xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

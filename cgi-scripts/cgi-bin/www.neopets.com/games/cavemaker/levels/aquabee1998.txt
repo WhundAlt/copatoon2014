@@ -1,0 +1,46 @@
+Aquaria
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xtxxxx     zzzzzz++x                |    x
+x x     +++zzzzzz++x        +  |    |    x
+x x     [[]]]]]]]]]=        == |    |    x
+x x #                       =="|    |    x
+x x                           "|+>    <xxx
+x xxxxxx"xxxxx               +"|    |  xxx
+x xx...x"x...z  +++  o o     ]]]]   |  xxx
+x       " ...xxxxxxxxxxxxmmmm"      |  xxx
+x       " x...xxxxxxxxx xxxxx=====/ |  xxx
+x   x   " x...xxxxxxxxx"xxx   "     |  xxx
+xxxxx   " xxxxxxxxxxxxx"x==xxx====  |  xxx
+x1      "     xxxxxxxxx"x  x Gx "   |  xxx
+x >    <     |xxxxxxxxx"x++x  x "x x|xxxxx
+x            |xxxxxxxxx x++x  x "...|zz  x
+x            |zzzzzzzzzLzzzz  zz"...|zzD x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,1 @@
+server=boards.sega.com&base=/minigame&scoresurl=/minigame_scores.php&viewingtype=FLASH&filename=sonicmazecraze_scores.sco&loading=done

@@ -1,0 +1,74 @@
+Steel_Insanity
+terrain 3
+background 1
+water clear
+kkkokkk  k|             <kkkkkkk   kkkkkkkkkkkkkkkkk|kkkkkkkkkkkkkkkook
+kk @     kk   kkkkkkkkklk|kkkkkk   kkkkkkkkkkkkkkkkkk++wkkkkkkkkkkkkook
+kk @   kkkk=  kkkkkkkkkkk|kkkk  kkkkkkkkkkkkkkk  kkk+++ kkk  @kk@  kwwk
+kk okkkkkkk   kkkkkkkkkkk|k     kkkkkkkkkkkkkkkkkkkk++==kk   @kk@   v|k
+kk  kkkkkkk  kkkkkkkkkkkkk| kkkkkkkkk>|><kw    kk   kk  |kkkk@kk@kkkm|k
+kk  kkkkkk   kkkkkkkkkkkkk| kkk @@@kkk>>|m <   kk   kk  |kkkk@@@@kkkw|k
+k|o kkkkkk   kkkkkkkkkkkk|k kkk @@@kkkkkkkkkkkkkkkkkkk  kkkkk@@@@kkkm|k
+k|       k k kkkkkk|||kkk|k kkk kkkkkkkkkkkkkkkkkkkkkk=kkkkkkkkkkkkkw|k
+k|  kkk  k k kkkkv|k  |||kk kkk    kkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkm|k
+k| o<kkv k kkkkkkw    k  kk kkk    kkkkk  kkkk kkkkkkk kkkkkkkkkkkkkw|k
+k|  |k|| k=kkk||km  k       >m|kkk kkkkk #kk   kk  wkk kkkkkkkkkkkkk|kk
+kk  k|kk k  ||  || kkkkk||kkkk|kkk=kkkkk       kk   kk=kkkkkkk@+@kkkkkk
+k o  kkk=k         kkkkk^k||||kkk  kkkkkkkkk  /kk   kk kkk@@@@@@@@@k  k
+k k+ kkk kk   k    kkkkkkkkkkkkkk  kkkkkkkkkkkkkkkk @@ kkk@@@@@@@@@   k
+k ku  kk kkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkk @@ kkk@@kkkkkkkk==k
+k ko  kk=kkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkk|kk@kkkkkkkkkmmk
+k kk  kk kkkkkkkkkkkkkkkkkkkkkkkk kkkk|kkkk|kkkkkkkkkk|mkk@@@@@@@ kkwwk
+k kk kkk k @@@@@@@@@@kkkkkkkkkkkk=kk||k|kk|k|kkkkkkkkk|wkk@@@@@@@ kk  k
+k kk kkk=k @@@@@@@@@@kkkkkkkkkkkk  |kkk|k|kk|kkkk|kkkk|mkkkkkkkkk kk  k
+k kk kkk k=kkkkkkkkk kk|kkkkkkkkk    kkk|kkkk|kk|k|k||kwk  kkkkkk kkkkk
+k k===kk k kkkk>kkkk kk|kkkkkkkkk    kkk    |kkk|kk|        kk> m |kk|k
+k k k kk=k kkkk>|kk  kk|kkkkkkkkkk   @kk    k|||kkk    ^ k kkk kk>   |k
+k k k kk k=kkkk>kkk  kk|kkkkkkkkkkk  @kk@kk   k   k kkkkkk +kk^<w     <
+k k   kk k kkkk>kkk |kkk<kkkkkkkkkkkk@@@@kk         kkkkkk +kkkkkkk=kkk
+k        k kkkk>|k   |||<kkkkkkkkkkkk@@@@kkkkkkk    kkkkkk +kkkkkkk kkk
+kkk   kkkk kkkk>k      k<kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkk kkk
+kkk   kkkk=kkkk>k      k<kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk       kk kkk
+kkk   kkkk kkkk>| <    |<kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk   ^^^^   kkk
+kkk =kkkkk kkkk>k      k<kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkmkkk
+kkkk kkkkk kkkkkkk|||||kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkk kkkkk=kkkkkk^^k^^^kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkk kkkkk kkkkkkkkk kkkkkkkkkkkkkkkkkkkkkkkkkkk     kkk   kkkkkk  kkkk
+kkkk kk    kkkkkkkkk kkkkkkkkkkkkk  kkkkk  kkkkk           kkk     kkkk
+kkkk       kkkkkkkkk  kkkkk>    kk   kkkk     kk kkkkkkk   kkkokkk=kkkk
+kkkkmkkkkkkkkkkkkkkk  kkkkk kkkk k/       kk  kk kkkkkkkkkkkkkbkkk kkkk
+kkkkkkkkkkkkkkkkkkkkk              kk     kkk    kkkkkkkkkkkkk+kkk kkkk
+kkkkkkkkkkkkkkkkkkkkk      ^       kkk||kkkkkkkkkkkkkkkkkkk    kkk=kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk|kk|kk||kkkkkkkkkkkk  kkkkkk kkk kkkk
+kkkkkkkkkkkk|kcccccccccccccccccccck||<kkkk||kkkkkk||||||||kkkk kkk kkkk
+kkkkkkkkkkkk|kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk||||||||||kkkkk  k  kk kkkk
+kkkkkkkkkkkk|kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kk  kk=kkkk
+kkkgkccccccccccccccccccccccccc             kkkkkkkkkkkk     kko kk kkkk
+kkkkkcccccccccc<ckkkkkkkkkkkkk=kk                           kkk kk kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kk                  k kkkkkkkkk|  < kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkk kk  k         kk kkkkkkkkk  kk=kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk=kkkk kk  kk  kk  kkkk kkkkkkkkk  kk kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkk| kkkk kk  kk  kk  kkkk kkkkk   kk=kk kkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkk| kkkk kk  kk  kk  kkkk kkkkk  k    k kkkk
+kkkkb<<<<<<<<<<<<<<<<<<<<<kkk|=kk|k kk  k<  kk  kkkk kkkkk       k=kkkk
+kkkk                     ^ kk| kkk< kk  <k  <k  k<kk kkkkk kkkkkkk kkkk
+kkkkkkkkkkkkkkkkkkkkkkkk ^ kk| kkkk <<  kk  k<  <kkk kkkkk kkkkkkk    k
+kkkkb<<<<<<<<<<<<<<<<<<<<^ kk|=kkkkmkkmmkkmmkkmmkkkk kkkkk kwkkkkk    k
+kkkk                     | kk|  <kkwkkwwkkwwkkwwkk < kkkkk kkkkkkkkkk=k
+kkkk               m       kk| kk@@ @@  @@  @@  @@kk kkkkk kmkkkkkkkk k
+kkkk       mm      k       kk| kk@@ @@  @@  @@  @@kk kkkkk kkkkkkkkkk k
+kk+k       ww      k     ^ kk|=kk@@ @@  @@  @@  @@kk kkkkk kwkkkkkkkk k
+kk k        k              kk|   @@ @@  @@  @@  @@kk kkkkk kkkkkkkkkk=k
+kk      m  mk mm    mm     kk|   @@ @@  @@  @@  @@   kkkkk kmkkkkkkkk k
+kk km   k  kk kk   kkk     kk|   @@ @@  @@  @@  @@   kkkkk kkkkkkkkkk k
+kk kkmmmk     kk  mkkk      kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kwkkkkkkkk k
+kk kkkkkkmmkkmkk  kkkkmmmkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk  kkkkkkkkkk=k
+kk kkkkkkkkkkkkkmmkkkkkkkkkkkkk@@@@@@kkkkkkkkkkk | kkkkkk  kmkkkkkkkk k
+kk kkkkkkkkkkkkkkkkkkkkkkkkkkkk@@@@@@kkkkkkkkkkk   kkkkkk  kkkkkkkkkk k
+kk @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@              kkkkkk  kwkkkkkkkk k
+kk @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@mm@@ >          ^ kkkkk    mkkkkkkkk=k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk D kkkkk kkkkkkkkkkkk k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkk k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk              k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkmkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk

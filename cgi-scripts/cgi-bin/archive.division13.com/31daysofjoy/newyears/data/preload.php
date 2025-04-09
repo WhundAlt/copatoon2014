@@ -1,0 +1,23 @@
+{
+    "images": [
+        "\/BG.jpg",
+        "\/PartyHat.gif",
+        "\/button-get.png",
+        "\/button-getanother.png",
+        "\/instructions.png",
+        "\/question1.png",
+        "\/question10.png",
+        "\/question11.png",
+        "\/question12.png",
+        "\/question2.png",
+        "\/question3.png",
+        "\/question4.png",
+        "\/question5.png",
+        "\/question6.png",
+        "\/question7.png",
+        "\/question8.png",
+        "\/question9.png",
+        "\/share.jpg",
+        "\/title.png"
+    ]
+}

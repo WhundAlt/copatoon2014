@@ -1,0 +1,58 @@
+Redbeards Treasury
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxoooooooooooxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx>>>>>>>>>>bxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx            xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx            x         xx
+xxxxxxxxxxxxxxxxxxxx                      xx
+xxxxxxxxxxxxxxx  xxx              xxxxxxx xx
+xxxxxxxxxxxxwww    >^           xxxxxxxxx xx
+xxxxxxwwwwww    xxxxx           xxxxxxxxx xx
+xxxxxw          xKxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxww           xKxxxxxxxxxxxxxxxxxxxxxxx xx
+xxx            xxK xxxxxxxxxxxxxxxxxxxxxx xx
+xxx            xxKK         xxxxxxxxxxxxx xx
+xxx           xxxKK         xxxxxxxxxxxxx xx
+xxx         xxxxxKKK         xxxxxxxxxxxx xx
+xxx        xxxxxxKKK          xxxxxxxxxxx xx
+xxx    ===    xx >>b          xxx   |xxxx xx
+            "              xxxx     |xxxx xx
+            "xxxx          "        |xxxx xx
+     ===    "x             "        |xxxx xx
+            "x            x"        |   x xx
+            "x            x"   /    | ++x xx
+ ====       "x            x"xxxx    | ++x xx
+             x            x"        xxxxx xx
+x            xx         . x"        xzzzx xx
+x            xx          xxxxxxx  xxx   x xx
+xx           xx  ^    mmmxxxxxxx       #x xx
+xx mmmmmmo mmxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxVxx
+xxxxxxxxxxxxxxx    "      xxxxxxxxxxxxxxxVox
+xxxxxxxxxxxxxxx    "      xxxxxxxxxxxxxxx>bx
+xxxxxxxxxxxxxxx xxx"      xxxxxxxxxxxxxxx  x
+x               xxx"   3  xxxxxxxxxxxxxxx  x
+x               xxx"      xxxxxxxxxxxxxxx  x
+x               xxx"      xxxxxxxxxxxxxx   x
+x               xxx" 3    xxxxxxxxxxxxx   ox
+x               xxx"      xxxxxxxxxxxx   oox
+x               xxx"      xxxxxxxxxxx   ooox
+x              +xxx"     3xxxxxxxxxx   oooox
+x        +    ++xxx"      xxxxxxxxx   ooooox
+x       +++ ++++xxx"                 oooooox
+x D   ++++++++++xxx"                ooooooox
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,36 @@
+Christmas Time
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                      x
+x              +                                                       x
+x              +                                       KKKKKKKKKKKKKKKKx
+x            +++++                                     KwwwwwwwwwwKwwwwx
+x             +++                                      K          K    x
+x            + x +                                     K          K    x
+x              x                                       K      1   K    x
+x             xxx                                      K          K    x
+x          #xx+xx+x                       "            KKKKKKKKKKKKKKKKx
+x          xxxzzzzxx                     """           KwwwwwwwwwwKwwwwx
+x            xzxxx                      zz"z           K xxx      K    x
+x           x+zz+xx                     zz"z           K xxx      K    x
+x         xxxxxxzxxx                    """"           K  "       K    x
+x       xxxxxGxxzz+xxxx                 zz"z           K  "  2    K xxxx
+x         xxxzxxxxzxx                   zz"z           KxxxxxxxxxxKxxxxx
+x        xxxxzzxxxzxxx      KK""KKKKKKKKKKKKKKKKK""KK  KKKKKKKKKKKKKKKKx
+x       xxxxxzzz+zzz+xx     KK"""""""""""""""""""""KK                  x
+x     xxxx+zzz+xxxxxxxxxx   KK""KKKKKKKKKKKKKKKKK""KK                  x
+x        xzxxxxxxxLxxx       K""K               K""K                   x
+x       xxzxxxxxxxzxxxx      K""K               K""K                   x
+x      xx+zzzz+zzzz+xxxx     K""K               K""K                   x
+x    xxxxxxxxxxxzzzzzz+xxx   K""K     /         K""K                   x
+x   xxxxxxxxxzzzzxxxxxxxxxx  K""K    /    /     K""K                   x
+x             ===            K""K    //    //   K""K        ""         x
+x     +       ===      +     K""K /  //  / //   K""K       """"        x
+x    +++      ===     +++    K""K  //+/ /  +/ / K""K      ++""++       x
+x   bb+bb   """""""  zz+zz   K""K  /++//+/ /+/  K""K      ++""++       x
+x   bb+bb    """""   zz+zz   K""K  /+++++///+/  K""K      """"""       x
+x   +++++    """""   zz+zz   K""K  bbbbb+++++/b K""K      ++""++       x
+x D bb+bb    """""   zz+zz        bbbbbbbbbbbbb K""       ++""++       x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

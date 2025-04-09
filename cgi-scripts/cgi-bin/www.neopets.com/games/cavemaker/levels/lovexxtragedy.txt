@@ -1,0 +1,56 @@
+Lean_Mean_and_Green
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxxxxxxxxxxxxx
+xz                 wwx
+xz                   x
+xz  x  ======        x
+xz  xx               x
+xz  xxx   =========  x
+xz  xxx            3 x
+xz  xxxx             x
+xz  xxxx     ========x
+xz++xxxxx            x
+xz++xxxxx 1          x
+xzxxxxxxx       xx  =x
+xz++  xxx      xx    x
+xzbb       xxxxxw    x
+xz      xxxx+++w  =  x
+xz  zxxxxwwooooo     x
+xzxxz      ooooo     x
+xz        ooooooo   =x
+xz        ooooooo    x
+xz        ooooooo == x
+xz  o     ooooooo   "x
+xzxxxx  xxooooooo   "x
+xzx      x<<<<<<<   "x
+xzx      x          "x
+xzx======x          "x
+xzx      x        4 "x
+xzx      x          "x
+xzx===   x          "x
+xzx>V    x      ^   "x
+xzx^     x          "x
+xzx  ====x     ++ x  x
+xzx      xL    ++xx==x
+xzxK|||K xxxxxxxxxx  x
+xzxK|+|K x           x
+xzxK|+|KxxK +++ K  ==x
+xzxK|+|KxxKoooooK    x
+xzxxxxxxxxKoooooK==  x
+xzxwxxwwwxKoooooK   mx
+xzx ww   wKoooooK   xx
+xzx       KKK|KKK===xx
+xzx                 xx
+xzx                +xx
+xzx+              +xxx
+xzxx++          " xxxx
+xzKKKKKKK       " xxxx
+xz      >    ^  " xxxx
+xz      K       " xxxx
+xz#D /  K        2xxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx

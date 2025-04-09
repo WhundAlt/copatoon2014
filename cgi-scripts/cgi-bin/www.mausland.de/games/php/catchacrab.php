@@ -1,0 +1,1 @@
+&name1=zz&score1=40720&name2=DLLRu&score2=33747&name3=cyw&score3=32020&name4=Davidovic&score4=30426&name5=StMoD&score5=30242&name6=StMoD&score6=29985&name7=Jopa&score7=29746&name8=StMoD&score8=29741&name9=StMoD&score9=29643&name10=Davidovic&score10=29585

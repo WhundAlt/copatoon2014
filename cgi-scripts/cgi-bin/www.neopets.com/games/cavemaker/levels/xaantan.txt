@@ -1,0 +1,40 @@
+10
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxo ww  o""""""" >vxxxxxxxww  wx<x+xxxx         wwxxx   wwxx   wwwwxxxxxxxxxxxwwwwxxx xx
+xxo |m<<k<wwmww <^<xwxxxww     w<x xxxx =x=   ko  x k    <xw       wxxxxxwwxx     wwx#xx
+xxkvww " mmmw== |<xx wxx        kxbxxxx =x   vkk  x xk    x   g     xxwww  wx       w xx
+xx^vmm wmwww ==  ^xw >ww         w=xxxx  x >  k < x xk    x /xxx    wx      x     /   xx
+xx^vww  v       <^xv< m   k|  k   bxxxx  x / k ^    x|   xx=xx       x    m  xx xxxxxxxx
+xx^vmm       mmv||xv^ |  kmmmmw    x  w   xx3xxxxxkkx > =x  xw      /x m  x>       k<xxx
+xx^vww =m====wwww^xv^ |  m||>>|m bkxvxxx   xkx>>vxwwx    x  xmbm+m   x x  x>     + |<xxx
+xx^vmm mwm==     ^xv^^w| |ww  w|mmwxvm<x = w  ^vvx| x   mx  xw wbx   x xmkxkxxxxxxxvxxxx
+xx^vww wmw m     ^xv^  | w     w|||xwwww " m^| ^vx  xv  <|| xm m x  |x xxkxmxxxxxxx xxxx
+xx^vmm m>m | m m  xv^  |        ^<wx|      w  <^vx  xw| ww| xw w x  <x xx xxxxxxvxx xxxx
+xx^vww wmw===w |  xww  w|||m     mmx   >   m     w^|xm|   |  m m x  kx wx xxxxx>^xx xxxx
+xx vmm  w ===m===^x     w^w|   m wwxmm     w> ^  x |x>|  m|= x w x= <x  x^     mw  <xxxx
+xx^|ww     + wmmm x  o m  m| mm|mm>w>w>m o m|^<^mw |xw|| |k    m w  wx  xwxxxxxwvxxx|xxx
+xxx mm======= www x ||||| |w|w|w|wwxxxm=xxxxxxx|x  |x w|mw|    w x  /k       |>^>>>>k<xx
+xx  wwmmmmmmmmmmm ku||||w |m m| w  x+wx=wwwwwwwww m|xm|w| w|||| bwm  k  >    |<>    k<xx
+xx xmmwwwwwwwwwwxxx|||||mmw|||w   /k>|m <         k<x^mm|mmwwwwm xxxxxxxxxxxxxxxxxxxxxxx
+xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx ww  wwwwwwwwwwwxwwwxxxwvwwvxxww+xwwwwwwww >|||||xx"              kxxxxxxxwwwxxwwxxxxx
+xx            mmxxxm> www >| |>wkkkx         >|vvvvxx"              kxxwwwww   xx  xwxxx
+xxxxx^mxxxxm  xxxxxx   >  v        x o       >||||||x"||||||||||||  kxx        xx  x xxx
+xxxxxxxxxxxx  wxxxxx   >      v v  x b b   vx>|     x"|          >  |xw        xx  w xxx
+xxwwwwwwwwww   wwxxx   >       |   x        x>|     x"|^  mm  m  m  |x         wx    xxx
+xx               xxw^           <  x v     <xxx/    x"|^  |||||||||||x          w    wxx
+xx   o>     <o   mx mm ^ <v  <   v<x       mxxxxx=="x"|^  wwwwwwwwwwvx                xx
+xx  [xxxxxx xxxmmxx "x      >  |   x >     |xxvvv  "x"|^            vx                xx
+xx   xxxxxx=xxxxxxxm"x > v    v v  x mmmmm<k+m|||< "x"|^||||||||||  <x         k     mxx
+xx   wwwwww wwwwxxxx"w   > ^^^ >  ^xxxxxxxxxxx     "x"|^^wwwwwwwwwv  xm        k   < xxx
+xx+mmmmmmmm     wxxx"m             xwwwww/xww>>>>^ "x"|^             xx              xxx
+xxxxxxxxxxx      xxx"x             x>   <kx        "x"|^|||||||||||kkxxm             wxx
+xxxxxxxxxxw     mxxx"x5^ ^ ^ ^ ^ ^ x >   kx      x="x   |>^^^^^^^  wwxxxm             xx
+xxw  w w w   mmmxxxw"w             x     [x      x " > v             xxxx             xx
+xx           xxxxxx "              k      k      x "   ^      +         >          ^ mxx
+xx>>m   m mm      k "            mmk o  m^k  ^   xm"xmmmmmmmmm=======xxxxxm    D   +mxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><highscores><user name="DarkMoe" score="7150"/></highscores>

@@ -1,0 +1,46 @@
+GWF
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                   #                    x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                       xx
+x                                       xx
+xxx~                                    xx
+xxxxxx                                  xx
+xxxxxxxxx                             xxxx
+xxxxxxxxxx                            xxxx
+xxxxxxxxxxx                          xxxxx
+xxxxxxxxxxxxx                      xxxxxxx
+xxxxxxxxxxxxxx                  xxxxxxxxxx
+xxxxxxxxxxxxxxx     D     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

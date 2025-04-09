@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Double or Nothing!</title>
+</head>
+<body>
+    <center>
+        <table>
+		<tr>
+			<td class="content">
+				<!-- r0 -->
+				<b>Double or Nothing</b>
+				<p></p>
+				<center>
+					<img border="0" height="200" src="http://images.neopets.com/medieval/coin_skeith.gif" width="300">
+					<p><b>
+                        <?php
+                            $gamble = $_GET["points"] * 2;
+                            $phrase = rand(1,6);
+                            if($phrase == 1)
+                            {
+                                echo "It's this toss for " . $gamble . " NP.";
+                            }
+                            elseif($phrase == 2)
+                            {
+                                echo $gamble . " NP hinges on this toss of the coin.";
+                            }
+                            elseif($phrase == 3)
+                            {
+                                echo "If you win this, you will have " . $gamble . " NP!";
+                            }
+                            elseif($phrase == 4)
+                            {
+                                echo $gamble . " NP or nothing - only the coin can decide.";
+                            }
+                            elseif($phrase == 5)
+                            {
+                                echo "I'm not paying you " . $gamble . " NP, so you had better lose!";
+                            }
+                            else
+                            {
+                                echo "Go on - get tails... you know you want to lose " . $gamble . " NP.";
+                            }
+                        ?>
+                        </b></p>
+					<p></p>
+				</center>
+				<p><b>Toss the Coin :</b></p>
+				<p></p>
+				<table align="center" border="0" cellpadding="3" cellspacing="0">
+					<tbody>
+						<tr>
+							<td align="center" height="100" width="100">
+								<a href="process_doubleornothing.phtml?points=<?php echo $_GET["points"] ?>"><img border="0" height="80" src="http://images.neopets.com/medieval/coin_heads.gif" width="80"></a><br>
+								<b>Click Me</b>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p></p>
+				<p><br clear="all"></p>
+			</td>
+		</tr>
+	</table>
+    </center>
+</body>
+</html>

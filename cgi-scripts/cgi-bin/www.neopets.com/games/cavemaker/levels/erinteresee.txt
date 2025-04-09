@@ -1,0 +1,44 @@
+Having_Fun
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx+++++++++++++xxxx             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooooxxxx             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooooxxxx          o  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooooxxxx   b xxxxxx  x
+xwwwwwwwwwwwwwwwwxx>V        |||||||||||||   xxx        x= x
+x "   +  "       xx  >  >    |||||||||||||   xx         x  x
+x +   "  "           o                       xx  omo    x  x
+x "   "  +          <o<                      xx  xxKKKx"x= x
+x "   /  "       xxxxxxxx                    xx   K|||x"x mx
+x /             xx x                         xx=  K|+Kx"x xx
+x           xxxxx  x                         xx   +|KKx"z  x
+x        xxxx      x                         xx   +||Kx"z  x
+x     xxxx         x                         xx=  KK|Kx"x +x
+x==xxxx      +++   x                          x   KK|Kx"x =x
+x        =======   x            b          b  x   /||Kx"x  x
+x++            +   x                          x=  KK|Kx"x  x
+x++o       x  ===  x        b         b       x   KK|Kx"x= x
+xxxo       x     1 x                          x   KK|Kx"x  x
+xxx^xxxxxxxx[===== x                          x  KKK|Kx"x  x
+xxx^      <z       x mmmmmmmmmmmmmmmmmmmmmmm  x  KK||Kx"x= x
+xxx        z     ) xxxxxxxxxxxxxxxxxxxxxxxxx  x  KK||Kx"x  x
+x  xxxxxx ^xxxxxxzxxxxx++     +oooooooo+oooo  x  xxxxKx"x  x
+x          xxx       xx++     oooooooooooooo  x     xKx"x= x
+x =xxxxxxxxxxx   =   xx++ o  /||||||||||||||  x     xKx"x  x
+x+  xwwwwwww x   +   xx=====                  x     xxx"x++x
+xo           x   =  xxx                    ^  x  D  xxx"x++x
+xoo          xmmmmmmmxx      xxxxxxxxxxxxxxxxxxxxxxxxx""xxxx
+xooo         xxxxxxxxxx =====xwwwwwwwwwwwwwwwwwwwwwww"""xwwx
+xxxx    K    wwwwwwwwwx                              ""xx  x
+xww  =  K             x         x                    "xx   x
+x      +K             x         x                    "x   +x
+x   mxxxK          +  x  o   xx x          +++       "   ++x
+x=xxxx==|===="  "  "  xxx=   xw x++  ==============  ======x
+x xxx+> |    "  "  "  x++   2x  x+++                =      x
+x xxx+> |    "  "  "  xxxxxxxx+ xxxxx                      x
+x=xxx+> |    "^^ ^^ ^^xxKmKxxxo               +            x
+x xxx+  |    "        xK|K|KxxxxxxxxxxK      +++          <x
+x#xxx+  | /  "mmmmmmmmxxKwKxxx++bbbbbbK     +++++      > +<x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

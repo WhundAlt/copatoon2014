@@ -1,0 +1,39 @@
+Expolsivesprint
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x           Vx                 x
+x            x                 x
+x            x                 x
+x#          ^x               o x
+xxV V V |||||x          |||xxx x
+xx^ ^ ^mxxxx x          |+|    x
+xxmmmmmxxx/x x> |||||||||||    x
+xxxxxxx  >bx x                 x
+x            x =               x
+x            x                 x
+x            x^                x
+x        ^   x||       |||   <|x
+x         xxxx |  +    |     ||x
+x mmmmmmmmxxxx |||||||||    || x
+x xxxxxxxxxxxx             ||  x
+x >      /   x            ||   x
+x    V|  <   x          |||    x
+x     V> ^   x>   |||||||      x
+x  V       < x                 x
+x            x||               x
+x            x^||              x
+x   VVV      x  ||             x
+x    |       x   |         V+++x
+x   V V      x   |||||||||||+++x
+x            xxxxxxxxxxxxxxxx==x
+x            x                 x
+x ^    ^     K                3x
+x       <    K               ==x
+x   <^  <| ^ K         3       x
+x >  >  ||||<K3      D         x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,34 @@
+Treasure_Bones
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x""+    |||     #xooooooooooox
+x""+    ||>      xooooooooooox
+x""+    ||| <   <xooooooooooox
+x""KK/K^xxxxxxxxxxooooooooooox
+x""wwwwwwwwwwwwww|ooooooooooox
+x""            > |ooooooooooox
+x""              ||||||||||||x
+x""            ^            <x
+xxxxxxxx                     x
+xL     z       4  >         ^x
+xG     z          K          x
+xxxxxxxxxxxxxxxxxxxxxxxxxx   x
+x++                    ++    x
+x++                    ++    x
+x""xxxxx          b xxxxxxxxxx
+x""  ++xKKKK        x++x     x
+x""  ++x         b  x++x     x
+x""  ""x    K  b    xKKx     x
+x""  ""x     KK     xKKx     x
+x""  ""xmmmmmmmmmmmmxKKx     x
+x    ""xxxxxxxxxxxxxx||x     x
+x    ""  ++                  x
+x    ""  ++                  x
+x    ""  ""                  x
+x        ""                  x
+x        ""                  x
+x      4K""               + +x
+xmmmmmmmK""    >  >  ^    +D+x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

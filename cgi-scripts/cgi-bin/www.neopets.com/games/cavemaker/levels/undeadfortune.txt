@@ -1,0 +1,57 @@
+Cave of Dymar
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxw     >|        w   w    xx  xxx    w xx  xxw    xx
+xx       |                     wx            x     xx
+xx       xxxxx                   1           x  #  xx
+xx       xxxxxx                              x     xx
+xx       xxwwxx mxxxx                      + x    xxx
+xx       x   xxxxxxxxxx         bb   b    bb xxx xxxx
+xxx  D  ^w   <xxxxwwxxx    xx   bK mxxxmxxxxxxxx xxxx
+xxxxxxxxxxxxx x      xxxmmxxxxx ==xxxxxxxxxwwxxw xxxx
+xxxxxxxxxx oo >       Vxxxxxxwwb K wxxxx      x   xxx
+xxxxxxxx   oo            xxx   bbb                Kxx
+xx+ooxx    oo      L      xx   [=]                xxx
+xxoooox    oo^     bb      x     K            xxxxxxx
+xxoooox    KK|^   [=]          KbK    xxm      wxxxxx
+xxV<<<w     <||                [=]   xxxxxm      bbxx
+xx          ||   b                   xxxxxxx    bb+xx
+xx              [=]   |                xxxxxxxxxxxxxx
+xx           m        |       xxxx       xxwxxx xxxxx
+xx      mmxx xxx     ||    [=] xxxxxxx   xx  xx wxxxx
+xx      xxxK KxxxK|  <K          xxxxxx  xx   x  xxxx
+xx       xxx xx  ||   K          xxGww   xw   w  w+xx
+xx        ww     |K   K  "bb     xxbb        5   bbxx
+xx               Kxxmmxx "xx      xxxxxxxxxxxxx=xxbxx
+xx       +      xxxxxxxxx"xx      www xxxxxxxxx xxbxx
+xx       b      xx  xxx  "xxx             xx  x bbbxx
+xx  "  xxbx   "xxw   w   " xx                 x=xxxxx
+xx  "xxxxxxx  "            xxx                    wxx
+xx  " xxwxxx  "            xx        xxxxx     bb  xx
+xx  "         "     [K]   xxx          xxxxb  [=]  xx
+xx|              x   b   mxxx   4        xxx       xx
+xx|             xx   b   xxxx             xxm     xxx
+xx|xxxxxmm "    xK   b mxxxwxbbbmx  o     xxxmbbmmxxx
+xx|xwxxxxxx"   Kxx  mxxxxxx+bbbxxxxxom     xxxKKxxxxx
+xx|w   xxxx"  xxxxmmxxxxxxxxxxxxxxxxxxx    xxbbb  xxx
+xx        x"  xxxxxxxxw  wxxwxxxw  xxxw    xxbbb   xx
+xx         "      xxw     xx               xxxxx   xx
+xx             K  xx    +xxx           bK  xxx    +xx
+xx  bbo       bK  xx    xxxx           bK mx     Kbxx
+xx" xxxx   x  bK  wx     wwx        m  bxxxx    xxxxx
+xx"xxxxxxmxx  KK+    2        "" x xxxxxxxxxx  " xxxx
+xx"xxxxxxxxx^^xxxxxxxKKxxxxxxx""xxxxxxx    wxxx"  xxx
+xx"xxwwxxxw |+   wxxxbbKxwxwxw""wxxx  w        "  wxx
+xx"         |K    wxxxxxx     ""  wx           "   xx
+xx"         ||                             3   "   xx
+xx          >|                                 "   xx
+xx +        >|   bb     xx    []               "   xx
+xxbb     K  ||  [K=]    xxm       xx  bK   K      bxx
+xxxx    KK  |<   b      xxxx      xx  KK   K      Kxx
+xxxx    Kb+ |<   b     xxxxxx     xxx Kb   bK bb+ Kxx
+xxxxxmmbbbKbKK  mbmmK mxxxxxxm mmxxxxKKbbmmbb bKK Kxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

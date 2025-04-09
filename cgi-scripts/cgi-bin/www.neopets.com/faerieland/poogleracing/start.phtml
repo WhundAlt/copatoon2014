@@ -1,0 +1,24 @@
+<?php
+$i = mt_rand(1, 103);
+$p = 1;
+if ($i <= 33)
+{
+    $p = 1;
+}
+elseif ($i <= 58)
+{
+    $p = 2;
+}
+elseif ($i <= 78)
+{
+    $p = 3;
+}
+elseif ($i <= 92)
+{
+    $p = 4;
+}
+else
+{
+    $p = 5;
+}
+echo "prediction=", $p, "&prediction=", $p; ?>

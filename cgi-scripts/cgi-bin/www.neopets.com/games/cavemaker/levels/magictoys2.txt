@@ -1,0 +1,46 @@
+toilet trouble
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx              x            |        x xx
+xx  x           b            |    > | x tx
+xx  xo#         b            |     x|o  xx
+xx  xxxxxxxx    b            |     x/o xxx
+xx   x    x     b        >   | >  ^ xo xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx
+xx/////////xx                 x      x xxx
+xx VVVVVVV xx                 x  xxxxx xxx
+xx         xx                 x x      xxx
+xx    |||||xx                 xx       xxx
+xx   |    |xx                 xx        xx
+xx   | oo |xx                  z  ++++x xx
+xx   | oo |xx[ xxxxxxxxxxxxxxxxxxxxxxxx xx
+xx   |>KK<|xx =xxxxxxxxxxxxxxxxxxxxxxx/ xx
+xx   | +++|xx= xxxxxxxxxxxxxxxxxxxxxxx /xx
+xx   | +++|xx =xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   | +++|xx= xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   | +++|xx =xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   | +++|xx= xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   | +++|xx =xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   |^|++|xx= xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx   ||||||xx =xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx         xx= xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx         xx =xxxxxxxxxxxxxxxxxxxxxxx  xx
+xx         xx=             xxxxxxxxxxx  xx
+xx            =          " xxxxxxxxxxx  xx
+xx^      < xxxxxxxxxxxxxx" xxxxxxxxxxx  xx
+xxKVKKKK]]]x////////////x" xxxxxxxxxxx  xx
+xx          ////////////x" xxxxxxxxxxx  xx
+xx          ////////////x"              xx
+xx          KKKKKKKKKKKKx"     +++++++++xx
+xx          K|K|K|K|K|K|xxxxxxxxxxxxxxxxxx
+xx >       >|K|K|K|K|K|Ko               xx
+xx                      o               xx
+xx          ||||||||||||o               xx
+xx          V <^ <||||||o               xx
+xx~         >  V| ||||||o               xx
+xx          > ^> ^||||||o             D xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

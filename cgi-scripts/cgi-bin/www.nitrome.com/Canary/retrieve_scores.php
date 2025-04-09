@@ -1,0 +1,1 @@
+result=1_141450_vanja|2_138900_vanjaa|3_135000_afidelino|4_133300_vanjaaaa|5_132950_asfidelino|6_130850_vanja|7_130550_nsb|8_130400_fidelinoas|9_130200_kirill|10_127800_vanjaaa|1|0

@@ -1,0 +1,46 @@
+CaveV2
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x#       x"                             tx
+x[       x"                          xxxxx
+x        x"                          x   x
+x       +x"                    [x    x   x
+x  =  ===x"                     x    x   x
+x        x"                  [  x  D x   x
+x        x"                     xxxxxx   x
+x+       x"                              x
+x=       x"  + + + + + + +     [         x
+x       +x" ] ] ] ] ] ] ] x       x     "x
+x      ++x"               x       x     "x
+x      ]]x"               x   +   x     "x
+x        x"               x  +++  x     "x
+x        x"               x +++++ x +   "x
+x        x"               x+++++++x "   "x
+x+       x"               xxxxxxxxx "   "x
+x==      x"                             "x
+x        x" "                           "x
+x        x"  "                          "x
+x        x"   "                         "x
+x        x     "                  +     "x
+x        x      "                 "     "x
+x        x       "                "     "x
+x        x        "            +        "x
+x        x         "           "        "x
+x        x          "          "        "x
+x        x           "                  "x
+x   4    x            """""""           "x
+x        x                  "           "x
+x        x                              "x
+x   +    x                              "x
+x   =    x        +              +      "x
+x       3x     +  "              "      "x
+x        x  +  "  "            + "      "x
+x        x  "  "               "      + "x
+x        x  "          + + +   "      "  x
+x        x            """"""""      + "  x
+x        x    5       """"""""      "    x
+x1       z =====                    "    x
+xm m m m z mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+Crate Jump
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwwwwwwwwww                      wwwwxx
+xx                                      xx
+xx#                                     xx
+xxbbbbbbb          +     +              xx
+xxmmmmmmx ++                   +        xx
+xxxxxxxxxxxxxx  b mbm b bbb b bbb b    bxx
+xx                      mmm   mmm      bxx
+xx                     "               bxx
+xx                     "   +     +     bxx
+xx                     "               bxx
+xx       "             "b bbb b mbm b   xx
+xx       "             "  mmm           xx
+xx   +   "    +        "                xx
+xx + b   "                              xx
+xx b     "b bmb b  KKKKK                xx
+xx+                                     xx
+xxb                                     xx
+xx  +    +                              xx
+xx  b    b +                            xx
+xx    +    b                            xx
+xx    b      +                          xx
+xx           b                        D xx
+xx           +                   bbbbbbbxx
+xx           b                      G   xx
+xx                            + [   bbbbxx
+xxb  b m bmmb bmbmbmb b +   + b         xx
+xx                      b + b   K       xx
+xx                        b    K        xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+The_Cavern_of_Hannah
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooooooox
+xxxxxxxxxxxxxxxxxxxwwwwwwwwwwwwwxxooooooox
+xxKKxxxxxxxxxxxxxxx  V     b  < xxooooooox
+xxKKKKxxxxxxxxxxxxx             xx|||||||x
+xxKKKKxxxxxxxxxxxxV       ^ xx|||||||x
+xxKKKK          xx   o  #  b    xx       x
+xxbbbb          xx  xxxxxxxxxx  xx       x
+xx////          xx  zzzzzzzzxxm+xx       x
+xx              xx  zzzzzzzzzGxxxx       x
+xx              xx  xxxxxxxxxxxxxx       x
+xx              xx|               ^     <x
+xx               xx|   +++++             x
+xx           + D xxxxxxxxxxxxxx>        ^x
+xx          +xxxxxxxxxxxxxxxxxx[========xx
+xx         +z xxxxxxxxxxxxzz            xx
+xx        +x  xxxxxxxxxxxxzz            xx
+xx     xxzx   xxxxxxxxxxxxzz            xx
+xx            xxxxxxxxxxxxzz            xx
+xx            xxxxxxxxxxxxzz            xx
+xx            xxxxxxxxxxxxzz   "x       xx
+xxx ^       ++xxxxxxxxxxxxzz   "x       xx
+xxxxxx "   ++xxxxxxxxxxxxxzz  +"x       xx
+x      "[===]xxxxxxxxxxxxxzz   "xmmmmmmmxx
+x      "     xxxxxxxxxxxxxzz   "xxxxxxxxxx
+x   "===     xx xxxxxxxxxxzz   "    [ [  x
+x   "        zzzzzzzzxxxxxzz   "     L   x
+x            zzzzzzzzxx   zz   "   [   [ x
+x2      o    zzzzzzzzxx   zz   "    [[[" x
+xxxxxxxxxx"]]xxxxxxxxxx   zz   )       " x
+xwwwwwwwww"  xxxxxxxxxx   zz           "xx
+x+++++++  "  xxxxxxxx     zz           "xx
+x///////  "  xxxxwxxx     zz            xx
+x            xxww wxx    xxx  [[[   [[[ xx
+x^           xxx  xx    zxxx   3        xx
+xzzzxxxxxx   xxxxxxx   xwxxxmmmmmmmmmmmmxx
+x===xxxxxx   xxxxx    xw+xxxxxxxxxxxxxxxxx
+xzzzxxxxxx           xw++wxxxxxxxxxxxxxxxx
+x===xxxxxx          x+++++xxxxxxxxxxxxxxxx
+xzzzzzzzzz         z++++++xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx+++++++xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

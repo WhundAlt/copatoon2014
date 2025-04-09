@@ -1,0 +1,86 @@
+Mountain_Wild
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Vxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx                                ^  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx     ||||||||||||||||||||||||||||" xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx   ""x                           " xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx   ""x                           "x                          xxxxxxxxxxxxxx
+xxxxxxx  +""x                           "x                          xxxxxxxxxxxxxx
+xxxxxxxxxxxxx                                 zzxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx""xxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"zxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"zxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx
+xx                                                                 "            xx
+xx                                                                 "            xx
+xx                                                                 "            xx
+xx       + +  +                                                    "            xx
+xx     "xxxxxxx                                                    "            xx
+xx     "xxxxxxx  +                                                 "            xx
+xx     "     xxxxx                                                 "       ++ ++xx
+xx     "     xxxxx       +                      /   K 3KK  3bKK    "   >   |||||xx
+xx     "                +++   ||||||||||||||||| [=================]"===]        xx
+xx     "              xxxxxxx VVVVVVVVVVVVVVVVV   ooooooooooooooo  "            xx
+xx     "              xxxxxxx                     |||||||||||||||  "            xx
+xx     "              xxxxxxxo                                     "            xx
+xx" ==bxxx        +   xxxxxxxb                                     "            xx
+xx"   mxxxm      xxx         ^                    ^^^^^^^^^^^^^^^  "            xx
+xx"   xxxxx      xxx         /V                """""""""""""""""""""            xx
+xx"   xxxxx     +xxx [=]  +                    "                                xx
+xx"        VV xxxxxx     xxx"                  "                                xx
+xx"           xxxxxx     xxx"                  "                                xx
+xx"           wwwwww     www"                  "                                xx
+xx"                         "                  "                                xx
+xx"                         "^                 "                                xx
+xx"   +    ^^mmmmmmmmmmmmmmm"# mmmmmm+++mmmmmmm"                             D  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx~  xxx    x  xxxxx   xx   xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx   www    x  wwwww   ww   wwwwwwxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx          x                     xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx          x                     xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx+xxxx+x    xxxxx+xxxxx+xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,61 @@
+Boxed Out
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwx
+xx4                  33                1"x
+xx                              <       "x
+xx   xx              D    xxxxxxxxxxxxxx"x
+xx   xx              #  xxoooooo|      x"x
+xx                  oxo  |VVVVVV|<     x"x
+xx                  oxo  |=||||||    +ox"x
+xx                  oxo   >          KKx"x
+xx                  xxx   |>         +ox"x
+xx||| KKK           xxx     >        KKx"x
+xx++| <<| <         xxx     |>       +ox"x
+xxxxVxxxxxxxxxxxx^^^xxx       >      KKx"x
+xxxxVxxxxxxxxxxxx|||xxx       |>     | x"x
+xx                  xxx                x"x
+xx                  xxx                x"x
+xx  |>           ^  xxx                x"x
+xxV <               xxx   ^^^^^^^      x"x
+xx                  xxxV              <x"x
+xx                  xxx xxxxxxxxx      x"x
+xx                  xxx xxxxxxxxx      x"x
+xx>V                xxx xxxxxxxxx^^^  ^x"x
+xx                  xxx|Kooooooo|<<<   x"x
+xx                 xxxx |>K>K>K|       x"x
+xx                  xxx  ||||||        x"x
+xx >               ozzx                x"x
+xxxxx[=======K   xxxxzx         o      x"x
+xx    +++++++|      xzxbbbbbbbbbxxxxxxxx"x
+xx    +++++++|      xzx^<^<^<^<^xxxxxxxx"x
+xx    +++++++|      xzxbbbbbbbbbxxxxxxxx"x
+xx    ||||||||      xzx                x"x
+xx                  xzx                x"x
+xx                  xzx                x"x
+xx                  xzx                x"x
+xx                  xzx                x"x
+xx                  xzx            x   x"x
+xx oooo             xzx              o x"x
+xx oooo             xGx           x  xxx"x
+xx oooo x           xzx             [xzz"x
+xx oooo^x           zzz              zzz"x
+xx<<<<<|xxxxxxxxxxx xxx xxxxxxxxxxxxxxxx"x
+xx|||||                >             <  "x
+xx      xxxxxxxxxx  xxx xxxxxxxxxxxxxxxx"x
+xx       ||||||> VK                    x"x
+xx       |+V++V++ KV                   x"x
+xx       ^+ ++ ++ K  > ^               x"x
+xx>      |K|KK|KK|K                    x"x
+xx       K+VKKVKKV]                    x"x
+xx       |<|++|++|KV>^                 x"x
+xx       KKKKKKKKKK|V                  x"x
+xxo                                    x"x
+xxo                                  o x"x
+xxo                    4             xxx"x
+xxo                                  z  "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,95 @@
+tower_of_terror
+terrain 4
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx              ooo  xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx         1    b<< <xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx       D    5 mmm  xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      xxxxxxx xxx+^xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                 ="xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                  "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxzzz              "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxzzz  [bbbbb]     "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx"xx              "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx "                "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx "                "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx "                 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx "      =  +       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx    =      =       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx              =    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx       =  =   =    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx 44  =             xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx     x"""""""      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      "     "+  44 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """""  =     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx 44       "        xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """"""       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx           ""   44 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """"""       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx 44   "            xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """""""      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx         "  "   44 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """""""      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx 44    "           xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """""""      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx        "   "   44 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      """""""      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx                   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx         +         xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx        xxx        xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx"=====   5   ====="xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx"4  ===========   "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx"   |||||||||||   "xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   >     /     <   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   "==========="   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   "    ooo    "   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   "    ===    " 4 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   "     /     "   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   "           "   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   =VV=   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx    >= > ^ < =<    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx       =b"b=       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx       =b"b=       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx       =b"b=       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx           o       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      xxxxxxxzx    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx======x///////x    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzz+     x///////x    xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzxxxxxxxxxxxxx"xx=  =xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx       >    "      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx       |>   "      xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx       />   "     =xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx                  =xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx       ^           xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx     xxzxxxxxx  =  xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzx     xxzzzxxxx     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzxxx   x+zzzzzzx     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzzzx   xxxzzzzzx     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxGx   xxxxxxx"x     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxzx          "     <xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxzx               <|xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxzx     >          /xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx      xxxxxxxx   <|xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx        +  xxx    <xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x==    K  xxx     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x 4    KK         xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x   ===KKK        xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x      b<<<     4 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x                 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x 4               xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx x                 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzzz+x               4 xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxxxx      xxx        xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxx           ^       xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxx           ===     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxx 4               + xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxx               === xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxx            []     xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxxmmmmmmmm # mmmmmmmmxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

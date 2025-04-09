@@ -1,0 +1,2 @@
+
+&crypt=7e830234571565e864dc1d8be10e12a9&a=0&tn=15&is=1415521965&zonex=216201&from=10242&size=28&osize=1&to=8600&q=7&b=1&chk=642c9876a0b293f7c74f87ece8a3ba8eb90e6965&effect=1&url=http%253A%252F%252Fwww.friv.com%252Findex3.html&imgsrv=www.funklicks.com&bankey=creatives/642c9876a0b293f7c74f87ece8a3ba8eb90e6965.gif&bandir=~klicks

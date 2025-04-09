@@ -1,0 +1,1 @@
+<embed clas="gameInner" src="http://farbsfarbsfarbs.appspot.com/files/CFF.swf?vers=7" quality="high" vers="7" bgcolor="#000000" name="Captain Foraxian" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" allowscriptaccess="always" allownetworking="all" height="100%" width="100%" align="">

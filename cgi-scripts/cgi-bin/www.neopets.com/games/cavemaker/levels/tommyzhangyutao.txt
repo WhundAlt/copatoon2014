@@ -1,0 +1,50 @@
+The 25 rooms
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x       ox       x        x        x"       x
+x  ++++ ox  +++  x        xmmmmmmmmx" o     x
+x  bbbb ox <^^^> x        x[======]x"K[]    x
+x       Kx KKKKK x" " " ""x        x"K      x
+x #      x ||||| x        x   KK   x"K[====]x
+x        x       x"      "x   KK   x"K      x
+x        z ^ ^ ^ z        z  K  K  z"K  K   x
+x >     ^z       z"mmmmmm"z K ++ K z"K ^^^  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxzx
+x        x       x        x        x        x
+x+++  +++zooooooox  KKKK  z        z        x
+xKKK""KKKxKKKKKKKx   KK   xKKKKKKKKxKKKKKKKKx
+x   ""   x|||||||x   KK   x +K++K+ x        x
+x   ""   w>       m      m KKKKKKKKm       <x
+x   ""   x       xK      Kx   ^^   x    KKK x
+x   ""   x       z        z        z  bb    x
+x   ""   z      ^z        z        z omm   +x
+xxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxxxxx
+x V      w       w        m|||||||||||KoK  <x
+x        x       x  KKKK  xVVVVVVV x |KKK   x
+x        x       x  K++K  x        x ||||   x
+x    >   m  >    m  KKKK  w <      w<       x
+x    ^<  x||     x        x        x        x
+x     V  x||     x        x        x        x
+x+++  ^  z|||    z        z        z    K   x
+xKoK>   <z|||b < z        z>      ^z  K+K >^x
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+x     +++xVVVVV|Vx        x K      x        x
+x KKKKKKKx       z        z K      z     "K x
+x        x       z   ++   zK KKKKVKxKKKKK"K x
+x[======]x       xK KKKK Kx        x3    "K x
+x"      "x       xmmmmmmmmx        x  K K"K x
+x"      "x       x[======]x        z3    "K x
+x   VV   z^^^^^^ x   KK   xK^KKKK Kx  K K"K x
+x + KK + z||||||<x  KGLK  x      K x     "  x
+xxxxzzxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxxxxxxx
+x     K  x      "z"""++"""z        x   ooooox
+x     K  x +    "z"""++"""zomm     x>>VKKKKKx
+x    b   x KbbbK"x "KKKK" xKKK     x  ||||||x
+x   b    x      "x "K  K" x        x        x
+x  b     z      "x "K DK" x    5   x        x
+xb       z      "x """""" x KKKKKKKx^^K     x
+x bbbbbK x KbbbK"x        x   1    x  K     x
+xmmmmmmmmxmmmmmmmxmmmmmmmmx     mmm   K +   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

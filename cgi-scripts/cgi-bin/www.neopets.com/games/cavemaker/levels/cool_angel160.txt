@@ -1,0 +1,53 @@
+Stalactite Summit
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx    wwxxxxxxxxxwwwwxxxxVmmmmmmmmmmmmmm<xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxwwwwwwww        xxxxxxxxx    xxxx xxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxx                 xxxxxxxx       xx xzzzzzxxxxxxxx^mmmmmmmmmmmmmmmmmmmmm<xxx
+xxxxxxxxxx           xxx    xxxxxx        xx xzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxx           xxxxx  xxwww          x xGzzzzzw              xxxxxxxxxxxxxx xxx
+xxxxxxxxxxxm    +   xxxxxw             +   x xxxxxz                 xxxxxxxxxxxxx xxx
+xxxxxxxxxxxx   xxxxmxxxxxm   ++        K    |    "       + + + + +  "xxxxxxxxxxxx xxx
+xxxxxxxxxxxx = xxxxxxxxxxxxxxxxxxxxx       +||   "       b b b b b  "xxxxxxxxxxxx xxx
+xxxxxxxxxw     xxxxxxxxxxxxxxxxxxxxxmmmmmxxxxxxxx"xxxxxxmmmmmmmmmmxx"xxxxxxxxxxxx xxx
+xxxxxxxxx     xxxxxxxxwwwwxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxxxxxx"xxxxxxxxxxxx xxx
+xxxxxxxxx  "  xxxwwwww    wwwwwwxxxxxxxxxxxxxxxxx" xxxxxx   +    xxx"xxxxxxxxxxxx xxx
+xxxxxxxxx  "xxxx                 xxxxxxxxxxxxxxxx"     wx      "   x"xxxxxxxxxxxx xxx
+xxxxxxxxxm " xxx                 xxxxxx  b "xxxxxx+     x      "    "xxxxxxxxxxxx xxx
+xxxxxxxxxx  +xxx         V   <   xxxxxV bb "xxxxxx=]    x      "x+  "xxxxxxxxxxxx xxx
+xxxxxxxxx   =xxx            4    xxxxx xxxx"xxxxxx     +x"      xxxxxxxxxxxxxxxxx xxx
+xxxxxxxxx     xx                 xxxxx  +xx"xxxxxx    [=x"       xxxxxxxxxxxxxxxx xxx
+xxxxxxxxx=   >mm|=====]K         xxxxx> Kxx"   xxx1     x"       xxxxxxxxxxxxxxxx xxx
+xxxxxxxxx     xx+bb    KKK   #    bbxxmm xx    xxx      x"    mmmxxxxxxxxxxxxxxxx xxx
+xxxxxxxxx  D  xx++b "  KK+K  K   bbb xxx xxxxx     +    xmmm  xxxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx+     xxxxxxxxx=]    xxxx  xxxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxxxb      "  xxxx    1 x +x   xxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxxxx      "  >         | +x=  xxKKooKKoKKKKoxxxx xxx
+xxxxxxxxxxxxxxxxwwww"wwwxxxxxxxxxxxxxx]    " xxxxx     bK xx    xoKKKKoKKKoKKxxxx xxx
+xxxxxxxxxxxxxxxx|   "   xxxxxxxxxxxxxx   b " xxxxx   [==xxx   + x||||||||||||wwxx xxx
+xxxxxxxxxxxxxx++|     bbxxxxxxxxxxxx    [] " bb         x     =                xx xxx
+xxxxxxxxxxxxxx++|     b>mmmmmm<xxxxbbb     " bbb    mmmmx  ==    ^             xx xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx bbxxx   "xxxxxxxxxxxxx      xx    bbbb+bb   xx xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   bxxx    "xxxxxxV    m < xmmmxxxxxxxxxxxxxx xxx xxx
+xxxxxxxxxxxxxxxxxxxx3             bxxxx    "  K        xxxxxxxxxxxxxxxxxxxxxx xxx xxx
+xxxxxxxxxxxxxxxxxxxx              [xxxx    "  |   <    wxxwwwwwwwxx +    + xx xxx xxx
+xxxxxxxxxxxxxxxxxxxx+              xxxxm   "  |       + xx  """""x          x  xx xxx
+xxxxxxxxxxxxxxxxxxxx+              xxxxx   "  K  5   ++ xx  """""      3     + xx xxx
+xxxxxxxxxxxxxxxxxxxxxxxmmxmmxxmmxxxxxzzz   "xxxxxxxxxxxxxx+  xx "            > mm^xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+zzz]  xxxxxxxxxxxxxx++ xx "xxxmxmxxxmxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx~   xxxxxxxxxxxxxxxxxx "xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xwwxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwww   K  xxxxxxxxxxw    xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxww       | < xxxxxxxxx     xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxww  +     xx    wwwwwwxx     xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwwww          xx+              xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx +   +  +    xxxxx         +    xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   +      +  xxxxxmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

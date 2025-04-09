@@ -1,0 +1,46 @@
+Arrow *Fun*
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxt xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxwwxwowwwwwwwwwwwwwwwwwwwtxxxx+xxwwwwwwwwwwxxxxxwwxxxxx
+xxxx  w V   <                wxxx+xw          wwwww  wxxxx
+xxxx       o           oo     xxxbw                   wxxx
+xxxx      bb           oo     wxxb                     xxx
+xxxw     >||^          oo      xx|                D    xxx
+xxw            o   +   VV      <x|           ========  mxx
+xxm   #        o   +            x|         =         mmxxx
+xxx            /   +]]  +       w|                   xxxxx
+xxx              [=]V < +>   VV  |       =           xxxxx
+xxmm     ^            [[==]>   ^ |                   xxxxx
+xxxxm   KK         V   >/VV      |     =             wxxxx
+xxxxxxxxxx[[xxx^Kx  >V V     <   |+                   xxxx
+xxxxxxxxxx "xxxxxx        < >    |+                   wxxx
+xxxxxxxxxx "xxxxxx > >  V > >    |+    ====            wxx
+xxxxxxxxxxm"xxxxxx    V>   ^>    |+                     xx
+xxxxxGxxxxx"xxxxxx  ^    <     [==]     +               xx
+xxxxxxxxxxx"xxxxxx      > ^      m   [===]=             xx
+xxxxxxxxxxx"wxxxxxm              xmm     zzz"zzz        xx
+xxxxxxxxxxx  xxxxxx           == xxx                    xx
+xxxxxxxxxxx  wxxxxx              xxx                    xx
+xxxxxxxxxxx   xxxxw            m xxx         [=[]   +   xx
+xxxxxxxxxxx   x..x             x xxx            V  bb   xx
+xxxxxxxxxxx      x             x xxx             ====   xx
+xxxxxxxxxxx   xxxx            mx xxx          =         xx
+xxxxxxxxxxw   xxxx 3          xx xxx                    xx
+xxxxxxxxxxV   xxxx           3xx xxx        V   <       xx
+xxxxxxxxxx+   xxxxmmmm  mmmm  xx xxx           =        xx
+xxxxxxxxxxx   xxxxxxxx  xxxx  xx xxx2                  1xx
+xxxxxxxxxxx   bxxxxxxx  x..x  xx xxx      |||||         xx
+xxxxxxxxxxxm b++xxxxxx  w  w  xx xxx      |+++|=        xx
+xxxxxxxxxxxxmb++xxxxxx        xx xxx      |+++|         xx
+xxxxxxxxxxxxxxxxxxxxxxm  ++  mxx xxxmmmmmm|||||mmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxwwwwwwwwwwwwwwwxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    mmmmmmmmmmmmmmmxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

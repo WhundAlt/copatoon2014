@@ -1,0 +1,61 @@
+High tide I
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|  <|xxxxx|>w|mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx    wwxxxxxxxxxxxxx|mwmwwmmV   |<|>mw|m<|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx      wxxxxxxxxxxxxVxxxxxxx  |>  | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx      mxxxxxxxxxxxx xxxxxxx m| mmmm<||||||||||||||||||||||||>                   |xxxxxxxxxxxxxxxxxx
+xxx D   mxxxxxxxxxxxxx xxxxxxxVxxxxxxxxVVVVVVVVVVVVVVVVVVVVVVV xxxxxxxxxxxxxxxxxxxxVxxxxxxxxxxxxxxxxxx
+xxwxxxx"xxxwwwwwwxxxxx xxxxxxw wwxwww                          xxxxxxxxxxxxxwwwwwxx xxxxxxxxxxxxxxxxxx
+xx wwxx"xxw      wxxxx xxxxxx    w                             xxxxxxxxxxxxw     xx xxxxxxxxxxxxxxxxxx
+xx     "xw        wxxx xxxxww                                  xxxxxxxxxxxw      wx xxxxwwwxxxxxxxxxxx
+xxm    "          mxxx xxxx                                    xxxxxxxxxxw        x xxxw...wxxxxxxxtxx
+xxx    "         mxxxx xxxw                                   ^ mmmmmmmmmo        w<xxx.....wwwwxxx xx
+xxw         +5   xxxxx xxx        o   ||||||||||||||||||||||||| xxxxxxxxxxx        xxxw.........xww xx
+xx       [[[[[[[[xxxxx xxw  [[|==xxx                      mmmmmxooxxxxooooox                    w   xx
+xx                xxxx xw         xx                     mxxxxxoooxxxxxooooxx                      mxx
+xx  +5             xxx x          xx              m   m Kxoooooooxxxxxxxoooox  x   1      x       mxxx
+xx[[[[[[]      5+  xxx x====  mmmmxx             mx  mxmKxooooooxxx|w<|xxooox mxmx== ===xmx x"   mxxxx
+xxm         ==[[[[[xxx x      xxxxxxmm  m       mxxmmxxxKxoooooxxxwVm  xxxooxmxxxxm x xmxxxmx"   xxxxx
+xxxm               xxx x      xooooxxx  xommmmmmxxxxxxxxKxooooxwwx  x ^wxxxoxxwxxxxmxmxxxxxxx"   wxxxx
+xxxxm    +5        xxx x  ====xooooxxxmmxoxxxxxxw"w"w"xxKxxoox|> w  w | www|xw xxxxxxxxxxxxxx"    wwxx
+xxxxx=========     xxx x      xooox"wwxxw|www<w" " " ""xKxxx|w    <|>      |w  wxwwwwwwwxxwww"  m mxxx
+xxxxw              xxx x      oooxw"         " " " " ""xKxxw    |    mm <|m    mxbb     ww   " mxmxxxx
+xxxw             5+xxx|>      |ox" "    ++   " " "   ""xKxw     Vm ^ xx   x    xxbb          " xxxxxxx
+xxw         =======xxxxx====  oxw" " ======= "   "    "xKxm  m   x | wwmm w <| xxxx"[=====xxxxxxxxxxxx
+xx                  xxxx      x" " "      "           "xKxxm x^  w  m  xx^     wxxx"      wxwwxwwwwxxx
+xx   +               xxx      x" "        "           "xKxxx |    <|x|>ww|      wxx"       w  w    wxx
+xxx=======          + xx  ====x"          "           "x|mww   <|   w        ^  mxx"                xx
+xxxx              [===xx      x"          "           "xVxmm m   mm    |>   m|mmxxw"                xx
+xxx          +        xxm     x"          "           "x xxx xxxmxx   m m   xmxxxx "   [===  =====" xx
+xx       [========    xxx     x"  m       "    mm     "x   w wwxxww m x xmm wxxxxx====]mmmm==mmm  " xx
+xx +                  wxxm+       xm   mx=xm mmxx  m  "        wxmm x w wxx  wxxxxxxxxxxxxxxxxxxm " xx
+xx=====]               xxxxxxxxxmmxxm mxxoxxmxxxxmmxm "       mmxxx w    ww   wwxxxxxxx..xxxxxxxx " xx
+xx                    mxxwwwxxxxxxxxxmxxoooxxxxxxxxxx        mxxxxx m m mmm     wxxxxx....xxxxxxw " xx
+xx              +     xxx    wxxw    x oooooxx  xxxxxxxx x   xxxxxx x x xxx    " xxxxx     wwwww  "mxx
+xx="==================xxw+    xw      |ooooo<|    <    x xx    xxxw x x xx   xx" xxxxx            "xxx
+xxm"mmmm             mxx ++   w     xxxoooooxxx      ++x xxx   www ^ ^ ^    oox" wxxxx=  [========xxxx
+xxx"xxxxm           mxxxxxxx      xxxxxoooooxxxx     ++x xxxx              ooox"  xxxx      mmmmmmxxxx
+xxw"xwwwxm          xxxxw  xxxx"xxwwwxxxoooxxxxx"[=====x xxxxx           ooooxw"  wwxxx"  mmxxxxxxxxxx
+xx "    wxmm mmmmm  xxxw     xw"ww   wwxxoxxwwww"      x xxxxxxxxxxxxxxxxxxxxw "    xxx"  xxxxxxxxxxxx
+xx "     xxxmxxxxxmmxxw      w "       wxoxw    "      x xxxxxxwwwwxxxwwwwwww  "    xxx"  xxxxxxxxxxxx
+xx "   " xxxxxo+oxxxxw         "        x|w            <|xxxxxw    www         "    wwxx" xxxxxxxxxxxx
+xxxx   " xxxxoooooxxxm         "     "  x       "===m   xxxxxw +++             "  + m xx" xxxxxxxxxxxx
+xxxxxxx"xxwwxxoooxwwwxm  V  [[["[===]" mxm      "   xm  wwxxx  +++               ++mxmxx" xxxxxxxxxxxx
+xxwwwwx"xx  wwxoxw   wxm             " xxx [=====]" xxm   xxx  [=====]====]"  =====xxxxx" xxxxxxxxxxxx
+xw    w" w    w|w     wx    mm       " xxx      +K" wxxm  xxxm             "  mmmmmxxwwxx"xxxxxxxxxxxx
+x      "               x   mxxmm     " xxxm    ++K"  wxx  xxxxm            " mxxxxxxw  xx"xxxxxxxxxxxx
+x+     "  +++  ^       xm mxwwxxm    " wxxx  [====" mxxw  xxxxxmm          " xwwwww    wx"xxxxxxxxxxxx
+x++b   "=====  |  <    xx xw...wxmmm " mxxxmm     " xxw   xxxxxxxm         " w      +  mx"xxxxxxxxxxxx
+xx==]  "                 |x+++...xxx " xxxxxx     " xw   mxxxxxxxxm        "       ++  xx" xxxxxxxxxxx
+xxm    "                xx.+++...www " xxxxxxm    " w   mxxxxxxxxxx      mm========== mxx"  xxxxxxxxxx
+xxxm   "    m          xxxm[=]        mxxxxxxxm        mxxxxxxxxxxxm    mxxmmm       mxxxx  .........x
+xxxxmmm"mmmmx     xx  xxxxxm          xxxxxxxxxmmm   ++xxxxxxxxxxxxxmmmmxxxxxxmmmmmmmxxxxxx        # x
+xxxxxxxxxxxxxmmmmmxxxxxxxxxxmmmmmmmo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,48 @@
+Boomerang
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxV  </   </ |||/|  </ </  |/||          <xx
+xx x  Vx   Vx|> >|   V  V  |<<|x    x   x xx
+xx x   x    x|> >|  K    K |<<|x    x   x xx
+xx x   x    x|> >|  K o  K |<<|x    x   x xx
+xx x   x    x|KKK|  K>]]/K |KK|x    x   x xx
+xx x   x    xKKKKKK K   VK KKKKx    x   x xx
+xx x   x    x//////////>         ^xx
+xx x   x    x      ^K    K^    x    x   x xx
+xx x   x    x      </    </    x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x VVVVVVVVVVV^VVVVVx    x   x xx
+xx x   x     ////////////////// <   x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    xVVVVVVVVVVVVVVVVV x    x   x xx
+xx x   x   > //////////////////>^   x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x   ^x VVVVVVVVVVVVVVVVVx    x   x xx
+xxV       </<////////////////// <   x   x xx
+xx x   x    x   VVV            x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x>/////////////////x    x   x xx
+xx x   x   > /VVVVVVVVVVVVVVVV/>^   x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x          #       x    x   x xx
+xx x   x    x                  x    x   x xx
+xx x   x    x          V       x  < x   x<xx
+xx x   x    x>             <x  ^ x   x xx
+xx>        ^m               m      D  ^xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

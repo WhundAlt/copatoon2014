@@ -1,0 +1,46 @@
+Hum
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                     t      +xx
+xx                           ]]xx
+xx       "                     xx
+xx       "==xxx"             ==xx
+xx       "  x+x"    xxx ===    xx
+xx       "  x x"    x+x        xx
+xx       "  x x" xxxx xx       xx
+xx       "  x z"  #    x       xx
+xx       "  x zxxxxxxxxx xxxxx xx
+xx       "  xxz+x+           x xx
+xx       "   xxxxxxxxxxxxxxx x xx
+xx xxxxx "   ooooooo+oooooox x xx
+xx       "   oooooooooooooox x xx
+xx   xxx "   |||||||||||||<x x xx
+xx  x  x "                   x xx
+xx     x "                   xDxx
+xxxxxx x]]]]]xxxxxxxxxxxxxxxbxxxx
+xx+    x                   x   xx
+xxxxxxxx                   xxxxxx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xx                             xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

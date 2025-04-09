@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Neo Greetings</title>
+        <style>
+            a+a {margin-left: 10px;}
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1>Neo Greeting #<?php echo $_GET["id"] ?></h1>
+            <img src="<?php echo $_GET["id"] ?>.gif" alt="" height="300px" width="400px">
+            <br>
+            <embed src="<?php echo $_GET["id"] ?>.swf" height="300px" width="400px">
+            <br>
+            <form action="index.phtml">
+                <label for="fname">Enter New Neo Greeting #:</label><br>
+                <input type="text" id="id" name="id" value="<?php echo $_GET["id"] ?>"><br>
+                <input type="submit" value="Submit">
+            </form>
+            <a href="index.phtml?id=<?php echo $_GET["id"] - 1 ?>">Previous</a><a href="index.phtml?id=<?php echo $_GET["id"] + 1 ?>">Next</a>
+        </center>
+    </body>
+</html>

@@ -1,0 +1,66 @@
+ColdCavern
+terrain 3
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                           mmmmmmmmmmmmmmx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxxxxxxxxxx
+x                                                           xxxxxxzzzzzzzzx
+x                                                           xxxxxxzzzzzzzGx
+x                 #                   o                     xxzzxxzxxxxxxxx
+x                xxx              3 xx== xx        1 xx     xzzzxxzxxxxxxxx
+x                xxx                xx   xx          xx     zzzzzzzxxxxxxxx
+x                xxxmm++mmm+m+m     xx===xx+mm+mm+mm+xx     zzzxxxxxxxxxxxx
+x                xxxxxxxxxxxxxxx  x xx+  xxxxxxxxxxxxxxx    xxxxxxxxxxxxxxx
+x                xxxxxxxxxxxxxxx  w xxxx xxwwwwwwwwwwxx+K>  <xxxxxxxxxxxxxx
+x                xxxwwwwwwwwwwww    xxxxxxx          xxxx   xxxxxxxxxxxxxxx
+x                xxx                wwwwwxx          xxxw   xxxxxxxxxxxxxxx
+x                www                     xx          xxw    xxxxxxxxxxxxxxx
+x                                        ww          xx    xxxxxxxxxxxxxxxx
+x                                                    x>  <K+xxxxxxxxxxxxxxx
+x                                                    xx   xxxxxxxxxxxxxxxxx
+x                mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxx   wxxxxxxxxxxxxxxxx
+x                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    wxxxxxxxxxxxxxxx
+x                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  +  xxxxxxxxxxxxxxx
+x                wxxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxxxxx  xxxxxxxxxxxxxxx
+x                 xx                                 xxxx   xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxx                                 xxxw   xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxx                                 xxw    xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxx                                 xx     xxxxxxxxxxxxxxx
+x       xxxx      KK                                 xx     xxxxxxxxxxxxxxx
+x       xxxx      K|       <     +                   xx     xxxxxxxxxxxxxxx
+x       xxxx D    xxxxxxxxxxxxxxxx  +                xx     xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxxxxxxxxxxxxxxxK  K  +             ww     xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxxxxxxxxxxxxxxxK  K  K  +                 xxxxxxxxxxxxxxx
+x       xxxxxxxxxxxxxxxxxxxxxxxxxK  K  K  K           b     xxxxxxxxxxxxxxx
+x                 xxxxxxxxxxxxxxxKmmKmmKmmK   5     b+b+b   xxxxxxxxxxxxxxx
+x                 xxxxxxxxxxxxxxxxxxxxxxxxxxxKKxKxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                 xxxxxxxxxxxxxxxxxxxxxxxxxxKxKxxxxxxxxxxxxxxxwwwwwwwwwwwwx
+x                 wwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxw            x
+x                                wwwwwwwwwwwwwwwwxxxxxxxxxxxw             x
+x                                                wwwwwwwwwww              x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+x                                                                         x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

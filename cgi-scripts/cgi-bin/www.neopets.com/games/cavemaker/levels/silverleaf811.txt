@@ -1,0 +1,44 @@
+AREA "51"
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x tx                xooooooooox        x
+x xx                xooooooooox        x
+x x         +       xooooooooox        x
+x x        +K       xooooooooox        x
+x x5      +KK       xooooooooox        x
+x xxxx    KKK       xooooooooox        x
+x    x>   |||       x|||||||||x        x
+x    x              x         x        x
+x     ^ <           x         x        x
+x                   x         x        x
+x+++++x      x      x         x        x
+x+++++x      x      x         x        x
+xzzzzzx      x                         x
+xmmmmmx#^    x  +   >^                 x
+xxxxxxxxxxxxxxxxxxxxx=========xx+      x
+x    V <     x      xmmmmmmmmmx x+     x
+xooo  V|  <  x>   V xxxxxxxxxxx  x+    x
+xKKK   V     x V         <        x+   x
+x|||     <^ <x^          ^         x+  x
+x  >        |x|         <|       <  x+"x
+x           VxV          V          xx"x
+x        ^   x                      xx"x
+x       V|V  x                        "x
+x            x                        "x
+x     V|     x    >                   "x
+x      V     x >         >  5    ^ ++ "x
+x      >   V x>             ========== x
+x            xxxxxxxxxzxzxxxxxxxxxxxxxxx
+x            z++++++xxzxzx             x
+x            z+++++xxzzxmx         >  Vx
+x      == ===xxxxxxxzzzxxx+      +xx   x
+x            xxzzzzzzx++xxx   xxxx++++ x
+x====x       xxzxxxxxxxxx+++ xxxxooooo x
+x    x       xxzzzzzzzzzz+++xwwwwKKKKK x
+x     x  ^   xxxxxxxxxxxxxxxw    ||||||x
+x      xxxx  x   >|>  <<wwww           x
+x      xxxx  x   >|>                   x
+x    D ++++x z   >|>  ^    <     mmmmm x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

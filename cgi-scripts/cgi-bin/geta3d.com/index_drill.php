@@ -1,0 +1,1 @@
+<embed type="application/x-burster" pluginspage="http://geta3d.com/geta3d/install/setup.msi" src="/geta3d/blends/wiertara1.blend" width="600" height="480">

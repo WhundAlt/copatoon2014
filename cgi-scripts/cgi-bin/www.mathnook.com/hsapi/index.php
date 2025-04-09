@@ -1,0 +1,1 @@
+status=not_game&sid=870bbee8

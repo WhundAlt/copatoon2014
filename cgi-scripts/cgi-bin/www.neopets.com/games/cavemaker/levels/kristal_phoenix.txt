@@ -1,0 +1,44 @@
+Survival of the Fast
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                     "x
+x                                     "x
+x D== = = = = = = = = = = = = = = = =]"x
+x==oooooooooooooooooooooooooooooooooo "x
+x  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb "x
+x  ////////////////////////////////// "x
+x                                     "x
+x                                     "x
+x                                     "x
+x                                     "x
+x"                                    "x
+x"                                    "x
+x"  ================================= "x
+x"                                    "x
+x"                                     x
+x"                                     x
+x"  VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVx
+x"  ///////////////////////////////////x
+x" ^<                                  x
+x"                                     x
+x"                                    ^x
+x"                                   "|x
+x"                                   "|x
+x"                                   "|x
+x"   ==============================  "|x
+x"                                   "|x
+x"                                   "|x
+x                                    "|x
+x     > V                            "|x
+xxxxxx                               "|x
+x                                    "|x
+x                                    "|x
+x  # >^                              "|x
+xxxxxx|| ||||||||||||||   |||||||||  "|x
+x      | |            |   |       |  "|x
+x      | |            |   |       |  "|x
+x      |/^            |||||       |||||x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

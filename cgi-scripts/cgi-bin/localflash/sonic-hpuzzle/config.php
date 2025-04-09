@@ -1,0 +1,1 @@
+server=boards.sega.com&base=/minigame&scoresurl=/scores.php&viewingtype=FLASH&filename=data/sonicscores.sco

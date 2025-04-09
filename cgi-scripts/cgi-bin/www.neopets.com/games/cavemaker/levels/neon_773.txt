@@ -1,0 +1,76 @@
+Rapids_Race
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxt  xxx txx
+xxxxxzzxxww  wxxxxxxxxx  xx   xx
+xxxxw  ww      xxwwwxxxx xx  xxx
+xxww           x    xxxx xx xxxx
+xxx                   xx wx xxxx
+xxx                  bxx  w xxxx
+xxx D               [=xx   xxxxx
+xxxxxxxx # "          xxx  xxxxx
+xxxxxxxx==]"          wxx  xxxxx
+xxxx xxx   "           wx   xxxx
+xxwwoxxw   "            w   xxxx
+xxxmxxx    "              +oxxxx
+xxxxxxw    "  mx         [==xxxx
+xxzz       "  xx       mmmmmxxxx
+xxzxxmm    ["=xx    mxxxxxxxxxxx
+xxzxxxxxmm  " xxK/K xxxxxzzzzxxx
+xxzxxxxxxxx "xxxx|xxxxxxw    wxx
+xxzxxxxxwww "xxxx Vxxxx       xx
+xxzxxxx     "xxxx  wwb       xxx
+xxzxxxx     "oxxx   KKb   /bKxxx
+xxzxxxx     "oxxx   [=]  [==xxxx
+xxzzxxw  b  "xxx            <xxx
+xxzzxx  [====xxx]           </xx
+xxzzxx +     xxx            </xx
+xxzzxxxx     oo/            </xx
+xxzzxxxx    oo/o            </xx
+xx zxxxxx   oxxx ^/>       V>/xx
+xx  xxx   o+xxxxxxb  ["]     xxx
+xxm oL    xxxxxxxxxxmm"      xxx
+xxx xxmmmmxxxxxwwxxxxx"    >^xxx
+xxxzxxxxxxxxxx   wxxx "  m xxxxx
+xxxzxxxxxxxxx     www "mmxxxxxxx
+xxxzxxxxxxwww         "xxxxxxxxx
+xxzzxxwwxw            "xxxzzzxxx
+xxzzxx  w   1        xxxzzzzzxxx
+xxzzxxb          ["=xxxxoooooxxx
+xxzzxxx     +     "    xbbbbbxxx
+xxzzxxx   Kbxxx   "           xx
+xx  xx  +bxxxx    "         + xx
+xxz xxmmxxxxxx    "      [===xxx
+xx  xxxxxxxwww    "          xxx
+xx mxxxxxww      m"         xxxx
+xx xxxx          x"         xxxx
+xx xxxw      ["==xx          xxx
+xxzxxx        "mxxxx          xx
+xxzxxx  +     "xxxxxm         xx
+xxzxxx====]   "xxxxxxK + b   xxx
+xxzzxx      3 "xxxxxxx===]   xxx
+xxzzxxo       " xxxxxx   3   xxx
+xxzzxxoo      " wwxxxw    + xxxx
+xxzzxxoo          wxx    [==xxxx
+xxzzxxK|         mmww<      xxxx
+xxzzxxb        mmxxmm    Kbxxxxx
+xxzzxx      mxxxxxxxxmmmxxxxxxxx
+xxzzxx    bxxxxxxxxxxxxxxxxxxxxx
+xxzzxx====xxxxxwwwxxxxxxxxxxxxxx
+xxzzxm  ~ wwxx....xxxxxxxxxxxxxx
+xxzzxx             xxxxw   xxxxx
+xxzzxxx            www      xxxx
+xxzzxxx             4   +  oxxxx
+xxzzzzx]                xmmxxxxx
+xxzxxzx               [=xxxxxxxx
+xxG xzx +        b    + xxxxxxxx
+xx  xzxmxx b ++ bK + xxxxxxxxxxx
+xxmmxzxxxxx=======xxxxxxxxxxxxxx
+xxxxxzxxxxxom   mmxxxxxxx oxxxxx
+xxxxxzxxxxxxx   xxxx xxxxxxxxxxx
+xxxxozzzzzzzzzzxxxxxmm xxxxxxxxx
+xxxbozzzzzzzzzzxxxxxxxxxxxxxxwwx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxw  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

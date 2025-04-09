@@ -1,0 +1,326 @@
+Deadly_Drop
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxwxxx
+xxxxxxxxxxxoxwxxw  wxx
+xxxxxxxxxxx@w       xx
+xxxxxxxxxxx@     # mxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxxo oxxxxxxxxx
+xxxxxxxxxx=  xxxxxxxxx
+xxxxxxxxxx   gxxxxxxxx
+xxxxxxxxxx    wxxxxxxx
+xxxxxxxxxxm   mxxxxxxx
+xxxxxxxxxxx  mxxxxxxxx
+xxxxxxxxxxxm xxxxxxxxx
+xxxxxxxxxxxx xxxxxxxxx
+xxxxxxxxxxxx xxxxxxxxx
+xxxxxxxxxxxx xxxxxxxxx
+xxxxxxxxxxxx xxxxxxxxx
+xxxxxxxxxxxw xxxxxxxxx
+xxxxxxxxxxx  wxxxxxxxx
+xxxxxxxxxxx   xxxxxxxx
+xxxxxxxxxxw m xxxxxxxx
+xxxxxxxxxx  xmwxxxxxxx
+xxxxxxxxxx  xxmxxxxxxx
+xxxxxxxxxx "xxxxxxxxxx
+xxxxxxxxxx  xxxxxxxxxx
+xxxxxxxxxx  xxxxxxxxxx
+xxxxxxxxxx  wxxxxxxxxx
+xxxxxxxxxx   xxxxxxxxx
+xxxxxxxxxx   wxxxxxxxx
+xxxxxxxxxx    xxxxxxxx
+xxxxxxxxxxm   xxxxxxxx
+xxxxxxxxxxx   xxxxxxxx
+xxxxxxxxxxxbb xxxxxxxx
+xxxxxxxxxxxm  xxxxxxxx
+xxxxxxxxxxxxm xxxxxxxx
+xxxxxxxxxxxxx xxxxxxxx
+xxxxxxxxxxxxx xxxxxxxx
+xxxxxxxxxxxxxbxxxxxxxx
+xxxxxxxxxxxxxbxxxxxxxx
+xxxxxxxxxxxxxbxxxxxxxx
+xxxxxxxxxxxxwbxxxxxxxx
+xxxxxxxxxxxx  wxxxxxxx
+xxxxxxxxxxxx===xxxxxxx
+xxxxxxxxxxxx   xxxxxxx
+xxxxxxxxxxxx   xxxxxxx
+xxxxxxxxxxxxm  xxxxxxx
+xxxxxxxxxxxxxm xxxxxxx
+xxxxxxxxxxxxxx xxxxxxx
+xxxxxxxxxxxxxo oxxxxxx
+xxxxxxxxxxxxxo oxxxxxx
+xxxxxxxxxxxxxo oxxxxxx
+xxxxxxxxxxxxxo oxxxxxx
+xxxxxxxxxxxxxo oxxxxxx
+xxxxxxxxxxxxxx xxxxxxx
+xxxxxxxxxxxxxx wxwxxxx
+xxxxxxxxxxxwxw  w xxxx
+xxxxxxxxxxw w     wxxx
+xxxxxxxxxw        mxxx
+xxxxxxxxx   m   m xxxx
+xxxxxxxxw  mx / x xxxx
+xxxxxxxx   xx   x xxxx
+xxxxxxxw  mxx   x xxxx
+xxxxxxx   xxxmmmx xxxx
+xxxxxxx  mxxxwxwx wxxx
+xxxxxxw mxxxx w x  xxx
+xxxxxx  xxxxx   x mxxx
+xxxxxx  wxxxxmmmx xxxx
+xxxxxx   wwwwwwww xxxx
+xxxxxw            xxxx
+xxxxx===xxx=======xxxx
+xxxxxm mxxx      mxxxx
+xxxxxx xxxx    m xxxxx
+xxxxxx xxxx   mxmxxxxx
+xxxxxx xxxxm  xxxxxxxx
+xxxxxx xxxxx mxxxxxxxx
+xxxxxx xxxxx xxxxxxxxx
+xxxxxx xxxxwmxxxxxxxxx
+xxxxxx wxxw wxxxxxxxxx
+xxxxxw  w    wxxxxxxxx
+xxxxx        mxxxxxxxx
+xxxxxm       xxxxxxxxx
+xxxxxx      mxxxxxxxxx
+xxxxxxmbm   xxxxxxxxxx
+xxxxxxxmxm  xxxxxxxxxx
+xxxxxxxxxxm xxxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxw xxxxxxxxxx
+xxxxxxxxxx  wxxxxxxxxx
+xxxxxxxxxx=  xxxxxxxxx
+xxxxxxxxxxx mxxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxx xwxxxxxxxx
+xxxxxxxxxxx   xxxxxxxx
+xxxxxxxxxxxmx xxxxxxxx
+xxxxxxxxxxxxx xxxxxxxx
+xxxxxxxxxxxxx xxxxxxxx
+xxxxxxxxxxx/x xxxxxxxx
+xxxxxxxxxxx@wuxxxxxxxx
+xxxxxxxxxxx@  xxxxxxxx
+xxxxxxxxxxx xxxxxxxxxx
+xxxxxxxxxxw xxxxxxxxxx
+xxxxxxxxxx  xxxxxxxxxx
+xxxxxxxxxw  wxxxxxxxxx
+xxxxxxxxx    xxxxxxxxx
+xxxxxxxxx    xxxxxxxxx
+xxxxxxxxx    wxxxxxxxx
+xxxxxxxxxm    w xxxxxx
+xxxxxxxxxx      wxxxxx
+xxxxxxxxxx       xxxxx
+xxxxxxxxxx m m   xxxxx
+xxxxxxxxxxmxmx   wxxxx
+xxxxxxxxxxxxxxm   xxxx
+xxxxxxxxxxxxxxx   wxxx
+xxxxxxxxxxxxxxx    xxx
+xxxxxxxxxxxxxxxm  mxxx
+xxxxxxxxxxxxxxxx  wxxx
+xxxxxxxxxxxxxxxxbm xxx
+xxxxxxxxxxxxxxxxmx xxx
+xxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxwx xxx
+xxxxxxxxxxxxxxxx w xxx
+xxxxxxxxxxxxxxxx   xxx
+xxxxxxxxxxxxxxxw   xxx
+xxxxxxxxxxxxxxx    wxx
+xxxxxxxxxxxxxxw  mb xx
+xxxxxxxxxxxxxw  mx mxx
+xxxxxxxxxxxw    xxmxxx
+xxxxxxxxxxx     xxxxxx
+xxxxxxxxxxw    mxxxxxx
+xxxxxxxxwx   mbxxxxxxx
+xxxxxxxw w  mxmxxxxxxx
+xxxxxxx    mxxxxxxxxxx
+xxxxxxw    xxxxxxxxxxx
+xxxxxxm    xxxxxxxxxxx
+xxxxxxx    bxxxxxxxxxx
+xxxxxxx m mxxxxxxxxxxx
+xxxxxxx xmxxxxxxxxxxxx
+xxxxxxw xxxxxxxxxxxxxx
+xxxxxx  xxxxxxxxxxxxxx
+xxxxxx  xxxxx  xxxxxxx
+xxxxxx  xxxxxx xxxxxxx
+xxxxxx mxxxxxx xxxxxxx
+xxxxxx xxxxxxx xxxxxxx
+xxxxxx xwxxxx   xxxxxx
+xxxxxx w wxxx x xxxxxx
+xxxxxx    xxx x xxxxxx
+xxxxxx    xxx   xxxxxx
+xxxxxxm   xxxxx xxxxxx
+xxxxxxxbm xxxxx xxxxxx
+xxxxxxxmx xxx   xxxxxx
+xxxxxxxwx xxxxx xxxxxx
+xxxxxxx w xxx   xxxxxx
+xxxxxxx   xxx xxxxxxxx
+xxxxxxx   xxx   xxxxxx
+xxxxxxx  mxxx   xxxxxx
+xxxxxxx  xxxx x xxxxxx
+xxxxxxx mxxxx x xxxxxx
+xxxxxxx xxxxx x xxxxxx
+xxxxxxx xxxxx   xxxxxx
+xxxxxxx xxxxxxxxxxxxxx
+xxxxxxwvwxxxxxxxxxxxxx
+xxxxxx   xxxxxxxxxxxxx
+xxxxxx   xxxxxxxxxxxxx
+xxxxxx mmxxxxxxxxxxxxx
+xxxxxx |vxxxxxxxxxxxxx
+xxxxxx ^^xxxxxxxxxxxxx
+xxxxxxb  xxxxxxxxxxxxx
+xxxxxx   xxxxxxxxxxxxx
+xxxxxx mmxxxxxxxxxxxxx
+xxxxxxm||xxxxxxxxxxxxx
+xxxxxx^v^xxxxxxxxxxxxx
+xxxxxx   xxxxxxxxxxxxx
+xxxxxx m xxxxxxxxxxxxx
+xxxxxxv| xxxxxxxxxxxxx
+xxxxxx^^ xxxxxxxxxxxxx
+xxxxxx   wxxxxxxxxxxxx
+xxxxxxm   xxxxxxxxxxxx
+xxxxxxwm  xxxxxxxxxxxx
+xxxxxx x bxxxxxxxxxxxx
+xxxxxx x bxxxxxxxxxxxx
+xxxxxx x bxxxxxxxxxxxx
+xxxxxx x bxxxxxxxxxxxx
+xxxxxx x bxxxxxxxxxxxx
+xxxxxx x bgxxxxxxxxxxx
+xxxxxxmw xxxxxxxxxxxxx
+xxxxxxw  wxxxwxwxxxxxx
+xxxxxx    w   wuwxxxxx
+xxxxxw           xxxxx
+xxxxx |||||||||x xxxxx
+xxxxx          x xxxxx
+xxxxxm m m m m x xxxxx
+xxooxxmxmxmxmxmx xxxxx
+xxoooxxxxxxxxxxx xxxxx
+xxoooooooooooxxx xxxxx
+xxoooooooooooxxx xxxxx
+xxbboooooooooxwx xxxxx
+xxbbbbooooooow x xxxxx
+xxxoooooooooo vw<xxxxx
+xxxxooooooooo  m xxxxx
+xxxxo||||||m m<x xxxxx
+xxxxxxx  xxxxxmx wxxxx
+xxxxxxx  xxxxxxx  xxxx
+xxxxxxx  wxxxxxx  xxxx
+xxxxxxx   xwxxxx  xxxx
+xxxxxxxm  w xxxx^mxxxx
+xxxxxxxxm   wxxx xxxxx
+xxxxxxxxxm   wxx wxxxx
+xxxxxxxxxxm   xx  xxxx
+xxxxxxxxxxxm  wx  xxxx
+xxxxxxxxxxxxm  x  xxxx
+xxxxxxxxxxxxxm x^mxxxx
+xxxxxxxxxxxxxx x xxxxx
+xxxxxxxxxxxxxw w xxxxx
+xxxxxxxxxxxxx m  xxxxx
+xxxxxxxxxxxxx x  xxxxx
+xxxxxxxxxxxxx x  xxxxx
+xxxxxxxxxxxxx w  xxxxx
+xxxxxxxxxxxxw    wxxxx
+xxxxxxxxxxxx=b====xxxx
+xxxxxxxxxxxg====b=xxxx
+xxxxxxxxxxxx==b===xxxx
+xxxxxxxxxxxxb=====xxxx
+xxxxxxxxxxxx====b=xxxx
+xxxxxxxxxxxx      xxxx
+xxxxxxxxxxxxm    mxxxx
+xxxxxxxxxxxxxm  mxxxxx
+xxxxxxxxxxxxxxm xxxxxx
+xxxxxxxxxxxxxxx xxxxxx
+xxxxxxxxxxxxxxx xxxxxx
+xxxxxxxxxxxxxxx xxxxxx
+xxxxxxxxxxxxxxx wxxxxx
+xxxxxxxxxxxxxxw  xxxxx
+xxxxxxxxxxxxxxmx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxwxx xxxxx
+xxxxxxxxxxxxx    xxxxx
+xxxxxxxxxxxxx ====xxxx
+xxxxxxxxxxxxx m m xxxx
+xxxxxxxxxxxxx xmwmxxxx
+xxxxxxxxxxxxx xw wxxxx
+xxxxxxxxxxxxx w   xxxx
+xxxxxxxxxxxxx     xxxx
+xxxxxxxxxxxxx     xxxx
+xxxxxxxxxxxxx     xxxx
+xxxxxxxxxxxxxbm   xxxx
+xxxxxxxxxxxxxmxm  xxxx
+xxxxxxxxxxxxxxxx  xxxx
+xxxxxxxxxxxxxxxx mxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxxxxxxxxxxxxxx xxxxx
+xxxwxxxxxxxxxxxw xxxxx
+xxx~xxxxxxxxxxx  xxxxx
+xxxmxxxxxxxxxxx  xxxxx
+xxxxxxxxxxwxxwx  xxxxx
+xxxxxxxxxw wx w mxxxxx
+xxxxxxxxx   x m xxxxxx
+xxxxxxxxx   wmx xxxxxx
+xxxxxxxxx m  xx xxxxxx
+xxxxxxxxx x  xw xxxxxx
+xxxxxxxxx xm w  xxxxxx
+xxxxxxxxw xx    xxxxxx
+xxxxxxxx  xx   mxxxxxx
+xxxxxxxx mxx  mxxxxxxx
+xxxxxxxx xxxm xxxxxxxx
+xxxxxxxx xxxxmxxxxxxxx
+xxxxxxxx wxxxwxxxxxxxx
+xxxxxxxx  xxx xxxxxxxx
+xxxxxxxx  wxx xxxxxxxx
+xxxxxxxxm  wx wxxxxxxx
+xxxxxxxxxm  wm wxxxxxx
+xxxxxxxxxx   x  xxxxxx
+xxxxxxxxxxm  x  xxxxxx
+xxxxxxxxxxxm x mxxxxxx
+xxxxxxxxxxxx x xxxxxxx
+xxxxxxxxxxxw x xxxxxxx
+xxxxxxxxxxx  x xxxxxxx
+xxxxxxxxxxw mx xxxxxxx
+xxxxxxxxxx  xx xxxxxxx
+xxxxxxxxxx  xw xxxxxxx
+xxxxxxxxxxm w  wxxxxxx
+xxxxxxxxxxx     wxxxxx
+xxxxxxxxxxxm     wxxxx
+xxxxxxxxxxxxm     xxxx
+xxxxxxxxxxxxx    mxxxx
+xxxxxxxxxxxxxm   xxxxx
+xxxxxxxxxxxxxx  mxxxxx
+xxxxxxxxxxxxxx mxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxx
+xxxxxxxxxxw wxzxxxxxxx
+xxxxxxxxxx   xzxxxxxxx
+xxxxxxxxxx D xzxxxxxxx
+xxxxxxxxxxx==  xxxxxxx
+xxxxxxxxxxx m mxxxxxxx
+xxxxxxxxxxxmxmxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx

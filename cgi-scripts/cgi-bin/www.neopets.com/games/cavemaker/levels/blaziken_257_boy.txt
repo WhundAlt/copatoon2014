@@ -1,0 +1,44 @@
+Thriller
+terrain 2
+background 1
+water dark
+zztzzzzlxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<xx
+zz#zzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<xx
+zz xxxxxvxxxxxxxxxxxxxxxxxxxxxxxxxxxx<xx
+zx x|||||||||||||||||||||||||||||||||Vxx
+zx  vVVV VVVVVVVVVVVVVVVVVVVVVVVVVVVV xx
+gz                                    xx
+xx                                    xx
+xx                                    xx
+xx>     ^                             xx
+xx  bbbbbbbbbbbbbbbbbbb++++++++++++++ xx
+xxMMMMMMMMMMMMMMMMMMMMM============== XX
+xx||||||||||||||||||||kv v v v v v v  xx
+xx^^^^^^^^^^^^^^^^^^^^                xx
+xx  bbbbbbbbbbbbbbbbbbbk k k k k k k  xx
+xxv                                   xx
+xx +++++++++++                        xx
+xx |||||||||||||||||||||||||||||||||||xx
+xx ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^xx
+xx>V                     +         > |<x
+xx+>                               ^<|xx
+xxk>" " " " " " " " " " " " " " " " <|xx
+xx>|>                  +            <|xx
+xx>|" " " " " " " " " "^" " " " " " <|xx
+xx>|>                + +         <|xx
+xx>|> " " " " " " "+" "v" " " " " " <|xx
+xx>|>        +         +            <|xx
+xx>|  " " " " " " " " " " " " " " " <|xx
+xx>|>                               <|xx
+xx>|>                               <|xx
+xx>|>                               <|xx
+xx>|>                               <|xx
+xx|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|xx
+xx||||||||||||||||||||||||||||||||||||xx
+x.xv^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ xx
+x ||                           >     |<x
+xx|                   3             <|xx
+xx|^^^^^^^^^^^^^^^^^^^^^^^^^^^^ ^^  <|xx
+xx|||||||||||||||||||||||||||||||k<|||xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm<|D|xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,1 @@
+status:0|message:Not logged in!|icon:http%3A%2F%2Fcdn.nitrome.com%2Fstyles%2Fimages%2Fgame_icons%2Fig_ticker_icon-not-logged-in.png

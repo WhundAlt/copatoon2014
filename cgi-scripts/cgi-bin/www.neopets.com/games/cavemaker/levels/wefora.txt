@@ -1,0 +1,53 @@
+earthquake
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxzxxxxxxzzzxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx#         ++++++      <<<<<<<         xwwwwwwxx
+xxxxxxxxx=V=xxxxxxbxxxxx                x      xx
+xx             + x x                    z      xx
+xx             V x x                   =x=     xx
+xx             V x x                  ==x      xx
+xx               x x                 ===x      xx
+xx    x  ^ ^  x  x x  >       ^         x      xx
+xx    x  |||  x  x x >       ^       KKKxmmmmbmxx
+xx    x  ^V^  x  x x>       ^           x      xx
+xx    x       x^ x x               VV   x      xx
+xx    x       x= x x            KK KK   x      xx
+xx    x3     4x  x x                    x      xx
+xx    xxxx xxxx  x x                    x      xx
+xx              =x x^^^ ^^^   KKbbbb    x      xx
+xx        V     =x x|||>|||^ bbbbbbb    x      xx
+xx          =  = xmx         bbbbbbbK   x      xx
+xx   === = =     xxx         bbbbbbbb   xmmbmmmxx
+xx      =    =               bbbKKKKKK  x      xx
+xx      "           ^        bbbbbbbbbb"x      xx
+xx      " |>        / ^      bbbbbbbbbb"x      xx
+xx      " |>          /      bbbbbbbbbb"x  m   xx
+xx      " |>      /> ^  o              "x m    xx
+xx      "              ooo             "x    m xx
+xx      "              ooo             "x      xx
+xx      "              ooo             "x      xx
+xx      "              |||             "x  mm  xx
+xx      "                              "x      xx
+xx      "                              "x      xx
+xx ooo  "                              "xmm  mmxx
+xx ooo  "                              "x      xx
+xx ooo+=                               "x      xx
+xx ooo=                                "x  mm  xx
+xx |||       x         >          < |^ "x      xx
+xx===== /                x///x///x xxx "x      xx
+xx+ + +xxx x            ^x>>> >>> ^    "x      xx
+xx+++++xxz       x>><<  xx            x+x      xx
+xx+++++xLz       G x                   +xmmmmmbxx
+xx+++++xxxmmmmmmmmmmm===mmmmmmmmmmmmmmm+x      xx
+xxxxxxxxxxxxxxxxxxxxxz)zxxxxxxxxxxxxxxx=x      xx
+xx+++++++++++++++++++++++++++++++++++++"x      xx
+xx+++++++++++++++++++++++++++++++++++++"xmmbmmmxx
+xx+++++++++++++++++++++++++++++++++++++"x++++++zx
+xx+++++++++++++++++++++++++++++++++++++"x++++++zx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+x+++++++++++++++++++++++++++++++++++++++++++++++x
+xD++++++++++++++++++++++++++++++++++++++++++++++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

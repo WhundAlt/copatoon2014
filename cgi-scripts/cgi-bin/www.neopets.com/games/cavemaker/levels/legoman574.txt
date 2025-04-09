@@ -1,0 +1,51 @@
+The long climb
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx
+xx  ||||||||||||     xx
+xxD |||||||||||| <  "xx
+xxxxxxxxxxxxxxxxxxxx"xx
+xx       G    +     "xx
+xxoooooooooooo+     "xx
+xx<<<<<<<<<<<</  <  "xx
+xx               == "xx
+xx                  "xx
+xx              K   "xx
+xx              K   "xx
+xx              K   "xx
+xx           >  K   "xx
+xx       +    xxxxxxxxx
+xx    + ===  ^      <xx
+xx   ==              xx
+xx                   xx
+xx  +        |>>>>>>^xx
+xx ===       |       xx
+xx        ||||       xx
+xx     /             xx
+xx+  [=]             xx
+xx==                 xx
+xx                   xx
+xx +                 xx
+xx==                 xx
+xx  oooooo ooooooooo xx
+xx+ <<<<<< <<<<<<<<<<xx
+xx==                ^xx
+xx +      "         ^xx
+xx[======]"         ^xx
+xx        "         ^xx
+xx        "         ^xx
+xx        " +       ^xx
+xx        [===]     ^xx
+xx               +  ^xx
+xx              [=] ^xx
+xx                  ^xx
+xx        +   >     ^xx
+xx      [=====]      xx
+xx  +                xx
+xx[===]              xx
+xx                   xx
+xx            #      xx
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx

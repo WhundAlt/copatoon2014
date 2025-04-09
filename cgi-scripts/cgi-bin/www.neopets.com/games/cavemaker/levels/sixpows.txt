@@ -1,0 +1,46 @@
+Watch_your_steps
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxooooxw  xxwwwx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxoooow   xw   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx////         x
+xxxxxxxxxxxxxxxxxxxxxx            xxxxxx"x
+xxw   wwwwwwxxxxxxxxxx            ++xxxx"x
+xx          zzzxxxzGxx >/   ^     ++xxxx"x
+xx          zzzzzzzzxxKK|  xxxxxxxxxxx  "x
+xx  >      VxxxxxxxxxxKK|  <xxxxxxxxxx  "x
+xx          xxxxxxxxxxxx"   xxxxxxxxxx  "x
+xx[[   xxx  x    xxxxx  "   xxxxxxxxxx  "x
+xx     xxxxbx    xxxxx  " xxxxxxxxxxxx  "x
+xx     xxxx+  >    /xx  " xxxxxxxxxxxx[ "x
+xx[[   xxxx+       KK   " xx+++>        "x
+xx     wwwx+       KK   " xx+++>/    <  "x
+x    1  ++xxxxmmxxxKK   " xx]]]]     xxxxx
+x       ++xxxxxxxxxxx   " xx        xxxxxx
+x  ====xxxxx            " xx   o  o xxxxxx
+x      wxxxx          xxxxxx   xx xxxxxxxx
+xxx     wxxx     o    xxxxxx[  xx xxxxxxxx
+x++      xxx    []]]]]xxxxxx   xx       xx
+x++      xxx          xxxxxx   xx  3  ++xx
+xxxxxx  +xxx          xxxxxx D        ++xx
+xwww    +xxx   [x   ]]xxxxxxxxxmmxxxxxxxxx
+x      xxxxx   ~x     xxxxxxxxxxxxxxxxxxxx
+x+    xxxxxx    x     xxxxxxxxxxxxxxxxxxxx
+xxx# xxxxxxx++++x+++++xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

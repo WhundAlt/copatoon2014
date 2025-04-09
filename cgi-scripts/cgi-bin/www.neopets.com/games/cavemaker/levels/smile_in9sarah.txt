@@ -1,0 +1,26 @@
+tricky traps
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              <| <|xx
+xxxxxxxxxxxxxxxxxx"  >               <xxxxxxxxxxxxxxxxxxxxxxx              <| <|xx
+xxxx  " "   "  xxx"  >               <xxxxxxxxxxxxxxxxxxxxxxx              <| <|xx
+xxxx" " " " " "xxx"  >               <xxxxxxxxxxxxxxxxxxxxxxx              <| <|xx
+xxxx" "   " " "  x"xxx>              <xxxxxxxxxxxxxxxxxxxxxxx              <| <|xx
+xxxx"     "   "  x"xoox>V             xxxxxxxxxxxxxxxxxx  |                <| <|xx
+xxxx"          x x"xooox xxxxxoxxxxxxxxxxxxxxxxxxxxxxxxx  |                <| <|xx
+xxxx"          x x"xooox xxxxoooxxxxxxx>                  >                <| <|xx
+xxxx"          x x"xooox xxxoooooxxxxxx>                  >                <| <|xx
+xxxx"          x  "xooox xxoooooooxxxxx>                  >                 |  |xx
+xxxx"mmmmmmmmmmx  "xooox xoooooooooxxxx"                 +>      V          |  |xx
+xxxx"xxxxxxxxxxxxxxxV|Vx oooooooooooxxx"  +++++++++++++  oxxxxx"x xxxxxxxxxx^xx xx
+xx  "       xxx        x|||||||||||||xx"xxxzxxxzzxxxxxzxxoxxxxx"x>          |> ^xx
+xx  "n      xxx        xx            xx"mmmmmmmmmmmmmmmmmmxxxxx"xxxxxxxxxxxxxxxxxx
+xx  "       x          xx            xx"xxxxxxxxxxxxxxxxxxxxxxx"                 x
+xx# "     D x    m   ^ xx              "xxx.....wwwwwwwwwwwxxxx"                 x
+xxxxxxxz"xxxx xxxxxxx"xxx            ++"xxx                ..xx"                ~x
+xx      "     xxxxxxx"xxx            zz"xxx                                      x
+xx            zzzzzzz" ..xxxxxxxxxxxxxxx      mmmmmmmmmmmmmxxxxxmmmmmmmmmmmmmmmxxx
+xxxxxxxxxxxxxxxxxxxxx"           .        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

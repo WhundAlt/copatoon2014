@@ -1,0 +1,30 @@
+Hannahs_Maze
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxG++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwwwwwwxx
+xx+++++x                         +xxxL      xx
+xx+++++x                         +xxx      2xx
+xx+++++z++              +++ xxxx"xxxx"xxxxxxxx
+xxxxxxxx== ++        ++ +++     " xxx"xxxxxxxx
+xxxxxxxx   == +++    == ===     "+xxx"wwwwwwxx
+xxxxxxxx      === ++            xxxxx"      xx
+xxxxxxxx          ==         xxxxxx  "      xx
+xxxxxxxx"xxbbbb          +++ xxxx     ++++  xx
+xxxxxxx>" x            "xbbbxx      ++xxxx" xx
+xxxxxxx "<x         +++"   1      ++xxx   " xx
+xxxxxxx " x        =bbb=        ++xxxx    " xx
+xxxxxxx>" x                 ++  xxxxx       xx
+xxxxxxx "<x     +        "xxbbxxxxx     + = xx
+xxxxxxx " x     xx"      "    xxx       =   xx
+xxxxxxx>" x      x"      "    www           xx
+xxwww   "<xmmmmmmx"      "       "xxxxx/////xx
+xx      " xxxxxxxxxxxVxxx"x      "          xx
+xx  "xxxxxxxxxxxxx    +  "x      " +++      xx
+xx  "xxxxxxxxxxxx> +     ~x^^^^^^xxbbbxxx"  xx
+xxD "xxxxxxxxxxxxx    +   <           xxx"  xx
+xxxxxxxxxxxxxxxxxx       +x           xxx" #xx
+xxxxxxxxxxxxxxxxxxxxxxx^xxxmmmmmmmmmmmxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+Cave
+terrain 2
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxtxx
+xx                                      xx
+xx                                      xx
+xx     "xx+xx+xx+xx+xx+xx+xx+xx+xx+xxxx xx
+xx#    "xxxxxxxxxxxxxxxxxxxxxxxxxxxx+++ xx
+xxxxxxx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxx"xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzx xx
+xx"   x"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzxx
+xx"    "                      xxxxxxxxxxxx
+xx"                                     xx
+xx"xxxxxxxxxxxxxxxxxxxxxxxxx            xx
+xx"x+++++++++++++++++++++++           44xx
+xx"xxxxxxxooooooxxxxxxxxxoooooxxxxxxxxxxxx
+xx"  ++++xoooooox       xooooox         xx
+xx"  ++++xoooooox       xooooox         xx
+xx"  ++++xoooooox       xxoooxx         xx
+xx"  ++++xoooooLx       xxxbxxx         xx
+xx"  ++++x//////x                       xx
+xx"  ]]]]       x>         ^            xx
+xx"             x                       xx
+xx"       ^     3                       xx
+xx" ]]]]         ^       K              xx
+xx"    1    ]]          KK===           xx
+xx"   mm  5 mm 2  mm  4 KK            " xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx"xxx
+xx++++              x        <        "xxx
+xx++++              x                 "xxx
+xx++++              x                 "xxx
+xx[[[[              x                 "xxx
+xx     =            K|       ^      < "xxx
+xx       =          K|                "xxx
+xx         =        K|                "xxx
+xx           =   ]]]x[[[[[[[[[[[[[[[[[[xxx
+xx             =    x                  xxx
+xx               ]  x                  xxx
+xxmmmmmmmmm mmm     x                  xxx
+xxxxxxxxxxxzxxxxxxxxxD                 xxx
+xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxzxxx
+xx                                     Gxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

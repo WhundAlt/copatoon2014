@@ -1,0 +1,46 @@
+Tresure
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x             xxxxxxxxxxx                x
+x             xxxxxxxxxxx                x
+xD            xxxxxxxxxxx                x
+x===          xxxxxxxxxxx                x
+x             zzzzzzzzzxx                x
+x    "========xxxxxxxzzxx                x
+x    "        xxxxxxxzzxx                x
+x    "        xxxxxxxzzxx                x
+x    "        xxxxxxxzzxx                x
+x    "              b++b                 x
+x    "              bbbb                 x
+x    "              o                    x
+x    "             ==                    x
+x    "               mmm                 x
+x    "                                   x
+x    "                                   x
+x    "           ======="                x
+x    "         = wwwwwww"                x
+x    "                  "                x
+x    "        ==        "                x
+x    "      =           "                x
+x    "                  "                x
+x    "             +3 o "                x
+x    "     === xxxxxxxxxx                x
+x              xxxxxxxxxx                x
+x    +                                   x
+x   +++   =      o                       x
+xxxxxxxxx    =   =                       x
+xxxxxxxxx                                x
+xxLxxxxxx      =                         x
+xxzzzxxxx                                x
+xxzzzzxxx                                x
+xxxxzzzzz        ]]                      x
+xxxxxzzzz   ~    ..    1                 x
+xxxxxxxxx    ]]                          x
+xxxxxxxxx#                               x
+xxxxxxxxx=]                              x
+xxxxxxxxx+t                              x
+xxxxxxxxxm|||||||/  >   ^                x
+xxxxxxxxxxxxxxxxxxxxxxxxx                x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

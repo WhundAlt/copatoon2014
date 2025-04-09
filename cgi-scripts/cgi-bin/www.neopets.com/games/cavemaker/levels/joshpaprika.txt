@@ -1,0 +1,29 @@
+Plumber Usuki
+terrain 4
+background 1
+water clear
+xxxxxxzzzzzz                                           "                       x""     x            
+xzzzzzzzzzzo                                           "        +              x""     x            
+xzzzzzzzzz>|ooooooo                                    "=============          x""     x            
+xzxxxxxxxxx>>>>>>>>                                    "                       x""x    x            
+xzzzxx                                                 "                       x""x   3x            
+xzzzxx                                                 "                       x""x    x         V  
+xxxzxx                                                 "                       x""x""""x         V  
+xzzzxx                                                 "                       x""x    x         V  
+xzzzxx                                                 "                       x""x 3  x         V  
+xxxzxx                                                 "                       x""x    x         V  
+xzzzxx                                                 "                       x""x""""x         V  
+xzzzxx                                                 "                       x""x  + x         V  
+xzxxxx                                                 "                       x""x    x        >V  
+xzzzxx                                                 "                       x""x  3 x        >V  
+xzzzxx                                                 "                       x""x    x        >/  
+xxxzxx +                                ====bbbbbbbb   "                       x""x +  x        >V  
+====== b                        "                      "                       x""x    x     x  >V  
+                    xxbxx     xx"xx                    "                       x""x    x    xx  >V
+   #                 xbx   2   x"x    ===           ======      =========      x""x""""x " xxx  >V D
+xxxxxxxxxxxmmmmmmmmxxxbxxxxxxxxx"xxx                                     xx xxxx""x    x "xxxxxxxxxx
+bbbbbbbbbbbxxxxxxxxx     +      "  x                                     x     x""x    x "  x      x
+bbbbbbbbbbbbbbbbbbbx     b      "  x                                     x     x==x    x "  z      x
+bbbbbbbbbbbbbbbbbbbx            "  x                                     x        x      "  z   G  x
+bbbbbbbbbbbbbbbbbbbz            "  xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx        x 5    "  x      x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

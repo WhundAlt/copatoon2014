@@ -1,0 +1,46 @@
+Rebel_Cave
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx+      |  <xxxx   xxxxw wwwxxxx
+xxxx #   1x+++bb  |    xxxm mxwwx m   xxxx
+xxxx     xxx xxxxxxx"  xxxxxxw   xxxxx  xx
+xxxxxx  xxxx"x+bxxxx"^>> <<xw    wxxx"  xx
+xxxxw   wwwx"xb xxxx"      o     +xxx"  xx
+xxx        x"xx xxxx"> ^ x K     bxxw"xxxx
+xxxb  b    x"   xxxxm^  xx   b   xwx "xxxx
+xxx+ KKK   xxxxxxxxxx  xxx[["xx xx x "xxxx
+xxxx        xxxxVV>V>>>VVx  "xw xw x "++xx
+xxxx]]]     4xxx||||||   x  "x+ w +x "bbxx
+xxxx         xxx|||||x"xxx  "xb   +x "  xx
+xxxx  [[     wxx      "wwx  "xb    x "  xx
+xxxx           x      "mmxV  x[[  xx "xxxx
+xxxx    == x ++x^ < < "xxx [[x   Dxx "xxxx
+xxxx       xbbbxmmm   mxxx> Vx    xx "xxxx
+xxx   ==   xxxxxxxxm "xxxx   x [[xxx "xxxx
+xxx+       ww     wxx"   xV <x     x "xxxx
+xxxb    o  mmmmm   w "   x|||x==   x "xxxx
+xxxb   ====xxxxx "x  "   x|||x    xx "  xx
+xxxxV o   3xw xx "x ===  x|||x  K xx "ooxx
+xxxx ===   x+   ""x     3x|||xxxx"xx "xxxx
+xxxx>   |  x+   ""x   ===x|||xxxx"xx "xxxx
+xxxxKKKKKKKxx     x==    x|||xxxx"xx "xxxx
+xxxx       x+  xxxx      x|||xxxx"""""xxxx
+xxx     ===xxxx     ===  xxKKKKKK"""""xxxx
+xxx+     >>   <|    ommmmmx      "   "xxxx
+xxx+ ==         K" xxxxxxx+ [[   "   " +xx
+xxx+      ^ > <<x" xxxxxxxb      "   " bxx
+xxx+           xx" xwwwwwx      4"xx "  xx
+xxxx [[  [["==^xx"       x   ==  "xw "xxxx
+xxxw       " 3 xx++++++++xx      xxm "xxxx
+xxx     o  "   xxxxxxxxxxxb     xxxx "xxxx
+xxx   xxxxxxxxxxxwwwwwwwxxx==xx wwwx "xxxx
+xxxm"xx+ +xxxxxxx     ooxxxx xxmmmmx  xxxx
+xxxx"xxbx+xxxxxxx o ooooxxxxxxxxxxxxxzxxxx
+xxxx"xx x xGzzzzxxxxxxxxxxxxxxxxzzzzzzxxxx
+xxxx" ommm zzzzzzzzzzzzzzzzzzzzzzzzzzzxxxx
+xxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

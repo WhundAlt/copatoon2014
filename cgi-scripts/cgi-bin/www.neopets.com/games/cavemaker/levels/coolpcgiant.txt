@@ -1,0 +1,76 @@
+Enter Atlantis
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxx+++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx    KKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx #  K|Kxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxx
+xxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxx
+xxxxx >D  ^ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxx
+xxxxx[=====]xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxx
+xxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxx
+xxxxx       xxxxxxxxxxxxxxxxxx..."x"."x"."x"."xooxx
+xxxxx~  xxxxxxxxx..xxxxxxxxxxx   "x" "x" "x" "xooxx
+xxxxx   xxx> >             <Vx  x"x"x"x"x"x"x"xooxx
+xxxxx   xxxx xxx        KKK| x  x"x"x"x"x"x"x"xooxx
+xxxxx   xxxx xxx     >  |+|K x  x"x"x"x"x"x"x"xooxx
+xxxxx   xxxx xxx        K|KK | <x"x"x"x"x"x"x"xooxx
+xxxxx   xxxx xxx>    V       x++x   x   x   x"oooxx
+xxxxx        xxx             x++oxxxxxxxxxxxxxoooxx
+xxxxx        xxx^           <x++ooxxxxxxxxxxxxoooxx
+xxxxxxxxxxxxxxxxxxxxx|xxxxxxxxxxooxxxx.......xx|xxx
+xxxxxxxxxxxxxxxxxxxxx^xxxxxxxxxxooxxx           xxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxx][xxx xxxxxxxxx xxx
+xxxxxxxxx.....xxxxxxxVxxxxx...x | <x  xxxxxxxxx xxx
+xxxxxo+ow     wwwwwwx xxxx       x   xxxxxxxxxx xxx
+xxxxxooo            x xxxx+xxxx xx  xxxxxxxxxxx xxx
+xxxxxKKK            x xxxx+xxxx  >^xxxxxxxxxxxx xxx
+xxxxx|KK               xxx+xxxxxxxxxx....xxxxxx xxx
+xxxxxK|K               xxx+x>      VK           xxx
+xxxxxKK|   V         <+xxx+x >    V K           xxx
+xxxxxK|K    xxxxxxxxxxxxxxox  >  V  K           xxx
+xxxxx|KK               xxxKx   ++   K           xxx
+xxxxxK|K               xxx x   ||<  K           xxx
+xxxxxKK|   >         < xxx x  ^   < K           xxx
+xxxxxbbb             3 xxx x ^     <K           xxx
+xxxx                   xxx x^       <           xxx
+xxx  mmmmmmmmmmmmmmmmmmxxx xxxxxxxxxxx          xxx
+xxx  xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx          xxx
+xxx   x.xxxxxxxxxxxxx...xx xxxxxxxxxxx          xxx
+xxxxx   K         K        xx........x          xxx
+xxxxx   K>        K +++++ ^x  |||             |^xxx
+xxxxx[xxK|xxxxxxxxxxxxxxxxxx  |>             ||oxxx
+xxxxx                   x..x  |||      3     |ooxxx
+xxxxx                   x  x                |oooxxx
+xxxxx   K^K               <x                |oooxxx
+xxxxx   KKK                x                xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx                x...xxx
+xxxxxxxx..xxxxxxxxxxxxxxxxxx    xx              xxx
+xxxxx> w  wwwwwwwwwwwwwwwwww  |^xx              xxx
+xxxxx||     mmmmmmmm xxxxx    |xxx              xxx
+xxxxx       xxxxxxxx x..xx    |xxxxxxxx         xxx
+xxxxx       wwwwwwww w  ww    |xxxxxxxxxx       xxx
+xxxxx mmmm                    |xxxxxxxxxx       xxx
+xxxxx xxxx|||||||||||||||||||||xxxxxxxxxxx      xxx
+xxxxx xxxx+mmmmm++mmmmmm++mmmmxxxzzzzzzzzxx+ 3 +xxx
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzxxxxxxxxxx
+xxxxx x...zzzzzzzzzzzzzzzzzzzzzzzzzxxxxzzzzzzzzzzxx
+xxxxx x   xxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxzxx
+xxxxx     > |V|       mmmmmmmmmm              3xzxx
+xxxxx         |       xxxxxxxxxx3        x x x xzxx
+xxxzx         |    333x........x        Kx x x xzxx
+xxzzx^|  3   ||          ++++          |Kx x x xzxx
+xxzGx||++++++<|       xxxxxxxxxx      KK|x x x xzxx
+xxzzx||||||||||3      wwwwwwwwww     |K|Kx x x xzxx
+xxzzx        5                   >  |K|K+x+x+x+xzxx
+xxzxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxzzx[======]xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxxzx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxzzxxxxzxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxx
+xxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

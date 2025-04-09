@@ -1,0 +1,44 @@
+MUHAHA_PWND
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                 KKKxx
+xx                            #    KKKxx
+xx                                 KKKxx
+xx                   xxz|     <    KKKxx
+xx          xzzzx   x   |   xxxxxxxKKKxx
+xx               x     mx      xKKKKKKxx
+xx              mx     x  ]    xKKKKKKxx
+xz          + mmx             +xKKKKKKxx
+xz          x xx           m  +xKKKKKKxx
+xzb b b b b  x  xmmmmmmmxxxxxxxxKKKKKKxx
+xz mmmmmmmmmmmmmxxxxxxxx  KKKKKKKKKKKKxx
+xzxxxxxxxxxxxxxxxo o+oox  KKKKKKKKKKKKxx
+xz+VVVVVVV+     xbbbbbbx  KKKKKKKKKKKKxx
+xz|||||||||     x||||||x  |||||||||||<xx
+xz                     x              xx
+xz                     x              xx
+xz                     x              xx
+xz^                    x              xx
+xxxxxxxxxxx            x              xx
+xxtK     Kxxm     4 ^  x              xx
+xx+++++++++xx          x              xx
+xx++++++++++xxm     ]  x              xx
+xxbbbbbbbbbbbxx        x              xx
+xx||||||||||||xx m     x              xx
+xx             xxxxxxx]x+             xx
+xx>      ^              xx            xx
+xx            V<      ]  x ]          xx
+xx                       x            xx
+xx             ^m     ]  x   ]        xx
+xx             ==        x      ]     xx
+xx                  mmmmmx         ]  xx
+xx^ ........        xxxxxx           ^xx
+xx  ........  >   ox                 ]xx
+xx  ........  >  ozz                  xx
+xx  ........o oo xxz                  xx
+xxxxxxxxxxxxxxzxxxxx  D               xx
+xGLzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

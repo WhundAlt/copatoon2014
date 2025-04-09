@@ -1,0 +1,1 @@
+&displayAds=no&adsPath=data/ad2.swf&

@@ -1,0 +1,96 @@
+Steel City
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                       x
+x                                                               ||||||  x
+x                                                              ||++++|| x
+xKKK KGK KKK KKK K     KKK KKK KKK K K   """  " " "   """ """ ||++++++||x
+xK    L  K   K   K     K    K   K  K K   "  " " " "   "   "   |++++++++|x
+xKKK  K  KKK KKK K  K  K    K   K  KKK K """  " " "   """ """ |++++++++|x
+x  K  K  K   K   K     K    K   K   K    " "  " " "   "     " |++++++++|x
+xKKK  K  KKK KKK KKK   KKK KKK  K   K    "  " """ """ """ """ |++++++++|x
+x                                                        >    ||++++++||x
+x              o                                         "     ||++++|| x
+x              K                                         "      ||||||  x
+x              K                                 5    5  "   >V         x
+x              K                               KKKKKKKKKK"KKKK          x
+xKKKKKKKKKKKKKKKKK                             K         "   K          x
+xKxxxxxxxxxxxxxKxK                             K         "x  K          x
+xK    x        KxK                             K   x     x   K          x
+xK+   x   >    >V                              K" x x   x    K          x
+xKK < x   x    V<                              K"x   xxx     K          x
+xK |  xK# x xxx x                              K"            K          x
+xK  ^ xKKKx  5  x                              K"            K          x
+xK    xxxxx||||<x                              K"            K          x
+xK / V    x|||| x                              K"  x===x    "K          x
+xK ^|   <"x|||| x                              K           x"K          x
+xK      x"xxxxxxx======bb                      K            "K          x
+xK      x"      |     bb                       K            "K          x
+xKK ^|^ x"  ++++| >  <b                        K            "K          x
+xKK  V +x"  ++++|   bb  mmmmmmmmmmmmmm         K    x  x  x  K          x
+xKx||||xxxxxxxxxx  bb  KKxxxKKKKKKKKKK         K x           K          x
+xK VVVV        "x bb   KK>| """"x""" K         K"            K          x
+xK ||||   bbb  "xKb    KK |   m"x"   K         K"            K          x
+xK ^^^^ bbbbbbb"xK     KK ||||x"x"   K      mmmK"   +  +"    K          x
+xKxxxxxxxxxxxxx"xK     KK^    x"w"   K    mm||KK"x  x  x"    K          x
+xK VVVVVVVVVVVV xK     KK     x"""   x  mm|||  Kxx      "    K          x
+xK |||||||||||| xK     KKxxx  xmmm   |mm|||  " K        "    K          x
+xK              xK     Kx     xxxxx >||||    " K             K          x
+xK              xK     Kx|>  x  <|xxxxxxxxxxx"xK"x  x  x  x  K          x
+xK              xK     Kx|>     <|x   /      " K"            K          x
+xK             =xK     Kx|>     <|x   //o    " K" oKoKoKoKoK K          x
+xK VVVVVVVVVVVVVxK     Kx|> x   <|x   ==== /   K" KoKoKoKoKo K          x
+xK ^^^^^^^^^^^^^xK     Kx|>     <|x        o/  K" ||||||||||<K          x
+xK xxxxxxxxxxxxxxK     Kx|>   x <|x /  /  =====K"            K          x
+xK             bxK     Kx|>     <|x /o /       K"            K          x
+xK  b          bxK     Kx|>     <|x ====  /    K"            K          x
+xKbbb    bb  obbxK     Kx|> x   <|x/    / o    K"            K          x
+xKbbbbo bbbb xxxxK     Kx|>     <|x/ / ====    K"            K          x
+xKxxxxx xxxx=xxxxK     Kx|>     <|x///         K"            K          x
+xxxxxxx=x     b xK     Kx|>   x <|x============K"            K          x
+xx///         bbxK     Kx|>     <|x            K"           ^K          x
+xx///        bbbxK     Kx|>     <|xxxxxxxxxxxx Kxxxxxxxxxxxx"K          x
+xx/// xxxxxxxxxxxK     Kx|> x   <|x            K> VxKxxxxxxx"K          x
+xx///= x"   <   xK     KxVx     <|x  xxxxxxxxxxK x xKxxxxxxx"K          x
+xx///  x" >  |< xK      x x     <|x            K x  K   xxxx"K          x
+xx///  x"x  <> Vx       x x   x <|xx           K x> K    |  "K          x
+xxxxxx x"xbb   >|>      |       <|<x           x x       |  "K          x
+xKxxxx=x"xbbbb  |       | >     V|<x     >     | x       |  "K          x
+xKxxxx  "xxxxxxxx       xxxxxxxxV|xx K         |         |  "K          x
+xKxxxx   x"bbbbb|       |  <   x>|xx KKK  K   xx  >  |   |  "K          x
+xKxxxxxxxx"bbbbb|+++++++|  <    xxxxKKKK KK  KxK)    |  |||<"K          x
+xKxxxxxxxx"xxxxx|||||||||  <     KxxKKKKKKKKKKxK xxx||  KK  "K          x
+xK      xx"bbbb"xKKKKKKKxxxxxxx  KxxKKKKKKKKKKxx x/x |  x">^xK          x
+xK +/   /K"bbbb"KKKKKKKKK   K    Kx |||||||||||x /x/ xxx/" xxK          x
+xK /K//xKKKxxKx"KKKK KKKK   K   xKx           ^x x/x /x/x" xxK          x
+xK KKKK/KKKxKKx"KKK   KKK   K    Kx           ^x /x/ x/x/" xxK          x
+xK KKKKKKKKKKKx"KK     KK   K  x Kx            x x/x /x/x" xxK          x
+xK |||||||||||x"KK     KK   K    Kx>           |^/xx x/x/" xxK          x
+xK            x"K       K   KxK  Kx            |         "^xxK          x
+xK            x"K   4   K   K K  Kx            xxxxx xxxxxxxxK          x
+xK             "K       K  xK K  Kx            KKKKK xxx     K          x
+xK           ^<"K       KbbxK K  Kxx          ^KKKKK         K          x
+xK            xxK       KbbxK K  Kxx    x  xx "xKKKKxKKKKxxx K          x
+xK         x  xxx       KbbxK V <Kxxx   xx xxx"x|||||||||    K          x
+xK     x   xx x>|       Kbbxb <  Kxxx xxxxxxxx"x             K          x
+xK x xxxx xxxxx |    "  Kbbx     Kxxxxxxxxxxxx"K            bx          x
+xK xxxxxxxxxxx  xKKKK"  Kbbx x   Kxzzzzzzzzzzx"K          b /x          x
+xK            >^KKKK "  Kbbx x   Kxzxxxxxxzzzx"K ^      b////x          x
+xK      5      xK"""""  Kbbx x   Kxzzzzxzzzxxx"x |   <b//////x          x
+xK ============xK"      Kbbx x   Kxzzzzzzzzxxx |||    ///////x          x
+xK 5         5 xK"   mm Kbbx x   Kxxzzxxxzzzzx |||    xxxxxxxx          x
+xKxxxxxxxxxxxxxxK"  mxxmKbbx x    xxzzzzxzzzzxxxxxxxxxxV    <|          x
+xK"""""""""""""""" mxxxxKbbx x x^<|xxxxzxxxzz  |       <++++ |<         x
+xK   mmmmmmmmmmmmmmxxxxxKbbx x x  |<zzzzxxxzz  | bbbbbbbbbbbbxxxxxxxxxxxx
+xKzzzxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxVVVxxxxxx
+xKzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||||xxxxx
+xK     ww  "     bbb    K        |   xxxwwww""""wwwww"          VVV|xxxxx
+xK         "   //bbb   >   V     | "  ww    "mm"""""""   b      ||||xxxxx
+xKbb  "    " b|||//b    K        | "    """""xxmmmmmm"  bb   >  VVVxxxxxx
+xKbb  "bb  "xx====|bx x K/    bb<| " xxx     xxxxxxxxbb bKb    bKKK   xxx
+xxbbb "/> />     /|bb> ^K/ />////^   x++     xxbbKKbb/bbK|/b  bbKKK   xxx
+xx//b "/bK/bmmmmmx|/b 5 KKK/bbbbbbmmmx++ mmmmxxbKKKbKKK/K|KbbbKbKKK D xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

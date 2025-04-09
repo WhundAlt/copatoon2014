@@ -1,0 +1,44 @@
+Mayan_Cave
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                     "x
+x+         |||      <                 "x
+xx         |KKxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxxx +x[[[x|K+xV                    <x"x
+V <x+xx   x|K+x                      x"x
+   x+xxxxxxxxxx xxxxxxxxxxxxxxxxxxxx x"x
+  ^            <x                KKx x"x
+  xx+xxxxxxxxxxxx>   >        <||K+x x"x
+  xx+xxxxxxxxxxxxx      xxxxxxxxxxxx x"x
+  xx+xx     >   V       xxxxwwxxxxww x"x
+  xx+xx           "xxxx wwww  wwww   x"x
+  xx+xx  xxx      "x++x    >        <x"x
+  xx+xx    x      "xGbxxxxxxxxxxxxx  x"x
+  xx+xx   +x^  <  "x  z          xx  x"x
+  xx+xxxxxzxxxxxxx"x  z          xx  x"x
+  x            K++"x [xxxxxxxxxx"xx  x"x
+  >      >   <|K++"x  x    ++++x"xx  x"x
+  x    xxxxxxxxxxxxx  x    bbbbx"xx  x"x
+  x    xwxxxxxxxxwww^xx        x"xx  x"x
+  x   ]x xxxwxwwx     xD       x"xx  x"x
+  x  ] w wwx x  w     xxxxzxxxxx"xx  x"x
+  x ]      w w      x"xxxx xxxxx"xx  x"x
+  x                 x"   x]   zz"xx ^ "x
+  xzxx              x"   x    zz"xx   "x
+  x++xxxKKKKKKxxxxxxxxxx"xxxxxxx"xx   "x
+  xbbxxx||||||xxxxxxxxxx"xxxxxxx"xx   "x
+ >     V+++++   xxxxxxxx"xxwxxwx"xx   "x
+  x  xx xxxxx^ <xxxxxxxx"xw xw x"xxxxx"x
+  x   x>   Vxxx xxxxxxxx"w  w  x"xxxxx"x
+  x   xxxxx xxx xxxxxxxx"      x"xxxxx"x
+  x       x xxx xxxxxxxx"      x"xxxxx"x
+  x^^     x>   ^xxwxwxxx"      x"xxxxx"x
+  x       xxxxxxxw w xxx       x"xxxxx"x
+  x#       wwwwww    www       x"xxxxx"x
+  xxx                      +   x"xxxxx"x
+ ^ <xxbbbxxxxxxxxxxxxxxxx mxm mx"xxxxx"x
+     x   xxxxxxxxxxxxxxxx xxxmxx"+++++ x
+>  ^ xmmmxxxxxxxxxxxxxxxxmxxxxxx"+++++ x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

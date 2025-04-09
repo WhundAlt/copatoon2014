@@ -1,0 +1,46 @@
+Unown_Path
+terrain 1
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxbbbbxxxxxxxxxx
+xxzzz                ||||||xLbbbz        x
+xxzzz                ||||||xxxxxz      xxx
+xxzzz D#             ||||||z>         <<<x
+x+"xxxxxxzxxxzxxx    ||||||z>         <<+x
+xx"xxxxxxwwwwwwwxx / |u||||xxxxxxxxxxxxzzx
+xx"xxxxxx       wxxxxxzxxxxxwwwwwww""""""x
+xx"xxxxxx        wwwww wwwww       """"""x
+xx"xxxxxx              mmmmmmmmmmmm""""""x
+xx"xxxxxx            m"""""""""""""""""""x
+xx"xxxxxx            w"""""""""""""""""""x
+xx"xxxxxx             wwwwwwwwwwwww""""""x
+xx"xxxxxx                          """"""x
+xx"xxxxxx                          """"""x
+xx"xxxxxxmmmmmmmmmmmmmmmmmmmmmmmmmm""""""x
+xx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxx
+xx"                  + >V>V>>        <"zxx
+xx"                 ++ ^V^V^<xxxxxxxxxxzxx
+xx"                +++>^>^>>^xzzzzzzzzxzxx
+xx"               ++++xxxxxxxxzzzzzzzGzzxx
+xx"              +++++zzzzzzzzzxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

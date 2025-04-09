@@ -1,0 +1,96 @@
+BeCareful
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx              xxxxxxxxxxxxx
+xxxx             xxxxxxxxxxxxx
+xxxx D  /         xxxxxxxzzxxxx
+xxxx=========="            xxxx
+xxxx          "   xxxxxxxx"xxxx
+xxxx          "   xxxxxxxx"xxxx
+xxxx          "   zzzzzzxx"xxxx
+xxxx          "   zzzzzzxx"xxxx
+xxxx      bb  " b zzzzzzxx"xxxx
+xxxx      bb  "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxxKKKKKK    "   xxxxxzxx"xxxx
+xxxxKK||KK    "   xxxxxzxx"xxxx
+xxxxK||||K    "   xxxxxzxx"xxxx
+xxxxK|++|<    "   xxxxxzxx"xxxx
+xxxx|||||||   "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx K  K     "   xxxxxzxx"xxxx
+xxxx K  K     "   xxxxxzxx"xxxx
+xxxx KmmK     "   xxxxxzxx"xxxx
+xxxx=======   "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx          "   xxxxxzxx"xxxx
+xxxx+++++++++ "   xxxxxzxx"xxxx
+xxxx+++++++++ " 3 xxxxxzxx"xxxx
+xxxx+++++++++ " 4 xxxxxzxx"xxxx
+xxxx[[[[[[[[[[[[[[xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx     o        xxxxxzxx"xxxx
+xxxx> |> b        xxxxxzxx"xxxx
+xxxx  V      o=== xxxxxzxx"xxxx
+xxxx  >      b    xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx^            ]xxxxxzxx"xxxx
+xxV<| <           xxxxxzxx"xxxx
+xx x        ===   xxxxxzxx"xxxx
+xx x              xxxxxzxx"xxxx
+xx x      +       xxxxxzxx"xxxx
+xx x    ===       xxxxxzxx"xxxx
+xx x              xxxxxzxx"xxxx
+xx x              xxxxxzxx"xxxx
+xx x  ^           xxxxxzxx"xxxx
+xx x===           xxxxxzxx"xxxx
+xx x              xxxxxzxx"xxxx
+xx x              xxxxxzxx"xxxx
+xx x  ==== =======xxxxxzxx"xxxx
+xx x            " xxxxxzxx"xxxx
+xx x   ===      " xxxxxzxx"xxxx
+xx x            " xxxxxzxx"xxxx
+xx x|>          " xxxxxzxx"xxxx
+xx> |>          " xxxxxzxx"xxxx
+xxxx|>          " xxxxxzxx"xxxx
+xxxx            " xxxxxzxx"xxxx
+xxxx            " xxxxxzxx"xxxx
+xxxx         2  "+xxxxxzxx"xxxx
+xxxx         =====xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx53          ++xxxxxzxx"xxxx
+xxxx==============xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx              xxxxxzxx"xxxx
+xxxx      #       xxxxxzxx"xxxx
+xxxxxxxzxxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzxxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxxzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzxxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxxzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzzxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxzzxxxxxxxxxxxxxxxzxx"xxxx
+xxxxxxxzxxxxxxxxxxxxxxxzxx"xxxx
+x~wwwww wwwwwwwwwwwww/x      xx
+x>                  </x      xx
+x>                  </x      xx
+x>                  </x      xx
+x>                  </xmmmm  xx
+x>                  </xxxxx  xx
+x>                  </xwwww  xx
+x>                  </x      xx
+x>                  </z++    xx
+x>                  </z++    xx
+x>mmmmmmmmmmmmmmmmmGm/xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

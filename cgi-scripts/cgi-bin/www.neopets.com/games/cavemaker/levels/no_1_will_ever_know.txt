@@ -1,0 +1,55 @@
+Sleepy Hallow 2
+terrain 3
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxKxxxxxxxxxxx +xxxxxxxxxxxx Vxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxKxxxxxxxx<xx" zxxxxxxxxxxxKKxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxK VVVVVVVVVx"xzxxxxxxxxxxx||x            zzzzzzzzzzzzzzzzzzzzzzzzGzzzzzxxxxxxxzzxxxxxxxxxxxxxxxxxx
+xxK |||||||||x"xzxxxxxxxxxxx               xxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzxxxxxxxxxxxxxxxxxx
+x>|<     ^    "xzxxxxxxxxxxx>  V           zxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzxxxxxxxxxxxxxxxxx
+xx            "xzzzzzzzzzzzz               zzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxxxxxxxxxxxxxx
+xx     +      "xzzzzzzzzzzzz^              zzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzxxxxxxxxxxxxxxxxx
+xx   +xxxx  Kxxxxxxxxxxxxxxxx^x xxxxxxxxxx zzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxzzzzzzzzxxxxxxxxxxxxxxxxxx
+x    xx  xK  xxxxxxxxxxwwwwww x oooooooooo+xxxxxxxzzzzzzzzzzzzzzzzzzxxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxx
+x +^xxx   |  xxxxxxxxxw       x|KKKKKKKKKKKKKxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxx xxxxxxxx               ||||||||||||||xxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxx b  b  b                              xxxxxxxxxxxxxxxxxxxxxxzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxx                       xxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xx> | wwxxxxxxxxxxx  /     KK             xxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"    |   +xxxxxxxxxxxxxxxx K^K            xxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"    |   ++xxxxxxxxxxxxxxxxxK|                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"    K   +++xxxxxxxxxxxxxxxx>|^                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxx|mmmmmmmmmmmxxxx  ^    xxxxxxxxxxxxKKKKKKKKKKK   xxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     +xxxxxxxxxxxKKKKKKKKKKKKK>xxxxxxxV      <xxxxxx
+x"xxxxxw  wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm o  +xxxxxxxxxxxKKKKKKKKKKKKKKxxxxxxx xxxxxx xxxxxx
+x"xxxxw    wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx||||||||||||||xxxxxxx xxxxxx xxxxxx
+x"xxxw      wxxxxxxxxxxxxxx>        V       xxxxx=xxxxxxxxxxxxxxx              xx+  +z xxxxxx xxxxxx
+x"xx+         xxxxxxxxxxxxx > >       V     xxxxx xxxxxxxxxxxxxxx K            xx" + z xxxxxx xxxxxx
+x"xx          xxxxxxxxxxxxx                 xxxxx xxxxxxxxxxxxxxx              xx"xxxx xxxxxx^xxxxxx
+x"+x           xx  "xxxxxxx  >          V   xxx<x xxxxxxxxxxxxxxx +            xx"xxxx xxxxxx   xxxx
+x""x               "xxxxxxx   >           V xxx<x +b+b+b+b+b+b+b+              xx"xxxx xxxxxx   xxxx
+x "x=              "xxxxxxx                 xxx<x b+b+b+b+b+b+b+b>      ^      |o"xxxx xxxxxxxx xxxx
+x "x          +xxxx"xxxxxxx    xxxKKKKKKKKKKxxxKx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxw xx       xxxx
+xx"x+         xxxxx"xxxxxxx    xxx  + + + + xox<xxxxxxxxxxxxxxxxzzzzzzzzzzxxx          K   #   xxxxx
+xx"xx+        xxxxw"xxxxxxx       |||>|>|>|K K KxxxxxxxxxoxxxxxxLzzzzzzzzzxx          >|   D xxxxxxx
+xx"xxx+       xxxw "xxxxxxx                       xxx<  xKxxxxxxxxxxxxxz           xxxxxxxxxxxxxxxxx
+xx"xxxx       xxx+ "xxxxxxx^^^                >      K  x|xxxxxxxxxxxxxx+         xxxxxxxxxxxxxxxxxx
+xx"xxxxx     xxxxxx"xxxxxxx   ^                ^  xxx   x xxxxxxxxxxxxxx xxxxxxxxxxxxxxx +xxxxxxxxxx
+xx"xxxxxx  xxxxxxxx"xxxxxxxxxxxxxx             ===xxx      +xxxxxxxxxxxx+xxxxxxxxxxxxxxx "xxxxxxxxxx
+xx"xxxxxx  xxxxxxxx"xxxxxxxxxxxxxx            ^  Kxxx    ^ +xxxxxxxxxxxx                 "xxxxxxxxxx
+xx"xxxxxx  xxxxxxxx"x            K           ^ xxKxxx  xxxxxxxxxxxxxxxxx                 "xxxxxxxxxx
+xx"xxxxxw  wxxxxxxx             >|          V|^ <K<K    "    +xxxxxxxx                   "xxxxxxxxxx
+xx"xxxxw    wxxxxxx              K ^        <    K |    "    +xxx             +  +  +    "xxxxxxxxxx
+xx"xxxw      wxxxxxxxxxxxxxxxxxx xxx x x x xx=x ^|xxxx  "xxxxxxxb        ===  b  b  b    "xxxxxxxxxx
+xx"xxx        xxxxxxxxxxxxxxxxxx xxx x x x x  xxx xx  =x"xxxxxxbb                         xxxxxxxxxx
+xx"x.x        xxxxxxxxxxxxxxxxxx xxxxxxxxxxx  xxx^ <   x~xxxxxx+b          mmmmmmmmmmmo ++xxxxxxxxxx
+xx"x w        K+xxxxxxxxxxxxxxxx^     <   <   xxxxxx+x x xxxxxxxxxxxxxx  oxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx"x      >   |+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  wwwx...xwwwwwx=x            x...xxxxxxxxxx
+xx"x          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      +      +       +    +      mxxxxxxxxxx
+xx"x       >  K> Vxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                mxxxxxxxxxxx
+xx"x|||||||||xxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx +      +      +  +    +     +  xxxxxxxxxxxx
+xx"xxxKKKKKK xxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx"xzxx++++x^wwww<xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,44 @@
+Its a Secret
+terrain 3
+background 1
+water clear
+xxxxxxxwwwwwwwwwwwwwwwxxxxzzzzzzzzxxxxxx
+xxxxxxxbbbGbbbbbbbbbbbzzzzzV          <x
+xxxxxxxxxxxxxxxxxxxxxxxxxxz> o o       x
+xt                     xxxxxxxxxxxxxx +x
+x                               ....x==x
+x                                   x+ x
+x                                   x[[x
+x                                   x +x
+x                                   x[[x
+x                                   x+ x
+x     +++++++++++                   x[[x
+x     oooooooooooo                  x +x
+x   ||||||||||||||                  x==x
+x                                   x+ x
+x                                   x==x
+x                                   x +x
+x          >     ^                  x==x
+x   xxzzxxxxxxxxxx          4       x+ x
+x " zzxxz+++zzz|zz                  z==x
+x " zzzzzzxxxxxxxx                D zzzx
+x " xxxxxxxxxxxxxx         "    "xxxxxxx
+x "    xxxxxxxxxxx         "    "..xxxxx
+x "    zzzzzzzzz x       " " "  "  xxxxx
+x "              x     " " " "  "  xxxxx
+x "    ommmmmmm++x     " " " "  "  xxxxx
+x " b xxxxxxxxxxzz..   "     "  " xxxxxx
+x "   .....xxLzzzzm   <"        " xxxxxx
+x "       1 xxxxxx==           xxxxxxxxx
+xxx          ....x             ...xxxxxx
+xxz=           o x             3  xxxxxx
+xzz            []x                xxxxxx
+xzz      #       x/o              xxxxxx
+xzzxx=          bx==   KKKK       xxxxxx
+xzzxx          bbx     o+KK       xxxxxx
+xzzxx=        bbbx     K+bb       xxxxxx
+xzzxz  mmmmmmbbb+x     KKbb       xxxxxx
+xzzzz============xxx===KKbb    +++xxxxxx
+xz+zx..        ..x..   KKKb    +++xxxxxx
+xz=xx++++++++++++x   ++KKKb    +++xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

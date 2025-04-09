@@ -1,0 +1,44 @@
+Boxy_Boxes
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xt     xxxxxxxx        xxxxwwwwwwwwwwxxx
+xx     xxxxx      xxxx xxxx          xxx
+xxxx              xxxx xxxx          xxx
+xxxx              xxxx  x            xxx
+xxxx              xxxx               xxx
+xxxx              xxxx #    bbbbbb   xxx
+xxxx    xxxx      xxxx      bbbbbb     x
+xxxx    xxxxxxx   xxxx      bbbbbb     x
+xxxxxx  xxxxxxxxxxxxxx+  ++ bbbbbb  ++ x
+xxxxxx  xxxxxxxxxxxxxxxxxxxxmmmmmmxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x                                    x x
+x+ bbbbb                   bbbbbb + "x x
+xb b<<<< <                xxxxxxxxxx"x x
+xb                        xx        "x x
+xb                        xx        "x x
+xb       ^              x xx        "x x
+xb                      x xx    + +  x x
+xb mmmmm                x xx=xx b b  x x
+x=======================x xx xx        x
+x                       x xx xx        x
+x                      bx xx       ++ +x
+x          b           bx xxxxxxxxxxxxxx
+x    xb  > b           bx xxxxxxxxxxxxxx
+x    x              xxx=x xxxxxxxxxxxxxx
+x    x              x b x xxxxxxxxxxxxxx
+x    x    xm        x b x xxxxxxxxxxxxxx
+x+bb+x    x"   mmmmmx b x xxxxxxxxxxxxxx
+xbb+bx    x"   xxxxxx xxx xxxxxxxxxxxxxx
+xb+b+x+b  x"   xwwxxx x   xxxxxxxxxxxxxx
+x+b+bxb+  x"   x   bx x   xxxxxxxxxxxxxx
+xb+bbx+b  x"   x xx=x=x  bxxxxxxxxxxxxxx
+x+bb+x==  x"   x +  x   bbxxxxxxxxxxxxxx
+x    x    x    xxxx x  bbbxxxxxxxxxxxxxx
+x D  x   ^b    bbbb x bbb+zzzzzzzzzzzzgx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

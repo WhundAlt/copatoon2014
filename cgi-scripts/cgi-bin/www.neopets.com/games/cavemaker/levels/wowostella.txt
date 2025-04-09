@@ -1,0 +1,82 @@
+Styx_Passage
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x              mxxxxxxxxxxxxm            x
+x              xxwwwwwwwwwwxx            x
+x              xw VV wx            x
+x              x 3 /VVVV/3  x            x
+x         mmmmmx  3/V||V/ 3 xmmmmm       x
+x         xxxxxx3  /VVVV/  3xxxxxx       x
+x         xwwwwx|||/////V|||xwwwwx       x
+x         x    bVVV VVVV VVVb    x       x
+x         x D  b   ^        b    x       x
+x         xxxxxxxxxxxxxxxxxxx====x       x
+x         xww               K    x       x
+x         x                 K +  x       x
+x         x             ++  K==  x       x
+x         x  === b b b ====     xx       x
+x         x  mmmmmmmmmmmmmm    mxx       x
+x         x==xxxxxxxxxxxxxxxxxxxxx       x
+x         x==wwxxxxxwwwwwwwwwwwwwx       x
+x         x    wwxxx  VVVVVVVVV  x       x
+x         x==    wxxxx|||||||||xxxmm     x
+x         x       wx             xxx     x
+x         xx       b  ^   <  <    Gx     x
+x         xxxmm    b            zxxx     x
+x         xxxxxxxxxx==         xzxww     x
+x         xwwwwwwwwx==        xxzx       x
+x         x        b         xxxzxmm     x
+x         x     +  b   ++   xxxxzxxx     x
+x         x==xxxxxxxxxxxxxxxxxxxxzzx     x
+x         x   wwwwwwwwxxxxzzzzzzzz"x     x
+x         x==        "x ||||< xxxx"x     x
+x         x== = = = ="b |||| =wwxx"x     x
+x        mxmmmmmmmmmm"bxxxxx^ < xx"x     x
+x        xxxxxxxxxxxxxxxKKK <   xx"x     x
+x        xzz++ wwxxxxxxx ">  <  xx"x     x
+x        xzx==   xxxxxxx "      xx"x     x
+x        xzx          xx "> ^   xx"x     x
+x        xzx==        bb "      xx"x     x
+x        xzx   ==     bb ">   ^ zz"x     x
+x        xzxmmmm    ==xxxxxxxxxxxxxx     x
+x        xzxxxxx ==   x wwwwwwwwwwwx     x
+x        xzzzzzz      b      "  "  x     x
+x        xxxxxxx mmm  b   "  "  " "x     x
+x        xxxxxxxxxxxxxx++ "  "  " "x     x
+x        wwxxxxxxxxxxxx==         "x     x
+x          xwwwxxwwwwwx           "x     x
+x          xmm ww mmmmx      "  " "x     x
+x          xxxmmmmxxxxx   "  "  "  x     x
+x       mmmxxxxxxxxxxxx " "  "  "  x     x
+x       xxxxVVVVVVVwwwx " "  "  "  x     x
+x       xxxx||||||||||x " "        x     x
+x       xxxx         || "          x     x
+x       xxxx          | mmmmmmmmmmmx     x
+x       xxxx^   == ==xxxxxxxxxxxxxxx     x
+x       xxxx         xwwwwwwwwwxxxww     x
+x       xxxx====     b         xxx       x
+x       xxxxmmmmmmm  b         xxx       x
+x       xxxxxxxxxxxxxxxxxxxxxzzxxx       x
+x       x bwwwwwwwwwwwwwwwwww  xxx       x
+x       x b                  ==xxx       x
+x       x=xxxxxxxxxxxxxxxxxxxxxxxx       x
+x       x >|< b     w w w xwwwwwxx       x
+x       x >|< b           x     xx       x
+x       xxxxxxxx=    + +  x   + xxmmm    x
+x       wwwwwwwx          x  ===xxxxx    x
+x              x==  o o o b     xxxxx    x
+x        mmmmmmxmmmmmmmmm b    nzzzzx    x
+x    mmmmxxxxxxxxxxxxxxxxxx==  nzzzzx    x
+x    xxxxx            www x     xxxzx    x
+x    xwx++          1     b   ==xxxzx    x
+x    x x==== KK           b  mmmxxxzx    x
+x    x x     KK   =====  xxxxxxxxxxzx    x
+x    x x     KK==        b wwwwwwwxzx    x
+x    x x  ===KK      ==KKb        xzx    x
+x    x x     KK        KKx        xzx    x
+x    x x==   KK=====   KKx===     xzx    x
+x    x b   KKKKKK      KKx    ==++xzx    x
+x    x#b            5  KKxmmmmm ++xxx    x
+x    x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    x

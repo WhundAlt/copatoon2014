@@ -1,0 +1,59 @@
+Besieged_Palace
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxK          xxxxxx      xxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKxxxxxxxxxxxxxxx
+xxxxxxxxK           xxxxx      xxxxxxxxxxxxxxxxxxxxKwwwwwwwwwwwwwwKxxxxxxxxxxxxxxx
+xxx  wwww    (       xxxx D   "xxxxxxxxxxxxxxxxxxxxK              Kxxxxxxxxxxxxxxx
+xxx                   xxxxxxxx"xxxxxxxxxxxxxxxxxxxxK           + "Kxxxxxxxxxxxxxxx
+xxx xxxxxx b b b         oo   "  wwwwwwwwxxxxx     K           KK"Kxxxxxxxxxxxxxxx
+xxwuwxxxxx       K      oooo   n  +      xxxxxKK   KV   <      ww"Kxxxxxxxxxxxxxxx
+xx   xxxxxmmmmmmmKK  # ooooooo   +++     xxxxxKK                 "Kxxxxxxxxxxxxxxx
+xx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx==xxzzzK|    < (          "Kxxxxxxxxxxxxxxx
+xx >      wwwwwwwVxxxxxxxxxxxxxxxxxxxxx  xxzxxKK                n"Kxxxxxxxxxxxxxxx
+xx        mmmmmmm xxxww  wwwwwwwwwwxxxxn xxzxxKKKKKK    +     +  "Kxxxxxxxxxxxxxxx
+xx  xxKKKKKKxxxxx xxx                    xxzxxwww       K  +  K   Kxxxxxxxxxxxxxxx
+xxmmxxww|Vwwxxxxx xxx      )         ommmxxzxx          w  |  w<  Kxxwwwwwwwwwwwxx
+xxxxxx      xxxxx xxx               xxxKKxxzxx )     K  ) +V   b  Kxx           xx
+xxxxxx      xxxxx xxx    K        "xxxxwwxxzxx       w +  K      +Kxx           xx
+xxxoxx  (   xxxxx xxx"K           "xxxx  xxzxx     K   K  w      KKxx           xx
+xx K     <  xxxxx xxx"        K   "xxxx  xxzxx    xK   w         wKxx     K     xx
+xx      ^ mmmmmmm<xxx"     K      "xxxx  xxzxx   xxKmmmmmmmmmmmmmmKxx    3   K  xx
+xx   xxxxxxxxxxxxxxxx"             xxxx  xxzxx "xxxKKKKKKKK|KKKKKKKxx  K     w  xx
+xx===xxxxxxxxxxxxxxxxK +           xxxx  xxzxx "xxxxxxxxxxxzxxxxxxxxx          Gxx
+xx   xxxxxxxxxxxxxxxx  K +          xxxmmxxzxx "xxxxxxxxxxxzxxxxxxxxx  3        xx
+xx   xxxxxxxxxxxxxxxx    K +     (  xxxKKxxzxx "xxxxxxxxxxxzxxxxxxxxxK    K     xx
+xx   wwwwwwxxxxxxxxxx      K +         wwww   ( xxzzxxxxxxxzxxxxxxxxxw    w     xx
+xx )       xxxxxxxxxx        K +            mm  zzzzzxxxxxxzxxxxxxxxx  K   K    xx
+xx         xxxxxxxxxx          K KKxxxx==xxxxx  xxxzzzxxxxxzxxxxxxxxx  w   w    xx
+xxxmxxxxx  xxxxxxxxxx            KKxxxx  xxxxx"xxxxxzzzxxxxzxxxxxxxxx        K  xx
+xxxxKKKKK  KwxxxxxxxxmmmmmmmmmmmmKKxxxx  xxxxx"xxxxxxzzzxxxzxxxxxxxxx           xx
+xx         Kmmxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxx"xxxxxxxzzzxxzxxxxxxxxx          Kxx
+xx KKKKKKKKKKKxxxxxxxxxxoxxxxxxxxxxxxww  wwxxx""xxxxxxxzzzzzzzzzxxxxx  KK      wxx
+xx wwwwwwwwwwwwwxxxxxwwwowwwxxxxxxxxw      wxx "xxxxxxxxzzzzzzzzzzzzz  wK       xx
+xx              xxxxx   K    xxxxxxxm      mxxn"xxxxxxxxxxxxxxxxxxxxxK  w K  K  xx
+xxxxKKKKKKKKKKK wwwww         xxxxxxxmmmmmmxxx""xxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmxx
+xxxwwwwwwwww                  oxxxxxxxxxxxxxxx" xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxm    mxxx      mmm   ^  >  Kwwwwwwwxxxxxxxx" xxwwwwwwwwwwwwwwwwwwwwwwwww    xxx
+xxxxm  mxxww      xxxm                xxxxxxxx"                               "xxx
+xxxxxmmxxx       mxxxxmK K            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxx
+xxxxxxxxxx u     xxxxxK===Kxm    )    xxxxxxxxxxxxxxxxxxxxxwwwKwwwwwKwwwxxxxxx"xxx
+xxxxxxxxxx   Vxxxxxxxxw   wxx         xxxxxxxxxxxxxxxxxxxxx   K     K   xxxxxx"xxx
+xxxxxxxxxx    wwwxxxxxm   mxx   mm    xxxxxxxxxxxxxxxxxxxxx   K+   +K   xxxxxx"xxx
+xxxxxxxxxx       xxxxxK===Kxxmmmxx    xxxxxxxxxxxxxxxxxxxxx5  K++"++K  5xxxxxx"xxx
+xxxxxxxxxx       xxxxxw   wxxxxxxx    xxxxxxxxxxxxxxxxxxxxxKKKK=="==KKKKxxxxxx"xxx
+xxxxxxxxxxmmmmmmmxxxxxm   mxxxxxxx    xxxxxxxxxxxxxxxxxxxxx   w  "  w   xxxxxx"xxx
+xxxxxxxxxxKKK|KKKxxxxxK[[[Kxxxxxxx    wwwwwwwwxxxxxxxxxxxxx     n" )    xxxxxx"xxx
+xxxxxxxxxxwwwwwwwxxxxxw   wxxxxxxx  >       V xxxxxxxxxxxxx      "      xxxxxx"xxx
+xxxxxxxxxx       xxxxxm   mxxxxxxoo         u wwwwww    xx               xxxxx"xxx
+xxxxxxxxxxbb   +bwxxxxK===Kxxxxxoooo          mmmmm   K xx  K b b b b K  xxxxx"xxx
+xxxxxxxxxxb+ ) +b wwwww n wooooooooxxxxxxxxK|Kxxxxxm )K     K         K        xxx
+xxxxxxxxxx+b   bb         oooooooxxxxxxzLxxwwwxxxxxx  K     KmmmmmmmmmK        xxx
+xxxxxxxxxxxxxxxxxxxxxxx===xxxxxxxxxxxxzzzxx   xxxxxxK|Kxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxzzzzzzz   xxxxxxwwwxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxK   Kxxxxxxxxzzzzzxxx ) wwwwww n xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx   xxxxxxzzzzzzxxxxx >        ^ xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx w   w zzzzzzzzzxxxxxx============xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxmommmomxxxxxxxxxxxxxxxmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

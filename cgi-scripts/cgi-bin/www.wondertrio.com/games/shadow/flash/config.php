@@ -1,0 +1,1 @@
+server=www.thirteen4.com&base=/sega/shadow/flash&scoresurl=/scores.php&viewingtype=FLASH&filename=data/shadowscores.sco

@@ -1,0 +1,46 @@
+The_Pirate_Elements
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx^<xxxxxxxxxxxxxxxxxxxxxxxxxxxx++++xxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxx KKKK xxxx
+xxx+ xxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxx
+xxx+ xxxxxxxxxxxxxxxxxxxxxxxxxxxV <> Vxxxx
+xxx+ xxxxxx  xxxxxxxxxxxxxxxxxxx ^  ^ xxxx
+xxx+ xxxxx    xxxxxxxxxxxxxxxxxx      xxxx
+xxx|^xxxxx       "xxxxxxxxxxxxxx>^  ^<xxxx
+xxx xxxxxx  D    "xxxxxxxxxxxxxx      xxxx
+xxx xxxxxxxxxxxxx"xxxxxxxxxxxxxx      xxxx
+xxx   |/|/|/   xx"     xxxxxxxx       xxxx
+xxx^ <||/|/|        #   <             xxxx
+xxx xxxxxxxxx      [=]                xxxx
+xxx xxx"                              xxxx
+xxx xxx"      xxxx     xxx  xx        xxxx
+xxxxxxx" xxxxxxxxxx" "xxxx] xxx   ^^  xxxx
+xxxxxxx"  |+| |+|xx" "xxxx  xxx       xxxx
+xxxxxxx"  /|| /||xx" "xxxx [xzzzx     xxxx
+xxxxxxx"          x" "xxxx  xzzzx ^^  xxxx
+xxxxxxx"          x" "xxxx] xzxxxxxxxxxxxx
+xxxxxxx"  |||   ||x" "xxxx > >KK  ++++xxxx
+xxxxxxx"  /+|   /+x" "xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx" "xxxxxx"xxxxxxxxxxxxx
+xxxxwwxxxxwwwwwxxxx" "xxxxx"""xxxxxxxxxxxx
+xxxx  xxx       xxx" "xxxx"" ""xxxxx  xxxx
+xxx+   x    3    xx" "xxx""   ""xxx   +xxx
+xxx+   x         xx" "xx""     ""x    +xxx
+xxx+       = =    x" "x""       ""    +xxx
+xxx+     [     ]   " " "         "    +xxx
+xxxxm     mmmmm        "mmmmmmmmm"    xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

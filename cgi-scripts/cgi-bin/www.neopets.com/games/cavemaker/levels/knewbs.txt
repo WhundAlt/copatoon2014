@@ -1,0 +1,28 @@
+Bombs_and_Arrows
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x >   >   K                                                                    |++++++++|xx
+x|   |    x>  |/| V                            +>++   ++++  ========    VVVVV   |++++++| xx
+x+|+|+|VVox G  |                               KKKK   KKKK "   V        ^^^^^    ||||||  zx
+x|+|+|+| ox    |                               KKKKo oKKKK      <V  b   +++++o  |       <zx
+xVVVVVV  ox^ < K |||||||||||||||||||||||"      ||||oVo|||| "   ^ <    xxxxxxxxx |        zx
+x  V     oxzzzzzxKKKKKKKKKKKKKKKKKKKKKKK"       ^  <|<  |       b     V         <        zx
+x  V    >oxmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"      mmmm ^ mmmm "mmmmmmmmm ||||||||||  ====   zx
+x         x[===========================]"      xxxx   xxxx  www>wwwVw VVVVVVVVVV  mmmm   xx
+x# >   ^                                "           D                 <<<<<<<<<<  ====   xx
+xxxxxxxxxx=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmx| xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxmzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx===x|[zzzzzzzzzzzzzzzzzzzzxx
+xxxxxxxx+xxxxxxxxxxxxxxxxxx=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[=]xxxxxxxxxxxxxxxx||||xzzxx
+xV>>>>>                                                                <<<<<<V<x|x|xx|xxzxx
+x>     | V<"===============]               mm    m                     ^     < |x||KK||  xx
+x||||||||KKKK+++++++++++K  "     m        mKKm  mKm    mm           |          |>  bb | |xx
+x|    KzK K|||||||||||||| |"    mKm  mm  mKbbKmmKLKm  mKKmm         |        V<| bbbb | |xx
+x|  K  = =KKVVVVVVVVVVVV  |"   mKbKmmKKmmKb++bKKb+bKmmKbbKKmm       |        < | bbbb | |xx
+x| K+       mmmmmmmmmmmm  |"   Kb+bKKbbKKb+bb+bb+b+bKKb++bbKKm  ^   |       <  | ++++ | |xx
+x|K++    =  wwwwwwwwwwww  |"   b+b+bb++bb+bbbb++bbb+bb+bb++bbK  ^<  |   <      | bbbb | |xx
+x|+++  =                  |"   +bbb++bb++bbbbbbbbbbb++bbbbb++b  ^<  |     <    | bbbb | |xx
+x|+++>    < KKKKKKKKKKKK^ |"   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb+  ^<  K <        |^       |xx
+x|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||K||||||||||xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

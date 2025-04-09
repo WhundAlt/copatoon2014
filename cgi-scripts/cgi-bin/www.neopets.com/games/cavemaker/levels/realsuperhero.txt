@@ -1,0 +1,46 @@
+Speedyconsalez race2
+terrain 4
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx>  VxV  <| <xKooox
+xxxxxxxxxxxxxxxxxxxxxxxx xx x x  V  x><<<x
+xKKKKKKKKKKKKKKKKKKKKxxx x > Vx+    x    x
+xKKKKKKKKKKKKKKKKKKKKxxx x  x x> < ^x    x
+xK|||||||||||||||||||xxx x  xKxxxxx x  >^x
+x   /   /            |xx x  x       +    x
+x   /   /          > |xx x  x xxxxx=x=   x
+x                    xx>^w  <    <| x    x
+x     /   /          x xxx         =x   =x
+x D   /   /        ^<  x+x ^        x  ^<x
+xxxxxxxxxxxxxxxxxxxxxx=x+x |       =x =  x
+x   >        K         x+xKKK       x  >^x
+x> >         K>       <<+xK+K  o ^ =x    x
+x          +KxxxxxxxxxxxxxxxxKxxxxxxx =  x
+x  ^       KKxxV          <|x    | <x    x
+x   ^     KKKxx|>  |>  |    x    | +x   =x
+x        KxxxxxV   V   V> V x x= xx=x  ^ x
+xxzxxxxxxxx|xxx             x x =xx x=   x
+xV < >w +  KxxxK   K   K  K x=x= xx=x    x
+x = x x     x> >   >   >  >^x x =   x =  x
+x   x x     x                 x==== x    x
+x =^x x =   x^               =x ====x   =x
+x   x^x   # |              x+ x=== =x    x
+x> ^| w   < K              xx x==== x= ^<x
+xzxxxxxxxxxxxx             xx x ====x    x
+x=K  > >>>> Vxmmmmmmmmmmmmmxx x  +  > >>^x
+xnK  |      Vx///////////xxxx xxxxxxxxmmmx
+x K V        x      /    x  x  bbbbbxxxxxx
+x=K          x      /   Vx  xmxbbbbbbbb  x
+x K   |||||||x    +      x  xxxbbbbbbbb  x
+x b < ||||| ^     /           xbbbbbbbb  x
+x     |           /     ^+    x///////b+Vx
+x=    | |||||x|||||||||||x=   xmmmmmmmxx x
+x    ^>  |   x      ^    x    xxxxxxxxxx=x
+x     || |<  xmmmmmmmmmmmx               x
+x        |   xxxxxxxxxxxxx=              x
+x   ||||||   V <         x               x
+x   x         >   K V +++x+      +       x
+x   xK       / ^  K> <===x= / /  = / /  =x
+xmmmxKK       >   K|< mmmxmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

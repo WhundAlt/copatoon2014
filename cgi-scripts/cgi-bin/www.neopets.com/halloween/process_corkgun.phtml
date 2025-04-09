@@ -1,0 +1,18 @@
+<?php
+if($_GET["success"] == 0)
+{
+    echo "totalnp=1000&success=0&error=Sorry+try+again%21";
+}
+else
+{
+    $random = rand(1,25);
+    if($random == 5)
+    {
+        echo "totalnp=1000&success=" . $_GET["success"] . "&error=You+won+a+prize%21";
+    }
+    else
+    {
+        echo "totalnp=1000&success=0&error=Sorry+try+again%21";
+    }
+}
+?>

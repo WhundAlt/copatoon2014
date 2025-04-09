@@ -1,0 +1,46 @@
+Friend_or_Foe
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxtxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    b< K+K+K+K+KwwxwwxLx           o   xx
+x #>  ^ KoKbKoK/> /> Vx+x +        >b   xx
+xxxx   xxbx xbx/xxVx  x+x V   x         xx
+xxxxx] x           x  x+x   ==xx   ^   <xx
+xxxxx  xx^x^x^x^xx x  x+x+    xxx==   [ xx
+xx+ x [xx/>/>^     x  xoxV    xxx>     ^xx
+xx+ x> > ^ V  V  < x   =    ==xxx/  =   xx
+xx+ x              >   /  ^   > 5/  =   xx
+xxx x[]    >   ^ ^   <   ^/   xxx   =   xx
+xx  x   [[===  =]"          [=xxx   =   xx
+xx  z         <  "            xxx m = m xx
+xxxxx mmm         1           xxx   =   xx
+xxxxxxxxxmxmmmxmmxx  xx=xxx"xxxxxmmm=mmmxx
+xxxxxxxxxxxxxxxxxxx  x = x " xxxxxxx xxxxx
+xxxxxxxxxxxxx+++++x  x = x " x          xx
+x       wwwwwooooox  x = x   x+         xx
+x            oooooxmmx+  +  +x++        xx
+x            oooooxxxxo oxxxxx++    [[=]xx
+x D          ooooox++xmmmxxxxx==        xx
+xxxx         b/ooox++xxxxxxxxx    / >  Vxx
+xx     x>      />Vx++xxxxxxxxx          xx
+xx     x xxx^  <K x+oxxxxxxwwKoo  o   </xx
+xx     x^    < /K||Kb   < oo  =======[ Vxx
+xx     x       /K||K      bb            xx
+xxmmmmmx       /<||K                3   xx
+xxxxxxxx xxxx xxxxxx                    xx
+xxxx+++z   x+ xxxxx====K  ^^  ^   ^ ^   xx
+xxxxG++z+  x+     z    K^<// </  </</  <xx
+xxxxxxxxxx"xo     z    K                xx
+xxxxxx    "xo    "xxxxxxmmmmmmmmmmmmmmmmxx
+xxxxxx    "xo    "xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx5   "xo    "xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx"xxxb  < "xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx"  x/    "xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx"    ^   "xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

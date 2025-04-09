@@ -1,0 +1,36 @@
+Labyrinth
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxx
+xxV<xxxxxxxxxxxxxxxxxxxx
+xx ^   >>>>|>>>>>|Vxx
+xx#           V      Vxx
+xx>>>>>>^         V<<<xx
+xx                >>>Vxx
+xx+++++++++++        Vxx
+xx|||||||||||         xx
+xx >          ++++++  xx
+xx||||||||||||||||||| xx
+xx   +   z            xx
+xx   +   z            xx
+xxoooxoooxK           xx
+xxoooxoooxKKKKKKKKKKK|xx
+xxoooxooox           Vxx
+xxxooxooxx    3       xx
+xxGooxooLx    3       xx
+xxoooxooox    3       xx
+xxxoooooxx    3       xx
+xxxxoooxxx    3       xx
+xxxxxoxxxx            xx
+xx   /               <xx
+xx                    xx
+xx                    xx
+xx                    xx
+xx                    xx
+xx                    xx
+xx                    xx
+xx                    xx
+xxmmmmmmmm      o 2 +Dxx
+xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx

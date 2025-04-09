@@ -1,0 +1,46 @@
+Squidgy_Caves
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxGxxxxxxxxxxxxxxxxxxxxxxxxzzx       + oxx
+xxzzzzzzzzzzzzzzzzzzzzzzzzzzzx      ooooxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxzz      ooooxx
+xxooo    +  xxxxxxx+++   txxzz      ooooxx
+xxoooo   o  xxxxxxx+++  + xxxx D    ooooxx
+xxoooooooo  xxbxbxx]]]  + xxxx[[=]] ooooxx
+xxoooooooo  xxxxxxx     + x>V>     |||||xx
+xxoooooooo  xxbbbxx     + x    b+b+     xx
+xxoooooooo  xxxxxxx]]]  b x   b b b     xx
+xxoooooooo  xxxxxxx       x3            xx
+xxoooooooo                x             xx
+xx|||||||||            ]]4x^>^          xx
+xx                        x"xxxxxxxxxxxxxx
+xx                        x"wwwwwwwwwwwwxx
+xx                 []]    x"            xx
+xx                        x"            xx
+xx                        x"+           xx
+xx                  ]]]]]]x]]bbbbbbb    xx
+xx                        xmmmmmmmmm    xx
+xx                        xxxxxxxxxxxx  xx
+xx+  ^              o     >             <x
+xxxxxxxxxxxxxxxxxxxxx     x             xx
+xxwxwxwxxwwwwwwwwwwxx+++++x   +   xzzxxxxx
+xx#>   VxV<bbbbbbbbxx[[[[[x   [[[[xzzxxxxx
+xxxxxxx x         1xx     x      3xxzzxxxx
+xxxwxwx x  "   "   xx+++++x[[[]   xxzzzzxx
+xxV    <x  "+" "+" xx=====x3      xxzzzzxx
+xx xxxxxx  " "+" "        x   [[[[xxxxzzxx
+xx xwxwx     "   "         ++++  3zxxxzzxx
+xx>       ^       x x[[[[[x[[[[   zzz+++xx
+xxxxxxxxxxmmmmmmmmxxx     x       xxxxxxxx
+xxxxxxxxxx        xxx     z       xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

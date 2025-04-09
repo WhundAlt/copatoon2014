@@ -1,0 +1,61 @@
+The Glowing Treasure
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx                    x               x
+xxxxxxxxxxxxxxxxxxxx                    x               x
+xxxxxxxxxxxxxxxxxxxx                    x               x
+xxxxxxxxxxxxxxxxxxxx                    x               x
+xxxxxxxxxxxxxxxxxxxx          + + +     x               x
+xxxxxxxxxxxxxxxxxwxx          K K K     x               x
+xxxxx      m       x       |  K K K     x               x
+xxxxx   >  |       x       |  K K K     x               x
+xxxxx +   >|     VVx       |  K K K     x               x
+xxxxx   ^ >|   #   x       |||||||||||| x               x
+x>>> > <|  w+  <   |<      |<    <    < x               x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x               x
+xxxxxxxxxxxxxxxxxxx  V         x     xx x               x
+xxxxxxxxxxxxxxxxxxx            x        x               x
+xxxxxxxxxxxxxxxxxxx    x       x        x               x
+xxxxxxxxxxxxxxxxxxx    x       x        x               x
+xxxxxxxxxxxxxxxxxxx    x       x       mx               x
+xxxxxxxxxxxxxxxxxxx    x       x       xx               x
+xxxxxxxxxxxxxxxxxxx    x       x        x               x
+xxxxxxxxxxxxxxxxxxx    x       x xxxxxzxx            +  x
+xxxxxxxxxxxxxxxxxxx    x==+==x x xxxxxzxx            V  x
+xxxxxxxxxxxxxxxxxxx    x=+===x x xxxxxzxx            |  x
+xxxxxxxxxxxxxxxxxxx    x===+=x=x xxxxxzxx            |  x
+xxxxxxxxxxxxxxxxxxx    x=+===x x xxxxxzxx            |  x
+xxxxxxxxxxxxxxxxxxx    x====+x x xxxxxmxx      >     |  x
+xxxxxxxxxxxxxxxxxxx    x+====x=x xxxxxxxx >    |        x
+xxxxxxxxxxxxxxxxxxx    x==+==x x x  >     |    V        x
+xxxxxxxxxxxxxxxxxxx    x+====x x x        V             x
+xxxxxxxxxxxxxxxxxxx    x===+=x=x x                      x
+xxxxxxxxxxxxxxxxxxx    x+====x x x                      x
+xxxxxxxxxxxxx          x=+===x x x                      x
+xxxxxxxxxxxxx      >  Vx===+=x=x x                      x
+x                      x==+==x x x                      x
+x                      x====+x x x                      x
+x                      x=+===x=x x                      x
+x                      x = ==x x x                      x
+x                      x x+==x x x                      x
+x             V       <x x==+x=x x                      x
+x                      x x=+=x x x                      x
+x                      x=x==+x x x                      x
+x                      x==+==x=x x                      x
+x                      x====+x x x                      x
+x                      x==+==x x x                      x
+x                      x+====x=x                        x
+x                      x=+===x x    ^x                  x
+x  >  V                x===+=x x     x                  x
+x        KVVVVV        x=+===x=xb    xmmmmKmmmmK       +x
+x        ||||||        x====+x xzxxxxxxxxxmxxxxmxmmmmK++x
+x        |             x===+=x xzx       xxxxxxxxxxxx xzx
+x        |          |||x====+x=xzx                  x x=x
+x  ^    <|          |^Vx==+==x xzx                  z x x
+x        |          |||x === x xmx             "    xxx x
+x       >|         ^|||x     x=xxx  xxxzxxxxxxx"       =x
+x       >|         >||||     x      xxxzxxxxxxx"        x
+x D   > >| /  >    >|||<     >      xmmmmmmmmmx"        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

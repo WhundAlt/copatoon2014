@@ -1,0 +1,156 @@
+Secrets_in_the_Tower
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx+x
+xx      K <x xxxxxxxxbx
+xx   #D1K <  xxxxxxxx x
+xx xxxxxxxxx=zxxxxz"x x
+xx xKx  xxxxzzz    "x x
+xx xbx  xxxxzzxxxxx"x x
+xx x x  xxxxxxx   x"x x
+xx  ^         b> Vx"x x
+xxxxxxxxoooooox   x"x x
+xx    Kxoooooox   x"x x
+xx   "Kxoooooox   x"x x
+xx  x"Kxoooooox   x"x x
+xx mx"Kxoooooox   x"x x
+xx wx"Kxoooooox  Vx"x x
+xx mx"KxKKKKK|x   x"x x
+xx wx"KKx||||x|  <x"x x
+xx mx"KK          x"x x
+xx wx"KK      xxxxx"x x
+xx mx"++      xxxxx"x x
+xx wx"++      xxxxx"x x
+xx mx"xxKKKKKKxxxxx"x x
+xx wxxx  ||||   o x"x x
+xx+ x > />      = x"x x
+xx= x|            x"x x
+xx =x             x"x x
+xx= x             x"x x
+xx =x             x"x x
+xx  x             x"x x
+xx  x             x"x x
+xx++x             x"x x
+xx++x             x"x x
+xx   ^            x"x x
+xx==============o x"x x
+xxmmmmmmmmmmmmmmx x"x x
+xx              x x"x x
+xxo = = === ==  x x"x x
+xx   =  =   = = x x"x x
+xx   =  ==  = = x x"x x
+xxo = = =   = = x x"x x
+xx      =   ==  x x"x x
+xxxxxxxxxxxxxxxxx x"x x
+xxxxxxxxxxxxxxxxx x"x x
+xxzzzzzzzzzzzzzzx  "x x
+xxzzzzzzzzzzzzzzz x"x x
+xxzxxxxxxxxxxxxxxKx"x x
+xxzzzzzzzzzzzzzzz x"x x
+xxzzzzzzzzzzzzzzz x"x x
+xxxxxxxxxxxxxxxxxVx"x x
+xx                x"x x
+xx                x"x x
+xx                x"x x
+xx                x"x x
+xx ============== x"x x
+xx ////////////// x"x x
+xx /          xx/mx"x x
+xx / mmmmmmmmmxxx/x"x x
+xx Vxxxxxxxxxxxxx x"x x
+xx            xxxox"x x
+xx            xxxbx"x x
+xx + + + + +  xxx x"x x
+xx= = = = = = xxx x"x x
+xx m          xxx x"x x
+xxm>mmmmmmmmm wmw^x"x x
+xxxxxxxxxxxxx xxx=x"x x
+xxxxx V    <x xxx=x"x x
+xx] z       x xxx=x"x x
+xx ]x   +++ x xx  x"x x
+xx] x   +++ x xx ox"x x
+xx] x   +++ z xx xx"x x
+xx] x Ko   ^x    bx"x x
+xx] xxxxxxxxxxxxx x"x x
+xx]               x"x x
+xx]               z"x x
+xx]           K   x"x x
+xx]      /    Kxxxx"x x
+xx]      b    Kzz+x"x x
+xx            Kxxxx"x x
+xx            Kzzxx"x x
+xx>>>bbb+o    Kxxxx"x x
+xxxxxxxxxxxxxxxxxxx"x x
+xx  /K|K|K||LK||K/x"x x
+xx  KKK|KK||KK|K|Kx"x x
+xx  /K|K|K|KKK||K/x"x x
+xx  ++++++++++++++ "x x
+xx  ++++++++++++++ "x x
+xx xxxxxxxxxxxxxxxx"x x
+xx x              x"x x
+xx  K            <x"x x
+xx > V <  <  <  /<x"x x
+xx  m  </ </V</V <x"x x
+xxxx              x"x x
+xx   >  />V >V >V x"x x
+xx      ^         x"x x
+xxxxxxxxxx  x  x  x"x x
+xxwwwwwwww  w  w  x"x x
+xx                x"x x
+xx        |  |  | x"x x
+xx         ^  ^ ^Vx"x x
+xxmmmmmmmmmmmmmm mx"x x
+xxxxxxxxxxxxxxxx wx"x x
+xxxxx             x"x x
+xxxxx             x"x x
+xxxxxxxxxxxxxxxx||x"x x
+xxxxxxxxxxxxxVxxKxx"x x
+xx +          x   x"x x
+xx +         ^    x"x x
+xx |||||||||||xxxxx"x x
+xx Vwwwwwwwwww    x"x x
+xx V              x"x x
+xx                x"x x
+xx                x"x x
+xx||||||||||||||| x"x x
+xxwwwwwwwwwwwwww| x"x x
+xx VVVVVVVVVVVVVV x"x x
+xx |||||||||||||| x"x x
+xx                x"x x
+xx                x"x x
+xx                x"x x
+xxzKKKKKKKKKKKKKxxx"x x
+xxzmmmmmmmmmmmmmxxx"x x
+xxVxxxxxxxxxxxxxxxx"x x
+xx x  wwwww"      x"x x
+xx x++>|>|V"  "   x"x x
+xx x+  V V "  "   x"x x
+xxKx =     "  " xVx"x x
+xxzx            xVx"x x
+xxVx = |        xVx"x x
+xx x            xVx"x x
+xx x      K     xVx"x x
+xx x            xVx"x x
+xxbx   K        xVx"x x
+xxzx K          xVx"x x
+xxVx            xVx"x x
+xx x   K        xVx"x x
+xx x     KKKKKK"xVx"x x
+xx x           "xVx"x x
+xx|            "xVx"x x
+xxxx           "xVx"x x
+xxGxx"""""""""""xVx"x x
+xxzxmmmmmmmmmmmmxVx"x x
+xxzxxxxxxxxxxxxxxVx"x x
+xxzzzxxxzzxxxxxxxVx"x x
+xxxzzzzzzzKKKKKKKVx"x x
+xxmxxxxxx +++++++Vx"x x
+xxVwmw w         <x"x x
+xx/mxx m>KKKKKKKKKK"x x
+xxx/wwm/>KKKKKKKKKK"x x
+xx/wmm>/>K++++++++z"xmx
+xx>m>/ww>K++++++++z"z^x
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx

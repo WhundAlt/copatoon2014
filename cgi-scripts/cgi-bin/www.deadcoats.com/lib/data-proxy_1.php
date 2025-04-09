@@ -1,0 +1,1 @@
+{"status":{"http_code":200},"contents":"<br \/>\n<b>Warning<\/b>:  mysqli_connect(): (HY000\/1045): Access denied for user 'db92222_dc'@'205.186.184.14' (using password: YES) in <b>\/nfs\/c06\/h06\/mnt\/92222\/domains\/api.deadcoats.com\/html\/lib\/dbconn.inc.php<\/b> on line <b>3<\/b><br \/>\nERROR: Could not connect to the database."}

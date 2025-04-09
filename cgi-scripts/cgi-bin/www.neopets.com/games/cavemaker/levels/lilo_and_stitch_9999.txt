@@ -1,0 +1,44 @@
+Keegans Climb ver.5
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xL++wwwwwwwwwwwwwwwww>wwwwwwwwwwwwwwVwwx
+x ++   >          V   ""              wx
+x      |  >          ^ "   >V         wx
+V> >   |||| +     |< xm""""  " "  "  "wx
+ wxxxxxxxxxw"www  | "xm"m            "wx
+>w       | x""""" |>Vxm"m            "wx
+xw        |5    "V  <xm"m            "wx
+xw         |5555V<| +xm"m            "wx
+xw   +V+    ||||>V| "xm+m            "wx
+x    x x +       >|>Kxmx             "wx
+x^K  | < x +     V|V xwwww      2  > Vwx
+x"K xV | < x +       x   m   ||||||| Kwx
+x"K    V | < x +  +  z   m   |     | "wx
+x"KK >^  V | < x||||xx+o m   |"++ +  "wx
+x"KK       V |      <x[= m   |"||||| "wx
+x"K|        <V     " xm mm   |" |  m "wx
+x"   V<              xm Km   |+ |  m "wx
+x"   >  V            xm  m   || |  m "wx
+x"   V  <       "    xm + >^    |  m "wx
+x"              )    xmoooom|||||    "wx
+x"                  ^x mm     ^      zwx
+xw           4  n u V|       <    ""n"wx
+xw   +   3           x            "m )wx
+xw   K +             xwwww        "K  wx
+xw  mmmK +      3    x   m   4    "   wx
+xw  mmmmmK +    m    z   m        " m  x
+xwmmmmmmmmmK +       z  "m        " m+ x
+xwxxmmmmmmmmmKm||||||xbm"m        " mK+x
+xwmmmmmmmmmmmm)xxx   xww"m   ^ <  " mm+x
+xw                   x w"m        "   +x
+xw     3             z w"m   > ^  "  o+x
+xw                  |x w"m        "  o+x
+xw        " mm   /+|   w"m       4"  |+x
+xw        "mV<m  /| >  w m   ^    "  |+x
+xw      V  K| x||/     w"m      3 "  |+x
+xw D#  m    >mV         "m        " >|+x
+xw[==]|<>    ^>  ^    [=]m    4   "  |+x
+xG^mm<mmxmmmmmmmmmmmmmmmmmmmmmmmmmmmmm+x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

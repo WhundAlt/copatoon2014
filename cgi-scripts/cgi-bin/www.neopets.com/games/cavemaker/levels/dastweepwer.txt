@@ -1,0 +1,44 @@
+The_Treasure_Trove
+terrain 1
+background 1
+water clear
+\\\"  < =  =        <++++++++++++++   x+L++
+\\\"  < K  K     b  <++++++++++++++   x++++
+\\\"xb<         bb  <++++++++++++++ D x++++
+\\\"xb<  ==    bbb  <++++++++++++++\\\"xxx++++
+\\\"xb< [  ]  bbbV  <++++++++++++++\\\"xxx||||
+\\\"xb<  ==  bbbbV  <++++++++++++++\\\"xxx||||
+\\\"xb<     bbbbbV  <++++++++++++++\\\"xxx||||
+\\\"xb<    bbbbbbV  <++++++++++++++\\\"xxx||||
+\\\"xb><<
+\\\"xb><<
+\\\"xb   >>>>>>>>V><<
+\\\"KKKKKKKKKKKKKVKKKKKKKKKKKKKKKKKKxxxbbbb
+\\\"////////////////////////////////xxxbbbb
+\\\"                                xxxbbbb
+\\\"                                xxxoooo
+\\\"                                   oooo
+\\\"                                   oooo
+\\\"x                             > [=====]
+\\\"x                               |||||||
+\\\"x#                                     
+\\\"V<                                b^bbb
+\\\"Vx[==========================]    bbbbb
+\\\">>/////////////////////////// ^   bbbxx
+\\\"x   G     m                  xxxbxxxxxx
+\\\"x   /    <|                     b   mw<
+\\\"xxxx xxxxxVxxxxxxxxxxxxxxxxxxxxxVxxxxx 
+\\\"x                 V   ^
+\\\"x               <^ V    ^      KV<^    
+\\\"x                  ^      KV<^    
+\\\"x                   ^bbbbbKxV      
+\\\"     x          VVV>    KK/K/K/xV=====\\\"
+\\\"     x             >   KK/K/K//xV     \\\"
+\\\"     x        >       KKK//////xV     \\\"
+\\\"     x        ^      KKKK//////xV     \\\"
+\\\"     x              KKKKK//////xV     \\\"
+\\\"     x        ^   <KKKKKK//////xV     |
+\\\"     x            KKKKKKK//////xV     |
+\\\"     x           KKKKKKKK//////xV[====^
+\\\"     z          KKKKKKKKK//////xV/////^
+\\\"     z    >    >>>>>>>>>>//////x>//////

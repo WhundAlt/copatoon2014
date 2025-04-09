@@ -1,0 +1,56 @@
+Malachite_Mines
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx # +              ++++++++++xx
+xx   >  V  >|><     ++++++++++xx
+xx         >|><     ++++++++++xx
+xxxxxxx    >|>    K ||||||||||xx
+xx|     <   |                 xx
+xx>         |[]]]] ==         xx
+xxmmmmm[[[[=mmmmmmmmmmmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxzxx]xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxzxxzxx
+xxww          K|K|K         xzxx
+xxL  bK<<<<<<<|K|K| < <=== =x]xx
+xxxxxxbxxxxxxxxxxxxxxxxxxxxzxzxx
+xxxxxxbxxxxxxxxxxxxxxxxxxxxzzzxx
+xxxxxx>  V  ++++++++++    xxxxxx
+xxx  (   |V ++++++++++    ||| xx
+xxx x||| V  VVV>>V<<VV    ||| xx
+xxx x|||    ++++++++++    ||| xx
+xxzzz|||    ++++++++++    ||| xx
+xxzzz|||    ++++++++++    ||| xx
+xxzzz||| >  ||||||||||    ||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||| xx
+xxzzz|||||||||||||||||||||||>Vxx
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxx=xx
+xx3xV       <<<<<<<<<<<<<<<<x xx
+xx3x         >>>>>>>>>>>>>>^x xx
+xx3x> >      <<<<<<<<<<<<<<<<<xx
+xxmx    +xxxxxxxxxxxxxxxxxxxxxxx
+xxxx   +x xoooooooooooooooozGzxx
+xx    +x  xoooooooooooooooozzzxx
+xx   +x   xooooooooooooooooxxxxx
+xx  |x    xoooooooooooooooo<  xx
+xx +x|     xbbbbb|bbbbbbbbx===xx
+xx x  |     ||||| ||||||||    xx
+xx>    |         ^         +++xx
+xx]]]]|]]]]]]]]]] ]]]]]]]]]]]]xx
+xx]]]]]|]]]]]]]]]m]]]]]]]]]]]~xx
+xx]]]]|]]]]]]]]]]w]]]]]]]]]]]]xx
+xx]]]]]|]]]]]]]]]m]]]]]]]]]]]]xx
+xx]]]]]|]]]]]]]]]w]]]]]]]]]]]]xx
+xx]]]]]|]]]]]]]]]m]]]]]]]]]]]]xx
+xx]]]]|]]]]]]]]]]w]]]]]]]]]]]=xx
+xx]]]|]>mmmmmmmmm^]]]]]]]]]]]Dxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

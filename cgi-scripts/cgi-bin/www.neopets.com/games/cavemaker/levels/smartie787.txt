@@ -1,0 +1,72 @@
+Tunnel
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    >                               V                     x
+x    |>       /  xxxxxxxxxxxxxxxxxxxx                      x
+x             /  xxxxxxxxxxxxxxxxxxxx                      x
+x             /  xxxxxxxxxxxxxxxxxxxx                      x
+x             |  xxxxxxxxxxxxxxxxxxxx                      x
+x             |  xxxxxxxxxxxxxxxxxxxx                      x
+x             |  xxxxxxxxxxxxxxxxxxxx   x=  =  =  =  =  =  x
+x #  ^        |            K         <  xmmmmmmmmmmmmmmmm  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x
+x       bbbb    b   K                              K  x   mx
+x       bKKb        K                              K  x   xx
+x  K    bKKb        K                 //////////// K  x   wx
+x       bbbb        K                 VVVVVVVVVVV/ K  x    x
+x   b     K         K                            / K  xm  mx
+x                   K                            / K  xx  xx
+x             >     V   KKKKKKKKKK               / K  xw  wx
+x                x      KV <KK> VK               ////x     x
+x  K             x          KK   K                   x     x
+x        b       x                                   xmmm  x
+x                x      K>    ^     x                xxxx  x
+x                x                  x                xwww   
+x                x                  xK     KKKKK     x      
+x                x      |||  |||<   xK    K     K    x      
+x             ^  <  ^   | |^ | |    xK           ^   <      
+x    xxxxxxxxxxxxxxxxxxxx+xxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xmm     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xww     x              x                            x      x
+xmm     x              x                            x  KKKKx
+xxxx    x              x                            x  KKKKx
+xwww    x              x                            x  KKKKx
+x       x              x                            x  KKKKx
+x       x /////////////x = x x x        x           x  KKKKx
+x m   mmx /VVVVVVVVVVVVx   x                        x  KKKKx
+x x  xxxx              x = x         x    x         x//////x
+x w  wwwx              x   x     x           x      x      x
+x       x              x = x                   x  + x      x
+x       x              x   x                      x x      x
+x       x              x = x                        x      x
+x   mmmmx              x   x                        x      x
+x  xxxxxx              x = x                        x      x
+x       x     KKKKK    x   x^^^^^^^^^^^^^^^^^^^^^^^^x      x
+x       x    K     K   xx xxxxxxxxxxxxxxxxxxxxxxxxxxx      x
+x       > ^  K  +  K                                >    ^ x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    x
+x                       "                                  x
+x                     + ""                                 x
+x                       """               "                x
+x                       """"              "                x
+x                       """""          KK " b              x
+x                       """"""      b         == b b b =[=[x
+x      b K b b K b b  x """""""   b                        x
+x                              ==                          x
+x                                                          x
+x    mxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+x ~  xwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      wwwwwx...xwwwwwwxxxxwwwwwwwwwwx....xwwwwwwww|bbbbbbbx
+x    x      w   w      wxxw          ||||||>       |bbbbbbbx
+x   xwxxxxx         o   mm                         |bbbbbbbx
+x   w wx..xxxxxxxxxxxxxxxxxxxx=xxx                 |bbbbbbbx
+xm     w  wwwwwwwwwww  wwwwwwx  >     ^            |bbbbbbbx
+xxm       >    m   m  V      x                     |bbbbbbbx
+xxxm          mxm mxm        xxxxxx                |bbbbbbbx
+xxxxmmmmmmmmmmxxxmxwx  mmmmmmxbbbbb                |bbbbbbbx
+xxxxxxxxxxxxxxxxwxw w  xxxxxxbbbbbb                |bbbbbbbx
+xxxxxxxxxxxxxxxx w+ | <     xbbbbbbmmmmmmmmmmmmmmmm|bbbDbbbx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

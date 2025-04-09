@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><promo><uri>http://playspal.com/service/promo/playspalpreloader.swf</uri><href>/</href><post>api=1</post><width>600</width><height>400</height><frames>200</frames></promo>

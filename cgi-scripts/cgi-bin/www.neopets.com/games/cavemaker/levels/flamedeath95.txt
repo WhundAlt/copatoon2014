@@ -1,0 +1,56 @@
+Steel Cave
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xV   <                      KKK<KKK<  <           "x
+x   /                       KKK KKK               "x
+x   V      ||||||||||||||||=KKKVKKK=     = = = = ="x
+x        /||                KKK KKK =   =         "x
+x        || KKKKKKKK        KKK KKK  = =          "x
+x      +|| K                KKK KKK               "x
+x     +|| K                 KKK KKK               "x
+x    +|| K                  KKK KKK               "x
+x/   ||                  KKKKKK KKK      KKKKKKKKKKx
+x K ||                   K  +++ KKK    ||K+|+|+|+|+x
+x  ||                    K  +++ +++ /  |||KK|K|K|KKx
+xG||^                    |=|KKK +++   ^|           x
+x||                      | |    ||||||||       V   x
+x                        | |                       x
+x                        / |                       x
+x                        |=/                       x
+x+++++++^^^^^^^^^^^^     | |                       x
+x|/|||||KKKKK|||KKKK|    / |b     <                x
+x                   ||   | |||K>   |<              x
+x                    ||   =  |KKKK       ^  ^  ^   x
+x          ++++++++++ ||     |    KKKKKKKKKKKKKKKKKx
+x"       =             |     | KKK   |     |       x
+x"         ||||||||||| |< #  | +++   | KKKK|       x
+x"  =  =   |bbbbbbbbb| ||||/|| +++   | ++++        x
+x"         |bbbbbbbbb|         ====  | ++++       Kx
+x"         |bbb+b+bbb|      K       "|=|||||      +x
+x"         |bbbb+bbbb|      K        |     |      +x
+x"         |bbb+b+bbb|      K        |     |      +x
+x"         |bbbbbbbbb|      K        |            +x
+x"     "   |bbbbbbbbb|      K     KK|||| K        +x
+x"    >    |||||||||||      +   K      |VK        +x
+x"             V            +   K      |VKK|/|||//|x
+x"    ^                  <  KKK K      |VK         x
+x"   KKKKKKKKK|||KKKKKKKKKKKKKKKKK  +  |VKV      < x
+x"   K       K                m     K  |VK V    <  x
+x"   K       KKKKKKKKK        w     K  |VK  V  <   x
+x"   K               K        V<  K K  |V|   V<    x
+x"   K         <|    K        mK  K K  |V|         x
+x"   K    <    < >V  K  KKKKKK K  K/K  |V|         x
+x"   K   <|   <      K  ++++++ K KKKK//|V|         x
+x"   K   VV<         K  ++++++ K       |V|         x
+x"   K            <  KK ||||||<K       |V|         x
+x"   K         <^     K        KK      |V|         x
+x"   K        ^|<  <  K         KK     |V|         x
+x"   K        < >   |<K          KK    |V|        <x
+x"   K             < VK           KK    V    >    |x
+x"   K                Kxxxxxxx x   KK   V   > ^    x
+x"   K              <  <  <  < x    KK  V  >   ^   x
+x"   +         ^    <|>|||||||       K  V >     ^  x
+x"   +    >    |<    <       ++K  D  K  >        ^+x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

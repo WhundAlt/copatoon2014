@@ -1,0 +1,18 @@
+<?php
+    $result = mt_rand(0, 1000);
+    if ($_GET['coconut'] == 0 or $result <= 300) {
+        echo http_build_query(["points" => 0, "totalnp" => 0, "success" => 1, "error" => "You missed!"]);
+    }
+    elseif ($result <= 600) {
+        echo http_build_query(["points" => 50, "totalnp" => 50, "success" => 2, "error" => "The Coconut Hardly Moved!"]);
+    }
+    elseif ($result <= 980) {
+        echo http_build_query(["points" => 300, "totalnp" => 300, "success" => 3, "error" => "Great shot, but the coconut did not fall down."]);
+    }
+    elseif ($result <= 999) {
+        echo http_build_query(["points" => 10000, "totalnp" => 10000, "success" => 4, "error" => "TEMP."]);
+    }
+    elseif ($result == 1000) {
+        echo http_build_query(["points" => 500000, "totalnp" => 500000, "success" => 5, "error" => "KABLAM! SUPER JACKPOT!"]);
+    }
+?>

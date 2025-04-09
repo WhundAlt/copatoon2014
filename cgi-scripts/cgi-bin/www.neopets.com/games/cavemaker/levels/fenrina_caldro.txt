@@ -1,0 +1,44 @@
+The_Final_Test
+terrain 4
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xooooo    >  VV  >  VV  >  VV   V <  x+x
+x<<<<<                               x+x
+x                                    z+x
+x                                    z+x
+x            ++     ++     ++     ^  xzx
+x     === ^ ==== ^ ==== ^ ====   ====x x
+x    ^///////////////////////////////x#x
+x     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x  +  xwwwwwwwwwwwwxxxx+xxxxxx+xxx+L+xox
+x  +  x            wxxx+xxxxxx+xxxV<<x+x
+x     x             wxx+xxxxxx+xxx>  x+x
+x     x              wxoxxxxxxoxxx> ^x+x
+x     x>bbbbbbbbbb     b      b   ||| +x
+x     x          K                    +x
+x     x          K                    Kx
+x     xKKKK xxxxxxxxxxxxxxxxxxxxxx   KKx
+x+    x     x|G|V<<<<<<VVVV<    "x  KKKx
+x+    x     x|||<bbbVb^bbbbb    "x KKKKx
+x     x  +> x   ++++ + +///+    "x     x
+x     x KKKKx  V+/// + ++//+ bb "x     x
+x     x     x > +++/ + +/+/+    "xK    x
+x     x     x   +///^+^+//++    "xKK   x
+x     x <+  x D +///<+^+///+    "xKKK"Kx
+x     xKKKKVxxxxxxxxxxxxxxxxx   "x   " x
+x  +  x>                    <   "x   " x
+x  +  x>                    <   "x   " x
+x     x>                    <   "x   " x
+x     x>                    <   "x"  " x
+x     x>                    <   "x"  "/x
+x     x>                    <   "x"  "/x
+x     x>      +   +   +   < <   "x"  "/x
+x     xxxxxxxzxzzzxzzzxzzzxzxzxzxx"  " x
+x    +z                           >V " x
+x    +z                            V " x
+x     z                            V " x
+x     z   + + + + + + + + + + + + +V " x
+x     z   K b K b K b K b K b K b K>  ^x
+xmmmmmxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

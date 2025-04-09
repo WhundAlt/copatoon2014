@@ -1,0 +1,44 @@
+Droppers_Death
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxx                 
+xxxxxxxxxxx                             
+#  xxxxxxxx                          o z
+xx z                              ]]]] z
+xx             "bbbbbbbbb     ~   ]]]] z
+xxxxx          "bbbbbbbbb         ]]]] z
+               "bbbbbbbbb         ]]]] z
+>>>>  <<<<     "bbbbbbbbb         ]]]] z
+>>>> o<<<<     "bbbbbbbbb         ]]]] z
+>>>>  <<<<     "     V             <   z
+>>>>  <<<<     "          xxxxxxxxxx   z
+               "         <<<<<<<<<<<4  z
+  """"""""""""""         <<<<<<<<<<<   z
+                         <<<<<<<<<<<   z
+                      |||<<<<<<<<<<<   z
+|||||||||||||||       |G|<<<<<<<<<<<    
+                      |||<<<<<<<<<<<    
+                         <<<<<<<<<<<    
+                         <<<<<<<<<<<    
+                         <<<<<<<<<<<    
+                         <<<<<<<<<<<    
+                     > ^                
+               =====================    
+                                        
+                                        
+                                        
+                                     D  
+                                     ===
+                                        
+                                        
+                                        
+                                    2   
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

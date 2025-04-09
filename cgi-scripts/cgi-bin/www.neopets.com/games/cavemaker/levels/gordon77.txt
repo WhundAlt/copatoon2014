@@ -1,0 +1,24 @@
+Treasure Hunt
+terrain 1
+background 1
+water clear
+x  xxxxxxxxxxxx+xxxx
+x #xx  xxxxxxxxoxxxx
+x x+o          < xxx
+x xxx="    o     xxx
+x www "    [="=] xxx
+x     "      "   xxx
+x     "      "   xxx
+xV    <      "   xxx
+x     "=x==x="   xxx
+x     " x++x "   xxx
+x   + " xxxx "   xxx
+x   ++"      "  +xxx
+x   xxxxxxxx=   bxxx
+x>  wmwmwmwm   ^|+xx
+x|x xxxxxxxx xx xxxx
+x+x          xx xxxx
+xxx            +xxxx
+x+    xxxxxxxxxxxxxx
+x++ D zzzzzzzzzzzGxx
+xxxxxxxxxxxxxxxxxxxx

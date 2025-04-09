@@ -1,0 +1,42 @@
+Trapped
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x        wwwwwwwww+x  oV    <xxx V  x
+x                 ox  o "  " xxxo   x
+xD                bx  |<"xx" xxxo^ "x
+xxxxxxK           |x   x"xx"^xxx| <"x
+x    xKK           x[[[x"xxxxxxx  x"x
+x"   xKKK          x   x"zz  xxx  x"x
+x"  GxKKKK+++      x   x"zz  xxx  x"x
+x"xxxxxxxxxxx     ^x    xxx  xxx  x"x
+x"++       wx[[[[[[x +  xxx[[xxx[[x"x
+x"++        xxx    o +  xxx" xxx  x"x
+x"++      "mxxxxxxxxxxxxxxx" xxx  x"x
+xxxxxxxxxx"xx "          xx" xxx  x"x
+xxxxo     "wx "    +++++ xx" x/x  x"x
+xxxxoo    " x "xxxxxxxxx xx" x+x  x"x
+xxxxooo   " x "x     " x xx" x+x  x"x
+xzzzoooo  " x "x  +  " x xx"  K  <x"x
+xzzzooooo " x+   xxxx" x xx"      <"x
+xzxxoooooo" xxxxxxwwx" x xx"      x"x
+xzxxoooooo"         x" x xx"      x"x
+xzxxoooooo"         x" x xxxxxxxxxx"x
+xzxx|||||||||||||x #x"+x x   wx    "x
+xzxx             x xx"+x   + mx++  "x
+xzxx      "      x    +xxxxx xx++  "x
+xzxx      "      xxxxxxx     xxxxxx"x
+xzxx      "     ^ <       xxxxzz  x"x
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxzz  x"x
+xzxxwwwwwwwwwwww    wwwwwwxxxxLz "x"x
+xzzz                >     mmmVxx "x"x
+xxxxxxxxxxxxxxxxxxxKxxxxxxxxx x+ "x"x
+xwwxwwxwwwwwww     K    <| V</x+  x"x
+xm z  z            >    <|<<   K <x"x
+xx z  z     ++++xxxxxxxxxxxxxxxxxxx"x
+xxzxxxxxxxxxxxxxx+wwwwwwwwwwwwwwwww"x
+xx xwwwwwwwwwwwwwK     <           "x
+xx x                               "x
+xxzz>                  ^           "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+The Dark Void
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx>  V     >  V /V/          <x"""<+>"  x
+xxx      >  V  >/             <x"""""""  x
+x> ^  /                       <x"<"""""x x
+x     |               +===+   <x"<^^^^^x x
+x     K              +[   ]+  <x"<"""""x x
+x     K  +  +  + +++ [     ]+ <x">"""""x x
+x     K              x      ] <x"""<^^"x x
+x    #K  V  V  V VVVxmmmmmmm  <x"""+VV"x x
+x    [=]            x o       <xxxxx"""x x
+x^  <    ^  ^  ^ ^^^x><       <   <x"""x x
+xmmmmmmmmmmmmmmmmmmmx         <    x"+^x x
+xxxxxxxxxxxxxxxxxxxxx         <    x"<^x x
+x"          + "     x         <    x"<^x x
+x"          K " [[[ x[[  ][  V<    x"""x x
+x"]+        K "x    x[[mmmmmm <    x"""x x
+x" >        | "x + +x[[xxxxxx>    ^x^^"x x
+x" < +      K "x b bx[[x>  Vxxxxxxxxx>"x x
+x"   >      | "x mmmx[[x xx>       Vx>"x x
+x"   < +<   K "x>V +x[[x^ <xxxxxxxx x>"x x
+x"     >    | "x   +x[[xxx x >  V x x>"x x
+x"mmmmm+m   K "x /D+x[[x> ^xV  <  x x>"x x
+x"mmmmm+mxxxxxxxxxxxx[[x xxx  V < x x>"x x
+x"mmwmm+mx     xzzxV   >^<| >^<^   <x>"x x
+x"mm+mm+mx     x+zx x  xxxxxxxxxxxxxx "x x
+x"mm+mm+mx  x" xxzx x|K   +> <  <|<|< "x x
+x"ww+ww+mx  x" zzzx> >   <+>    |K|K| "x x
+x"++++++mx  x" z=zxmxxxxxxxxxxxxxxxxxxxx x
+x"xxxxxxxx  x" xzxx[xV<     | 1 |   |    x
+x"       x  x" xzxx x     1 |   | 1 |    x
+x"       x  x" xzxx x ^<+   K+/ K+/ K /  x
+xxxxxxxx"x  x" xzxx x[xxxxxxxxxxxxxxxxxxxx
+xx" + "x"x  x" xzxx x VV+VVVVV+VVVVV+VVV x
+xx"[=]"x"x  x" xzxx x                    x
+xx"   "x"x  x" xzxx xxxxxxxxxxxxxxxxxxxx x
+xx"   "x"x  x" xzzz xV                  <x
+xxxx.xxx"x  x" xxzz x           >       <x
+x       "x   x  xLx x>                   x
+x       "x   x  xGx x xxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxx x  xxx x   K   K   K     K4+x
+x            x      K>  | > | > | >   |<+x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

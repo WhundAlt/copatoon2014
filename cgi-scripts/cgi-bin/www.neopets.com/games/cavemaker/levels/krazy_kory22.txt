@@ -1,0 +1,56 @@
+Secerts_are_the_key
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"         xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"xxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"x        xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"x        xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"x        xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"x        xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx"x   ++++Kxxxxooooxxxxxxxxxxxxxxxxxx
+xxxxxx"x D ++++Kxx> ====        V xxxxxxxx
+xxxxxx"xxxxxxxx"xx  ////          xxxxxxxx
+xxxxxxzzzzzzzzz"xx  ////        < xxxxxxxx
+xxxxxxzzzzzzzzz"xx  ////          xxxxxxxx
+xxxxxxxxxxxxxxx"xx  ////          xxxxxxxx
+xxxxxxxxxxxxxxx"xx  ////   ++++"""xxxxxxxx
+xxxxxxxxxxxxxxx"xx^            "<"xxxxxxxx
+xxxxxxxxxxxxxx " xxx    xxxxxxxxx"xxxxxxxx
+xxxx+zzzzzzzzz " xxx    xxxxxxxxx"xxxxxxxx
+xxxx+zzzzzzzzz " xxx    xxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxx         xxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxx
+x         >  /////////xxxxxxxxxxx"xxxxxxxx
+x #+++++++>  //oooooo/  xxxxxxxxx"xxxxxxxx
+xxxxxxxxxxx   /oooooo/  xxxxxxxxx"xxxxxxxx
+xx        z   /oooooo/  xxxxxxxxx"xxxxxxxx
+xx V<     z   ////////  xxxxxxxxx"xxxxxxxx
+xx > <    z             xxxxxxxxx"xxxxxxxx
+xx > <    z             xxxxxxxxx"xxxxxxxx
+xx > <    /    V<       xxxxxxxxx"xxxxxxxx
+xx       >/             xxxxxxxxx"xxxxxxxx
+xx=======]//////////////xxxxxxxxx"xxxxxxxx
+xx         /////////////xxxxxxxxx"xxxxxxxx
+xx~        /////////////xxxxxx      xxxxxx
+xx         /////////////xxxxxx      xxxxxx
+xx         /////////////xxxxxx      xxxxxx
+xx         xxxxxxxxxxxxxxxxxxx      xxxxxx
+xx                                  xxxxxx
+xx                          KKKKKKKKxxxxxx
+xx                          K /G/ / xxxxxx
+xx                          K/ K / /zzzzxx
+xx                          K / / /   <zxx
+xx                          K/ / / /xxx"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxx"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxx"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzz"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+Hellllppppp_Meeee
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxoo+oo    xxxxxx\"zzzxxxzzxx
+xxxxxxxwwwwwwwwxooooo    xxxxxx\"zzz++xzzxx
+xxxxxxx        x|||||||||xxxxxx\"zzz++xzzxx
+xxxxxxx        x        |xxxxxx\"xxxxxxzzxx
+xxxxxxxmmmmm#  x        |xxxxxx\"xxxxxx==xx
+xxxxxxxxxxxxx  x        |xxxxxxzzzzzzzzzxx
+xxxxxxxxxxx    x        |xxxxxxzzzzzzzzzxx
+xxxxxxxxxxx    z        |xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxx    z        |xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxx    z        |xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxx    z ++   |||xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxxmmmmx ++ /    xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxxxxxxx=====    xxxxxxxxxx\"xxxxxx
+xxxxxxxxxxxxxxxx         x   xxxxxxzzzzxxx
+xxxxxxxxxxxxxxxx    \" \"\"\"x   x |||xzzzzxxx
+xxxxxxxxxxxxxxxx    \"   \"x > m  /|xxzzzzxx
+xxxxxxxxxxxxxxxx    \"   \"x\"xxx || xxzzzzxx
+xxxxxxxxxxxxxxxxmmmm\"\"\"\"\"x\"\"m   |<xxxxx\"xx
+xxxxxxxxxxxxxxxxxxxxxxx\" xm\"m   |<xxxxx\"xx
+xxxxxxxxxxxxxxxxxxxxxxx\" x\"\"m   |<xxxxx\"xx
+xxxxxxxxxxxxxxxxxxxxxxx\" x\"mxxxxxxxxxxx\"xx
+xxxxxxxxxxxxxxxxxxxxxxx\"  \"zzzzzzzzzzzx\"xx
+xxxxxxxxxxxxxxxxxxxxxxx\"  \"zzzzzzzzzzzx\"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx\"xxxxxxxxxzzx\"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx\"xxxxxxxxxzzx\"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx\"xxxx|||xxzzx\"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxx\"xxx> /|xxzzx\"xx
+xxxxxxxxxx            xxxx\"xxx |||xxzzz\"xx
+xxxxxxxxxx            xxxx\"xxx xx|xxzzz\"xx
+xxxxxxxxxx            xxxx\"\"m   <|xxzzz\"xx
+xxxxxxxxxx         D  xxxxm\"m   <|xxzzx\"xx
+xxxxxxxxxx      ======xxx \"\"m   <|xxzzx\"xx
+xxxxxxxxxx              x \"mxx xxxxxzzx\"xx
+xxxxxxxxxx              x xxxx xxxxxmmx\"xx
+xxxxxxxxxx  ====        x      xxxxxxxx\"xx
+xxxxxxxxxx              x  >  ^xxxxxxxx\"xx
+xxxxxxxxxx       ===    xxxxxxxx        xx
+xxxxxxxxxx2               ++++          xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

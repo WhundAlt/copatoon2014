@@ -1,0 +1,73 @@
+The_Cascades
+terrain 1
+background 1
+water clear
+.                         mmmmmmmmxxxxx  mmmx xxxx         xxxx xxwwLx
+.                         xxxxxxxxxwwww  xxxxmwwx  x mmmmmmxwwx xw   z
+.     ||||  ||||<||||     wwmwwwwww      z wxxx x  x xxxxxxx mwmx  m z
+.    |     |     |   |      x            z twww x xx    wwwx xxxw  xxz
+.  V<|      |||  |   |    m<x          m z mmmmmx wxx=]    xmwm    zzz
+.    |         | |   |    x z          xxx=xxxxxx  wx      xx x    zzz
+.     ||||<||||  ||||     x z          xww wwwwww   x      w  zz  mzxx
+.                        mx x          x m m        xm  =     zz mxxxx
+.                        xx x          x x=x        xx        zx xxxxx
+.                        xw xm      mmmx x x      m ww       xxwmxxxxx
+.                        x  wxmmmmmmxxxx x x      x    m m mmxx xxxxwx
+.           mmmmmmmmmmmmmx   wxxxxxx  ww x=x      x  mmx x=xxx  xwwm x
+.           xxxxxxxxxxxxxx    wwwwww     w    mmmmx  xxx x xw   zxmxKx
+.           xwwwwwwwwwwwww           x m m  x=xxxxx  xww x=x    zzzzbx
+.          mx                        x x xxxx z w    xmmmw w    xxxx x
+.          xx                        x x   ww z   xxxxxxxm      xxmmmx
+.          xw                        x x    xxx   xwwwwwxxxx]   wxxxxx
+.        mmx                     mmmmx xm x xww  mx     wwwx     wwwwx
+.        xxx                    mxxxxx xx x xx=xxxx     KK x         x
+.        xww      !             xwwwmm    x xw wwww     KK xmm     m x
+.        x                      x mxxxxxxxx x           KK xxxx    x x
+.        xmmmm            mmmmmmx x         x           KK wwww x  x x
+.        xxxxxmmm         xxxxxxx x xxxxxxxxx           KK      x  x x
+.        wwwwwxxxmmmmmmmmmxwwmmwwmx  wwwwwwww           KK    mmxm x x
+.             wwwxxxxxxxxxx xxxxxxxx                    KK    xxxx=x x
+.                wwwwwmmwmmmxwwwwwww                    KK    wwww w x
+.                     xxxxxxx             @@@           KK           x
+.   V  <>           |<w|<www|<|<    V     @|      <    VKK       m m x
+.       |           |  |    | |           @w@                    [=] x
+. V    <            |  |    | |                                      x
+m   >   V           V^ V^   V^V^    +                  ^^^          Vx
+x       |                          K|K                > |          < x
+x                   |  |    | |    K|K      >        V VV        m=  x
+x           K       K^KK^KKKK^K^   KKK            ^              x   x
+x  >        K   >   ||||||||||||   KKK             |   >         x ^Kx
+x           K                       |     <        V  ^V         w  Kx
+x>         |m                             <|^        ||          x   x
+x>|        VK=KKK                                    Vx        K     x
+x>|         K KKK   m         m              KK       x   KKKK=KKx] [x
+x>|         K=KKK   |         |              |@       x  KcccccKKx   x
+x>          K KKK   w      V  w       m <  ^ |     <K x |KcKKKKKKx   x
+x           KKcccc     m    m     m   z      |@  [==] x KKccccKcKx   x
+x           KKcccc     |   <|     x   z      KK       x KKKKKKKcKx   x
+x           wKKKKc| >  w   Vw     x   z  [====]     m x KKKKKKKcKx   x
+x      KKK >VKKKKcK               xmD z   |||mm mmm K xKcccccccKKxm mx
+x      KVK   wKKKcK       m       xxxxx   www||m|||mK xKKKKKKKKKKx] [x
+x m m|||||||>VxKKKK       x m     wwwww      ww|wmw|| xxxxxxxxxxxx   x
+x=x xooo^ooox xKKKK ^     x x     m     ^     m| K wK wwwwwwwwwwww   x
+x"x1xooooooox1xKKKK       x x     |      <    ||mKm K                x
+x"x^xooooooox|xKKKK       x x     w           ww||| w> V   m< K      x
+x"x|xooooooox|x   Km=m    w<x     m       /     wKw       mxK K      x
+x"x|xooooooox|x    x x    xxx     x      [=]     K        xx  K    m x
+x"x|xooooooox|x @  x^x]    ww   x"x                   m   xx/ K    x x
+x"x|xooooooox|x    x w          x"x                   x   xx  b mmmx1x
+x"x|xooooooox|x  # w     [x] x  x"x           x       x   xx  [====x x
+x"x|xooooooox|x           x  w  x"w           x       x   xx     m x x
+x"x|xoooooooxVxmmmmmmmmmm x     x"K           m mmm  mx   wx>mmmm|mz x
+x"x xooooooox xxxxxxxxxxxxx     x"m    m      xxx=====x    xxxxxxxxx x
+x"w xxo o oxx wwwwwwwwxxxww  @  x"x    x      w z     x    wxxxwwwww x
+x"  wxxoooxxw         www      mx"x    x        z     x   m www      x
+x"   wxx xxw           m       xx x    x        z mmmmx m x          x
+x"    w   w            z       xw x    z      x xxxxxxx1x x  K   mmmmx
+x"      ^         K    x  @    x  x    z     mx wwwbwww x x> b | xxxxx
+x" ^   <|    <    |    x         mx    z     xx    K   <x xmmbmmmz wwx
+x        >        |    xmmmmmmmxxxx    zmmmmmxw         xmxxxxxxxx   x
+x                 |    xKKKKKKKxwww    xxxxxxx          xxxwwww ww   x
+xmm [=]   [=]     |   [xxxxxxxxx   [=] wwwwwww        m www          x
+xxxmm        b    K    wwwwwwwww                   m  |        <     x
+xxGzxmmm   mmmmmmmmmm               b             mxm>wmmmmmmmmmmmmmmx

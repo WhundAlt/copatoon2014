@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Double or Nothing!</title>
+</head>
+<body>
+    <center>
+        <table>
+		<tr>
+			<td class="content">
+				<!-- r0 -->
+				<b>Double or Nothing</b>
+				<p></p>
+				<center>
+					<img border="0" height="200" src="http://images.neopets.com/medieval/coin_skeith.gif" width="300">
+					<p><b>
+                            <?php 
+                            $phrase = rand(1,5);
+                            if($phrase == 1)
+                            {
+                                echo "Well I'll be eating stale bread for a week because of that...";
+                            }
+                            elseif($phrase == 2)
+                            {
+                                echo "Grrrr.. at least give me a chance to win it back.";
+                            }
+                            elseif($phrase == 3)
+                            {
+                                echo "Pah! Beginners luck!";
+                            }
+                            elseif($phrase == 4)
+                            {
+                                echo "Take my money, won't you..";
+                            }
+                            else
+                            {
+                                echo "You just got lucky...";
+                            }
+                        ?>
+                        </b><br></p>
+					<center>
+						<form action="doubleornothing.phtml" method="get">
+							<input type="submit" value="Play Again!!!">
+						</form>
+					</center>
+				</center><br clear="all">
+			</td>
+		</tr>
+	</table>
+    </center>
+</body>
+</html>

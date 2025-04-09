@@ -1,0 +1,63 @@
+DANGER!!!!!!
+terrain 4
+background 1
+water clear
+x+b tt             >  V          xxxxxxxx            
+xbb                          "   >  V+++xt           
+x   xx                       "x      +++x            
+x                   |||||    "x      +++xx           
+x  x  x       >  V  |||||    "x      +++x            
+x                   |||||    "x      +++xxx          
+x xxx            > ^||+||    "x      +++x            
+x         >   ^     |||||   xx|||   <+++x            
+x                   |||||  xxx|||    +++x            
+x^      <  V <   "  ||||| +x   x|    +++x    x       
+x x x   xx^<xxxxx"xxxxxxxxxx   x|^   +++x    x       
+x        xmmx    "x+o+o+o+xxzzzxxxxxxxxxxxxxxx       
+x    xxx  xx     "xbbbbbbbxzzxxxx                    
+x          >   V "x|||||||xzzzzzx                    
+x           |||  "x       xzxxxxx             x      
+x   x   x   |||  "x       xzzzxzx                    
+x           |||  "x       xzzzxzx            x x     
+x          ^|||< "x       xxxzxzx                    
+x         xxxxxxxxx       xzzzxzx                    
+x         xxxxxx          zzxxxzx              x x   
+x#      xxxxxxxx   ^      zzzzzzx                    
+xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxzx                    
+xxxxxxxxxxxxxxxx xwwwwwwwwwwwwxzx                    
+oooooooob|       xV          <xzx                    
+oooooooob|       x|||||"      xzx                    
+oooooooob|       x+||||"   [=]  x                    
+bbbbbbbbb|       x+xxxx"                             
+||||||||||       x+xxxx"   [=]                       
+                 x+xxxx"       "x                   G
+        xxxxxxxxxxbxxxx"   []  "xxx  x  x  x  x  xxxx
+        x++o++o+b| |||x"       "xmmmmmmmmmmmmmmmmmmmm
+        xbbbbbbbb| |||xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        x||||||||| |||x                              
+        x          |||x                              
+        x          |++x                              
+        x          |++x                              
+^  < < <x          |++x                              
+xxxxxxxxx^      /  |++x                              
+       x" xxxxxxxxxxxxx    xxxxxxx                   
+       x" x          +x    xooooox                   
+       x"xx          +x    x+oooox                   
+       x"            +x    xbbbbbx                   
+       x"            +x    x|||||x                   
+       x"            +x    x     x                   
+       xxxxxxxxxxx xxxx    x     x                   
+                 x x       x     x                   
+                 x x       x     x                   
+                 x x       x     x                   
+                 x x       x     x                   
+xxxxxxxxxxxxxxxxxx xxxxxxxxx     x                   
+x|||||||V            <           x                   
+x|||||||  >              V       x                   
+x|||||||<                        xxxxxxxxxxxxxxx     
+x|||+|||> ^          ^   <               wwwwwwx     
+x|||||||                                      +x     
+x|||||||                               xxxxxxxxx     
+x|||||||                               x             
+x|||||||^ <       D         ^          x             
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             

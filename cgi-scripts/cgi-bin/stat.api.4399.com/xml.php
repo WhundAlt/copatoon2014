@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config><entry id="62872" category="brand" time2skip="12"><item src="http://cb.baidu.com/ecom?di=62872&amp;tm=BAIDU_CLB_XML&amp;asp_url=4399.com&amp;return_type=1" click_base="http://stat.api.flashgame163.com/brand.php?url=" /></entry><entry id="999" category="combrand" time2skip="12" width="640" height="640"><item src="http://cdn.comment.4399pk.com/control/4399.swf?20160128" link="" bgcolor="0xb5e9f9" /></entry></config>

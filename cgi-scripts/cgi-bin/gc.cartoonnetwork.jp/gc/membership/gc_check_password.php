@@ -1,0 +1,1 @@
+<result status="FAILURE" message_count="0"><messages_global message_count="0"/><messages_field message_count="1"><error code="error.login.user.notfound" errorMessage="繝ｦ繝ｼ繧ｶ繝ｼ蜷阪°繝代せ繝ｯ繝ｼ繝峨′髢馴＆縺｣縺ｦ縺�ｋ繧医≧縺ｧ縺吶ゅｂ縺�ｸ蠎ｦ縺泌�蜉帙♀鬘倥＞縺�◆縺励∪縺吶�" field="userName" rejectedValue="" type="validation"/></messages_field></result>

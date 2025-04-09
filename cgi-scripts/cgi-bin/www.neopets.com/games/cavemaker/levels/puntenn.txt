@@ -1,0 +1,40 @@
+Stalac
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxwwxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxw  wwwxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx+     wxxxxxxxxx
+xxxxxxxxxxxxxxxxwxx  +   xxxxxxxxx
+xxxxxxxxxxxxxxxw wxx=x o  xxxxxxxx
+xxxxxxxxxxxxxww   ww xxxx xxxxxxxx
+xxxxxxxxxxxxx        wwxw wwxxxxxx
+xxxxxxxxxxxxw   Vmm    x+   xxxxxx
+xxxxxxxxxxxxm om xxzxxmz+   wxxxxx
+xxxxxxxxxxxxx#xx xzzxxxxx===xxxxxx
+xxxxxxxxxxxxxxxxmxzxxwwwxxzxxxxxxx
+xxxxxxxxxxxxxwwxzzzxx   ww wxxxxxx
+xxxxxxxxxxxxw  xxxxxw       wxxxxx
+xxxxxxxxxxxw   wxxxw o       wxxxx
+xxxxxxxxxxx     wwx  =    <  mxxxx
+xxxxxxxxxxxm     o      o    xxxxx
+xxxxxxxxxxxx   xmxxxommmx  ++xxxxx
+xxxxxxxxxxxxm  xxxwxxxxxxxmxxxxxxx
+xxxxxxxxxxxxxm www wwww xxxxxxxxxx
+xxxxxxxxxxxxxx          wwwwxxxxxx
+xxxxxxxxxxxxxx              wxxxxx
+xxxxxxxxxxxxxw         x     wxxxx
+xxxxxxxxxxxxxx m      xx      wxxx
+xxxxxxxxxxxxxx+xmm+mmxxw       wxx
+xxxxxxxxxxxxxxxxxxxxxxw         wx
+xxxxxxxxxxxxxxxwwwww zmm       mxx
+xxxxxxxxxxxxxxw     +zxx+mm   mxxx
+xxxxxxxxxxxxxw      xzzxxxxm mxxxx
+xxxxxxxxxxxxx       xxzzzzzx+xxxxx
+xxxxxxxxxxxxxm      wxxxxxzzzxxxxx
+xxxxxxxxxxxxxxm      wwwwxxxxxxxxx
+xxxxxxxxxxxxxxx          wwxxxxxxx
+xxxxxxxxxxxxxxxm ++++    xxxxxxxxx
+xxxxxxxxxxxxxxxxmxxxx D zzzzzzzGxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

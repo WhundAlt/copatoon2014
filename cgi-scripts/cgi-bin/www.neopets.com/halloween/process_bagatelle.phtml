@@ -1,0 +1,116 @@
+<?php
+sleep(1);
+    $peg1 = rand(0,100);
+    $peg2 = rand(0,20);
+    $peg3 = rand(0,6);
+    $peg4 = rand(0,2);
+    $pegout1 = "R";
+    $pegout2 = "R";
+    $pegout3 = "R";
+    $pegout4 = "R";
+    $winnings = 0;
+    $string = "";
+
+    if($peg1 == 0)
+    {
+        $pegout1 = "L";
+        $winnings = $winnings + 8;
+    }
+    if($peg2 == 0)
+    {
+        $pegout2 = "L";
+        $winnings = $winnings + 4;
+    }
+    if($peg3 == 0)
+    {
+        $pegout3 = "L";
+        $winnings = $winnings + 2;
+    }
+    if($peg4 == 0)
+    {
+        $pegout4 = "L";
+        $winnings = $winnings + 1;
+    }
+    $pegresult = $pegout1 . $pegout2 . $pegout3 . $pegout4;
+    if($winnings == 0)
+    {
+        $string = "We have a loser!";
+        $points = 0;
+    }
+    if($winnings == 1)
+    {
+        $string = "Ok, well at least you didn't lose everything.";
+        $points = 5;
+    }
+    if($winnings == 2)
+    {
+        $string = "This game must be rigged!";
+        $points = 50;
+    }
+    if($winnings == 3)
+    {
+        $string = "So close...";
+        $points = 250;
+    }
+    if($winnings == 4)
+    {
+        $string = "Awwwwww......";
+        $points = 1000;
+    }
+    if($winnings == 5)
+    {
+        $string = "Nice one, you'll bankrupt me if you do that again.";
+        $points = 2000;
+    }
+    if($winnings == 6)
+    {
+        $string = "Grrrr.... that wasn't supposed to happen.";
+        $points = 3000;
+    }
+    if($winnings == 7)
+    {
+        $string = "Maybe I should add another book...hmmmmm";
+        $points = 4000;
+    }
+    if($winnings == 8)
+    {
+        $string = "I've never seen it do that before!";
+        $points = 5000;
+    }
+    if($winnings == 9)
+    {
+        $string = "Stupid machine, it isn't supposed to let people win!";
+        $points = 10000;
+    }
+    if($winnings == 10)
+    {
+        $string = "WHAT?!?";
+        $points = 20000;
+    }
+    if($winnings == 11)
+    {
+        $string = "Congratulations!";
+        $points = 30000;
+    }
+    if($winnings == 12)
+    {
+        $string = "Congratulations!";
+        $points = 40000;
+    }
+    if($winnings == 13)
+    {
+        $string = "Congratulations!";
+        $points = 50000;
+    }
+    if($winnings == 14)
+    {
+        $string = "Congratulations!";
+        $points = 60000;
+    }
+    if($winnings == 15)
+    {
+        $string = "Jackpot!!! :D";
+        $points = 1000000;
+    }
+    echo http_build_query(["points" => $points, "totalnp" => 999999, "prize_id" => "", "success" => $pegresult, "error" => $string]);
+?>

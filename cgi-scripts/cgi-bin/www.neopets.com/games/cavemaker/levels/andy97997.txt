@@ -1,0 +1,46 @@
+Extreme_harder
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx         o                            x
+xxx         Kx                           x
+xxx          w                           x
+xxx                                      x
+xxx                                      x
+xxx                                      x
+xxx                                      x
+xxx                                      x
+xxx               +++mm                  x
+xxx              "xxxxx                  x
+xxx              "ww.ww                  x
+xxx              "                      #x
+xxx              "             mmmxxxxzxxx
+xxx              "            +xxx       x
+xxx              "           +xwww       x
+xxx              "          +xw          x
+xxx              "          xw           x
+xxx1             "          w            x
+xxx              "                       x
+xxx              "                       x
+xxx              "                       x
+xxx              "                       x
+xxx              "                       x
+xzz              "    2 +mm              x
+xzx              "    xxxxxx "           x
+xzx              "    www.ww "           x
+xzx              "           "           x
+xzx        4   mm"           "           x
+xzx            xxx"          "           x
+xzx             . "          "           x
+xzx               "          "           x
+xmx               "          "           x
+xxx               "          "           x
+xxx    +++        "    5 ++++"mmGmm      x
+xxx3  "xxx        "   "xxxxxxxxxxxx      x
+xxx   "w.w        "   "wwwwwwwwwwww      x
+xxx   "           "                      x
+xxx  +"     ^     "        D   mmmmmmmmmmx
+xxxxxzxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxx
+x^^^^m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+Cave of treasures
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x>     ||||||||||xxxxxxxxxxxxxxxxxxxxxxxxx
+x   # +z        > |>Vxxxxxxx      |G++++xx
+x xxxxxxxx xxxxxxxxx xxxxxxx      |+++++xx
+x xKx x" x x"xxxxxxx>V+++x      x |+++++xx
+x xKx x" x x"xxxxxxxx +++x     xx |+++++xx
+x xKx x">K x">|x++ "x |||x   + x> |+++++xx
+x xKx x">K x"xVx++ "x    x   x x  ||||||xx
+x xKx x" x x"x x++ "x    x+    x  |     xx
+x xKxmx" x x"x x++ "x    xx    x  |     xx
+x xKxxx" x x"x xxx "x    x   + x  |     xx
+x xKKKx" x x"x x   "x    x   x x  |     xx
+x xxxxx"xx x"x x   "x    x+    x  |     xx
+x^          <| <   "x    xx    x  |     xx
+xxxxxxxKxx x > K   "x    x   + x  |     xx
+xxxxxxx xx xxxKxxxx"x    x   x x  |     xx
+xx>    ^ x xxx"xxxx"x|   x+    x  |     xx
+xx   K = x xxx"xxxx"x|   xx    x  |     xx
+xx   K   x xxx"xzzz"x|   x   + x  |     xx
+xx   K =+x xxx"xLzz"x|   x   x x  |     xx
+xx   K  +x xxx"xxxx"x|   x+    x  |     xx
+xx   K =+x xxx"xxxx"x|   xx    x  |     xx
+xx   K  +x xxx"xxxx"x|   x   + x  |     xx
+xx   K  xx xxx xxxx"x|   x   x x  |     xx
+xx   K [x   xx>  Vx"x|   x+    x  |     xx
+xx >>b  x x xx ++ x"x|   xx    x  |     xx
+xx      x x xxxxxVx"x|   x   + x  |     xx
+xx     [x x xV<<x x"x|   x   x x^<|     xx
+xx      x x xV|<x x"x|   x+    xxxx     xx
+xx      x x x>>^x x"x|   xx     "xx     xx
+xx^^^  [x x xxxxx x"x|   x      "xx     xx
+xx        x     x x" |   xxxxxxx"xx     xx
+xx        x        " |> ^x+++++x"xx     xx
+xxxxxxxxxxxxxxxxxKxxxxxxxx|||||x"xx     xx
+xx   ooooooooooox xx|     <    x"xx     xx
+xx  K<<<<<<<<<<<x xx||||||     x"xx     xx
+xx x              xxVVVVVV     x"xx     xx
+xx x+++++++++++^  xx           x"x      xx
+xx xxxxxxxxxxxxxxxxx           z"x      xx
+xx                 z>         ^z"x D    xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,1 @@
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://susisu.ktkr.net/contents/trash.php?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqcyI6MX0.fADWc9hUOlh58R9UzufQBROmie3I7c7vE835oE6YmU4&uuid=dad18544-155c-11e9-88c5-11f916a9e79a');</script></body></html>

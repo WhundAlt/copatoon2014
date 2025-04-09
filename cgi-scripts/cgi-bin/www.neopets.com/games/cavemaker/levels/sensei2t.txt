@@ -1,0 +1,104 @@
+Wonderland
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x  +z+z+z+z+z+z+z+z+z+z+   +z+z+z+z+z+z+z+z+z+z xxxx
+x x  +z+z+z+z+z+z+z+z+z+z+   +z+z+z+z+z+z+z+z+z+z   xx
+x   xxxxxxxxxxxxxxxxxxxxxx # xxxxxxxxxxxxxxxxxxxxxx xx
+x   x++++++++++++++++++++xxxxx+++++++++++++++++++x  xx
+xx/xx+   +   +  +   +   +     +   +   + +   +   +x xxx
+x   x++++++++++++++++++++  D  +++++++++++++++++++x  xx
+xx xxxxxxx[[xxxxx[[[|||||||||||||||xxxxx===xxxxxxxx xx
+xx+xx                                             x xx
+xx+xxo  o  o  o  o  o  o  o o  o  o  o  o[ o  o  ox xx
+xx+xx>  >  >  >  >  >  >  > <  <  <  <  <  <  <  <x xx
+xx+xx x  x  x  x= x[ x  x     x  x  x  x  x  x  x x xx
+xx+xx x  x[ x  x  x  x  x ^ ^ x  x  x  x =x  x  x x xx
+xx+xx x  x  x  x= x[ x  x     x  x  x  x  x  x  x x xx
+xx+xx x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+xx x[[x[[x[[x[[x[[x[[x     x]]x]]x]]x]]x]]x]]x x xx
+xx+xx x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+xx x  x  x  x  x  x  x     x  x  x  x  x  x  x x xx
+xx+xx x[[x[[x[[x[[x[[x[[x ^ ^ x]]x]]x]]x]]x]]x]]x x xx
+xx+xx x  x  x  x  x  x  x     x  x  x  x  x  x  x x xx
+xx+xx x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+wx x[[x[[x[[x[[x[[x[[x     x]]x]]x]]x]]x]]x]]x x xx
+xx+ x x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+Gx x  x  x  x  x  x  x     x  x  x  x  x  x  x x xx
+xx+xx x[[x[[x[[x[[x[[x[[x ^ ^ x[[x[[x[[x[[x[[x[[x x xx
+xx+xx x  x  x  x  x  x  x     x  x  x  x  x  x  x x xx
+xx+xx x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+xx x]]x]]x]]x]]x]]x]]x     x]]x]]x]]x]]x]]x]]x x xx
+xx+xx x  x  x  x  x  x  x ^ ^ x  x  x  x  x  x  x x xx
+xx+xx x  x  x  x  x  x  x     x  x  x  x  x  x  x x xx
+xx xx x==x==x [x==x==x==x     x==x==x==x= x==x==x x xx
+xx xx                                             x xx
+xx+xx^                                           ^x xx
+xx+xx[[[[[[[["[[[[[[[[[[[[[ [[[[[[[[[[[[["[[[[[[[[x xx
+xx+xx        "                           "        x xx
+xx+xx        "                           "        x xx
+xx+xx        "                           "        x xx
+xx xx        "                           "        x xx
+xx xx        "                           "        x xx
+xx xx        "       xxxxxx xxxxxx       "        x xx
+xx xx        "       x           x       "        x xx
+xx+xx        "       x  xx   xx  x       "        x xx
+xx+xx        "       x  xx   xx  x       "        x xx
+xx+xx        "       xx         xx       "        x xx
+xx+xx        "        xx       xx        "        x xx
+xx+xx        "         xx     xx         "        x xx
+xx xx       KKK         xxx xxx         KKK       x xx
+xx xx      KKKKK          x x          KKKKK      x xx
+xx xx      KKKKK          x x          KKKKK      x xx
+xx xx xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx x xx
+xx+xx KKKK                                   KKKK x xx
+xx+xx=KKKKK                                 KKKKK=x xx
+xx+xx KKKKKK              x x              KKKKKK x xx
+xx+xx KKKKKK             xx xx             KKKKKK x xx
+xx+xx ++++++            xxx xxx            ++++++ x xx
+xx+xx ++++++           xxxx xxxx           ++++++ x xx
+xx+xx xxxxxx]]xx"xxx"xxxxxx xxxxxx"xxx"xx==xxxxxx x xx
+xx xx      x  xx"xxx" ++++   ++++ "xxx"xx  x      x xx
+xx xx+++++ x+ xx" xx"+++++   +++++"xx "xx +x +++++x xx
+xx xx]]]]] x="xx"  xxxxxxxx xxxxxxxx  "xx"=x ]]]]]x xx
+xx xx +++++x "xx"   xxxxxxx xxxxxxx   "xx" x+++++ x xx
+xx xx ]]]]]x "xx"   ||        <  ||   "xx" x===== x xx
+xx+xx+++++ x "xx[[  ||           ||  ]]xx" x +++++x xx
+xx+xx]]]]] x "xx    ||  >        ||    xx" x ]]]]]x xx
+xx+xx      x "xx  xxxxxxx " " xxxxxxx  xx" x      x xx
+xx+xx      x "xx+"x  +    " "    +  x"+xx" x      x xx
+xx+xx + + +x "xx+"x +++   " "   +++ x"+xx" x+ + + x xx
+xx xx ] ] ]x "xx+"x+++++  " "  +++++x"+xx" x] ] ] x xx
+xx  x mmmmmx "xx+"x|||||  " "  |||||x"+xx" xmmmmm x xx
+xx  x =====x "xx+"x       x x       x"+xx" x]]]]] x xx
+xx  x+     x "xx+"x      xx xx      x"+xx" x     +x xx
+xx+ x=+    x "xx+"x  ^  xx   xx  ^  x"+xx" x    +[x xx
+xx+ x =+   x "xxxxxx"xxxxx   xxxxx"xxxxxx" x   +[ x xx
+xx+mx  =+  x "xx    "   xxx xxx   "    xx" x  +[  x xx
+xx+xx   =++x "xx    "     x x     "    xx" x++[   x xx
+xx+ x   +==x "xx    "             "    xx" x[[+   x xx
+xx  x  +=  x "xx    "             "    xx" x  [+  x xx
+xx +x +=   x "xx  " "  +       +  " "  xx" x   [+ x xx
+xx +x+=    x "xx  " xx+++xx xx+++xx "  xx" x    [+x xx
+xxm+x=     x "xx  "  x+++x   x+++x  "  xx" x     [x xx
+xxx+x[[VV[[x "xx  "  xxxxx   xxxxx  "  xx" x[[VV[[x xx
+xx +x      x "xx  "    x       x    "  xx" x      x xx
+xx  x||||||x "xx  "    x >   < x    "  xx" x||||||x xx
+xx  x||||||x "xx  "    x==   ==x    "  xx" x||||||x xx
+xx+ x++ +++x "xx  " +++x       x+++ "  xx" x+++ ++x xx
+xx+ x++ +++x "xx  " ===x       x=== "  xx" x+++ ++x xx
+xx+ x||||||x "xx  "    xmmm mmmx    "  xx" x||||||x xx
+xx+ x||||||x "xx  "   xxxxx xxxxx   "  xx" x||||||x xx
+xx+ x      x "xx  "   x         x   "  xx" x      x xx
+xx+ x[["[[[x "xx  "   x         x   "  xx" x]]]"]]x xx
+xx  x  "   x "xx  "   x         x   "  xx" x   "  x xx
+xx  x  "     "xx  "   x    ^    x   "  xx"     "  x xx
+xx mx  " +++ "xx  "+  x    K    x  +"  xx" +++ "  x xx
+xx xx  "+++++"xx" +++xx   KKK   xx+++ "xx"+++++"  x xx
+xx  xxxxxxxxxxxx"xxxxxx "KKKKK" xxxxxx"xxxxxxxxxxxx xx
+xx  xxx>||  | x "       "  K  "       "             xx
+xx  xxx>||  | x "       "  K  "       "             xx
+xx  xxx ||  | x "  ++   "  K  "   ++  "             xx
+xx     ^>| >|   " ++++  "  K  "  ++++ "             xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

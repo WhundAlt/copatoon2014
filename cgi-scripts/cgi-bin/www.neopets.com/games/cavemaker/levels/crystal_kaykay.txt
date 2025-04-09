@@ -1,0 +1,44 @@
+RUN!!!
+terrain 3
+background 1
+water clear
+xx++++++++++oooooooooooooooooooo xxxxxxx
+x oooooooooooooooooooooooooooooo    xxxx
+x oooooooooooooooooooooooooooooo    xxxx
+x oooooooooooooooooooooooooooooo    xxxx
+x |||||||||||||||||||||||||||||||   xxxx
+x  1                             +  xxxx
+x#>   ^                          +  xxxx
+x[============xxxxxxxxxxxxxxxxxxxxVxxxxx
+x             oooooooooooooooooV   <xxxx
+x             ooooooooooooooooo|  >^xxxx
+x             ooooooooooooooooo|    xxxx
+x             ooooooooooooooooo|    xxxx
+x             ||||||||||||||||||    xxxx
+x                                   zxxx
+x                                   zzzx
+x                                   zzzx
+z                                   xxzx
+z                                   xzzx
+z           K          +        +///xzzx
+z            xxxxxxbbbbbbbbb   xxxxxxzxx
+zxxxxxxxxxxxxxmmmmmmmmmmmmmmmmmxxxxxzzxx
+z>  V >    ||xxxxxxxxxxxxxxxxxxxxxxxzzxx
+xx "> ^  "  |xxxxxxxxxxxxxxxxxxxxxxxzxxx
+x  " "   " "|xxxxxxxxxxxxxxxxxxxxxxzzxxx
+x  " " " " "|xxxxxxxxxxxxxxxxGzzzzzzzxxx
+x  " " " " "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x  "   "   "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      "   "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x          "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x          "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x          "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x          "|xxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                      x
+x                                      x
+x                      x       3       x
+x                      x     4         x
+x      "                   5          Dx
+x     L bbbbbbbbbbbbbmxxxzzxxxxxxxxxzxxx
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

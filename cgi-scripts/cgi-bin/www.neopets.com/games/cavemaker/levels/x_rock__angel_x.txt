@@ -1,0 +1,57 @@
+Ultimate Challange
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx+++++++++xoxxxxxx
+xxxxxx    K   K   K  xxooooooooo oxxxxxx
+xxxxxx    K   K   K  xxooooooooo oxxxxxx
+xxxxxx    K   K   K  xx|||||||||||xxxxxx
+xxxxxx    K   K   K               xxxxxx
+xxxxxx    +   +   +              ^xxxxxx
+xxxxxx    +   +   +  xx===========xxxxxx
+xxxxxx    +   +   +  xx           xxxxxx
+xxxxxx #  K   K   K  xx           xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx==xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx===xxxxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   xxxxxx
+xzzxxxxxxxxxxxxxxxxxxxxxxxxxxx====xxxxxx
+xzzxx  V   V  <                   xxxxxx
+xzzxx   V<      |/////////////    xxxxxx
+xzzzz >V ^<^<   |                 xxxxxx
+xGzzz           |                 xxxxxx
+xxxxx  V< ^<      ===  ===  ===   xxxxxx
+xxxxx    >  ^  x                 xxxxxxx
+xxxxx          x                 xxxxxxx
+xxxxx          x                xxxxxxxx
+xxxxx    ^    ^x^ mmm  mmm  mmmmxxxxxxxx
+xxxxxx||xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx^  | | xzzzzzzzzzzzzzzxxxxx+xxxxxx
+xxxxxx|||| | x)zzzzzzzz)zzzzzzzzz+xxxxxx
+xxxxxx     | xzzzxxxxzzzxxxxxxxxxxxxxxxx
+xxxxxx|||||| xzzzzzzzzzzxxxxxxzzzzxxxxxx
+xxxxxx       xxzzzzzzzzzzzzzzzzzzzxxxxxx
+xxxxxx       xxzzxxxxxxxxxxxxxxxxzxxxxxx
+xxxxxx       xxzzxzzzzzzz+zz>xxxxzxxxxxx
+xxxxxx+++++++zzuzzzzzzzzz+zz>zzzzzxxxxxx
+xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx       xzzx                 xxxxxx
+xxxxxx+      xzxx                 xxxxxx
+xxxxxx=             ==            zzzxxx
+xxxxxx  ===                       zzzxxx
+xxxxxx           ==    b  b  b b  xxzxxx
+xxxxxx       ===      ^^^^^^^^^b==xxzxxx
+xxxxxx                         ^  xxzxxx
+xxxxxx+mmm mmm mmmmmmmmmmmmmmmmmmmxxzxxx
+~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxx
+x     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxx
+x+++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxx
+x+++++xxxxxxxxxxxzzzzzzzzzzzzzzzzzzzzxxx
+x+++++zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx
+x+D+++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

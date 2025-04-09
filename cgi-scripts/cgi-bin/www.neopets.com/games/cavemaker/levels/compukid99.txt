@@ -1,0 +1,46 @@
+Hit and RUN
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    >  ||||||||||||||||||||||||||||||||wx|>                            xKxK     x
+x        VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV x|                            <xKxK     x
+x                                        x|>             xxx===========^xKxK     x
+x                                       "x|>  ===========x>            |>=xK     x
+x  # ^            +     +     +     +   "x|>         >  Vx  ============xKxK     x
+x[===xxxxx=============================]"x|>          V <x^>            xKxK     x
+xmmmmx    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"x|      5       x||============xKxK     x
+xxxxxx                                  "x|==========    x|>            x=xK     x
+x"                    mmmmmmmmmmmmmmmmmo"x|>             x||============   K     x
+x"         4        xmxxxxxxxxxxxxxxxxxxxx|>    > V    KKx|>               K     x
+x"==================xxx                  x|>      >  ^ KKx||============   K     x
+x"                                       x|>>   ^     >>> |>               K     x
+x"   +     +     +     +     +     +     x|>  xxxxxxxxxxxxxxxxxxxxxxxxxxx xKx]   x
+x==[==================================== x|>^                          <x  [x+   x
+x                                        x|                     1       x^|^x]   x
+x                                        x|>                            xx  x+   x
+x                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxx> ^x ^<x]   x
+x         mmmmmmmmmmmmmmmmmmmmmmmmmmmmmo x      xwww   wwwxwww   wwwx   x   x+   x
+x  ++++   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      x         x         x  V<|V x]   x
+x  ++++                                  x      x    +    x    +    x   x   x+   x
+x  ++++                                  x    +      x    x    x    x   x   x]   x
+x  ++++   mmmmmmmmmmmmmmmmmmmmmmmmmmmmx  x   x]     [x]       [x]       x   x    x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x   x       x         x        x >^x]   x
+x                                       Kx   xxx    mxm       mxm    ^ <x^   <   x
+x                                       Kx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+x >                                     =x     xKKKKKKKKKKKKKKKKKKKKKKKKKKx  +Kx"x
+x       "                               Kx     xKKKKKKKKKKKKKKKKKKKKKKKKKKx LKKx"x
+xm  m   "  +      +      +      +       Kx     xKKKKKKKKKKKKKKKKKKKKKKKKKKx KKKx"x
+xxxxxx  "xxxx========================== Kx     xKKKKKKKKKKKKKKKKKKKKKKKKKKx KKKx"x
+xxxxxx  "x>Vx                           Kx D  mxKKKKKKKKKKKKKKKKKKKKKKKKKKx KKKx"x
+xxzzzx  "x  x V                       < Kxxxxxxx||||||||||||||||||||||||||||||| "x
+xxGzzx  "x  x  ==========================x "   x                                "x
+xxxxzx  "x  x >                        V   "   x^     <                         "x
+xww  x  "x  x+                           x="x] x                                xx
+x    x  "x  x==========================  x "x  x >    ^                         xx
+x   [x  "x^Vx~            V < V <        x "x  x                                xx
+x] xxx  "x                              ^| "x                                   xx
+x  wwx  "x^               < ^ < ^      < | "x                                   xx
+x]      "x||                             | "x+ > ^                             mxx
+x       "xx>                             | "xxxxxmmmmmmmmmmmmmmmmmmmmmmmmmxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

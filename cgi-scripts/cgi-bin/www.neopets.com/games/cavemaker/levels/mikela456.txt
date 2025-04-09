@@ -1,0 +1,32 @@
+Danger
+terrain 1
+background 1
+water clear
+xxxxxxtxxxxxxxxxxxxxx
+x....x  xxxxxxxxxxxxx
+x....xx xxxxxxxxxxxxx
+x                  xx
+x                 4xx
+x       x x+++++ " xx
+x  xxxxxx xxxxxx " xx
+xxwxV         <x " xx
+xV  <xxxx xxxx x " xx
+x  xxxzzx xwwx x " xx
+x  x++zzz x..x x " xx
+x  x++zz/         <xx
+x  x++zzx x  x ++  xx
+x  xxxzzx xmmx [[]"xx
+x   xxxxx xxxx xxxzxx
+x  D  x+++++xx xxx"xx
+x     x+++++xx xxx"xx
+x     x+++++xx xxx" x
+x>   /|+++++> ^  z"#x
+xx xxxx[===]xxxxxxxxx
+x  wwww     wwwwwwwx.
+x                    
+x        VV          
+x++++++++  ++++++++xx
+xxxxxxxxx  xxxxxxxxxx
+x++/     <>     /++x.
+x++/            /++z 
+xxxxxxxxxxxxxxxxxxxxx

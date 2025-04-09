@@ -1,0 +1,31 @@
+Trials
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx   +++>mmmvxxx            +|                 >         |< xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx+  +xxxxxxx xxx            +|                 +         |<   xxxxxxx
+xxxx              xxx++  xxxxxxxw wxx xxxxxxxxxxxxxxx=xx============x          |<  xxxxxxx
+xxx  +               bb   wwxwww   xx wwwwwwwwwwwwww   w            w          <|   xxxxxx
+xx  ===            >      m |      wx  xxxxxxxxxxxxx   x    +   <|  xx         |<   xxxxxx
+xx                    ==xxxm|m     mx xxxzzzzxxxx     xx    ||  <^  xxxx       <|+  xxxxxx
+xx     xxxxmxxmxxxx   + x+xx|xmmm mxx  x+zzzzz ++     xx  +     <|  xxxxxx     |<|  xxxxxx
+xxx D xxx+xxxxxxxxx^ ===xkx |xxxx xxx  xxxxxxxxxxxxxx  x ||     <^  x          <|    xxxxx
+xxxxxxxxxkx+kkkk+k|   <<    |    |kmk km+   <<         m<   +   <|  m       m  |<    xxxxx
+xxxxw+    xxxxxxxxxx   |    |   x|kxk xx+        "     x    ||  <^v<x  xxxxxx  <|    xxxxx
+xxxw     k  mmmmmmm   <  b  xx  xxxx+ xxxxxxxxxxx"xxxx xx +     <|  x          |<     xxxx
+xxxm   "    xxxxxxxx  " =^  xx    xxx xkkxkkxkxk " kxx xxxx     <^  x          <|      xxx
+xxxxmm "   xxxxxxxxxxx"    xxx     x  xkkxkkxkxk " kxx xx   +   <|  xxxxx      |<      +xx
+xxxxxxm"      ww+w    " =  xxxx       xkkxkkxkxk " kxw x    ||  <^  xx         <|   xxxxxx
+xxxxxxx"              "    xxxx     [=x>> >> > >   kw  x  +     <|  x          |<  xxxxxxx
+xx   xx"              "   xxxxxx     x              +++x  ||     ^< x  xxxxxxxxxxxxxxxxxxx
+xx   ww" ^  xxxxxxxx  "^xxxxxxxxx    > ^            bbb>  mmmmmmmmm^x+xxxxxxxxxxxxxxxxxxxx
+xx # mm"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

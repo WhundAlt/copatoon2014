@@ -1,0 +1,56 @@
+Arrow Dominos
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx    K|K         |> <  <|+++xxx+x3              3xx
+xx    K|K         |> <  <|+++xxx+x                xx
+xxV # K|K         |> <  <|+++xxx+x"x========xxx|xxxx
+xx xxxxxx[ ]x====x x====x xxxxxx+x"x        x     xx
+xx>    Vx   xmmmmx xmmmmx xxxxxx+x"x        x     xx
+xxxxxxx x   xxxxxx^xxxxxx^xxxxxx+x"x              xx
+xxVK  </>         |>     |> <xxx+x"x+      +   ^  xx
+xx xxxxVx+++xxxxxxmxxxxxxmxxxxxx+x"x[      ]xxx|xxxx
+xx>  Vx xKKKxxxxxxxxxxxxxxxxxxxx+x"x        x     xx
+xxV>< x x   xxxxxxxxxxxxxxxxxxxx+x"x        x     xx
+xx> V x x^^^xxxxxxxxxxxxxxxxxxxxox"x+      +x     xx
+xxV < x x///xxxxxxxxxxxxxxxxxxxxox"x[      ]x     xx
+xx> V x x   xxxxxxx>         Vxxox"x        x     xx
+xxV < x x V xxxxxxx xxxxxxxxx xxVx"x        x     xx
+xx> V x x   xxxxxxx xV       <xx x"x+      +x     xx
+xxV < x>  ^ xxxxxxx x xxxxxxxxxx^x"x[      ]x     xx
+xx ^ <xmx///xxxxxxx x>       |> |x"xmmmmmmmmx     xx
+xx xxxxxx^^^xxxxxxx xxxxxxxxxVxxVx"xxxxxxxxxx  ^  xx
+xx>    >     Vxxxxx x+++++++x xx x"xxxxxxx>    |  xx
+xxxxxxxxx   x xxxxx x+++++++x xx x"xxxxxxx xx  V  xx
+xxxxxxxV     <xxxxx x+++++++x xx x"xxxxxxx xx+V|V+xx
+xxxxxxx x   xxxxxxx xooooooox xx x"xxxxxxx xx+ V +xx
+xxxxxxx>     > Vxxx xKKKKKKKx xx x"xxxxxxx xx+   +xx
+xxxxxxxxx   xxx xxx x       x xx x"xxxxxxx xx+   +xx
+xxxxxxxxx   xxx xxx x^^^^^^^x xx x"xxxxxxx xxK<K>Kxx
+xxzzxxxxx   xxx xxx x||||||| <xx x"xxxxxxx xx     xx
+xxzzzzzzz    xx xxx^xVVVVVVVxxxx x"xxxxxxx xx+   +xx
+xxzxxxxxxx     |                   xxxxxxx xx+   +xx
+xxzxxxxxxxx    |                 3 xxxxxxx xxK   Kxx
+xxzxxxxxxxxxx  |                   xxxxxxx xx|<K>|xx
+xxzxxxxxzzzzxxxxxxxxx=======xxxx=xxxxxxxxx xx     xx
+xxzxxxxzzzzzzzzzzzzzz       xV  <xxxxxxxxx xx+   +xx
+xxzxxxzzzzxxxxxxxxxxxm     mx xxmxxxxxxxxx^ <|   |xx
+xxzxxzzzzxxxxxxxxxxxxxmmmmmxx xxxxxxxxxxxxxxx     xx
+xxzxzzzzxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx     xx
+xxzxzzzxxxxV                 <xxxxxxxxxxxxxxx     xx
+xxzxLzzzxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xx
+xxzxxzzzzxx xV                             <x     xx
+xxzxxxzzzzx x>                             ^x     xx
+xxzxxxxzzzx x                               x     xx
+xxzxxxzzzzx x^+++++++++++++++++++++++++++++ x     xx
+xxzxxzzzzxx x|||||||||||||||||||||||||||||| x     xx
+xxzxzzzzxxx x                               x^^^^^xx
+xxzxzzzxxxx x      3                      3 x|||||xx
+xxzxzzzzxxx x^                              x|   |xx
+xxzxxzzzzxx x|||||||||||||||||||||||||||||| x|   |xx
+xxzzzzzzzzx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x|   |xx
+xxzzzzzzzGx>mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  | D |xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

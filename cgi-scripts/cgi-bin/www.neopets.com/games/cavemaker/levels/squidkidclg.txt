@@ -1,0 +1,44 @@
+The Winding Road
+terrain 3
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz+++oxxx
+xxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz+++/xxx
+xx===================================xxx
+xx  =    +     +     +     +      "  xxx
+xx      + +   + +   + +   + +     "  xxx
+xx     + + + + + + + + + + + +    "  xxx
+xx D  +     +     +     +     +   "  xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  "  xxx
+xx                                "  xxx
+xx  "                             "  xxx
+xx  "                             "  xxx
+xx  "                             "  xxx
+xx  "   +5+4+3+2+5+4+3+ + + + +      xxx
+xx  "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx  "   oooooooooooooooooooooooo     xxx
+xx  "   oooooooooooooooooooooooo  "  xxx
+xx  "   ||||||||||||||||||||||||  "  xxx
+xx  "                             "  xxx
+xx     ++++++++++++++++++++++++^  "  xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=="  xxx
+xxwwwww  ww  ww  ww  ww  ww  ww   "  xxx
+xx  "                             "  xxx
+xx  "                             "  xxx
+xx  "                             "  xxx
+xx  " 3    mm++mm++mm++mm++mm++mm    xxx
+xx  " 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx  " 4>                  <  ||||   |z+x
+xx  " /                      |+||    xxx
+xx  " />VV < V < V < V <     ||+| = =xxx
+xx  " /<>                    |+|| <  xxx
+xx    /^ < ^ < ^ < ^ < ^  <  ||||    xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxx
+xx    K   K   K   K   |K            =xxx
+xx  + K + K + K + K   |K             xxx
+xx  K K K K K K K K > |K             xxx
+xx  K = K = K = K =   |K          =  xxx
+xx# K + K + K + K +   |K   + + + +   xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

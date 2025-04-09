@@ -1,0 +1,56 @@
+The_Sunken_Ship
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx||||||||||||||||||||||||||||||||||||||||||||||||xx
+xx|   |||||                                      |xx
+xx| ++///||                   KKKKKK  ////////   |xx
+xx|#++               u        KKKKKK  bbbbbbbb   |xx
+xx|||||||K   +++     V ||||||  bbbbbbbb   |xx
+xx|||||||  bbbbbbb   >^       zzzzzz  ++++++++   |xx
+xx|||||||||///////||||||||||||//////|||||||||||| |xx
+xx|..................|wwwwwwwwwwwwwwwwwwwwwwwww|~|xx
+xx|        > V<V<V<K|                          | |xx
+xx|        >|<^<^<^<  K        /////////      3z |xx
+xx|        >       K|          /////////      3z |xx
+xx| mmmmmmmmmmmmmmmmm|       u           u    3z |xx
+xx| |||||||||||||||||||||||||.|||||||||||.||||||||xx
+xx|  .w.w.w.w   ///         |||/.../.../|||      |xx
+xx|   . . . .   ///"                     )z<VVVV |xx
+xx|  . . . .    ///"///    KK    /   /   +b     4|xx
+xx|   . . . .   ///"///    KK            +b     4|xx
+xx|  . . . .    ///"///    KK  /+++/+++/ +b     4|xx
+xx|  m.m.m.m.       /// )/ KK  z+++z+++z )z<^^^^ |xx
+xx|||||||||||||||||||||||||||||||||||||||||||||| |xx
+xx|          zz  //  ............... | ....... | |xx
+xx|   V      <z  //  ||||||||||||||| | |||||||+| |xx
+xx| |||      ||bb//  |              1| |||||||+| |xx
+xx| |4|      |/++//  |3              | |      +| |xx
+xx| |3|      |/bb//  |              5| | ++++++| |xx
+xx| |4|      |/      | /////////////// | /////// |xx
+xx| K2K     G|/      | ............... | ....... |xx
+xx| ||||||||||||||||||||||||||||||||||||||||||||||xx
+xx|)z======z||||||||||||wwwwwwwwwwww|||||||||||| |xx
+xx|)z=bbbb=zwwwwwwwwwwww            wwwwwwwwwwww |xx
+xx|)z=b++b=z             ..........              |xx
+xx|)z=b++b=z ..........  ////////// ............3|xx
+xx|)z=b++b=z ..........  ////////// ............3|xx
+xx|)z=b++b=z             ..........              |xx
+xx|)z=bbbb=zmmmmmmmmmmmm            mmmmmmmmmmmm |xx
+xx|)z======z||||||||||||mmmmmmmmmmmm|||||||||||| |xx
+xx|||||||||||||||||||||||||||||||||||||||||||||| |xx
+xx|///////////////|............|...............| |xx
+xx|/             /|+     +  +  |  +    +  +  + | |xx
+xx|/             /| / / /    / | /      / / /  | |xx
+xx|/../////////../|  ///      ///        ///   | |xx
+xx|/          /  /|+/////+  +/////+    +/////+ | |xx
+xx|/          /  /|  ///      ///        ///   | |xx
+xx|/////////../  /| / | /    / / /      / | /  | |xx
+xx|.          /  /|+  |  +  +  +  +    +  |  + | |xx
+xx|.          /  /|   |                  4|    | |xx
+xx|D///////////   z   |                  4|    z(|xx
+xx||||||||||||||||||||||||||||||||||||||||||||||||xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

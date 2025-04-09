@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Double or Nothing!</title>
+</head>
+<body>
+    <center>
+        <table>
+		<tr>
+			<td class="content">
+				<!-- r0 -->
+				<b>Double or Nothing</b>
+				<p></p>
+				<table align="center" border="0" cellpadding="3" cellspacing="0">
+					<tbody>
+						<tr>
+							<td align="center" height="200" width="300">
+								<script src="http://images.neopets.com/js/swfobject.js?v=2" type="text/javascript">
+								</script> 
+								<script type="text/javascript">
+								var swf = new SWFObject('http://images.neopets.com/medieval/cointoss_heads.swf', 'flash_35827700635', '300', '200', '6', '#FFFFFF');
+								swf.addParam('quality', 'high');
+								swf.addParam('scale', 'exactfit');
+								swf.addParam('menu', 'false');
+								swf.addParam('allowScriptAccess', 'always');
+								swf.addParam('swLiveConnect', 'true');
+								swf.addParam('bgcolor', 'white');
+								swf.write();
+								</script>
+							</td>
+						</tr>
+					</tbody>
+				</table><br>
+				<center>
+					<b>
+                        <?php 
+                            $phrase = rand(1,6);
+                            if($phrase == 1)
+                            {
+                                echo "I demand a recount!";
+                            }
+                            elseif($phrase == 2)
+                            {
+                                echo "You must have cheated...";
+                            }
+                            elseif($phrase == 3)
+                            {
+                                echo "Uggh!";
+                            }
+                            elseif($phrase == 4)
+                            {
+                                echo "No, look closer, I think its tails...";
+                            }
+                            elseif($phrase == 5)
+                            {
+                                echo "So you think it's fine to rob a poor old Skeith?";
+                            }
+                            else
+                            {
+                                echo "Hang on, that coin was supposed to have tails on both sides!";
+                            }
+                        ?>
+                    </b><br>
+					Congratulations! You have won <b><?php echo $_GET["points"] ?> NP</b> so far...
+					<p></p>
+					<center>
+						<a href="http://www.neopets.com/medieval/continue_doubleornothing.phtml?points=<?php echo $_GET["points"] ?>">
+                            <input type="button" value="Continue" />
+                        </a>
+					</center>
+					<form action="collect_doubleornothing.phtml" method="get" onsubmit="return one_submit();">
+						<input name="_ref_ck" type="hidden" value=""><input name="type" type="hidden" value="collect"><input name="win" type="hidden" value="2"><input type="submit" value="Collect Your Winnings - <?php echo $_GET["points"] ?> NP">
+					</form>
+				</center><br clear="all">
+			</td>
+		</tr>
+	</table>
+    </center>
+</body>
+</html>

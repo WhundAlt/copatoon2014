@@ -1,0 +1,91 @@
+Realm of Leftovers2
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+x                                                                                     x
+xKK                                                                                   x
+xKK                                                                                   x
+xxxxx                                                                                 x
+xbxxx                                                                                 x
+xxxx|xx                                                                               x
+xKbxxxx                                                                               x
+xoxxx^xxx                                                                             x
+xxK/xxx|x                                                                             x
+xooxxxxxxxx                                                                           x
+xxxxxoxxbxxx                                                                          x
+xxbxxxxoxxxKx                                                                         x
+xxxxx^xxK/xxx                                                                         x
+xxKoxxxxoxxxxxx                                                                       x
+xxx=xxxxxxxxxxx                                                                       x
+xVV  < >    V||                                                                       x
+xV/ x >   V  ||                                                                       x
+x^>Vx^ V < </||                                                                       x
+x/ ^x/  V   <||                                                                       x
+xVVVx/  >  < ||                                                                       x
+x   xo       ||                                                                       x
+x # >>^^ ^<  ||      D                                                                x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

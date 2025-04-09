@@ -1,0 +1,44 @@
+SkullX4
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwww     zz  xxxxwwwww     zz  xxxxwwwww     zz  xxxxwwwww     zz  xx
+xt          zz mxxxt          zzDmxxxt      ++++zz mxxxt          zz mxx
+xx      ||||xxxxxxxx      ||||xxxxxxxx      ||||xxxxxxxx      ||||xxxxxx
+xxV         ww<xxxxxV         ww<xxxxxV         ww<xxxxxV         ww<xxx
+xx    |        xxxxx    |        xxxxx    |+       xxxxx    |        xxx
+xx|||||||   > ^xxxxx|||||||   > ^xxxxx|||||||   > ^xxxxx|||||||   > ^xxx
+|>          ^mxxxx|>          ^mxxx>|>      V   ^mxxxx|>          ^mxxxx
+^      <| xxmxxxxx^      <| xxmxxxxx^ o    <| xxmxxxxx^      <| xxmxxxxx
+     >  ^ xx xxxxx     >  ^ xx xxxxx  >  >  ^ xx xxxxx     >  ^ xx xxxxx
+x==xxxxxxxxx xxwxxx==xxxxxxxxx xxwxxx==xxxxxxxxx xxwxxx==xxxxxxxxx xxwxx
+x   xxxxxxxx xw wxx   xxxxxxxx xw wxx   xxxxxxxx xw wxx   xxxxxxxx xw wx
+xx==xwwwwwww w  "wxx==xxwwwwww w  "wxx==xwwwwwww w  "wxx==xwwwwwww w  "w
+    x           "     zx++++++    "     x           "     x           " 
+xxxxxxx xxxxxxxx"xxxxxzx[+=]xxxxxx"xx xxxxx xxxxxxxx"xxxxxxxx xxxxxxxx"x
+xwwxxxx xxwxxx|K" xwwxzzx+xxwxxx|K" xxwxxxx xxwxxx|K" xwwxxxx xxwxxx|K" 
+w  wxxx xw x  K|" w  wxzz+xw x  K|" w  wxxx xw x  K|" w  wxxx xw x  K|" 
+    wxx x  x  |K"     wxz+x  xG |K"     wxx x  x  |K"     wxx x  x  |K" 
+     wxww  xx          wxzw  xx          wxww  xx          wxww  xx     
+    o wwmmmwwmm  m    o wwmmmwwmm  m    o wwmmmwwmm  m    o wwmmmwwmm  m
+   xxxxxxxxxxxxx x   xxxxxxxxxxxxx x   xxxxxxxxxxxxx x   xxxxxxxxxxxxx x
+   x           xxx   x           xxx   x           xxx   x           xxx
+ mxx         ++++++mxx               mxx               mxx              
+xwxx         xxxxxxwxx         xxxxxxwxx         xxxxxxwxx         xxxxx
+x xx  ++++++ x    x xx         x    x xx         x    x xx         x    
+x  zzx++++++xxx   x  zzx      xxx   x  zzx      xxx   x  zzx      xxx   
+x  zzxxxxxxxxx    x  zzxxxxxxxxx    x  zzxxxxxxxxx    x  zzxxxxxxxxx    
+x  xxxxxxxxxxxmm  x  xxxxxxxxxxxmm  x  xxxxxxxxxxxmm  x  xxxxxxxxxxxmm  
+x  xxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxx
+x     "xxxxxxxxxxxx     "xxxxxxxxxxxx     "xxxxxxxxxxxx     "xxxxxxxxxxx
+xx    "xxxxxxxxxxxxx    "xxxxxxxxxxxxx    "xxxxxxxxxxxxx    "xxxxxxxxxxx
+xxx=] "xxxxxxxxxxxxxx=] "xxxxxxxxxxxxxx=] "xxxxxxxxxxxxxx=] "xxxxxxxxxxx
+xxxmm "xxxxxxxxxxxxxxmm "xxxxxxxxxxxxxxmm "xxxxxxxxxxxxxxmm "xxxxxxxxxxx
+xxxxx "x   o      xxxxx "x   o      xxxxx "x   o      xxxxx "x   o      
+   xxm"x  x=x        xxm"x  x=x        xxm"x  x=x        xxm"x  x=x     
+    xx"x  x xx        xx"x  x xx        xx"x  x xx        xx"x  x xx    
+    xx"w    xx=]   #  xx"w    xx=]      xx"w    xx=]      xx"w    xx=]  
+    xmm m  xLz        xmm m  x z        xmm m  x z        xmm m  x z    
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

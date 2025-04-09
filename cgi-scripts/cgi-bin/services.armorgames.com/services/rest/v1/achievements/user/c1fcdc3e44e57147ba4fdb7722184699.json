@@ -1,0 +1,3 @@
+<?php
+
+	echo '{"version":1,"code":401,"message":"OK","payload":{"session":"5cb7ab3f004bb8.04802005","key":"5cb7ab3f009e1"}}';

@@ -1,0 +1,106 @@
+hopeless
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxzzzxxxxxxxxoxxxxxx
+xxx     x    zzzzzzzzzzzzz    wx   o    xx
+xzz+   #x D  xxxxxxxxxxxxx     x  ||    xx
+xzxxxxxxxxxxx             x    x  ^     xx
+xzx>>>                               |||xx
+xzx           =xxxxxxxxxxxxxxxxxmmx=xVVVxx
+xzx            xVVVVVVV bbbbbbbxxxx=x   xx
+xzx         =  x|||||||xxxxxxxx> Vx=x   xx
+xzx            x^KKKKKKK          x=x   xx
+xzx       =    xK|K|KKKK          x=x   xx
+xzx             |K|K|K|K       ^  x=x   xx
+xzx             KKKKK|K/          x=x   xx
+xzx       xxxxxxxxxxxxxxxxxxxxxxx x=x   xx
+xzx   ||||wwwwwwwwwwwwwwwwwwwww   x=x   xx
+xzx   w                           x=x   xx
+xzx                              |x=x   xx
+xzx        xxxxxxxxxxxxxxxxxxxxxx| [x   xx
+xzx                              | [x   xx
+x+x                              | [x   xx
+x+x   xxxxxxxxxxxxxxxxxxxxxxxx]  x [x   xx
+x+x   x            4         x   x [x   xx
+x+x   x          |5|5|5|5|5|2x  [x [x   xx
+x+x   x   >      ||||||||||||x   x [x   xx
+x+x   x                      x   x [x   xx
+x+x   x                      x]  x [x   xx
+x+x   x                      x   x [x   xx
+x+x   xxxx                   x   x [x   xx
+x+x      x                   x  [x [x   xx
+x+x      >^                      x [x   xx
+x+x    xxxxxxxxxx                x [x   xx
+x+x           wxxxxxxxxxxxxxxxxKKx [x   xx
+x+x                              x [x   xx
+x+x^^^xxxxxx                     x [x   xx
+x+x||>  V   xxxxxxxxxxxxx  xxxxxxx [x   xx
+x+x||>  V                          [x   xx
+x+x xooo                           [x   xx
+x+x xooo =xxxxxxxxxxxxxxxxxxxxxxxxxxx   xx
+x+x xooo =  |                      <x   xx
+x+x xooo =  |>                      x   xx
+x+x xooo =  |>                      x   xx
+x+x xooo =  |>                      x   xx
+x+x xooo =  |>                      x   xx
+x+x xooo =                          x   xx
+x+x xooo xxxxxxxxxxxxxxxxxxxxxxxx   x   xx
+x+x x|||<xVVVVVVVVVVVVVVV        x  x   xx
+x+x x|||<x|||||||||||||||           x   xx
+x+x x    x            >            ^x   xx
+x+x x    x                  xxxxxxxxx   xx
+x+x x    x  ^              xx       x   xx
+x+x x   z   ^             xKxL      x   xx
+x+x x   z                xx/x       x   xx
+x+x x   z  xxxxxxxxxxxxxxxx xxxxxxx x   xx
+x+x x   z xx                        x   xx
+x+x x   z                  ^       [x   xx
+x+x x   z                       "xoox   xx
+x+x x xxxxxxxxxxxxxxxxxxxxxxxxxx"xoox   xx
+x+x x x                         "xoox   xx
+x+x x xxxxxxxxxxxxxx           x"xoox   xx
+x+x x   V   <   <  |           x"xoox   xx
+x+x x V <   xx     K           x"xoox   xx
+x+x x |>        =  |           x"xoox   xx
+x+x x |>           K         xx "xoox   xx
+x+x x |>           |      x     "xoox   xx
+x+x x |>      =    K    x xxx   "xoox   xx
+x+x x              /    x x     "x||x   xx
+x+x x              K    xxx     "x  x   xx
+x+x x =  xxxxxxxxxxx  xxxxxxxxxxxx  x   xx
+x+x x =  x                       x  x   xx
+x+x x =  x                       x  x   xx
+x+x x =  x xxxxxxxxxxx           x  x   xx
+x+x x =  x x x x x x xxx         x  x   xx
+x+x x =  x xVxVxVxVxVx          1x  x   xx
+x+x x =  x x x x x x x    xxxxxxxx  x   xx
+x+x x =xx  xVxVxVxVxVx   xwwwwwwww  x   xx
+x+x x =    x x x x x x              x   xx
+x+x x =    xVxVxVxVxVx              x   xx
+x+x x xxxxxx x x x x xxxxxxxxxxxxxKKx   xx
+x+x x x     m m m m m   > ||||||||^ x   xx
+x+x x x   > |>|>|>|>|<  > |||||||||^x   xx
+x+x x xxxx"xVzVzVzVzVzxxxxxxxxxxxxxxx   xx
+x+x x xxxx"x^=^=^=^[^=xz   oooo    V <  xx
+x+x x....x"x^x^x^x^x^xxz G oooo     x   xx
+x+x x=x  x"x^x^x^x^x^xxz   oooo     x   xx
+x+x x=x  x"x^x^x^x^x^xxzxxxoooo     x   xx
+x+x x=x  x"x^x^x^x^x^xxzxKx||||||   x   xx
+x+x x=x  x"x^x^x^x^x^xxzxKx         x   xx
+x+x x=x  x"xxxxxxxxxxzzzxKx         x   xx
+x+x x=x  x"zzzzzzzzzzzzzxKx^       <x   xx
+x+x~x=x  x"zzzzzzzzzxxxxx|xxxxxxx   x   xx
+x+x x=x  xxxxxxxxxxxx        ....     <|xx
+x+x x=x               .      ....     <|xx
+x+x x=x               .  ^   ....     <|xx
+x+x x=x ........... xxxxxxxxxxxxxxxxxxxxxx
+x+x x=x ...........xxxxV......<..>V>V>.|xx
+x+x x=xxxxxxxxxxxxxxxx.>.........^>^>^<|<x
+x+x^   <             >................<|<x
+xzx^   <  .......    >................<|<x
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

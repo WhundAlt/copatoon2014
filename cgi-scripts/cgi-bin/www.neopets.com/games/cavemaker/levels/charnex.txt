@@ -1,0 +1,44 @@
+Dust Bunny Cavern
+terrain 2
+background 1
+water clear
+x     x                 xx     >|++>  Vx
+
+x     x  xxxxxxxxxxxxx  xw   o  />||   x
+x     x  x>>         <xxx   ++b^       x
+x[[=   x  x|      <  xxxxmm +b+|<     <x
+x  V  t   xx  xxxxxx"xxxxxxxxxxxxxx   xx
+x    4   xxx      +x"xwwwwwwwwwwwww=x  x
+x      xxxxx      +x"x    3            x
+x         xx    + bx"x   1  mmmmmmm    x
+xx  x   xx | 3 ]] xx"x      xxxxxxxx  xx
+xx |x  +x  |      <x"x  xxxxx+++++  x xx
+xx]=x xxx  x     x x"x  x    /////    xx
+xx+bx x    x  V  x x"  xx            =xx
+xx+bx x    xx   +x x  x   x           xx
+xxx x + x  xxx xxx xxx   +x    ^ 5ommmxx
+xxD+x++ x  xxx>   ^xxx  xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx"xx  o /////|    x
+x     o  V<oooooxxxxxx"x   K VVVVV xxxxx
+x     K    KKKKK xxxxx"x   / <         x
+x     |  <^||||||Vxxxx"x          ^    x
+x                  xxx"x          b    x
+x L                 xx xxxx xxxxxxxxx" x
+xx]=               ||x      xKKxKK+Kx"xx
+x|||                |xxxxxxxxK/xKK+/x"x+
+x++|>>           <<K|KxxKbKKKKKxKK+K+"x+
+x++|bb  ]]]  ^   m  | xxKb/KKKK KK+K+"x+
+x++| ]       ]  xxx |   |KK++KK KKKK+"x+
+x++|            x x^K   //////</////   <
+x++|          m x   Kx x                
+x++|          xxx    x xo    oo      =  
+xooo x       xxxw  ++x xK   oKK    oo   
+xK|K x      xxx    xxx x|  oKK/   oKK   
+x ^ <x    xxxxxm  +xxx x  oKK/   oKK/xx 
+x         xxxxxxx"xxxx x oKK/K   KK//xx 
+x       mxxxxxxxx"xxxx x^KK/KK KoK// xx 
+x       xxx"xx"xx"xxxx x//////KKK//< xx 
+x      xX x"xx"xx"xGzx x >     />  |>  ^
+x#   <  m   xx xx"xzzx x             xxx
+xxxxxxxxx   2     xzzz  ^            xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

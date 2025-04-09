@@ -1,0 +1,79 @@
+Necropolis
+terrain 3
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxV        < <  <       xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>          V          xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"     "V       <          xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"     ">       V          xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"     "                   xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"     "    1              xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"     "                   xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++"VVx  ++++++ + +  ^  < < <xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxx||||||<|<|  xxx"x"x"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxx            xxx"x"x"xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxxmmmmmmmmmmmmx "  3  xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxxxxxxxxxxxxxxx "     xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxxxxxxxxxxxxxxx "x+x+xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||xxxxxxxxxxxxxxxx "xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx" KoooooooooooK xxxxx||xxxxxxxxxxxxxxxx "xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx" KoooooooooooK xxxxx||xxxxxxxxxxxxxxxx "xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx" KoooooooooooK xxxxx||xxxxxxxxxx       "  xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx" ||||||||||||| xxxxx||xxxxxxxxxx       "  xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx" /         3   xxxxx||xx       x"xxxxxxxxxxxxxxxxxxxx
+xxxxxxxx++xxxx++xxxxx"[=====]        xxxxx||xx       x"x        xxxxxxxxxxx
+xxx     bb    bb     "               xxxxx||xx       x"x K      xxxxxxxxxxx
+xxx                3 "               xxxxx||xx        "xKKK     xxxxxxxxxxx
+xxx#          3      "               xxxxx||xx o   o  "x      3 xxxxxxxxxxx
+xxxxx   xx    xx   xx"               xxxxx||xxxxxxxxxx"         xxxxxxxxxxx
+xxxxx+++xx++++xx+++xx"               xxxxx||xxxxxxxxxx"    3    xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx"             ++xxxxx||xxxxxxxxxx"xxxxxxxxxxxxxxxxxxxx
+x|||||||||||xxxxxxxxx"             ++x    ||xxxxxxxxxx"xxxxxxxxxxxxxxxxxxxx
+x|        ||xxxxxxxxxxx[============]x    ||xxxxxx"x"x"xxxxxxxxxxxxxxxxxxxx
+x| "     4||        xxx              x    ||xxxxxx"x"x"xxxxxxxxxxxxxxxxxxxx
+x| "||||||||        xxx              x    ||xxxx"       xxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "      xxx              x xxx||xxxx"    3  xxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"xx"xxxx              x    ||xxxx"xxxxxxxxxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"xx"xxxx              xD 2 ||xxxx"oooooooxxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"xx"xxxxmmmmmmmmmmmm  xxxxxxxxxxx"oooooooxxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"xx"xxxxxxxxxxxxxxxx  xxxxxxxxxxx"oooooooxxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"xx"xxxxxxxxxxxxxxxx  xx ||||V   "K|K|K|Kxxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"x " xxxx             xx    |V   "^K|K|K|xxxxxxxxxxxxxxxxxxx
+xK "|xxxxxx| "|"x "                  xx    |V   "K|K|K|Kxxxxxxxxxxxxxxxxxxx
+KK "|||||||| "|"x "       +  3  +    xx    |>    ^K|K|K|x   xxxxxxxxxxxxxxx
+K             |"xxxxxxxx++x++x++x++xxxx    |>           x   xxxxxxxxxxxxxxx
+K   +++++ ~   |"xxxxxxxxxxxxxxxxxxxxxxx    xxxxxx       x"x"xxxxxxxxxxxxxxx
+KK^<KKKKK+ ||||"xxxxxxxxxxxxxxxxxxxxxxx    xxzz"z       x"x"xxxxxxxxxxxxxxx
+xx       ++xxxx"x..xxx..xx..xxxxxxxxxxx ^^^xxzz"z       x"x"xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxw    www   w  www      >   ||xxzz"x       x"x"xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx                       >   ||xxzz"xmmmmmmmx"x"zzzzxxxxxxxxxxx
+xxxxxxxxxxxxxx                      xxxxxxxxxzz"xxxxxxxxx"x"zzzGxxxxxxxxxxx
+xxxxxxxxxxxxxx   5      5    5      xxxxxxxxxzz"  " " "  "x"xxxx"xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzz"xx"x"x"xx"x"xxxx"xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzz"         "x"    "xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzz"    5 5  "x"    "xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

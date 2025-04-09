@@ -1,0 +1,2 @@
+
+&totallevelhighscores=2580&topsix_playername_1=jopa&topsix_playerclicks_1=5&topsix_playertime_1=3.44&topsix_playername_2=FARTISSIMO&topsix_playerclicks_2=5&topsix_playertime_2=3.45&topsix_playername_3=turtlissimus&topsix_playerclicks_3=5&topsix_playertime_3=3.46&topsix_playername_4=maddick67528&topsix_playerclicks_4=5&topsix_playertime_4=3.47&topsix_playername_5=TosteroX&topsix_playerclicks_5=5&topsix_playertime_5=4.22&topsix_playername_6=maizeclique&topsix_playerclicks_6=5&topsix_playertime_6=4.24&playerrank= 

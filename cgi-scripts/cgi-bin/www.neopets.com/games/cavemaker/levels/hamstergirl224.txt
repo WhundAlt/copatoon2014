@@ -1,0 +1,84 @@
+Fly, Arrows, Fly!
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx4         x
+xx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          x
+xx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx " o      x
+xx #  >   V xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwww  wwwxxxxxxxxxxxxxxxxxx "xxxxxx  x
+xxxxxxxx    xxxxxxxxx     >>>>>>V xxxxxxxxx   ++   xxxxxxxxxxxxxxxxxx "xxxxxx  x
+xzzzzzzxKK|Kxxxxxxxxx     ^KK|KKV            ====  xxxxxxxxxxxxxxxxxx "xxxxxx==x
+xzzzGzzx    xxxxxxxxx     ^KK|KKV   +  +  +           >   K b  b  b   "xxxxxx  x
+xzzzzzzx      b  b  b  >  ^KK||<< xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x
+xz====zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  K|K  +  K|<xxxxxxxxxxxxx  x
+xzzzzzzzzzx V           <  xxxxxxxxxxxxxxxxxxxxxxxx  KK|KK|KK|K xxxxxxxxxxxxx  x
+xzzzzzzzzzx    +  |        xxxxxxxxxxxxxxxxxxxxxxxx  KKK|K|K|KK xxxxxxxxxxxxx  x
+xxxxxxxzzzx   ++  |        xxxxxxxxxxxx              KK|K||||KK xxxxxxxxxxxxx  x
+xxx          ==== |        xxxxxxxxxxxx              KKK|K|K|KK xxxxxxxxxxxxx  x
+xxx   ====        |        xxxxxxxxxxxx              KK|KKKKK|K xxxxxxxxxxxxxx x
+xxx           ++  |                            =      + + + +  ^  + +  + + +   x
+xxx          ==== |          K|K    <        =   =  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxx       |          |||    <      =       =xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxx >     |     ^  < K|K    < /  =          xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=            xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|||||||||||||||xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|KKKKKKKKKKKKK|xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|K|||||||||||K|xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|K|||||||||||K|xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxzzzzzxxxxxxxxxxxxxxxxxx|KKKKKKKKKKKKK|xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxzzLzzxxxxxxxxxxxxxxxxxx|||||||||||||||xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxzzzzzxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxx
+xxx  xxxxxxxxxxxxzz=zzxxxxxxxxxxxxxxx "                          xxxxxxx  +    x
+xxx  xxxxxxxxxxxxzzzzzxxxxxxxxxxxxxxx "   >    ^             o   xxxxxxx  K    x
+xxx  xxxxxxxxxxxxzzzzzxxxxxxxxxxxxxxx " xxxxxxxxxxxxxxxxxxxxxxx  xxxxxxx       x
+xxx  xxxxxxxxxxxxzz=zzxxxxxxxxxxxxxxx " xxxxxxxxxxxxxxxxxxxxxxx==xxxxxxx       x
+xxx  xxxxxxxxxxxxzzzzzxxxxxxxxxxxxxxx " xxxxxxxxxxxxxxxxxxxxxxx  xxxxxxx    ++"x
+xxx  xxxxxxxxxxxxzzzzzxxxxx    xxxxxx " xxxxxxxxxxxxxxxxxxxxxxxm       >  ^ ++"x
+xxx              zz=zzxxxxx  + xxxxxx " xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxx              zzzzzxxxxx ++        " xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxx    ++    ++  zzzzz      ++          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxx   ====  ==== xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 xxxxxxxxxxxxxxx"x
+xxx              xxxxxxxxxxxxxxxxxxxxxxxxxxxxx |   |   |   ++  xxxxxxxxxxxxxxx"x
+xxx       mm    +xxxxxxxxxxxxxxxxxxxxxxxxxxxxx |   |   |  ===  xxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |   |   |       xxxxxxxxxxx    "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |   |   |  ++   xxxxxxxxxxx  + "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |   |   |  ===  xxxxxxxxxxx ++ "x
+xx                       " "                   |   |   |       xxxxxxxxxxx ++ "x
+xx    o                  " "               >   | > | > |   +   xxxxxxxxxxxxxxx"x
+xx  xxxxxxxxxxxxxxxxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xx==xxxxxxxxxxxxxxxxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xx  xxxxxxxxxxxxxxxxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xx  xxxxxxxxxxxxxxxxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxooooooooooxxxxxxxxxxx"x
+xx+               xxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxooooooooooxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx            xxooooooooooxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx            xxb<<<<<<<<<xxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx           3                 xxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx                             xxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx      /                ^<    xxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx   xxxxxxxxxxx          x"xxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "xxxxxxxxxxxxxxx===xxxxxxxxxxx          x"xxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" "  ++++++++++++    xxxxxxxxxxxmmmmmmmmmmx"xxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxx" " +++++++++++++    xxxxxxxxxxxxxxxxxxxxxx"xxxxxxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+x+x"x+x+xxxxx"x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxKx+xKxKx    "x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               K    x  + "x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    x ++ "x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    2      ^ ^ ^ ^ ^x ++ "x
+xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x V    ++   <   x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x  V  +++  <    x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x   V ||| <     x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x    V   <      x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x               x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x               x xxxxwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""xxxxxxxxxxxxxxxx"x
+x    >  ^         xxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""              1  x
+x   >    ^        xxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""                 x
+x  >      ^       xxxx   D   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ""                 x
+x >        ^^  <  xxxx ===== xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            m    m  x
+xxxxxx   xxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

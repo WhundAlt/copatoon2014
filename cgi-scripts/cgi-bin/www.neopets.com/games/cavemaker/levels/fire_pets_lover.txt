@@ -1,0 +1,46 @@
+Mind_Your_Head
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x          >>            Vxxxxxxxxxxxxxxxx
+x////////// </////////// <xxxxxxxxxxxxxxxx
+xVVVVVVVVVV VVVVVVVVVVVVxxxxxxxxxxxxxxxxxx
+x          ^            xxxxxxxxxxxxxxxxxx
+x                       xxxxxxxxxxxxxxxxxx
+x       #  ^         +++xxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxx+++xxxxxxxxxxxxxxxxxx
+x"xVVxxxxxxxxxxxxxxxx+++xxxxxxx xxx xxxxxx
+x"x ////////////////xxxxxxxxxx   x   xxxxx
+x"x  VVVVVVVVVVVVVVV x++xxxxxx   L   xxxxx
+x"x                  xooxxxxxxx     xxxxxx
+x"  ^                xoozzzzzzzz   xxxxxxx
+xxxxxxxxxxxxxxxxxxxx">>bzzzzzzzzx xxxxxxxx
+xwww       wwwwwwww "   xxxxxxxxxxxxxxxxxx
+x"                  "   xxxxxxxxxxxxxxxxxx
+x"xxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xooxxmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxx
+x"xoo+++++++++++++++++++xxx         ++xxxx
+x"xooooooooooooooooooooo xx        o++xxxx
+x"xobbbbbbbbbbbbbbbbbbbb xx       ooooxxxx
+x"xb//////////////////// xx      oooooxxxx
+x"x                      xx      oooooxxxx
+x" ^/^                   xx      oooooxxxx
+x"                      "        oooooxxxx
+x"  ^>                 <"   "xx  oooooxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx"   "xx  |>>>bKxxx
+xxxxxxxxxxxxzzzzzzzzzzzx"   "xx          x
+xxxxxxxxxxxxzzzzzzzzzzzx"   "xx          x
+xxxxxxxxxxzzzzzzzzxxzzzz" D "xz  ^     xxx
+xxxxxxxxzzzzzzzzxxxxzzxxxxxxxxzxxxxxxxxxxx
+xxxxxxxxzzzzzzxxxxxxzzxxzzzzzzzxxxxxxxxxxx
+xxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxx
+xxxxxxzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xGzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

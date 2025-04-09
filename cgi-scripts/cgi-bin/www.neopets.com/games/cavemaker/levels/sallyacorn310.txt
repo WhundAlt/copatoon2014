@@ -1,0 +1,44 @@
+Madness!!!
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxtV    <        xxxxxxx      x
+xxxxxxxxxxxx      ^<       xxxxxxx      x
+xxxxxxxxxxxx# >   V        xxxxxxx     "x
+xxxxxxxxxxxx+              xxxxxxx     "x
+xxxxxxxxxxxx+              xxxxxxx====]"x
+xxxxxxxxxxxx+              xx^xxxxxx   "x
+xxxxxxxxxxxx+              xxxxxxxxx3  "x
+            +              xxxxxxxxx   "x
+            +    w         xxxxxxxxx   "x
+ b b b      +   m+m        xxxxxxxxx   "x
++ mmmmb         m+m        xxxxxxxxx   "x
+b xxxxxbb b b   m+m        xxxxxxxxx3  "x
+       mmmmmmm   |         xxxxxxxxx   "x
+ b               |         xxxxxxxxx   "x
+                 |         xxxxxxxxx   "x
+  b              |         xxxxxxxxx   "x
+     ++++++   ^  |  <      xxxxxxxxx   "x
+mmmb xxxxxxxxxxxxK         xxxxxxxxx3  "x
+xxx   x         >  ^       xxxxxxxxx   "x
+xxx   x                    zzxxxxxxx   "x
+xxx   x                    z"xxxxxxx   "x
+xxx   x       x ^ <        x"zxxxxxx3  "x
+             xx > ^        x"zzzxxxx   "x
+             wx ^ <        x"zzzxxxx   "x
+       oo      xx x ^      xxxzzzxxx3  "x
+       oo                 Dxxxxzzxxx   "x
+xxxxxxxoxxxxxxxxxxxxxxxzxxxxxxxxzzzz   "x
+xxxxxxxoxxxxxxxxxxxxxxxzxxxxxxxxzzzz+  "x
+xxxxxxxoxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx "x
+xxxxxxxoxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx "x
+xxxxxxxoxxxxxxxxxxxxxxxzxxxxxxxxxxxxxx "x
+xxxxxxxoxxxxxxxxxxxxxxxzxx~xxxxxxxxxxx "x
+xV  <///      4      .           4     "x
+x                                      "x
+x       bbbbbbbbbbb4                   "x
+x||||   bbbbbbbbbbb        .    bbbb   "x
+x+++|   bbbbbbbbbbb             bbbb   "x
+x+++|   ..bbbbbbbbb      4      bb++   "x
+xG+L|^  ..bbbbbbbbb            .bb++ . "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

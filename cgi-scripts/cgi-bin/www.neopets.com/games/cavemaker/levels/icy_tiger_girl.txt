@@ -1,0 +1,44 @@
+Run_While_You_Can
+terrain 1
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx+xxxx       V|                      x
+xxx#++++        |                      x
+xxxxxx[x        |                      x
+xxxxxx x        |                      x
+x     V        <|                      x
+x               |                      x
+x    |||        |                      x
+x      |       ^|                      x
+x      ||||||||||                      x
+x                                      x
+x                                      x
+x      >                       V       x
+x                          |           x
+x                          |           x
+x|>    ^               >   |        +++x
+x|||||||||||||||||||||||||x|x||||||||||x
+x                                     Vx
+x                            mmmmmmm   x
+x                            xxxxxxx   x
+xmmmmmmmmmmmmmmmmmmmmmmmmm  V         <x
+xxxxxxxxxxxxxxxxxxxxxxxxxx             x
+x                                      x
+x                           >    ||||||x
+x                                     Vx
+x                          |||||||    <x
+x                  |             V     x
+x                  |        |    <     x
+x                  |        |     ++   x
+x                  |++++++++|     >V   x
+x                  ||||||||||          x
+x                                      x
+x                                      x
+x                     ==               x
+x                       ==             x
+x                         ==           x
+x                           ==     K   x
+x                                  K   x
+x                 mmmmmmmmmmmm++++^K D x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

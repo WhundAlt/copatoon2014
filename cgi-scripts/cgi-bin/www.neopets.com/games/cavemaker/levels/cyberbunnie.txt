@@ -1,0 +1,41 @@
+Dynamite_Fun
+terrain 1
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx                             xxxxxxx
+xxxxxx >            KV             < xxxxxx
+xxxxxx                               xxxxxx
+xxxxxx                               xxxxxx
+xxxxxx         |||||||||||||         xxxxxx
+xxxxxx         |ooooooooooo|         xxxxxx
+xxxxxx         ||ooooooooo||         xxxxxx
+xxxxxx          ||ooooooo||          xxxxxx
+xxxxxx           ||ooooo||           xxxxxx
+xxxxxx            ||ooo||            xxxxxx
+xxxxxx             ||o||             xxxxxx
+xxxxxx              |||              xxxxxx
+xxxxxx               |               xxxxxx
+xxxxxx      +                 o      xxxxxx
+xxxxxx     +++               ooo     xxxxxx
+xzzzxx    |||||             |||||   Dxxxxxx
+xzzzxx                              bxxxxxx
+xGzzxx                               xxxxxx
+xxxzzz ^  |  |  |  |  |  |  ^ xxxxxx
+xxxxxxxx             V            =xxxxxxxx
+xxxxxxxx          ^ >#< ^          xxxxxxxx
+xxxxxxxx         []  t  []         xxxxxxxx
+xxxxxxxxx       /   K|K   /       xxxxxxxxx
+xxxxxxxxxx[=[=]xxxxx   xxxxx[===]xxxxxxxxxx
+xxxxxxxxxx     wxxxx + xxxxw     xxxxxxxxxx
+xxxxxxxxxx      wxxxmmmxxxw      xxxxxxxxxx
+xxxxxxxxxxx      .xxxxxxx.      xxxxxxxxxxx
+xxxxxxxxxxxx^^xxxxxxxxxxxx
+xxxxxxxxxxxxxxx      +      xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

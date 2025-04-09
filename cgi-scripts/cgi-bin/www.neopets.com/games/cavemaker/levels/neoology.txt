@@ -1,0 +1,26 @@
+Bouncy_Showndown
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx>>xxxxxxxxxxxxxx G  xxxxxxxxxxxxxx<<xxx
+xxx>>xxxxxxxxxxxxxx o  xxxxxxxxxxxxxx<<xxx
+xx>>>>>>>>>>>>>>>>>VbbV<<<<<<<<<<<<<<<<<xx
+xx^>>xxxxxxxxxxxxxx>//<xxxxxxxxxxxxxx<<^xx
+xx^>>x o o o o o o b//b o o o o o o x<<^xx
+xx^>>xooooooooooooob//booooooooooooox<<^xx
+xx^>>x//////////////////////////////x<<^xx
+xx^>>x==============================x<<^xx
+xx^>>x==============================x<<^xx
+xx^>>x==============================x<<^xx
+xx^>>x==============================x<<^xx
+xx^>>x==============================x<<^xx
+xx^>>x                              x<<^xx
+xx^>>x                              x<<^xx
+xx^>>w              D#              w<<^xx
+xx^>>m              <>              m<<^xx
+xxxxxx+=+=+=+=+=+=+====+=+=+=+=+=+=+xxxxxx
+xxxxxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,46 @@
+Up_and_Down
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x        x               x    z     x
+x#       x               x    z  ^V+x
+xxxx"    x        "xxx   x   Dz  >^+x
+xwww"    x        "x     x"xxxx  xxxx
+x   " +m+x  |||bbb"x    =x"   x=    x
+x   " xxxx  |KKKKK"x     x"   x     x
+x   "    x  |Kbbbb"x  =  x"   x     x
+x   "    x  |Kb+++"x     x"   x =   x
+x   "    x  |Kb+++"x o   x"   x     x
+x   "    x  |Kb+++"x=]   x"3  x     x
+x|||" bbbx  |Kb+++"x     x"   x  =  x
+x++|  V><x  /Kb+++"x     x"   x     x
+x++|" xxxx xxxxxxxxx     x"   x  =  x
+xxxx"    x       "x      x"   x     x
+x   "    x       "x      x"   x     x
+x   "    xx++++++"x      x"   x  =  x
+x   "    xx++++++"x      x"   x     x
+x   "o   xxxxxxxx"x      x"   x     x
+x   "=   x       "x      x"   x =   x
+x   "  o x       "x      x"   x     x
+x   "  []x       "x      x"3  x  =  x
+x   "    x       "x      x"   x     x
+x   "    x       "x      x"   x     x
+x   "    x       "x      x"   x   = x
+x   "    x       "x      x"   x    3x
+x   "    x       "x      x"   x  =  x
+x   "    x       "x       "   x     x
+x   "            "x       "  1x   = x
+x   "            "x       "   x     x
+xmmmm mmmmmmommmmmmmmmmmm "mmmxmmm  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww  x
+x                                 3=x
+x                                  ~x
+x3                                  x
+xmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmm x
+xxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx x
+x+++++++++++++++++++++++++++++++++++x
+x+++++++++++++++++++++++++++++++++++x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,75 @@
+25 Chambers
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx   VV  x              xwwwwwwwwwwwwwxwwwwwxwwwwwxxxxxxxxxxxxxx
+xxxx       x      +  o   mx             x   oxx     xxxxxxxwwwxxxx
+xxxx   ^^  xzzxxxxxx==  mxx             x   Kxx     xxxxxxw   wxxx
+xxxx #    +x[[wxwwxxxm mxxx             z    Lx     xxxxxw     wxx
+xxxx"xx  xxx   w  xxxx xxxx             z    xx D + xxxxw       wx
+xxxx" xxxx x+     xxxx xxxx    ]   +    z    xxxxxx xxxxm       mx
+xxxx"      x[[[ [[xxxx xxxx        ]    z    xwww===xxxxxm     mxx
+xxxx"      K   m  xxxx xxxx  ]]]    ]   z  >^x      xxxxxxm   mxxx
+xxxx"      K   x  xwww wwwx        ]]]  x==  x   ===xxxxxxxmGmxxxx
+xxxx"      x   w[[x       x       ]]]]] x    x      xxxxxxxx"xxxxx
+xxxx"  /  +x      x       x  ]   ]]]]]]]x    x====  xxxxxxxx"xxxxx
+xxxxxxxxxxxxxxxxxxx       x             x    x      xxxxxxxx"xxxxx
+xxxxwwwx       xwwx       x     ]]      x  +mx+     xxxxxxxx"xxxxx
+xxxx              x       x]]]          x  xxxxxx===xxxxxxxx"xxxxx
+xxxx                      x         ]]]]x  wwwwwx   xxxxxxxx"xxxxx
+xxxx      VVV      +      x  ]]   ]     x       x===xxxxxxxx"xxxxx
+xxxx [[[[[KKK  []]x[[[    x           ]]x       x   xxxxxx       x
+xxxx mmmmm + mmmmmxmmm mmmx]]]]]]]]]]]]]x       x   xxxxxx       x
+xxxx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x       x===xxxxxx       x
+xxxx"      x             ]]            =x       x   xxxxxx  o    x
+xxxx"      x      ]                    =x       xxxzxxxxxx  xxxxxx
+xxxx"      w   ]     ]]                =x     ||x===xxxxxx[[xxxxxx
+xxxx"                                  =x /  >/+x   xxxxxx  xxxxxx
+xxxx"            ==   ]]]   x b b b b  =xKKKxxxxx ==xxxxxx[[xxxxxx
+xxxx"      m             +  x          =x   wwwwx   xxxxxx  xxxxxx
+xxxx"      x            ]]] x          =x       x ==xxxxxx[[xxxxxx
+xxxx"      x=====  ====     x          xx       x   xxxxxx    "xxx
+xxxx"  omm+xmmmmmmmmmmmmmmmmxmmmmmmmmm+x        x ==xxxxxx    "xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        x  +xxxxxx    "xxx
+xxxxwwwwwwwwwwwwwwwwwwwwxwwwwwwwwwwwwwww        x ==xxxxxxxxxx"xxx
+xxxx                    x                       x   xxxxxxxxxx"xxx
+xxxx          +         |        K    K   <     xzxxxxxxxxxxxx"xxx
+xxxx          K         |  <     K <  K   <     x== xxxxxxxxxx"xxx
+xxxx          K         |        K<   K   <     x+  xxxxxxxxxx"xxx
+xxxx                    x        K<   K         x== xxxxxxxxxx"xxx
+xxxx                    x        K< + K         x   xxxxxxxxxx"xxx
+xxxx    xxxx            xxxxxxxxxxxxxxxxxxxxxxxxx== xxxxxxxxxx"xxx
+xxxx xx wwww  ^         x        1zzxxxxxxxxxxxxx   xxxxxxxxxx"xxx
+xxxx ww     xxxxxb b b bx+        zzxxxxxxxxxxxxx== xxxxxxxxxx"xxx
+xxxxbmmmmmmmmmmmmmmmmmmmx]]]]]]]]]z   xxxxxxxxxxxxzxxxxxxxxxxx"xxx
+xxxxzxxxxxxxxxxxxxxxxxxxxmmmmmmmmmz   xwwwwwwwwww   xxxxxxxxxx"xxx
+xxxx wwwwwwwwwwwwwwwwwwwxxxxxxxxxxx   xxm        ===xxxxxxxxxzzzxx
+xxxx            1 1    [          x[[  xx           xxxxx    zzzxx
+xxxx                              x     z        ===xxxxx    zzxxx
+xxxx                              x[[  +z           xxxx     zxxxx
+xxxx                              x    xx===   =====xxx   xxzxxxxx
+xxxx                              +  mxxx  ===        b   xx=xxxxx
+xxxx[[[[ [[[[[ [[[[[ [[[[[ [[[[ [[[ mxxxx             b   xxzxxxxx
+xxxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxxxxxmmmmm+]]]]]xxxx  xx=xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxzxxxxx
+xxxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxx   xx=xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxzxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xx=xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxzxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xx=xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxzxxxxx
+xxxxx               xxx    xwwwwwwxxxxx         <       wxxx=xxxxx
+xxxxx                x <   w      wxxxw         K        xxxzxxxxx
+xxxxx                K K           wxw      K<  |  <     zzz=xxxxx
+xxxxx                | K            K  <    K   K   <    zzzzxxxxx
+xxxxx +  [[[[     ===x K      <  ]]]x][[    K<+ K   <    zzz=xxxxx
+xxxxx===      [[[[ mxxxm          mxxxxxxxxxxxxxxxxxxxxxxxxx xxxxx
+xxxxxmmmmmmmmmmmmmmxxxxx+        mxxxxxmmmmmmmmmmmmmmmmmmxxx[xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

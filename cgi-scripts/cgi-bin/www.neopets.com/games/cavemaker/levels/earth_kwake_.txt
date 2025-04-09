@@ -1,0 +1,64 @@
+The_Darigan_Citadel
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                    x    oo    x                 x
+x                                   xxx   bb   xxx                x
+x                                   w>w   ||   w>w          V     x
+x                                  xx xx      xx xx               x
+x                                 xx>^Vxx    xx   xx              x
+x                                xxx   xxx  xxx   xxx             x
+x                                  x^ ^x      x ^ x               x
+x                                  x   xxxwwxxx   x               x
+x                                  w   x      x   w               x
+x                                  m          |   m         <     x
+x                                  x+     5   |  #x               x
+x                                 xxxxxxx====xxxxxxx              x
+x                                 xxxxxxx"   xxxxxxx              x
+x                                 xoV  <x"   x     x              x
+x                                 xb    x"   x     x              x
+x                                 x|K <^x"   x     x              x
+x                                 w  1  x"   x    +w              x
+x                                 m     z"   z   ++m              x
+x                                xxxx+  z" 5 z   xxx              x
+x                                xxxxxxxx====xxxxxxxx             x
+x                                xxxxxxxx   "x      x             x
+x                                x      x   "x      x             x
+x                                x      x   "z      x             x
+x                                x      x 5 "z      x             x
+x                                x      x====xxxxx  x             x
+x                           m    x      x"   x    = x             x
+x                           K    x      x"   x     =x             x
+x                           K    z       "   x    =xx             x
+x                           K   ]z]      "   x++ =xxx             x
+x               5  5   5    K    z  5 5  " 5 xG+=xxxx             x
+x          xxxxmmmmmmmmmxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxx           x
+x           xxxxxxxxxxxxxxzzzzzzzxxxxxxxxxxxxxxxxxxxx             x
+x           xxzzzzzzzzzzzzzzzzzzzxxx xxxxxxxxxxxxxxx              x
+x            zzzxxxxxxxxxxxxxxxxxxxx  xx xxxxxxxxxxx              x
+x            zzxxxxx  xxxxxxxxxxxxx   x   xxxxx xxx               x
+x            xxxxxx     xxxxxxxxxx        xxxx   x                x
+x              xxx       xxxxxx            xxx                    x
+x              xxx        xxx               x                     x
+x               x          x                                      x
+x                          x                                      x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+x                                                                 x
+xmm  D   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

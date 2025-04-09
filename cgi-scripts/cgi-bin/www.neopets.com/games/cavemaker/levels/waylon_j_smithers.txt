@@ -1,0 +1,76 @@
+Scary Cave of DOOM
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxoooooooooo  xxxxx   oooooooooooooxxxxxxxxxxx    x
+xxxxxxxxxxxooooooooooo  xxx   ooooooooooooooxxxxxxxxxxx    x
+xxxxxxxxxxxoooooooooooo   x  ooooooooooooooo   xxxxxxxx xx"x
+xxzzzzzzzzxooooooooooooo    oooooooooooooooo     xxxxx  xx"x
+xxzzzzzzzzxooooooooooooooooooooooooooooooooo     xxxxx  xx"x
+xxzxxxxxxxx|||||||||||||||||||||||||||||||||xxxx xxxxx xxx"x
+xxzxxxxxxxx^>                               x Vx xxxxx xxx"x
+xxzxxxxxxxx K                               x  x xxxxx  xx"x
+xxzxxxxxxxx              ++                ^x  x xxxxxx xx"x
+xxzxxxxxxxx#             ++                /   m xxxxxx  x"x
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxxxxx  x"x
+xxzxxxxxxxx xxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx x xxxxxxx x"x
+xxzxxxxxxxxLzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxx x xxxxxxx x"x
+xxzxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxx x xxxxxx  x"x
+xxzxxxxxxxxzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxzzxxx x xxxxxx  x"x
+xxxxxxxxxxxzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxzxxx x xxxxxx xx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxzzzzzzzzzzzzzxx x         x"x
+xxxx         xx    xxxoooooozzzzzzzzzzzzzzzzxx x     +++ x"x
+xx  [=]   [=]x  [=] xxoooooozzzxxxxxxxxxxxxzxx x     +++ x"x
+xx                   xxooooxzxxxxxxxxxzzz   xx x xxxxxxx x"x
+xx                   xxxoox  zzzzzzzzzzzz|  wx x xxxxxx  x"x
+xxx           o     "xxxooxG zzzzzzzzzzxxK  <x x xxxxxx  x"x
+xxxx  xxxxxxxxx  xxx"x> ||oxxxxxxxxoooxxx    x x xxxxxx xx"x
+xxxx  xxxxxxxx    xx"x xoooK      xoooxKx    x x xxxxxx  x"x
+xxx    xxxxxx     xx"x^ <|||    <  |||xKx  o x x xxxxxx  x"x
+xx      xxxxx     xx"xxxxx  ++++      xKx ===x x xxxxxxx x"x
+xxx     xxxxx      x"    =======xx    xKx    x x xxxxxxx x"x
+xxx      xxx       x"         mxxx    xKx  o x x xxxxxxx x"x
+xx       x         x       mmmxxxx>  ^xKx ===x x xxxxxxx x"x
+xx                xxxxxxxxxxxxxxxx====xKx    x^x xxxxxx  x"x
+xx                x       xxx>     mmmmKx  o x x xxxxxx  x"x
+xx                x      ++xx   +++xxxx x ===x x xxxxxx xx"x
+xx                x D    ++xx   ++xx  x x    x x xxxxxx xx"x
+xx               xxxxx===xxxx  xxxx   x x  o x x xxxxxx  x"x
+xx ++++          xxxx      xx  xxx    x x ===xmx xxxxxx  x"x
+xx ++++          xx 3       x  xxx    x K    xxx xxxxxxx x"x
+xx ====           xx==xxx==xx^ <        K    <++ x+++++   "x
+xx                xx       xxxxxmxxxxxxxxmx   ++ x+++++   "x
+xxx               x 3       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx              xx==xxx==xx>Vxooooooooox                xx
+xxxx               x      4xx  xooooooooox                xx
+xxxx               x3      xx  xooooooooox xxxxxxxxxxxxx  xx
+xxx                x      xxx  x|||||||||x    x        x==xx
+xx                 x==xxxxxxx    ========x    x        x  xx
+xx      ++++       x  x         ^>         +++x        x  xx
+xx      ++++      xx  x      ^ <|        < x==x==x==xxxx==xx
+xx      ====      xx==x |||||||xxxxxxxxxxxxx  x  x     x  xx
+xx               xxx  x V^^^^^^^xoooooooooox  x  x     x  xx
+xx              xxxx  x         xoooooooooox==x==xxxx==x==xx
+xxx             xxxx==x         xoooooooooox  x  x  x     xx
+xxx             xxxx  x|||||||| xoooooooooox  x  x  x     xx
+xxxx             xxx  x^^^^^^^V xoooooooooox==x==x==xxxx==xx
+xxx              xxx==x         xoooooooooox  x  x     x  xx
+xx                xx  x         xoooooooooox  x  x     x  xx
+xx                 x  x ||||||||xoooooooooox==x==x==x==x==xx
+xx                 x==x V^V^V^V^xoooooooooox     x  x  x  xx
+xx                 x  x         x||||||||||x     x  x  x  xx
+xx                 x xxxxxxxxxx x          x==xxxx==x==x==xx
+xx ++++           xx+>          w^         x        x      x
+xx ++++          xxxx xxxxxxxxxxx          x        x      x
+xx ====          xxxx^mmmmmmmmmmm         <xxxxx==xxxxxxx==x
+xx                xxxxxxxxxxxxxxx          x   x    x  x   x
+xxm                xx>wwwwwwwwwww         ^x   x    x  x   x
+xxxm               xx xxxxxxxxxxx          x==xx==xxx==xx==x
+xxxxm              xx^mmmmmmmmmmm         <x      x        x
+xx xx              xxxxxxxxxxxxxx          x      x        x
+x ++xxxxxxxxx======xxxxxxxxxxxx>          ^x==xxxxx==xxxxxxx
+x ++xxxxxxxxx                                         xx  xx
+xx++ >  >>      >        <  << ^              ++++         x
+xxxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

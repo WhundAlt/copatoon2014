@@ -1,0 +1,46 @@
+BangBang
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x       ww        w  w  www    w         x
+x #              +                       x
+xxx[[            ]xxzxxxxxxxxxxxxx       x
+xxx   mmm         xxV            x       x
+xxx   xxz      +  xx V          <x       x
+xxx    x+  +   ]  xx  V        < x       x
+xxx++  x]  ]      xx   V      <  x       x
+xxx==  z +   +   +xx     |+| <   x       x
+xxx    z ]   ]   ]xx     |||     x       x
+xxx   zzmmmmmmmmmmxx             x       x
+xxxmmmxxxxxxxxxxxxxx             x       x
+xxxxxxxxxxxxxxxxzzzz   >     ^   x       x
+xxxxxbbxbbxxxxxzzzzz  >       ^  x       x
+xxxxbbbbbbbxxxxzxxxx >         ^ x       x
+xxxxbbbbbbbxxxxzxxxx>           ^x       x
+xxxxbbbbbbbxxxxzxGxxxxxxxxxxxxxxxx       x
+xxxxxbbbbbxxxxxz+++|              <      x
+xxxxxxbbbxxxxxxz+++|                     x
+xxxxxxxbxxxxxxxz+++|                     x
+xxxxxxxxxxxxxxxz||||                     x
+x              +                         x
+x1             +                         x
+x              +                         x
+xxxxxxxxxxxxxxx+   >   |>   |>   >^      x
+xbxzzzzzzzzzzzzz xxx   xx   xx   xx      x
+xxxzzzzzzzzzzzzzxxxx   xx   xx   xx      x
+xbxzzzzzzzzzzzzzxxxx   xx   xx   xx      x
+xxxzzzzzzzzzzzzzxxxo   xo   xo   xx      x
+xbx"xbxbxbxbx"xxxxxo   xo   xo   xx      x
+xxx"xbxbxbxbx"xLxxxo   xo   xo   xx      x
+xbx"xbxbxbxbx"xbxxxo   xo   xo   xx      x
+xxx"xbxbxbxbx"xbxxxo   xo   xo   xx      x
+xbx"xbxbxbxbx"xbxxxo   xo   xo   xx      x
+xxx"xbxbxbxbx"xbxxzo   xo   xo   xx      x
+xbx"xbxbxbxbx"xbzzzo   zo   zo   zz      x
+xxx"xbxbxbxbx"xbzzzo   zo   zo  "zz      x
+xbx"xbxbxbxbx"xbzzxx~  xx   xx  "xx      x
+xxx+  x x x xzzzzzxx   xx   xx  "xx      x
+xbx+mmxmxmxmxzzzzzxx   xx   xx  "xxmmmDmmx
+xxxxxxxxxxxxxxxxxxxxmmmxxmmmxxmmmxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

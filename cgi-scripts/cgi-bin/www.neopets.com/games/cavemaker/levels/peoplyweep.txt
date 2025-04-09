@@ -1,0 +1,46 @@
+well__hav_fun
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                      Vxxx
+x +++++++++++++++++++++++++++++++++++++ xxx
+x#K K K K K K K K K K K K K K K K K K K xxx
+x=====================================x=xxx
+x      |||||||||||||||||||||||||||||||x xxx
+x   ++++++++++++++++++++++++++++++++++x xxx
+x   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb  xxx
+x >                                     xxx
+x++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x++      |                             xxxx
+x++      |                             xxxx
+xx>      |                            1xxxx
+xxxbbbbbxxx  + + + + + + + + + + + + + xxxx
+xxxbbbbxx+xx = = = = = = = = = = = = = xxxx
+xxxbbbbxooox mmmmmmmmmmmmmmmmmmmmmmmm  xxxx
+xxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxx
+x++ K   <<<<+x                         xxxx
+x++ K  +   ++x  +  +    +    +         xxxx
+x== K  +   ++x  x" x"   x"   x"   x"   xxxx
+xmm K /+   ++x  x" x"   x"   x"   x"   xxxx
+xxxxxxxx===x"x  x" x"   x"   x"   x"   xxxx
+x+++++++   x"x  x" x"  4x"   x"  3x"   xxxx
+x+++++++   x"x  x" x"   x"   x"   x"   xxxx
+x+++++++   x"x  x" x"   x"   x"   x"   xxxx
+x+++++++   x"x  xmmx"+++x"mmmx"+++x"+  xxxx
+x========  x"K| xxxxxxxxxxxxxxxxxxxxx  xxxx
+x   ++++   x"K|                      <+xxxx
+x   ++++   xxxxxmmmmmmmmmmmmmmmmmmmmmxxxxxx
+x~  xxxx   ....xxxxxxxxxxxxxxxxxxxxxx..xxxx
+x+  x..x   ++++x....wwwwx...wwwwx..ww..xxxx
+x+  x+Lx   ++++x+  +   +x+  +  +x++  ++xxxx
+xx  x++x  xxxxxx+  +   +x+  +  +x++  ++xxxx
+x.  x++x  .x...x+  +x  xxx  x  xx++  ++xxxx
+x+  x++x   x+++x+  +x  .x.  x  .xxx  xxxxxx
+x+  x++x   x+++xx  +x   x   x   x      xxxx
+xx  x++x       x.  +x   x   x   x      xxxx
+x.+++++x           +x+++++++x          xxxx
+xG+++++xmmm+++++++++x+++++++x+++++++ D xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

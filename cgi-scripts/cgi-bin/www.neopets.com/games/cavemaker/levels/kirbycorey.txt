@@ -1,0 +1,66 @@
+Ivory Canyon
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx++xxxxxzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxV <V<xxxx
+xxxxx+"+xxxzzxxxxxxxxxxzxxxxxxxxxxxx  xxxxxxxxxxxxxx      xxxx
+xx+xx+"+xxxzzxxxxxxxxxxzxxxxxxxxxxx   xxxxxxxxxxxxx  > > ^xxxx
+xxVxx/"+xxxzxzzzxxxxxxxzxxxxxxxxx x   xxxxxxxxxxxxx      Lxxxx
+xx www"/xxxzzzzzzxzzzzzzxxxxxxx x x   xx xxxxxxxxxx     >b xxx
+xx    " wxxxxxxzzxzxxxxxxxxwwxx   x    x xxxxxxxxxx         xx
+xx    "  xxx"zzzzxzxxzGxxxw  wx   x      xxxxxxxxxx         xx
+xx    "  xxx"zzzxxzzzzzxww    w   x       xxxxxxxxx         xx
+xx    "  xxx"xxxxxxxxxzw          x       xx xxxxxx         xx
+xx    "  xxx"xzzxxzzzx       ||   x                         xx
+xx^   "  wxxzzzzzzzzz++       |   x                         xx
+xx    "   zxzzzxxxxx===++    /|+ +x                         xx
+xxxxx "   zxzzzzzzzx  ===+      + x                         xx
+xxxxxx"   zxxzxxxxzx   ===    m+ +x      K                  xx
+xxx ww"   zzzzxxxxmx          x + x     K bb^b              xx
+xxw   "   xxxxxxxxxx^     5xxxxxxxx     K bbbbbb            xx
+xx    "   wxxxxxxxxxxxxxxxxxxxxxxxx     K       <bbb        xx
+xx    "    xxxxxxxxxxx++xxx            K         bbbbbb     xx
+xx    "    w w ww xxxx""              K                 bbb+xx
+xx    "     """"""ww+++"     |||     Kb                 bbb+xx
+xx    "     "    """""""     |+| <  K b                   x+xx
+xx    "     "            [=] |||   K  w                   x+xx
+xx """"  """"               3     K                      "x+xx
+xx""x"" ""x""               = =         ^          "xxx x"x+xx
+xx+xxx"""xxx+"                        m            "     "x+xx
+xxxxxxx+xxxxx""                       x  xx        "     "x+xx
+xxxxxxxxxxxxxx"                      Kx  xx              " +xx
+xxxxxxxxxxxxxx"                 xxx KKx  xxx              xxxx
+xxxxxxx+xxxxx""     xxxxxxxxxxxxx+x KKxmmxxx  ++       ^    xx
+xx+xxx"""xxx+"     xx        V V K  KKxxxxxxxxxxxxx    KK   xx
+xx""x"" ""x""   xxxx               1xxx    "wwwwwww    KK+++xx
+xx""""   """   xxwww                x      """""""""   |||||xx
+xx"   mmm     xxw                   x      "mmmmmmm"        xx
+xx" xxxxxxxxxxxw    x        ^ ^ ^  x     m xxxxxxxxx      ^xx
+xx" xw www ww      xxx x xmmxxxxxxxxx     K          x      xx
+xx" x             xxVxmxmxxxx            m            x  xxxxx
+xx" x D          xx  xxxxxwww   +++      K              4xxxxx
+xx" xxxxxxxxxx  xx    >www     V+++     m               mxxxxx
+xx"          xx                "+++     K   +         xxxxxxxx
+xx            xx    ^          "xxxx   m    o         xxxxxxxx
+xx             xxxxxxx  >     |"x      K    o        mxxxxxxxx
+xxm++++++            x         "x +   m     o      xxxxxxxxxxx
+xx=======m           x+ommmm+++"x x"  K     o      xxxxxxxxxxx
+xxm>===/==           xxxxxxxxxxxx x" m      o     mxxxxxxxxxxx
+xx===2===                       x x" K      o   xxxxxxxxxxxxxx
+xxm=====^=   +/+                x x"        o   xxxxxxxxxxxxxx
+xx=V==/==   +[=]+ +               x o       o  mxxxxxxxxxxxxxx
+xx =======  = /==/]              xxx>       bxxxxxxxxxxxxxxxxx
+xxxxxxxxxx   +==/=+   ++         xxx          xxxxxxxxxxxxxxxx
+xxxxxxx      ======   VV         xxx        xxxxxxxxxxxxxxxxxx
+xxxxx      x +   =              mxxx          xxxxxxxxxxxxxxxx
+xxxx    xxxx =                  xxxxx        xxxxxxxxxxxxxxxxx
+xxx   xxxxxx            V <     xxxxx         xxxxxxxxxxxxxxxx
+xx   xxxxxxxKKK          V/<   +xxxxx K    xxxxxxxxxxxxxxxxxxx
+xx  xxxxxxxxKKKK     > | <> V< xxxxxx   xxxx  xxxxxxxxxxxxxxxx
+xx+xxxxxxxxxKKKK      ^^>  ^|  xxxxxx   wwmmmxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxmmxmm^xxxxxxxzxxxxxxx   # xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

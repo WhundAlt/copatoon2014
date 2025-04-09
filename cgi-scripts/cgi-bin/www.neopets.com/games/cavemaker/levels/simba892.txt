@@ -1,0 +1,84 @@
+Staircases of doom!!
+terrain 3
+background 1
+water clear
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+       wwwwwwwxwwwwwwwwwwwwwwwwwwxxooooooooooooooooooxxwwwwwwwwwwwwwwwwwwwwwwwwx
+ #++          x                  xxooooooooooooooooooxx                        x
+xxxx+         x                  xxooooooooooooooooooxx                        x
+xxxxxm        x                  xxooooooooooooooooooxx                        x
+xxxxxxm       x                  xxooooooooooooooooooxx                        x
+xxxxxxx+      x                  xxooooooooooooooooooxx                        x
+xxxxxxxxm     x                  xxooooooooooooooooooxx                        x
+xxxxxxxxx+    x                  xxooooooooooooooooooxx                        x
+xxxxxxxxxx+   x                  xxooooooooooooooooooxx                        x
+xxxxxxxxxxxm  x                  xxooooooooooooooooooxx                        x
+xxxxxxxxxxxx+ x                  xxooooooooooooooooooxx                        x
+xxxxxxxxxxxxx x                  xxooooooooooooooooooxx                        x
+xwwwwwwwwwwww x                  xxooooooooooooooooooxx                        x
+x             x                  xxooooooooooooooooooxx                        x
+x             xD                 xx||||||||||||||||||xx                        x
+x             xxxm                                                             x
+x            +xxxx+                                                            x
+x           +xxxxxx+                                                           x
+x          +xxxxxxxx+                                                          x
+x         +xxxxxxxxxxm                                                         x
+x        mxxxxxxxxxxxx+                                                        x
+x       mxxxxxxxxxxxxxx+                                                       x
+x      +xxxxxxxxxxxxxxxxm                                                      x
+x     +xxxxxxxxxxxxxxxxxx+                                                     x
+x    +xxxxxxxxxxxxxxxxxxxx                                                     x
+x   +xxxxxxxxxxxxxxxxxxxxxz+                                                   x
+x  mxxxxxxxxxxxxxxxxxxxxxxzxm                                                  x
+z mxxxxxxxxxxxxxxxxxxxxxxxzxx+                                                 x
+z+xxxwwwwwwwxxxxxxxxxxxxxxzxxx+                                                x
+zxxww   "   wwwxxxxxxxxxxxzxxxx+                                               x
+zxx     "      xxxxxxxxxxxzxxxxx+++++++++++++^       <                         x
+z w     "      xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxx++                       x
+z     " " "   +xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+                       
+z+    "   "  +xxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm            +        x
+xx+   "   " +xxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+         mzx+       x
+xxx+       mxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm       mxzxx       x
+xxxx+      xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+     +xxzxxz+     x
+xxxxxm     wwwwxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+   mxxxzxxzxm    x
+xxxxxxm        xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+ mxxxxzxxzxx+   x
+xxxxxxx+       xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxzxxzxxx  +x
+xxxxxxxx+      xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 +xx
+xxxxxxxxxm     xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                +xxx
+xxxxxxxxxx    +xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               mxxxx
+xxxxwwwwww   mxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              +xxxxx
+xxxx        +xxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             +xxxxxx
+xxxx       mxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            mxxxxxxx
+xxxx       xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           +xxxxxxxx
+xxxx       xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          +xxxxxxxxx
+xxxx       xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         mxxxxxxxxxx
+xxxx       xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        +xxxxxxxxxxx
+xxxxm      xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       +xxxxxxxxxxxx
+xxxxxm     xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      +xxxxxxxxxxxxx
+xxxxxx+    xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     +xxxxxxxxxxxxxx
+xxxxxxx+   xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    +xxxxxxxxxxxxxxx
+xxxxxxxx+  xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+   xxxxxxxxxxxxxxxx
+xxxxxxxxx  xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+   wwwwwwwwwwwwwwx
+xxxxxxxxx  xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+                x
+xxxxxxxxx  xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm               x
+xxxxxxxzz  xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+              x
+xxxxxxxzz +xxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm             x
+xxxx     +xxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+            x
+xxxx    +xxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++          x
+xxxx   +xxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+         x
+xxxx  mxxxxxxxxxxxxxxxxxxxzxxxxxxooooooooooooooooooxxxxxxxxxxxxxxxxxxx+       xx
+xxxx +xxxxxxxxxxxxxxxxxxxxzxxxxxxooooooooooooooooooxxxxxxxxxxxxxxxxxxxx+     +xx
+xxxx+xxxxxxxxxxxxwwwwwwwww w >  |ooooooooooooooooooxxxxxxxxxxxxxxxxxxxxx    +xxx
+xxxx"wwwwwwwwwwww   +   +  +    |ooooooooooooooooooxxxxxxxxxwwwwwwwwwwww   +xxxx
+xxxx"  +  + + + +   "   "  "    |ooooooooooooooooooxxxxxxxxx              +xxxxx
+xxxx"  "  " " " "   "   "       |ooooooooooooooooooxxxxxxxxx      "      mxxxxxx
+xxxx"  "  " " " "   "           |ooooooooooooooooooxxxxxxxxxL     "     +xxxxxxx
+xxxx"  "  " " " "               |||||||||||||||||||xxxxxxxxxxm    "    +xxxxxxxx
+xxxx"  "  " " "                                     xxxxxxxxxx+       +zzzzzzzzz
+xxxx"  "  " "                                       xxxxxxxxxxx      +xzzzzzzzzz
+xxxx"  "  "                                         xxxxxxxx        mxxxxxxxxxxz
+xxxx"  "                     ^ <   m   m  m  m  m   xxxxxxxx       +xxxxzzzzzzzz
+xxxx"                              z   z  z  z  z   xxxxxxxx      +xxxxxzzzzzzzz
+xxxxmmmmmmmmmmmmmmmmmmmmm  >   ^   z   z  z  z  z             +++ xxxxxxzxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzGx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,86 @@
+Missing_Lynx_3
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxwxwxxxKxxxxoxxxxxxxxxxxxx
+xxxxxxxxxxxxx wKbKKb> w|Kwwxxxxxxxxxxx
+xxxxxxxxxxxxz" KbbKzxm<>w Vxxxxxxxxxxx
+xxxxxxxxxxxzz" bb>Kzxxxxom wwxxxxxxxxx
+xxxxxxxxxxxzzxxxxxxxxxxxxx  mxxxxxxxxx
+xxxxxxxxxxxzzxxxwxxxxxwxxx| xxxxxxxxxx
+xxxxxxxxxxxxzzzz wxwwxoxxxm|wxxxxxxxxx
+xxxxxxxxxxxxzzzw  w  w<wxxxmVxxxxxxxxx
+xxxxxxxxxxxxxxzm=       wxxx wxxxxxxxx
+xxxxxxxxxxxxxxxx         wxx mxxxxxxxx
+xxxxxxxxxxxxwwwx        Kmxw xxxxxxxxx
+xxxxxxxxxxxw   w    >   KxxV|xxxxxxxxx
+xxxxxxxxxxxm >mmVK       ww mxxxxxxxxx
+xxxxxxxxxxxx  xx o          xxxxxxxxxx
+xxxxxxxxxxxxm^wx K  ob  mxm xxwwxxxxxx
+xxxxxxxwwwxxx  w|   =   xxx xxmKwxxxxx
+xxxxxww   wxx  mK     ^mxxx wxxK wxxxx
+xxxww      wx ==KxxxK[[zzzxK wxK  wxxx
+xxw         w    xxx mmxxxx= bwK   wxx
+xw               wxwmxxxxxz        Kwx
+xm      KKK        mxxxxxxzm== ^   b+x
+xx      KKKxxxxxx==zzzzzzzzxmmx=m===mx
+xxm  =KKKK|xxxxxxmzzzzzzzzzxxxxmxmmmxx
+xxxm  KKKK|xxwwwxxxxxxxxxxxxxxxxxxxxxx
+xxxz  ||| Kxw mmwxxxxxxxxxxxxxxxxxxxxx
+xxxz      Kx  |V xxxxxxxxxxxxxxxxxxxxx
+xxxz= V  < w  ww wxxxxxxxxxxxxxxxxxxxx
+xxzzm  ^ m/      mxxxxxxxxxxxxxxxxxxxx
+xxzzxm  mx    ^  xxxxxxxxxxxxxxxxxxxxx
+xxxzxx  xx       wwwxxxxxxxxxxxxxxxxxx
+xxxzzx  xx K|KbK    wxxxxxxxxxxxxxxxxx
+xxxxzz> |K mmmmo    Vwxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxm   xxxxxxxxxxxxxxxx
+xxxxxxwwwwwwwwwwxxx  mxxxxxxxxxxxxxxxx
+xxxxxw  >b      wxx ^xxxxxxxxxxxxxxxxx
+xxxxx   b=Kb|bo <wx=mxxxxxxxxxxxxxxxxx
+xxxxw    ommmm   |wm|xxxxxxxxxxxxxxxxx
+xxxx  xxxxxxxxxxxm|wxxxxxxxxxxxxxxxxxx
+xxxxm zzooooooozz||mxxxxxxxxxxxxxxxxxx
+xxxxx zoooooooooxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xoooooooooxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xx<<<<<<<zxwwxxxxxxxxxxxxxxxxxxx
+xxxxxmxxo     ozx  wwxxxxxxxxxxxxxxxxx
+xxxxxxxxxoooooxzz    wxxxxxxxxxxxxxxxx
+xxxxxxxxxoooooxzz     wxxxxxxxxxxxxxxx
+xxxxxxxxxxxoxxxxx=     xxxxxxxxxxxxxxx
+xxxxxxxxwxxKxxxxw      wxxxwwwxxxxxxxx
+xxxxxxxwowxK| <w        xxw   xxxxxxxx
+xxxxxxxmmo>             ww V  wxxxxxxx
+xxxxxxxxx=x    ===             xxxxxxx
+xxxxxxxww              xxxx   mxxxxxxx
+xxwxxxxbo              wwxx   zxxxxxxx
+xxKxwxwK=     ^      > V w|  =zxxxxxxx
+xxKw<z bo   ===          mx  mzxxxxxxx
+xx   xxm=         =      xx  xzxxxxxxx
+xx m xxxo>             Kmxx Gzzxxxxxxx
+xx x xxx= =         o omxxx mxxxxxxxxx
+xx x xzz            ===xxxx xxxxxxxxxx
+xx x xzx=              wxww xxxxxxxxxx
+xx x xzK    o     o    mw  <wwxxxxxxxx
+xx x xzxo  ===  o =K=K xm     wwwwxxxx
+xx x xzxx^     oK    K xxm K  > V xxxx
+xx x xzxx      KK  > <mxxx K    | xxxx
+xx x xzxx       b     xxwx K    < wxxx
+xx w xzxxo          mmxwVxm   ^    xxx
+xx   xzxxK      o   xxx /xxK  K    xxx
+xx   xzxxmK == xxx==xxw KwxK       xxx
+xx  mxzxxx     wwx  ww  K xK  ^    wxx
+xx =xxzxxxm      w      o wK <|    mxx
+xx mxxzzzzz o       >  <K       mmmxxx
+xx xxxxxxxxmxxxxxxxxxxxx       xxxxxxx
+xx xxxx   xxxwwwxwxxwwxx       wxxxxxx
+xx wwww   www>  wVww  ww KK     xxxxxx
+xx      D     xx    VVV =xx   ^mxxxxxx
+xxm = ====    xx   |||   oz ===xxxxxxx
+xxxm  mm mm  #K|      < oxx   mxxxxxxx
+xxxxmmxxmxxm=xxx     K  ozz   xxxxxxxx
+xxxxxxxxxxxxmxxxm> ^o ooxxx mmxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxo oxxxxmxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

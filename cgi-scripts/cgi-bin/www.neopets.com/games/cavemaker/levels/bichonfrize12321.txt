@@ -1,0 +1,66 @@
+Cave of Despair
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx             x                                             x
+xx             x                                             x
+xx#om+m+m+m+m+ x                                             x
+xxxxxxxxxxxxxx"x 1     +             x                  x    x
+xx   ooooooooo"x                  4  x++++++++++ xxxxxx x    x
+xx   ooooooooo"x 2 +        +      x xoooooooooo xxxxx  x    x
+xx   ooooooooo"xxxxxxxxxxxxxxxxxx  x xbbbbbbbbbb xxxxx  x    x
+xx   ||||||||/"x                 "xx x          "xxxxx xx    x
+xx          / "x                 "xx            "xxxxx  x    x
+xx          / "x                 "xx  ^^^^^^^^^^"xxxxx  x    x
+xx          / "x                 "xxxxxxxxxxxxxx"xxxxxx x    x
+xx +++++++++/ <x                 " "x           "  xxx  x    x
+xx xxxxxxxxxxxxx     + + + + +   " "x              xxx  x    x
+xx x++++++++++ x     b b b b b   " "x              xxx xx    x
+xx x3          x                 " "x             +xxx  x    x
+xx  ++++++++++ x     mmmmmmmmm   " "x     +       1xxx  x    x
+xxxxxxxxxxxxxx x  xxxxxxxxxxxxxxxx "x4             xxxx x    x
+xx  ++  >/     xx xxxxxxxxxxxxxxxx "x +        +   xxx  x    x
+xx  ""  >/     x  xxxxxxxxxxxxxxx o"x xxxxxxxxxxxxxxxx  x    x
+xx  "" >/      x  xxxxxxxxxxx     o"x              xxx xx    x
+xx  ""  >/     x xxxxxxxxxxx      o"x              xxx  x    x
+xx  ""   / <   x  xxxxxxxxx   xxxxo"x              xxx  x    x
+xx  xxxxxxxxxxxx  xxxxxxxx   xx   o"x              xxxx x    x
+xx  xxxxxxxxxxxxx xxxxxxx   xx   ooxx              xxx  x  L x
+xx   wwwwwwwwwwx  xxxxxx   xx    oox               xxx  x    x
+xx             x  xxxxx   xx     oox|K|            xxx xx    x
+xx   +++++++++ x xx      xx     oooxK|K            xxx  x    x
+xx   +++++++++ x         x     oooox|K|   /        xxx  x    x
+xxmm           x         x    ooooox  xxxxxxxxxxxxxxxxx x    x
+xxxxxxxxxxxxx""xxxx     xx   oooooxx      w       w  x  x    x
+xx wwwwwwwwww""x  xx + mx    ooooxxx  ww  " w w  w   x  x    x
+xx  + + + + +""x   xmbmx    ooooxxxx  ""  " " "  "w  x xx    x
+xx """"""""""""x    xmx     oooxxxxx  ""  """ "  ""  x  x    x
+xx """"""""""""x     x     oooxxxGxx  "" """" "" ""  x  x    x
+xx """"""""""""x           ooxxxxzzz  "" """" "" ""  xx x    x
+xx """"""""""""x          ooxxxxxxxxx mmmmm"m ""+ "  x  x    x
+xx """"""""""""x          oxxxxxxxxxxxxxxxxxxxxxxxxx x  x    x
+xx """"""""""""x      /   xxxxxxxxxx                 x xx    x
+xx mmmmmmmmmmmmx  xxxxxxxxxxxxxxxxxx                 x  x    x
+xx xxxxxxxxxxxxx  xbbbbbbbbbbbbbbbbx                 x  x    x
+xx             x xxbbbbbbbbbbbbbbbbx                 xx x    x
+xx       =     x  bbbbbbbb+bbbbb+bbx                 x  x    x
+xx  =   = =   ]x  bbbbbbbbbbbbbbbbbx           o     x  x    x
+xx   =+=   =+] xxbb+bbbbbbbbbbbbbbbx           b<V < x xx    x
+xx    ]     ]  xxxbbbbbbbb+bbbbbbbbx                +x  x    x
+xx   = ]   ] = xxxxbbbbbbbbbbbbbbbbx  + mmmmmmmm^< ^<x  x    x
+xx  =   ]+]   =xxxxxbbbbbbbbbbbb   x xxxxxxxxxxxxxxxxxx x    x
+xx       ]     xxxxxxbbbbbbbbbbb   x                 x  x    x
+xx  mmmmmmmmm  xxxxxxxbb+bbbbbbb   x                 x  x    x
+xxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxx  x                 x xx    x
+xx...........  x                   x                 x  x    x
+xx~            x                  xxxxxxxxxxxxxxxxx  x  x    x
+xx             x                 xx..x ||||||        xx x    x
+xx             x     xx         xx     |/////|       x  x    x
+xx1            x    xxxx       xxx       ||///|/     x  x    x
+xx             x   xxxxxx     xxxx         ||//|/    x xx    x
+xx             x  xxxxxxxx   xxxxx           ||/|/      x    x
+xx               xxxxxxxxxx xxxxxx            /|/|      x    x
+xx + + + + + +  xxxxxxxxxxxxxxxxxx +            |/ /  x x    x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  D x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

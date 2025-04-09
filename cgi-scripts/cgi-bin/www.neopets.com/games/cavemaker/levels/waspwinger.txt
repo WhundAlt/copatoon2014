@@ -1,0 +1,44 @@
+NeoPets Love
+terrain 2
+background 1
+water clear
+x                xxxxxxxxxxxxxxxxxxxxxxx
+x               #zzzzzzxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxz  xxx  xxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxx    x    xxxxxxxxxx
+x"x xxx x   xwwwwxzzz         xxxxxxxxxx
+x"x  xx x xxx    xzzz        Lxxxxxxxxxx
+x"x   x x wxx xx xzxxx       xxxxxxxxxxx
+x"x x   x mxx xx xzxxxx     xxxxxxxxxxxx
+x"x xx  x xxx    xzxxxxx   xxxxxxxxxxxxx
+x"x xxx x   xmmmmxzxxxxxx xxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxx
+x"                 +xxxxxxxxxxxxxxxxxxxx
+x"      +         ++xx  xxx  xxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxx    x    xxxxxxxxxx
+x"x   x   x   x   xxx    o    xxxxxxxxxx
+x"x x x xxxx xx xxxxx    =    xxxxxxxxxx
+x"x   x wxxx xx wwxxxx       xxxxxxxxxxx
+x"x xxx mxxx xxmm xxxxx     xxxxxxxxxxxx
+x"x xxx xxxx xxxx xxxxxx   xxxxxxxxxxxxx
+x"x xxx   xx xx   xxxxxxx xxx   xxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxxxxx xx     xxxxxxx
+x"                                xxxxxx
+x"                       ^    o  +xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx[===]xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxx
+xxxxxxxxxx  xxx xxxxxxx     xxxxxxxxxxxx
+xxxxxxx         +xxxxxx     xxxxxxxxxxxx
+x              ++xxxxxx[===]xxxxxxxxxxxx
+x            o+++xxxxx      xxxxxxxxxxxx
+x   o  [====]xxxxxx         xxxxxxxxxxxx
+xxxxx        xxxxx     xxxxxx        xxx
+xxxxx                 xxxx           xxx
+xxx                  xxx           D xxx
+x+       xxx  [[]]  xx           xxxxxxx
+x++2       x        b           xxxxxxxx
+xxxxxxxxxxxx1       o          xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

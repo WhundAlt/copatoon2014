@@ -1,0 +1,86 @@
+????
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxx
+xx    xxxxxxxxxx     | o    <xxxxxxxxxxxxxxxxxxxxxxx
+x"     xxxxxxxxx     K=[x       xxxxxxxxxxxxxxxxxxxx
+x" D   xxxxxxxxx xxx            xxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxx  "xxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
+x"    xxxxxxxxxx  "xxxxx  xxxxx xxxxxxxxxxxxxxxxxxxx
+x"     xxxxxxxxxxx"xxxx   xxxxx xxxxxxxxxxxxxxxxxxxx
+x"xxx  xxxxxx   xx" xxx   xxxxx xxxxxxxxxxxxxxxxxxxx
+x"xxxx xxxxxxm    " xxx  xxx  x xxxxxxxxxxxxxxxxxxxx
+x"xx+  xxxxxxxm   "  xxxxx"   x xxxxxxxxxxxxxxxxxxxx
+x"xx+++xxxxxxxxmmxx   xxx "   x xxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxx    xx "xxxx xxxxxxxxxxxxxxxxxxxx
+x" xxxxxxxxxxxxxxxxx      "            xxxxxxxxxxxxx
+x"  xxxxxxxxxxxxxxxxxx    "              xxxxxxxxxxx
+xx  xxxxxxxxxxxxxxxxxxxx  "                xxxxxxxxx
+xx       xxxxxxxxxxxxxxxxxxxxxx==xx          xxxxxxx
+xxx         xxxxxxxxxxxxxxxxxxx  xxxx         xxxxxx
+xxxxxxx                          xxxxx         xxxxx
+xxxxxxxxxxx    mmmmmmmmmmmm   o  oxxxxxx          "x
+xxxxxxxxxxx ooxxxxxxxxxxxxxoooo ooxxxxxxxxx       "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxw" zzzzzzzzx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx++  xxxxx " zzzzzzzzx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx++    "xx "xxxxxxxxzx"x
+xxxxxxxxxxxxxxxxxxxxxx     xxxxx   "xxm" xxxxxxxzx"x
+xxxxxxxxxxxxxxxxxxxx        xxxxxxx"xxx"     xxxzx"x
+xxxxxxxxxxxxxxxxxxxx    xx ++++xxxx"xxx"     "xxzx"x
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxx"xxxxxxx  "xxzx"x
+xxxxx  xxxxxxxxxxxxx   xxxxxxxxxxxx"xxxxxxxxx"xxzx"x
+xxx      xxxxxx    x     xxxxx    ""x+  "x   ""xzx"x
+xx        xxxx"    xxx            ""x+  "x   ""xzx"x
+x         xxxx"   xxxxxx       xxx"xx+xx"   xx"xzx"x
+x#        xxxx" xxxxxxxxxxxxxxxxxx"xx+xx"  xxx"xzx"x
+xxx       xxxx"xxxxxxxxxxxxxxxxxxx""xxxx"xxxxx"xzx"x
+xxxxx    xxxxx"xxxxxxxxxxxxxxxxxxx""xxxx" "xxx"xzx"x
+xxxxx   xxxxxx" "               xxx"xxxx" "xxx"xzx"x
+xxxxw   xxxxxx" "                  " xxxxx"xxx"xzx"x
+xxxx    xxxxxx" "xxxxxxxxxxxxxx    "      "xx "xzx"x
+xxxw    xxxxxxxx"xxxxxwwwxxxxxxxxxxx      "xx "xzx"x
+xxx     xxxxxxxx"xxx     xxxxxxxxxxxxxxxxx"xw xxzx"x
+xxx     xxxxxxx "xxx    ++x     xxxxxxx   "x  xxzx"x
+xxx     xxxxxx  " xx    ++x++     xxxxx   "x  xxzx"x
+xxx    mxxxxxx+ " +x   xxxx++       "     "x xxxzx"x
+xxw    xxxxxxxx " +x   wwxxxxx      "     xx xxxzx"x
+xx     xxxxxxxxx" +xx    wxxxxxxxxxx"xxxxxxx xxxGx"x
+xx     xxxxxxxxxxxxx       xxxxxxxxx"xxxxxxx xww x"x
+xx     xxxxxxxxx   x         xxxxxxx"xxwwxxx w   x"x
+xx     xxxxxxxxx   x x        xxxxx""xx  xxx     x"x
+xx     xxxxxxxxxx  x           xxxx""xx++xxw     x"x
+xx     xxxxxxxx"   x   x xxxx  "xxx""xx++ww      x"x
+xx     xxxxxxxx"   x      xxxx "xxx"xxw++    x   x"x
+xx     xxxxxxxx"xxxx         xx"xxx"xxxxxxxxxx  xx"x
+xx     xxxxxxxx"xxxx         xx"   "  xxxxxxxx mxx"x
+xx     xxxxxxxx" xxxxxxxxxxx x "   "     xxxxx xxx"x
+xx     xxxxxxxx"  xxx     xx   "xx "       xxx xxx"x
+xx     xxxxxxxx"               "xxxxxxx    xxx xxx"x
+xx     xxxxxxxx"               "xxxxxxxxxxxxxx xxx"x
+xx     xxxxxxxxxxxxxx=====xxxxxxxxxxxxxxxxxxxx xxx"x
+xx     xxxxxxxxxxxxww    xxxxxxxxxxxxxxxxxxxxx xxx"x
+xx     xxxxxxxxxxww    + xxxxxxxxxxxxxxxxxxxxx xxx"x
+xx    mxxxxxxxxxw     ++xxxxxxxxxxxxxxxxxxxxxx xxx"x
+xx    xxxxxxxxxx      +xxxxxxxxxxxxxxxxxxxxxxx xxx"x
+xx  ~ xxxxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxx xxx"x
+xx    xxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxx xxx"x
+xx    xxxxxxxxxw    xxxxxxxxxxxxxxxxxxxxxxxxx  xxx"x
+xx    xxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxx     wxx"x
+xx    xxxxxxxxx     xxxxxxxxxxxxxxxxxx          xx"x
+xx    xxxxxxxxx     xxxxxxxxxxxxx               xx"x
+xx   mxxxxxxxxx    mxxxxxxxxxx                  xx"x
+xx  mxxxxxxxxxx    xxxxxxxxxx               xx  xw"x
+xx  xxxxxxxxxxw    xxxxxxxxx              xxxx  w "x
+xx  xxxxxxxxxw     xxxxxxxxx           xxxxxxx    "x
+xx  x..xxxxxw     xxxxxxxxxx       xxxxxxxxxxxx   "x
+xx     xxxww      xxxxxxxxxx  xxxxxxxxxxxxxxxxx   "x
+xx               xxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxx
+xx            xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxx
+xx           xxxxxxxxxxxxxx   xx..xxxxxxxxxxxxxxxxxx
+xx    xxxxxxxxxxxxxxxxxxxxx   ww       ++    xxxxxxx
+xx     xxxxxxxxxxxxxxxxxxxx            +++ ++xxxxxxx
+xxmmmmmxxxxxxxxxxxxxxxxxxxx         xxx+++++xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

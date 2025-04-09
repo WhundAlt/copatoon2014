@@ -1,0 +1,46 @@
+Sunken Ship
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x         bbbb bbb b   b   b   bbb  bbb  x
+x         b  b b   b + b  b b  b++b b    x
+x         bbbb bbb b b b b   b bbbb bbb  x
+x         b  b b   bbbbb bbbbb b  b b    x
+x        /bbbb#bbb  bbb  b   b b  b bbb+ x
+x|||||xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxx[[xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxx++xxx~                 "  " " "      zx
+xxxxxxxx       "          "  " " "      zx
+xxxxxxxx       "       o  "  " " "   "  zx
+xw  xxxx   "   "    ]]]]     " "  ]] "  zx
+x L x      "   "  "            " xxK "  zx
+x== z  +   "   "  "              x.K "  zx
+xmm xxxx   "      "         m     5K/ +mzx
+xxxzxxxx          "        ]]]]]]==K  xxzx
+xxxo+ooxm   mmmm+m      ===        K xxxzx
+xxxooooxxxxxxxxxxxmmmm     .. mm  +xxx..zx
+xxxoooox..xxxxxxxxxxxxxx]]]xxxxxxxxxx   zx
+xxxxKxxx         V             <        zx
+xz                     |/+/|            zx
+xz                     |||||   ^        zx
+xz  ^            <                 /    zx
+xz                                ]]]]  zx
+xz        +                            "zx
+xzbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"zx
+xzbbbbbbbbbbbbbbbbbbbbbbbbbbbbbGbbbbbbb"zx
+xzbbbbbbbbbbbKKbbbbbbbbbbbbbbbKKKbbbbbb"zx
+xzbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbzx
+xzmmmmmmm  mmmmmmmmmmmmmmmmmmmmmmmm mmmmzx
+xzxxxxxxxzzxxxxxxxxxxxxxxxxxxxxxxxxzxxxxzx
+x    z..b     z                          x
+x    z  b    4z                          x
+x    z  K     z                          x
+x    z++K   D z                          x
+x    zxxzxxxxxz                          x
+x                                        x
+x                                        x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

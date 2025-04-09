@@ -1,0 +1,46 @@
+Maze_Of_Treasures
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x   V   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x #     xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx xxxxxx>Vxxxxxxxxxxxxxxxxxxxxxxx
+xxxx xxxxxx  xxxxxxxxxxxxxxxxxxxxxxx
+xxxx xxxxxx^ <xxxxxxxxxxxxxxxxxxxxxx
+xxxx xxxxxxx  KK|++++++++++++++|KKKx
+xxxx>   Vxxx  K||++++++++++++++||||x
+xxxxxxxx xx > |K||||||||||||||||KKKx
+xxxxxxxx      K|KKKKKKKKKKKKKKKKKKKx
+xxxxxxxx      KKxxxxxxxxxxxxxxxxzxxx
+xxxxxxxx> /  ^xxzzzzxxxxxxxxxxxxzxxx
+xxxxxxxxxxxxxxxxzzzzxxxxxxxxxxxxzxxx
+xxxxxxxxxxxxxxxxzxxzxxxxxxxxxxxxzxxx
+xxxxxxxx> |+++|V xxzxxxxxxzzzzzzzxxx
+xxxxxxxx  K|||K  xxzzzzzzzzxxxxxxxxx
+xxxxxxxx         xxxxxxxxxxxxxxxxxxx
+xxxzzzzz^      < xxxxxxxxxxxxxxxxxxx
+xzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxx wwwwxxzzzz     +    xxxx
+xzxxxxxxxxx     xxzzzz    +++   xxxx
+xzxxxxxxzzz  +++  zxxx        3 xxxx
+xzxxxxxxzzz  +++  zxxx   +++++>Vxxxx
+xzxxxxxxzzxxxxxxxxxxxxxxxxxxxxxVxxxx
+xzzzzzzzzx ++ xxxxxxxxxxxxxxxxxVxxxx
+xzzzzzzzzx ++ xxxxxxxxxxxxxxxxxVxxxx
+xxxxxxxxxx +o xxxxxxxxxxxxxxxxxVxxxx
+xxxzzzzzzz oooxxxxxxxxxxxxxxxxxVxxxx
+xx~zxxxxxxx//xxxxxxxxxxxxxxxxxxVxxxx
+x     xx..x//xxx..x> V  x..x     xxx
+x     xx     x     ^<            xxx
+x     xx                         xxx
+x     x/>  ^        ^       <    xxx
+x     x/                  KKK|||Kxxx
+x     x/                  KK    Kxxx
+x     x/  <          <    KK ++ Kxxx
+x D   x/                  KK++++Kxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

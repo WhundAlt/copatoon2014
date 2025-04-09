@@ -1,0 +1,64 @@
+FallForGold
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwoxxwwwwwwwxxxxxxxxxx
+xxxxxxxxxxxxwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm kww>  k<m wxxxxxxxxx
+xxxxxxxxxxww xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xmmxxxxxxxxx
+xxxxxxxxww   wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm   kkkkkxxxxxxxxxxxx
+xxxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    | | xxxxxxxxxxxx
+xxxxxxxw      xxxxxxxxwwxxxxxxxxxxxxxxxxxxxxxxxxww     |  xxxxxxxxxxxx
+xxxxxxx   m   wxxxxxxx  xxxxxwxwwxxxxxxxxxxxxxxw m        xxxxwwxwxxxx
+xxxxxxx  mx    xwxxxxx kxxxww w mxxxxxxxxxxxxxxmmx        xxx   w wxxx
+xxxxxxw  xx    w wxxxx bxxw  mmmxxxxxxxxxxxxxxxxxxo       xxx     mxxx
+xxxxxx  [xxm      wwww    o bxxxxxxxxxxxxxxxxxxxxxoo      xxx     xxxx
+xxxxxx   xxx  )  )      xx o bxxwwxxwxxxxxxxxxxxxxxx       xxxxxx"xxxx
+xxxxxxm  xxxxxxxxxxkxxxxxxm o     xw xxxwxwxxxxxxxxx       xxxxxx"xxxx
+xxxxxxx  xwxxxxxxxxkxxxxxxxmxmxx  x  wwx w wwxxxxxxx       xxxxxx"wxxx
+xxxxxxx =x wwxxxxxxkxxxxxxxxxxxxbbx    w>  v wxxxxxx ^ ^ ^ xxxxww" xxx
+xxxwwxx      xwxxxwkxxxxxxxxxxxx  x      |>  vxxxxxw       xxxx  " wxx
+xxw <ww      w wwx+kxxwxxxxxxxxw  x           wxxwx        xxwx  "  xx
+xx><v<           w<kww xxxxxxxxm  w  +      < <ww w        ww w  " mxx
+xxmm^ mxxxx        x   wxwwxxxxxm    >   ^ |<|<                    xxx
+xxxxmmxxxxxm       w    w mxxxxxxxxxxxxxxxxxxxxxxxx==xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxm           mmxxxxxxwxxxwxxxxxxxxxxxxxx  xxwxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx=xxxxxxxxww www wwxxxxxxxxxxxx  ww wwxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx"xxxxxxxwoooooooooxxxxxxxxxxxx mmmmm wxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx"xxxxxxx ooooooooowxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx"xwxxxxxmooooooooo xxxxxxxxxxxxxxxwx  xxxxxxxxxxx
+xxxxxxxxxxxxxwwxxxxxx"w xwwxxxbbbbbbbbbbxxwxxxxxxxxxxwwbx mxxxxxxxxxxx
+xxxxxxxxxxwwx  wxxxxx   w  xxx|||||||||kww wwxxxxxxxx  +w xxxxxxxxxxxx
+xxxxxxxxwx  w      xx      wxx               xxwxwxxx  +( xxxxxxxxxxxx
+xxxwwwwxow    k    ww       xx               wm  mwo (  xmxxxxxxxxxxxx
+xxx>mmmw<    <k| < mm    |  xx     m         xxxkxxxxxx xxxxxxxxxxxxxx
+xxxxxxxm      |    xxx   |  xx     x   m m   xxxkxxxxxx xxxxxxxxxxxxxx
+xxxxxxxx      k          |  xx     x   x+x   xxxkwxwxwx wxxxxxxxxxxxxx
+xxxxxwwx   mxxxxx xxxk|||| mxx^m       w<x   xxx+ o o o  xxxxxxxxxxxxx
+xxxxx kx=] xxxwxx xxx      xxxxx xxxxxxmxxxx=xxx+ o o ommxxxxxxxxxxxxx
+xxxxw kx    ww xw wxxmmmmm xxxxx xxxxxxxxxxxxxxx==xxxxxxxxxxxxxxxxxxxx
+xxxx  =w       w   xxxxxxxmxxxxx xxxxxxxxxxxxxww  xxxxxxxxxxxxxxxxxxxx
+xxxxk     )   )  ^+xxxxxxxxxxxxx)xxxwwxw     w m  xxxxxxxxxxxxxxxxxxxx
+xxxwkmv  [=xxxxxxxxxxxxxxxxxxxxx xxwkkx        x  xxxwxxxxxxxxxxxxxxxx
+xwx kx     xxxxxxxxxxxxxxxxxxxxx xx kkw        x  xxxowxxxxxxxxxxxxxxx
+x w |x    mxxxxxwxxxxxxxxxxxxxxx ww ++       < w  xxw+ xxxxxxxxxxxxxxx
+x    |    xxxxww xxxxxxxxxxxxxxx  ) ++  >   |<      )+ xxxxxxxxxxxxxxx
+x    x^  mxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxo xxxxxxxxxxxxxxx
+x     ^  xxxxxmm wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
+xx=x xxxxxxxxxxx# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx wxxxxxxxxxxxxxx
+xx"x^xxxxxxxwwww mxxxxxxxxxxxxxxxxxwxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx
+xx"|xxxwwxxxv<m  xxxxxxxxxxxxxxxwxx wwwxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx
+xx"|xxxm wxx  xm xxxxwxxxxxxxxww  w    wxxxxxxxxxxxxxxo xxxxxxxxxxxxxx
+xx"|xxxx  ww  xx xxwxkwxxxxxww          xxxxxxxxxxxxxxx wxxxxxxxxxxxxx
+xw"|x||||   < xx ww wk xxxxx k      D  mxxxxxxxxxxxxxxx  xxxxxxxxxxxxx
+x "|x|xx    m^wwbm>  <mxxxww kkxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxx
+x "|x|xx    xmm bx    xxxxm  kkxxxxxxxxxxxxxxxxxxxxxxxxo   xxxxxxxxxxx
+x "|||xx    wxx  w    xxxxxkkk|xxvvvvvvvvvvvvvvvvvvvvvxxo   xxxxxxxxxx
+x "   ww     ww       wxxxx|||||||||||||||||||||||||||xxxo  xxxxxxxxxx
+x                 ^   +xxxxkkkxxx                     xxxxo  xxxxxxxxx
+x     [xxxxxxxxxxxxxxxxxxxx   xxx                     xxxxxo xxxxxxxxx
+xxxxxxmxxxxxxxxxxxxxxxxxxxxx  wxx                     xwxxxx xxwxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   wx        m            w wwww ww wxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxu      mmm   xm  mm  mm  ^    mm)    xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

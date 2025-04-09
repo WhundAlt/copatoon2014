@@ -1,0 +1,1 @@
+num2=1&id0=1&name0=&icon0=&score0=&combo0=&comment0=

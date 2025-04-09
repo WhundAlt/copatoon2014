@@ -1,0 +1,76 @@
+Pointless Peak
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xKKxxxxxKxxV           < K|     KKxKxxK                     >    xxxKKxx
+x   Kxo "xx KKKo         K|o    KKx>x|x               >     b  bbK  wwxx
+x   zz z"xK KKKK       [ K|b    KKxxxxx    o mm           b    bbK    xx
+x#D xKxx xK KKK       =  ||bb   KKww  w  <xxxxxK  Kxxxxxxxxxxxxoxx    xx
+xzxxxxxw xx KK V        <KKbb   KK        K+bb+x==xxxxxKxxxxxKxxxx== xxx
+xmxxxxxm"xx K      b   = xxxxx  ww  b     Kbbb+x  xx>V   /|     <x   xxx
+xzxwoxxo"xxV          <  xw  o      K b b bb+++x  xx >V  VV     ^x   xxx
+xwxooxxo"Kx          ==  x  == b^^  bK bb bb+bbx <xx  >         ^x  xxxx
+x xxxxxx xxV    mmbob mm<x    xxxxxxooxxxxxxxxxxb xx b KKK  b    x  xKxx
+x xx wwx"xxK    KxxxxxxxxxK   w xxxxxxxxxxxxxxxx  Kx x KKK  bb   x bxxxx
+x wK   x" wK    xxw |w1"Kx     "KKxxxmxxxxxxxxxx bxK^  KKKK xx  bx xxxxx
+x  x   x   K    xK  | < Kx      xxxxxxxxxKxxxxxxVVxx^ bKKKK    bxx  wwwx
+x  w   oxxxo    xxo+xxx"xxKx K "xwxxxww wKxww wx  xx  xKKKK    b x     x
+x      xxKxx   >|xooxxx xx    x x www    xx    xKKxx   KKKK    bKKx    x
+xxxxxVVxxwxx^^^^|xooxw  zx     "x  |           b  zz^/ <<<<  < bKxx    x
+xwxxx  "x^xx|||||xxxxm "zzommmm"  mmm     bb   b  zz V      >  <Vxxb   x
+xm<KKK xxxKxxxxxzxxxKxxzKxxxxzz  mxKxm    bxxxxxxxKz             xxK   x
+xxxxx KKbxzzzzzzzzzzzzzzxxxxxxx" xxxxK / xxxxxxxxoKz+      V    <xox   x
+xKKKKKKbbx"xxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxmoxxK      > ^   xxx   x
+x   bKKbbxxV mm   <<  w  mm<xKx>x/xxxxxxwwwxxxKxxxxxK            xxxx  x
+xbKK b  bKL Kxxxxxxxxxxxxxx xxxxxxxbwxxxmmoxxxKxx"xxx   bb       xww  ox
+xb  KKbbbKz Kxxxxxooxxxxxxx^xxxxxx"bbxxxxxxxxxxxxxxxx     b     +x    xx
+xKKbKKKKbx" Kxxxxxxxxxxxoxx xxxKxx"xxxxxxxxxxxxxxxxbx  b        xo    xx
+x  bKKKKbxxbKwm  <w  << w  <xxxxxx" b  b    xxxxx"xxx          ^ x>  oxx
+xzxxKxxxxxxb zxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxKxxxKxxxxxxKKx  x   xxx
+x>  w     V  xxxxxxoxxxxxxx^xxxxxxxxxxxxxxxbmmo xxxKK         x  xb  xxx
+x    o    >  mm  w  mm ww m|>w Vxxoxxxxxxxxx xxxxxxxx        bxx xbboxxx
+xKxxxxxx xxm xxxxxKKxxxxxxx|xxx xxxxxxxxxxxxxxxxxxxxxKK      +x  x+oxxxx
+xx wmm wb  K b m   ww    m ^  <|> w   >> ww  >|>m <<xK    b  Kx  xooxbxx
+xx xxxxxxxxx b xxxxxxxKxxxxxKxxxxxxKKxxxxxxKxx|xxxx xK    K   xK xooxbbx
+xx=xxKKxbxxxxxzxxxxxxxxx>w/xxxxxmmxxxxxxxxxxxx> ww ^xK  Kb    x  xoxxxxx
+xx xxxxxxKxxxxzxxxKKKxxxxxxxxxxxxxxxxxxKKxxxxxxxxxxxxK        x  xoww/wx
+xK xxxxxxww  w  wK   ww    ww  w      w wwKww <  w  >K        xx xo  K x
+xK xxwwxx        K                        K  <           b   bK  xx  K x
+xx x>   w       b|xxxxx       "           K <             b  Kx  xx  V<x
+xb x    K      boKzz"zzo     bb     KKx   KxKxbb    xb   bb   xx xxo   x
+xx K mm m mm o ooKzxwxxom     "   bxxxxx  xxxKx=K===x  K KK   xb zxx   x
+xx xmxxxxxxxxxKxxzzxKwxxx  m5    bbxxxxx=+x/Kxxmommmxmmmmmmmmmxb zxx   x
+xx=xxxxxKKxxxxxxxzxx@ xxxxxxxxxxxxxxKxKKV=xx|<xxxxxxxxxxKKxxxxxKxzzzo  x
+xw wwV  ww<   ww    @ xxwxxxxxxxxxxxxxK  = xxxxxxxxxxxxxxxxxxxxxxxxxx  x
+x         K         z KKKK  ww  wb w       ww w |<ww</ w<|</</w</<xxx  x
+x b   bb  [[[[[[=xo x KKKK  b    b  b           |<  </  </</<| </<xbx ^x
+xbbK >    >   m/<KooK KKKK     b        ||>>> mm/< m<|m </<|<|m</<x"xx x
+xxx xxKxmxxxxxxxxwxxxxxxxxzxxxxxxxxxxKxx|^xxxxxx||//||///||//||||xx"xx=x
+xKx=xxxxxxxxKxxxxxxxxxxxxxxxxKKxxwxxxKxxx^xxKxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxw  ww   w>wK ww  K ww  wK xxxxxxxxxxxxxxxwwwww wwww www www   ww w   x
+xxo 3      > K   >>Kb     K  b   b   b   b            ""   "          =x
+xxx xxb    > K   > Kb     Kxxxxxxxxxxxxxxxxxxx= = ="""  """ "==        x
+xx KbKbb   > K b  >Kbb/  /Km ww  w m ww  w  mmmmmmm mmmm mmmm   <    < x
+xK xxxxxKxxxxxxxxxxKxxxxxxmKKxxxxxxxxxxxxxxxKxxxxxxKKxxxxxxxxxKKxxxxxx=x
+xK=x"xxxxKxKxxxxxxxxxxxxxxxxxx>xxxxxxKKKxxxK Kx   xxxx  K xxKxxxxxxKxx"x
+xx x"xxKxxx>>>>>>>>>> <<<<<<<<<< mmw  ww m >          o   K<w  <w2w bb x
+xx xxxxwxxxxxxxxKxxxxx xxxxxxK xxxxxxxxxxx  xxxz+xxxxxxxxxx  mm xxxxxx"x
+xx   ww   w   ww   w w w ww  w   w    ww  " zzzzxKxKKxxxxxx=xxx xxxxKx=x
+xK                                        "xxxxxxxxxxxxzzzx www   w  w+x
+xx        b                                 w  ww   w          ^    bb+x
+xx       bb    b      ^              K    "                        b+b+x
+xx===xKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=xxxxxxxxxxxxxxxxxxmxx==xxxxxx=xxxx
+x~   xxxxxKKxxxxxxxxxxxxxxKxxxxxxxxww  KxxxKxxxxxxxxxxxxxxx  wwKxxx wxwx
+xx   xxxxxxxxww  w xxKxxxxwxx  w xx   VKxxxxxxxxxxxxxxKxxxx  ooKxwxx x x
+xx  Kxxxxxx        xxxxxxx xx    Kx    zxxxxxxxxxxxxxxKxxxx  ooxxbxx K x
+xx  xxx wxx           xxKK xx xx xx    zxxxxxww   wxxxxxxxx  boxxmxx x x
+xK  xxx      xxx      xx      zx xx    xxxxxx   4  xxxxxxw   bbxxxxx w x
+xK  xw       xxK   xx xx      zx xx    wxxxxx====   xxxxxm      w xx   x
+xx           xKx   xx Kx      xx xx  x mozzxxb     oxxxxxx        xx   x
+xx     xxKx  xKx   xx xK    mxxx     x xxzzzx/   < oxxxzzK             x
+xx    mxxxK  xx   xxx xx x  xxxx    xx xxxzzxbmm  ooxzzzzo          ^  x
+xx   xxxxxx  zz  mxxx Kx xx xxxx xmxKx xxxxzzxxxxxxxxzKxzzz   Kx   xxbbx
+xxxmmxxKxxx      xxxz +  xxmxxKx xxxKx xxxxzzzxxxxxxxzKxxxxo  xx   zxbbx
+xxxxxxxxxxxm     xxxz    xxxxKKx      +xxKKxzzzzzzzzzzxKxxxobmxxmxxxKbGx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,25 @@
+Ding
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx       xxxxxxxx  +++++  "xxxxxxxx tx
+xx       xxxxxxxx xxxxxxx "xxxxxxxx xx
+xx xxxxx Kxxxxxxx +++++++ "xxxxxxxx xx
+xx x"zzx K        ///////x"xx   xxx xx
+xx x"zzxxKxxxxxxxx       x"xx x xxx xx
+xx x"xzxxKxzzzzxxx       x"xx x xxx xx
+xx x"xzV+bzzzzzxxx       x"x  x     xx
+xx x"xx==b    zzxx       x"x xx     xx
+xx x"xz #b    xzxx       x"x xxxx   xx
+xx x"xzxxxx   xzzz       x"x    x   xx
+xx x"xzxx+    xzzz       x"x  x x   xx
+xx x"x++x+  mmxzzz bb^bb x"xxxx x   xx
+xx x"z++xzxxxxxzxx       x"x  x x   xx
+xx xxxxxx++xxxxzxx       x"xx   x   xx
+xx xxxxxx++zzzzzxxmmmmmmmzzxx  xxxxxxx
+xx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx
+xx x.x    x.x     x.x     x..x       x
+xx                           xxxxxxx x
+xx                         D         x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

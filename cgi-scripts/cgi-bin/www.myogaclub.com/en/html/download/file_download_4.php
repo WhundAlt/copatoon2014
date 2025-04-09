@@ -1,0 +1,1 @@
+<?$fpath = $filename;header("Content-type: text/tab-separated-values");header("Content-Length: ".filesize($fpath));Header("Content-Disposition: attachment; filename=$filename");readfile($fpath);exit;?>

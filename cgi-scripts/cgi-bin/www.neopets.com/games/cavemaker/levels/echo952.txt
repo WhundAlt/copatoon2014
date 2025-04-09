@@ -1,0 +1,46 @@
+Match
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx  oooooo                          V<  xx
+xx  oooooo                              xx
+xx  ||||||                              xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                   ^  xx
+xx                |||||||||||||||||||"  xx
+xx                                V  "  xx
+xx                                   "  xx
+xx                                   "  xx
+xx                                   "  xx
+xx                                   "  xx
+xx                                  +"  xx
+xx1  ++    +++"""""""""===>V=  = =  =  <xx
+xx  ====  ====             >           ^xx
+xx"                                     xx
+xx"                                     xx
+xx">     ^                              xx
+xx"      "       "                      xx
+xx"      "       "                      xx
+xx"      "   "   "                  ||||xx
+xx=====  "   "   " ++++++++       >>|K  xx
+xx       "   "   "==========|       |KD xx
+xx           "              |||||   |K  xx
+xx                          |++     |KKKxx
+xx    ^^^^^^^^^^^^          |^+   ==    xx
+xx                          |||+        xx
+xx|||                          |        xx
+xx  |                          |+       xx
+xx# |                          ||||||===xx
+xx= |                                   xx
+xx >| b b bVb [=] b==b b b bx           xx
+xx|||                    /  x          txx
+xx         >             ^  x           xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmxmmmmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

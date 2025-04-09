@@ -1,0 +1,59 @@
+TheCavesRevenge
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    V|  >   K        xxx     +                    x
+x  >              V   xxx    +++                   x
+x           x         xxx   +++++  x   xxx         x
+x           x         xxxxxxxxxxxxxx   xxxx        x
+x           x                         xxxxxxxx     x
+x           x                        xxxz|||||     x
+x           x                        xxxz|   |/    x
+x           x                     xx xxxz|   xxxxxxx
+x           x                  xx    xxxz|    +    x
+x           x      xxx         x     xxxz|         x
+x  ^  ^  ^  |     <x+x      x        xxzz|KKKKKKKKKx
+x           |xxxxxxxKxxxx            xxzz||||||||||x
+x           |x          x            xxzx          x
+x           |x          xxxx         xxzx          x
+x[]x||xxxxxxxx             xxx       xxzx          x
+x  x++x             ^        x       xxzx          x
+x  xxxx   xxxxxxxzxxxxxxxx   x       xxzx          x
+x xx  x   x    x+ +xxxxxxxxx x       xxzx          x
+x    "x   x"   x" "xxxxxxxxx x       xxzx          x
+x +  +x   x+  +x" "xxxxxxx   xmmmmmmmxxzx          x
+xx"  +x   x+  "x" "xxxxxxx  xxxxxxxxxxxzx          x
+xx   "x   x"   x" "xxx  xxbbx           xxxxxxxxxxxx
+xx   +x   x+   x" "xxx      x           x          x
+xx   "     "   x" "xxx xxxxxx           x    +     x
+xx   "     "   x" " xx xxx                  +++ 5  x
+xx    xxxxx    x" "    xxx xxxxxxxxxxxxxxxzxxxxxxxxx
+xx    x   x    x" "xxxxxxx xxxxxxxxxxxxxxxzxxxxxxxxx
+x     x   x    x" "xxxxxxx xxxxxxxxx         xxxxxxx
+x[[xx x[=]x xxxx" "xxxxxxx xxxxxxxxx         xxxxxxx
+x   x x   x xxxx" "xxxxxxx xxxxxxxxx         xxxxxxx
+xx  x+x   x+xxxx" "xxxxxxx xxxxxxxxx         xxxxxxx
+x   x x[=]xxxxxx" "xxxxxxx xxxxxxxxx         xxxxxxx
+x xxx+x   x+  x " "xxxxxxx xxxxxxxxx         xxxxxxx
+x   x x   xx    " "xxxxxxx+xxxxxxxxx    +    xxxxxxx
+x    +x[=]x+xxxx" "xxxxxxx xxxxxxxxx   +++   xxxxxxx
+xx  xxx   x  xxx" "xxxxxxx xxxxxxxxx  +++++  xxxxxxx
+x   z+x   x+    " "xxxxxxxL         2+++++++    xxxx
+x  xxxx[=]xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxx
+xxxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx
+x           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx
+x   " xxxxxxxzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx
+x    1xxxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx
+x     xxxxxxxzxzxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx
+x #   xGzzzzzzxzzzzzzzzzzzzzzzzzzzzzzzzzzzzz      xx
+xxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xx
+x     |    xxxxxxxx                               xx
+x     |    xxxxxxxx                               xx
+x~ D  | / "xxxxxxxx "            4                xx
+xxxxxxxxxx"xxxxxxxx "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                       bb  bb    b  bbb       x...x
+x                       bb  bb 3b b  bKb       x + x
+xxxxxxxxxxxxxxxxxxxxxxxxKK  bb  K b  bbb        +++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

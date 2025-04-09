@@ -1,0 +1,46 @@
+Traps
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx                K  >      /x
+xxxxxxxxxxxxxx                K        </x
+xxx            +++++ xxxxx    K  ^     </x
+xxx            +++++ xxxxxxxxxxxxxxx     x
+xxx           xxxxxxxxxxxxxxxxxxxxxxx"   x
+xxx       D   xxxxxxxxxxxxxxxxxxxoooo"   x
+xxx     xxxxxxxxx               xKKKK"   x
+xxx     xxxxxxxxx >              ||||    x
+xxx                x                 xx" x
+xxx                x                   " x
+xxx                x           /       " x
+xxx                x                   " x
+xxx       G        |                   < x
+xxx     xxxxxxxx  ^|xx xxxxx >>>      /< x
+xxx     xxxxxxxxxxxxxx"x+++xxxxx++++++xxxx
+xxx                   "xKKKxxxxx++++++xxxx
+xxx                    xKKKxxxxxxxxxxxxxxx
+xxx  [=]xxxxxxxxxxxxxxxxKKKxxxxxxxxxxxxxxx
+xxx  == xxxxxxxxxxxxxxxxKKK xxxxxxxxxxxxxx
+x>                      KKK xxxxxxxxxxxxxx
+x    ==              > ////V <xxxxxxxxxxxx
+x                             wwwwwwwww  x
+x    ==  V<             V  < ^           x
+x^       <^                <[==========]"x
+xxx  =               ^  > /<            "x
+xxx    xxxxxxxxxxxxxxxxxxxxxx        KK "x
+xxx                                  KK "x
+xxx                                  || "x
+xxx                          >  >   <||  x
+xxx                          ["]xxxxxxxxxx
+xxx                           " xxxxxxxxxx
+xxx                           " xxxxxxxxxx
+xxx       ||                  " xxxxxxxxxx
+xxx       ||>          <        xxxxxxxxxx
+xxx       ||>          <   [==] xxxxxxxxxx
+xxx#  /   ||>          <        xxxxxxxxxx
+xxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

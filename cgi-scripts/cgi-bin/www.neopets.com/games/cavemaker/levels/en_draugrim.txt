@@ -1,0 +1,24 @@
+Blurred Vision
+terrain 3
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxwwwwwwxxxxxxxxwwwwwwxxxxxxxxxxxxxxxwwwwwwwwwwwwwxxww  wxxxwwwwwwwwxxxxxxwwwwwxxxx
+xxxxxwwwwwxxxxxwwww      xxxxxxww      wxwwwxxxxxzzzzz            1xx     xxw        wwwwxx     xxxx
+xxxxx     xxxxx          xwwxxw         w   wxxxzzzzzz            xxx     z              xx   ++  xx
+xxwww     wxxww          x  xx               wwxzzxxxx xx         wwx     z         xxx  xw  zzz  xx
+xw    +"+  xx            w  xw                 zzxxwww              xzx  xx xx      m    w    xx Dxx
+x      "   wx               x                   zxw          x      zzz  ww    x   xx  x    z    xxx
+x           x         x     w      x  x         xx              x   zzz             x    zz x    zxx
+x      "    w      xx            x            x ww        xx      xzxxxzxx        z xm        +   xx
+x      "                  xxxx x                                    xxww            xx        x   xx
+x# ++            xx     xxx             x  xx        x              wx     x     z  xx    x      xxx
+xxxxxx zxxxzz                                              x         x          z  mxz x          xx
+xxxx         xxx+                               z      x       x     w   x    zx   xzz         xx xx
+xx        mxm   xzz xx     xxxx                zm xx                               zzz            xx
+x         xxx  m       xzx      zzz         xx  xmm  zz  x                  z      zzxmmxx  xx    xx
+x          xx  x                    z  z  x  mmmxxx        x      x      xxxz   xxxzzxxxxx        xx
+xm       mmxxmmx                mmm        mmxxxxxx  mmm             z x     mmmmmmxxxxxxxmmmmm  mxx
+xxmmmmmmmxxxxxxxmmmmmmm     mmmmxxxmm      xxxxxxxxmmxxxmm   xzzx  x  mmmmmmmxxxxxxxxxxxxxxxxxxmmxxx
+xxxxxxxxxxxxxxxxxxxxxxxmmmmmxxxxxxxxxmmmmmmxxxxxxxxxxxxxxxmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

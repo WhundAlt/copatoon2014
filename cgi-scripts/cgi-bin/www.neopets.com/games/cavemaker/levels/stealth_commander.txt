@@ -1,0 +1,36 @@
+More Than White Lies
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxwwwwwxxxxxxxxxxxxxxwwwwwwwxxxxxxxwwwwwwxxxxwwwxxxxxxxxxxx
+xxxxw     wwwwwwwwwxxxxw       wwwwxxw      wwww   wwwxxxxxxxx
+xxxw          "     xx     "       ww                 wwwwwxxx
+xxx       "   "     xx     "    1    "              "      xxx
+xxx       "   "     xx     "  +      "              "      wxx
+xxx  "    "   "    +xxx    "zzzzzz   "       D      "   "   xx
+xxw  "  + "   "  " xxxxxxx "  zzz "       xxxxxxxxx "   "   xx
+xx   " zzz"   "  "  xxxx   "   zz "    xxxxxxxxx    "   "   xx
+xx   "  zz"      "   xx    "    z "   " xxxxxx    + "   "   xx
+xx   "  z "          xx    "    z "   " xxx     " z "   "   xx
+xx"  "  z "         xxx    "    z "   " xxx     "  1"   "   xx
+xx"       "  "    +xxxxx          "   " xxx     "   "  +    xx
+xx"    "  "  "    xxxxxxxx    +   "   " xxx  "  "   " zzzz  xx
+xx     "  "  "     xxxxxxxx " z         xxx  "  "   " zzz   xx
+xx     "   z "     xx       "  "   "    xxx  "  "   "   z " xx
+xx  +  " zzzzzzz            "  "   "     xx  "  "   "   z " xx
+xxzzzz "    zzz       +     "      "     xx  "  "   "   z " xx
+xxzz   "              xx    "       +  " xx  "  "   "     " xx
+xx z   " + "   #xxxxxxxxx   "   " zzzz " xx  "      "  "  " xx
+xx     " z " xxxxxxxxxxxxxx     "   z  " xx  " +    "  "  " xx
+xx   "     "  xxxxxxxxxx  "   + "      " xx    z "  "  "    xx
+xx   "  "  "     "xxxx " +"   z "   "  " xxm     "   + "    xx
+xx   "  "  "  "  " xx  " z"     "   "  " xxx     "   z "    xx
+xx   "  "  "  "  " xx  "  "  "  "   "  " xxx  "  "     "    xx
+xx   1  "     "  "  x  " m   "      " m  xxx  "  "  1  "   mxx
+xxm     "     "     xm mmxm  "   1    x mxxx  "  "     "   xxx
+xxxmmmm       "mmmmxxx xxxxmmmmmm    mx xxxx  "     mmmmm  xxx
+xxxxxxxmmmmmmmmxxxxxxxmxxxxxxxxxxmmmmxxmxxxxmmmmmmmmxxxxxmmxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

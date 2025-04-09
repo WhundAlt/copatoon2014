@@ -1,0 +1,46 @@
+The Climb
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                      xx
+xx                                      xx
+xx     xox                              xx
+xx     xox                              xx
+xx    +xox+                             xx
+xx|xxxxxVxxxxxxxxxxxxxxxxxxxxxx         xx
+xxK    </         <           x         xx
+xx                            xx        xx
+xx              xx xx          x        xx
+xx              xx^xx          xx       xx
+xxV              <|xx           x       xx
+xx       xxxxxxxxx|xx           xx      xx
+xx       K/ </   <|xx +    mmm   x+    +xx
+xx       K/  Vxxxx xx xx"xxxxxxx xxx|"xxxx
+xx       K/> />         "           |"xxxx
+xx       K/> />         "           |"xxxx
+xx       K/> />         "           |"xxxx
+xx       K/> />         "           |"xxxx
+xx       K/> />         "           |"xxxx
+xx       xxxxxxxxx    xxxx  >       |"xxxx
+xx xxxxx x+      x^    w+   x //|//  "xxxx
+xx|x   x x++     xxx"xxxxxxxx=======xxxxxx
+xx>  |  <xL++       "                   xx
+xxxxxVxxxxzxx       "                   xx
+xxx|||||x   xo      "                   xx
+xx ||+||x G xKK     "                   xx
+xx xxxxxxxxxxKKo    " +++       ||  <   xx
+xx          xxxxxxxxxxxxxxxx    ===xxx" xx
+xx           xxxxxxx       x          " xx
+xx           xxxxxxx       x          " xx
+xx    >                /<x x    +     " xx
+xxx"xxxx /            </<x x    xx    " xx
+xx "   x===x         "+++x x          " xx
+xx "   x + x         "xxxx x       xx " xx
+xx "   xxxxx         "xxxx x          " xx
+xx "       x         "xxxx x          " xx
+xx "       x         "xxxx            " xx
+xx "#  D   x         "xxxx            " xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

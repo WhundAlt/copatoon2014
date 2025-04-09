@@ -1,0 +1,66 @@
+Hannah go BOOM
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxx
+xx   ++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"++xxxxxx    "xxxx
+xx   ++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"++xxxxxx D  "xxxx
+xx   ++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxx"xxxx
+xx   ++++xxxxxxxxxwwwwwwwwwwwwwwwwwwwwww    "            "xxxx
+xx   ++++                                   "            "xxxx
+xx[[xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx""xxxx
+xx                             KKKKKK                   ""xxxx
+xx                             ||||||   <               ""xxxx
+xx          +++++++++          KKKKKK                   ""xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"""xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"""xxxx
+xx     ++bbbbbbbbbbb               V<<<<<<<<<          """xxxx
+xx     ++bbbbbbbbbbb               V>V>V>V>V^          """xxxx
+xx     bbbbbbbbbbbbb               V^V^V^V^V^          """xxxx
+xx     bbbbbbbbbbbbb               V^V^V^V^V^          """xxxx
+xx     bbbbbbbbbbbbb               V^V^V^V^V^KKK       """xxxx
+xx     bbbbbbbbbbbbb               V^V^V^V^V^KKK       """xxxx
+xx     bbbbbbbbbbbbb               >^>^>^>^V^<<<       """xxxx
+xx     bbbbbbbbbbbbb                       V KKK       """xxxx
+xx     bbbbbbbbbbbbb                   ||||| KKK       """xxxx
+xxmm   bbbbbbbbbbbbb                   |+++| KKK   /   """xxxx
+xxxxxzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx""""xxxx
+xxxxxzzxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxxx""""xxxx
+xxxxxzzxxxx                  V                   <    """"xxxx
+xxxxxzzxxxx                                           """"xxxx
+xxxxxzzxxxx                                           """"xxxx
+xxxxxzzxxxx                       >            V      """"xxxx
+xxxxx          xxxxxxxx    xx||xxxxxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxx          xxxxxxxxmmmmxx||xxxxxxxx   "xxxx   xxxxxxxxxxxx
+xx         xxxxxxxx+++xxxxxxx++xxxxxxxx+  "xxxx> ^xxxxxxxxxxxx
+xx++      xxx     ooooooooooxxxxxxxxxxxxxx"xxxxxxxxxxx+++++xxx
+xx++      xxx     oooooooooo              "xxxxxxxxxxx+++++xxx
+xxxx    xx        >>>>>>>>>K              "  xxxxxxxxx+++++xxx
+xx>     <                                 "           +++++xxx
+xxxzzxxxxxxxxxxxxx^         <  xxxxxxxxxxx"xxxxxxxxxxxxxxxxxxx
+xxxzz"      oo  xx          xxxwwwwwwww   "xxxxxxxxxxxxxxxxxxx
+xxxzz"    >>>K  xxmmmmmmmmmmxxx+          "xxxxxxxxxxxxxxxxxxx
+xxxxx"xxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxxxxxxx
+xxxxx"xxxxxx             xxxxxxxxxxxxxxxxx"xxxxxxx >       Vxx
+xxxxx"xxxxxxmm                   xxxxxx   "xx               xx
+xxxxx"xxxxxxxx #                  b b b   "xx               xx
+xxxxx"xxxxxxxxxxxx  "xxxxxxxxxxxxxxxxxxx                    xx
+xxxxx"xxxxxxxxxxxx  "xxxxxxxxxxxxooxxxxxxxx++    > ^        xx
+xzzzzzzzzzzzzzwwww~    xxxxxxxx>>>>xxxxxxxxxxxxxxx          xx
+xGzzzzzzzzzzzzommmmm                   xxxxxxxxxxx          xx
+xxxxx=xxxxxxxxxxxxxx                   xxxxxxxxxxx          xx
+xxxxx=xxxxxxxx.....x                   xxxx......x          xx
+xxxxx=xxxxxxxx                                              xx
+xxxxx=xxxxxxxxKK|  <                                        xx
+xxxxx=xxxxxxxx++K                                         ||xx
+xxxxx=xxxxxxxx++K              ^                          ||xx
+xxxxx=xxxxxxxxxxx   mmmxxxxxxxxxx        xxxxxKKKKxxxxxxxxx"xx
+xxxxx=xxxwwwwwwww   xxxxxxxxxxxxx        xxxxxKKKKxxxxxxxxx"xx
+xxxxx=xx            xxxxxxxxxxxxx        xxxxx    xxxxxxxxx"xx
+xxxxxK       <   xxxxx....xxxxxxx[[xxxxxxxxxxx    xxxxxxxxx"xx
+xxxx K       <xxxxxxxx             xxxxxxxxxxx    xxxxxxxxx"xx
+xx      xxxxxxxxxxxxxx++++         xxxxxxxxxxx++++zzzzzzzzz"xx
+xxL    xxxxxxxxxxxxxxx++++xxxxxxx  xxxxxxxxxxx++++zzzzzzzzz"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

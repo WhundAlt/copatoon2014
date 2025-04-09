@@ -1,0 +1,44 @@
+i_hate_mondays
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxx
+xx  o  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxx
+xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx]xx
+xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx]xx
+xxx z                             xxx]xx
+xxx z                             xxx]xx
+xxx z     #                       xxx]xx
+xxx z     b+                      xxx]xx
+xxx z     =b+                     xxx]xx
+xxxmx       b+                    xxx]xx
+xxx x        b+                   xxx]xx
+xxx x         b+                  xxx]xx
+xxx x          b+                 xxx]xx
+xxx x|||||||||| b+                xxx]xx
+xxz zK|||||||||  b+               xxx]xx
+xxz zKK||||||||   b+              xxx]xx
+x[[]xKKK|||||||    b+             xxx]xx
+x[[]xKKKK||||||     b+            xxx]xx
+x[[]xKKKKK|||||      b+           xxx]xx
+x[[]xKKKKKK||||       b+          xxx]xx
+x[[]xKKKKKKK|||        b+         xxx]xx
+ [[]xKKKKKKKK||  <      b+        xxx]xx
+x[[]xKKKKKKKKK|          b+       xxx]xx
+x[[]xKKKKKKKKKK           b+      xxx]xx
+x   x                      b+     xxx]xx
+x + x>           ^          b+    xxx]xx
+xxxxx                        b+   xxx]xx
+xxxxx                         b+  zzz]xx
+xx>  ^                         b+ zzz]xx
+xx xx                           b+zzz]xx
+xx xx                           +bxxxzxx
+xx xx                          +bxxxxzxx
+xx xx                         +bxxxxxzxx
+xx xx                        +bxx+xxxzxx
+xx xx        D              +bxxx+xxxzxx
+xx xxxxxxxxxxzxxxxxxxxxxxxxxxxxzzzxxxzxx
+xx xxxxxxxxx|||zzzzzzzzzzzzzzzzzzzxxxzxx
+xx^        <|||/<<<<<<<<<<<zzzzxxzzzzzxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

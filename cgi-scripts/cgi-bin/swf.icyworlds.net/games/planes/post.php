@@ -1,0 +1,1 @@
+<result status="displayerror" code="I'm sorry, but you haven't scored any points that you could post ;_;" />

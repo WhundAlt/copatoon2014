@@ -1,0 +1,46 @@
+arrow nott
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    ><      ++++   V </             V  <x
+x    ></     """" V   </                 x
+x    ></     "  V     </       +K V<    ^x
+x    ></     "V       </       Kb >    < x
+x +    // <  "        <//  <   K       ^ x
+x"zzxzxxxzxzx"xzxzxzxx[[[[[[[[ b     <   x
+x"+       K +"               "    >^     x
+x" +      K +"                  [[[      x
+x" +      K +"                           x
+x"        K +"                           x
+x"        K +"                           x
+x"        K +"                           x
+x"        K +"            ++++ K>       ^x
+x  "      K +"      KKVKKKKKKKKKKKV      x
+x         K  "     K// <///////// V      x
+x   "     K  "+                   V      x
+x         K  +"                   V      x
+x     "   K  " ////>V             V      x
+x    "    K   +[[[[K/    <      < <      x
+x         K   " +“/K/                    x
+x   "     K     "+/K/                    x
+x         K   +  “/K/                    x
+x  "      K   "  +/K/>      ^            x
+x ++ ++   K  +   “/K/                    x
+x """"""" K  " + +/K/                    x
+xKKzzzzzzzK    " “/K/                    x
+x          + + + +/K/                    x
+x            " " "/K/                    x
+x"        +      +/K/                    x
+x"         "     “/K/                    x
+x           + + ++/K/>        >^         x
+x           " """”/K/                    x
+xbbbbx       "" ++/K/                    x
+x K          "" +“/K/                    x
+x K           "  +/K/                    x
+x K           "                          x
+x K           "  ^ KK KKKzzzxzzxzzxzzxzzzx
+x K           "                  K+K  K  x
+xDK# ++ 1 + 4  + >>>>^           KbK VK  x
+x[[[[[[[[[[[[[[[][[               ^  <K  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

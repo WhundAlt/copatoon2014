@@ -1,0 +1,44 @@
+Stone Killer
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxx
+xxxxxxxxxxxxxxoooooxxxxxxxxxxxxx    xxxxooxxx
+xxxoooooxxxxxxoooooxxxxxxxxxxxxx    xxxxoo xx
+xxxoooooxxxxxxoooooxxxxxxxxxxxxx    "xxxx+ xx
+xxxoooooxxxxxxoooooxxxxxxxxxxxxx D  "xxxx+"xx
+xxxoooooxxxxxxoooooxxxxxxxxxxxxxxxxx"xxxxx"xx
+xxxoooooxxxxxxoooooxxxxxxxxxxxxxxxxx"xxxxx"xx
+xxxoooooxxxxxxoooooxxxxxxxxxoooxxxxx"xxxxx"xx
+xxxoooooxxxxxxoooooxxxxxxxxoooooxxxx"xxxxx"xx
+xxxoooooxxxxxxoooooxxxxxxxxoooooxxxx"xxxxx"xx
+xxxoooooxxxxxxoooooxxxxxxxxoooooxxxx"xxxxx"xx
+xxxxoooxxxxxxxoooooxxxxxxxxoooooxxxx"xxxxx"xx
+xxxxxbxxxxxxxxxoooxxxxxxxxxoooooxxxx"xxxxx"xx
+xxxxx     x  xxxbxxxxxxxxxxoooooxxxx"xxxxx"xx
+xxxxx       /o   xxxxxxxxxxx+o+xxxxx"xxxxx"xx
+xxxxx       ooo     xxxxxxxxxbxxxxxx"xxxxx"xx
+xxxxx     xxxxx         x++     xxxx      "xx
+xxxxx     xxxxx         x++               "xx
+xxxxx     xxxxx     xxx x++     xxxxxxxxxx"xx
+xxxxx     xxxxx     xxx xxx     xxxxxxxxxx"xx
+xxxxx     xxxxx     xx  xxx     xxxxxxzxxx"xx
+xxxxx     xxxxx     xx +xxx     xxxxxLzzxx"xx
+xxxxx^ #  xxxxx     xx xxxx     xxxxxzzzxx"xx
+xxxxxxxxxxxooox     xx  xxx     xoooxzxzzx"xx
+xxxxxxxxoooooox     xx+ xxx  ^  xooozzxzzx"xx
+xxxxxxxxoooooox     xxx xxxxxxxxoooozzzxzx"xx
+xxxxxxxxoooooox^^<^^xxx xxxxxxxxoooxxzGzzx"xx
+xxxxxxxxooooooxxxxxxxx  xxxxxxxxooxxxxxxxx"xx
+xxxxxxxxoooooooooxxxxx +xxxxxxxxxb   oxxxx"xx
+xxxxxxxxxxoooooooooxxx xxxxxxxxxx   oo  <x"xx
+xxxxxxxxxx>>>>>>>>>bxx xxxxxxxxxx   x=xx x"xx
+xxxxxx              xx xxxxxxxxx   x   x x"xx
+xxxxxx+++           xx  xxxxxx     x   x x"xx
+xxxxxx+++ ^         xx+ xx       ^x >   ^x"xx
+xxxxxx+++ <         xxx         xxx  xxxxx"xx
+xxxxxx+++ <         xxx       xxxxx ^    <"xx
+xxxxxxxxxxxxxxxxxx==xxx   < xxxxxxxxxxxxx "xx
+xxxxxxxxxxxxxxxxxx        > mmwmmmwmmmmmm^"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

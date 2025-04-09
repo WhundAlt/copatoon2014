@@ -1,0 +1,36 @@
+The Cavern
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxV       <xxxxxxx  " xw +++xxxx
+xx   >  V  xxx" o   " x  ]]+xxxx
+xx         xxx" ]]] "    +++xxxx
+xx>  ^     xx "        = xxxxxxx
+xx V    <  x          ]     xxxx
+xx         x |          o  1xxxx
+xx#  oo   ^xD|  <   ]  ==   xxxx
+xx|||bbxxxxxxxxxx           xxxx
+xx     xxx+ ww +x    ==     xxxx
+xx o [[xxx+    +xmm  mmmmmmmxxxx
+xx]]   xxx+ " "xxxx"xxxxxxxxxxxx
+xx o   xxxx "" "xxx"xxxxxxxxxxxx
+xx]]]] xxxw" "" wxx" " wxxxxxxxx
+xx     xxx  "" " xx" "  x+| <wxx
+xx o o xxx  " "" xx"    x+|   xx
+xx === xx  ""    xx"    x+|   xx
+xx     xx    "   xx"    xxxxx xx
+xx       + " " " xx"          xx
+xxmmmmmxxx  "" " xx    xxxxxxxxx
+xxxxxxxxxx       xxxzzxxxxxxxxxx
+xxxxxxxxxxmmmmmm x.x]  x..x..~xx
+xxxxxxxxxxxxxxxx x     x..x++ xx
+xx wwww...www    x   x    xxx xx
+xx     ...       x+ +x  xxxw  xx
+xx|              x+ +x        xx
+xx               xxxxx  ++x   xx
+xxbbbbbb/bbbbbbbbx..x  xxxx   xx
+xxmm++++m+++mm+++        +x+  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

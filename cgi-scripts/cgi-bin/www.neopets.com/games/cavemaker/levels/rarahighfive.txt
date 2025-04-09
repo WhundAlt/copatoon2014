@@ -1,0 +1,46 @@
+MITEuHOLDonTITE
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx+""""""""""""""""""""""""""""""""""""          x
+xxxx+========="==========="==========="x=xxxxxm    x
+xxxx+  xxxww"""""wwxxxww"""""wwxxxwwww" =xxxxxxm   x
+xxxx#  www         www         www      =xxxxxxxm  x
+xxxxx      K           K           K    =xxxxxxxxm x
+xxxxx  mmm   +     mmm    +    mmm   +  =xxxxxxxxx x
+xxxxx  xxx   xxx   xxx   xxx   xxx   xxx=xxxxxxxxx x
+xxxxx        www         www         www=xxxxxxxxx x
+xxxxw                                   =xxxxxxxxx x
+xxxx+   +    mmm     +   mmm   + +   mmm=xxxxxxxxx x
+xxxx+  xxx   xxx   xxx   xxx   xxx   xxx=xxxxxxxx  x
+xxxx+  www         www         www      =xxxxxxx  mx
+xxxx+      K           K           K    =xxxxxx  mxx
+xxxxx  mmm     +   mmm    +    mmm   +  =xxxxx  mxxx
+xxxxx  xxx   xxx   xxx   xxx   xxx   xxx=xxxxx mxxxx
+xxxxx        www         www         www=xxxxx xxxxx
+xxxxx                   >VL             =xxxxx xxxxx
+xxxxw        mmm        >mmm         mmm=xxxxx xxxxx
+xxxx    +    xxx     +   xxx   + +   xxx=xxxxx xxxxx
+xxxx+  xxx         xxx         xxx      =xxxxx  xxxx
+xxxx+  www         www         www      =xxxxxm  xxx
+xxxx+      K           K           K    =xxxxxxm  xx
+xxxxx  mmm   +     mmm    +    mmm   +  =xxxxxxxm  x
+xxxxx  xxx   xxx   xxx   xxx   xxx   xxx=xxxxxxxxm x
+xxxxx        www         www         www=xxxxxxxxx x
+xxxxw                                   =xxxxxxxxx x
+xxxx    +    mmm     +   mmm   + +   mmm=xxxxxxxxx x
+xxxx   xxx   xxx   xxx   xxx   xxx   xxx=xxxxxxxxx x
+xxxx+  www         www         www      =xxxxxxxx  x
+xxxx+      K           K           K    =xxxxxxx  mx
+xxxxx  mmm     +   mmm    +    mmm   +  =xxxxxx  mxx
+xxxxx  xxx   xxx   xxx   xxx   xxx   xxx=xxxxx  mxxx
+xxxxx        www         www         www=""""" mxxxx
+xxxxw                                   =""""" xxxxx
+xxxx    +    mmm     +   mmm   + +   mmm=""""" xxxxx
+xxxx   xxx   xxx   xxx   xxx   xxx   xxx=x"""" xxxxx
+xxxx   www         www         www      =x"""" xxxxx
+xxxx+      K           K           K    =x      xxxx
+xxxxx> mmm   +     mmm    +    mmm   +  =x       xxx
+xxxxx  zzz   xxx   zzz   xxx   zzz   xxx=xm5 D   mxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

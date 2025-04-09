@@ -1,0 +1,1 @@
+stat_total=&cm=0&stat_load=OKAY

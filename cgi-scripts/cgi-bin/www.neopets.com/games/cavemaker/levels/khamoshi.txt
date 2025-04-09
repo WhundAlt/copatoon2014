@@ -1,0 +1,36 @@
+I spy
+terrain 2
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x           xxxxxxxxxxxxxxxxxxxxxxx
+x   #       xxxGxxxxxxxxxxxxxxxxxxx
+xo  =   xxx xxxzxxxxxxxxxxxxxxxxxxx
+xoo     xx       zzzzzzzzzzzzzzxxxx
+xooo    xx       zzzzzzzzzzzzzzxxxx
+xxxxzxxxxx     =]xxxxxxxxxxxxxzxxxx
+xxxxzxxxxx   +   xxoxxxxxxxxxxzxxxx
+xxxxzxxzzz  [=]  xxox    xxxxxzxxxx
+xxxxzxzzzz       xb/b    zzzzzzxxxx
+xxxxzzzzxx[=5  o x       zzzzzzxxxx
+xxxxzzzxxxxxxxxx x ^    <xxxxxxxxxx
+xxxxxxxoxxxxxxxx x=======zzzxxxxxxx
+xxxxxxwowwwww     o>   Vozzzxxxxxxx
+xxxxxx o          oV   <bxxzxxxxxxx
+xxxxxx o4     xxxxo/o  b+x   ooxxxx
+xxxxxx o      wwwxooo b++x   ooxxxx
+xxxxxx4/         xxxxxxxxx   oo   x
+xxxxxx           xo  o  o    /b   x
+xxxxxx     4     xoooooooo     xx"x
+xxxxxx           x////////     xx"x
+xxxxxx + + + + 4               xx"x
+xxxxxx ^m<m<m<m  >^mmmmmm>m  ^mxx"x
+xxxxxxxzxzxzxzxxxxxxxxxxxxx++xxxx"x
+x      zzzzzzzzzzzzzzzzzzzzzzxxxx"x
+       zzzzzzzzzzzzzzzzzzzzzzxxxx"x
+    + [xxxxxxxxxxxxxxxxxxxxxxxxxx"x
+  + =  owowowowowowowowowowowowow"x
++ =  > > > > > > > > > > > > > > "x
+]    =                           "x
+   D ^                         < "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

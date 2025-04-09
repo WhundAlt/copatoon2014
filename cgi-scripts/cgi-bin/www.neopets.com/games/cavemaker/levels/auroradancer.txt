@@ -1,0 +1,38 @@
+Auroras_Torture_Cave
+terrain 1
+background 1
+water clear
+x                                 x     
+x#                                x     
+xxx                               x     
+x+                                x     
+x=====                            x     
+x        =                        x     
+x     ==                          x     
+x          ===      > V           x     
+x                                 x     
+x           mm    > ^ <         + x     
+xmmmmmmmmmmmxx   K  |  <       ++ x     
+xxxxxxxxxxxx  xxxKKKKKKKxxxxxxxxxxx     
+x                                 x     
+x++++         o      o            x     
+xxxxxxxxxxxx  xxxxxxxxx   xxxxx"  x     
+x          xmmx       x   x    "  x     
+x           xxx       xmmxx    "  x     
+x ++                   xxx     "  x     
+x ++    o     o                   x     
+x"xxx  xxxx  xxxxx  ==       ==   x     
+x"  xmmx  xmmx                    x     
+x"  xxxx  xxxx        ==   ==     x     
+x"           x           +        x     
+x            x          ===       x     
+x            x     mmmmmmmmmmmmm  x     
+x ===        x     xxxxxxxxxxxxx  x     
+x     ==    +x                    x     
+xmxxxmxxmxxzxx                    x     
+xxx xxx x                +        x     
+x       x                >    D  <x     
+x       z+    x  ~   +xxxxxxxxxxxxx     
+x xxxxxxxxxxxxx      xx           x     
+x            Gxmmmmmxxx           x     
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     

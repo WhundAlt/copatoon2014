@@ -1,0 +1,44 @@
+Kooldude Krazy Kave!
+terrain 2
+background 1
+water clear
+x  oooo      ooooo    ooooooooooooo    x
+xV <<<< </> |>>>>>V   <<<<<<<<|>>>>    x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x           V     <                    x
+x                                      x
+x                                      x
+x         ||||K               ^        x
+x         K   K               |     <  x
+x    = 1  K   K             VV|VV      x
+x> >     ^K+++K              1         x
+x ===    =======      = 1         1  = x
+x                                   ^  x
+x     +++                 +++ > +   /< x
+x     [===]              ========   V  x
+x                                      x
+o     5    5   +++                     x
+xxxxxxxxxxxxxxxxxxxz"xxxxxxxxxx        x
+Lzzzzzzzzzzzzzzzzzzz"xxxxxxxxxx        x
+xxxxxxxxxxxxxxxxxxxx"xxxxxxxxxx      4 x
+wwwwwwww   o        "      wwwxxxx|||xxx
+          KK<       "         xwww   www
+          <|K       "         xK       x
+b   b b   |||x     x"         xK       x
+b # b+b / K<<x +   x"xo   4 ++xKmmmm D x
+zxxxxxzxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"zzzxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"zzzxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxx
+zxx"xxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxx
+zzz"xxxxxxxxxmmmmmxxxxxxxxxxxxxxxxxxxxxx
+Gzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

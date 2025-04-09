@@ -1,0 +1,16 @@
+<?php
+	set_error_handler(function($errno, $errstr, $errfile, $errline, array $errcontext) {
+		// error was suppressed with the @-operator
+		if (0 === error_reporting()) {
+			return false;
+		}
+
+		throw new ErrorException($errstr, 0, $errno, $errfile, $errline);
+	});
+
+	try {
+		header("Location: http://www.neopets.com/cms/" . $_POST['item_id'] . "/" . $_POST['lang'] . ".xml", true, 301);
+	} catch (Exception $e) {
+		header("Location: http://www.neopets.com/cms/" . $_GET['item_id'] . "/" . $_GET['lang'] . ".xml", true, 301);
+	}
+?>

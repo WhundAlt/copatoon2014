@@ -1,0 +1,47 @@
+Darkpath
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x                                        x
+x     ++++++V   <                        x
+x     ++++++                             x
+x     ++++++                             x
+x     oooooo                             x
+x     //////<                            x
+x               ^                        x
+xD                                       x
+xxxxxxmmmmmmxxxxxxxxxxxxxxxxxx"          x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"          x
+x                             "          x
+x                             "          x
+x                             "          x
+x                             "     +++++x
+x                             "     +++++x
+x                             "  L  +++++x
+x                             "xxxxxxxxxxx
+x                             "xxxxxxxxxxx
+x                             "xxxxxxxxxxx
+x>  V                         "xxxxxxxxxxx
+x         ++++++              "xxxxxxxxxxx
+x        oooooooo             "xxxxxxxxxxx
+x^  >    ||||||||             "xxxxxxxxxxx
+x                             "     xxxxxx
+x                             "       z Gx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxx
+x                                 "      x
+x                                 "      x
+x          ++                     "      x
+x         ++++                    "      x
+x  "     ++++++                   "      x
+x  "KKKK"KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"x
+x  "KKK "                   K    4      "x
+x  "KKK "                   K      3    "x
+x# "KKK [=================] K  1        "x
+xoooKKK +++++++++++++++++++ K           "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx~           x
+x                                        x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

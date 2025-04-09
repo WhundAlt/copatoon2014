@@ -1,0 +1,46 @@
+Pirate Secrets
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xV                           < xxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x +++ xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x>>>>>xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x     xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x^<<<<xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x     xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x     xxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx
+x x     z+z+zzzzzzzzzzzzzzxxz         3xxx
+x x #  ^zz+z+zzzzzzzzzzzzzxxz  +   +   xxx
+x xxxzzzzzzzzzzzzzzzzzzzzz++z  =   =   xxx
+x xxxxxxxxxxxxxxxxxxxxxxxzxxx L"   "  +xxx
+x x                     xzxxx ="   "  =xxx
+x x                     xzxxx " 3  "  "xxx
+x x                     xzxxx " +  "  "xxx
+x x                     xzxxx " =  "  "xxx
+x x                     xzxxx " "     "xxx
+x x                     xzxxx   "     "xxx
+x x                     xzxxx + "      xxx
+x x     D     G         zzxxx = "      xxx
+x x=xooxxxxzzzxzzzzzzzzxxxxxx " "   3+ xxx
+x x=xooxxxxzzzzzzzzzzzzxxxxxx " "  + = xxx
+x x=xooxxxxzzzzzzzzzzzzxxxxxx      = " xxx
+x x=xooxxxxzzzzzzzzzzzzxxxxxx  +   " " xxx
+x x=xooxxxxzzzzzzzzzzzzxxxxxx  =   " " xxx
+x x=xooxxxxzzzzzzzzzzzzxxxxxx  "  +"   xxx
+x>   |                 xxxxxx  "  = 3  xxx
+xxx===                 xxxxxx  "  "    xxx
+xxx "                  xxxxxx   + "   +xxx
+xxx "                  xxxxxx   = "   =xxx
+xxx "                  xxxxxx   " "   "xxx
+xxx                    xxxxxx   " "   "xxx
+xxx                    xxxxxx   " "   "xxx
+xxx|||||||||        ~ <xxxxxx   "     3xxx
+xxx====================xxxxxx   "      xxx
+xxx++++++++++++++++++++zzzzzz   "      xxx
+xxxKKKKKKKKKbbbbbbbbbbbzzzzzz^  "      xxx
+xxxzzzzzzzzzzzzzzzzzzzzzzzzzz   "      xxx
+xxxmmmmmmmmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

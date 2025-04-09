@@ -1,0 +1,1 @@
+&TempHighScore1=46&TempHighScore2=39&TempHighScore3=39&TempHighScore4=39&TempHighScore5=39&TempMisses1=0&TempMisses2=0&TempMisses3=0&TempMisses4=1&TempMisses5=1

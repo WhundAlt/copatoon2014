@@ -1,0 +1,88 @@
+Lennys_Lair
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxx
+xx   x     o o o o o                        >     ||||||||||||||||||||||||||||    xx
+xx# "x     K K K K K                              VVVVVVV V V V V V V V V V V V   xx
+xxxx"x     |||||||||>  V                                                          xx
+xx  "x                                                                            xx
+xx  >    > ^                                                                      xx
+xx  "                                                                             xx
+xxxxxxxxxx===========xx   K    K    K    K   xx                                   xx
+xx"""""""x m m m m m x                        xxxxKKKKKKKxmK=K=K=K=K=K=K=K=K=K=Kxzxx
+xx"     "xm m m m m mx    ^    ^    ^    ^    x  xmmmmmmmx                      x xx
+xx"3   3"xxxxxxxxxxxxx >  |>   |>   |>   |> ^ x  xxxxxxxxx   ^ ^ ^ ^ ^ ^ ^ ^ ^ ^x xx
+xx"xmmmm"""""""""""""x                        x          x>   ||||||||||||||||| x xx
+xx"xxxxxmmmmmmmmmmmm"xmmmmmmmmmmmmmmmmmmmmmmmmx          x                      x xx
+xx"xKK xxxxxxxxxxxxx"xxxxxxxxxxxxxxxxxxxxxxxxxx          xmmmmmmmmmmmmmmmmmmmmmmx xx
+xx"xKK  wwwwwwwwwwwx"""""""""""""                        xxxxxxxxxxxxxxxxxxxxxxxx xx
+xx"x|              xmmmmmmmmmm  "                                             V  <xx
+xx"x bb= = = = = = xxxxxxxxxxx  "                                             > V xx
+xx b^bbmmmmmmmmmmm b b b b b x |"                 ==   =                          xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx xx|"              === |   |                          xx
+xx          |                  x|"     xxxxx   ^|  ^   ^                          xx
+xx  |  >   |>|   >             x|"            V|   <|||| xxxx||||xx    |xxx||||||xxx
+xx >|||>|||   |||>||        <  x|"                     ^    <   ^     <^  <       xx
+xx xxxx|xxxxxxxxx|xxxxxxxxxxxxx|||          mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxx
+xx wwwx xwwwxwwwx x  wwwwwwwwx   m          xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx    x    +x+    x  ommmmmm xmmm^mmmmmmmmmmmm<x5 wwwwwwwwwwwwwwwwwwwwwwwww   wwwwxx
+xxxxx xxxxxxxxxxxxx xxxxxxxx xxxxxxxxxxxxxxxxxxxK    <   bbbbbbbbbbbbbbbb         xx
+xx  x wwwwwwwwwwwww x        xwwwwwwwwwwwwwwwwww     b   bbbbbbbbbbbbbbbb         xx
+xx Kx ommmmmmmmmmmm x xxxxxx x        <<<||  <  =xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxx xx
+xx++xxxxxxxxxxxxxxxmx  >   |o>         ||< ||<   x             V    < < < <xmx1   xx
+xx||              xxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxx                         xxx    xx
+xx            ooo          +xxb      xww+wwww+w                           ^ <     xx
+xx m          K<<<         xx        xmmKmmmm<m   <                         b     xx
+xx ^  <                   xx  ^      xxxzxxxxzxxxx||||||xxx  == =   xxxxxxxxxxxxxxxx
+xx w                     xx   oxxx xxxxxzxxxzzxxxx   |  w m  <||    xwwwwwwwww   mxx
+xxzxxxxxxxx            mxxx  oxx+x=xxxxxzzzzzzxxxxmmmmmmxxxmmmmmmmmmx           moxx
+xx        xmmmmm      mxx   oxx  xzxxxxxxxxxxzxxxxxxxzxxxxxxxxxxxxxxx4         mooxx
+xx        xxxxxxm     xxx  oxx   xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz      /  moo+xx
+xx              x^ < xxwx oxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx==     =      xmmm      xx  xx                                                  xx
+xx    =   = =   xxxxxxxxxxx  xxx                             ooooooooo>     V     xx
+xx^^^^^^^^^^^^       mwxx+x  x+x xxxx                        <<<<<<<<<|V          xx
+xxxxxxxxxxxxxxxxxxxzxxxxzzx  x xbx++x                                             xx
+xx+zzzzzzzzzzzzzzzzzx+zzzzx xx x x  x                                             xx
+xxzxxxxxxxxxxxxxxxxxxxxxxzx x  x x  xm                                            xx
+xxzzzzzzzzzzzzzzzzzzzzzzzzz x  xmx  xxxx                                          xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx =xxx =   x                                          xx
+xx/oooooooooooooo           z          x                     =========            xx
+xxooooooooooooooo           z          xmmmmmm>mV                                 xx
+xxooooooooooooooo          xxx         xxxxxxxxxmxxKKKKKKKKxx mmmmmmmm  xK|||||Kx xx
+xx|||||||||||||||           x  =   =           x  xKKKKKKKKxxmmmmmmmmm mx   |   x xx
+xx                          x                  x> m||||||||xxxxxxxxxxx xxmmmmmmmx xx
+xx                          x            +     xxxx        >  wmwm    ^+xxxxxxxxx xx
+xx                       x  x            x        xmmmmmmmmxxxxxxxxxxxxxxwww wwww xx
+xx                          x    =       x        xmmmmmmmmxwwwwwwwwwwwww         xx
+xx                          x            x        xxxxxxxxxx                      xx
+xx                          x           xxx           +               xxxxxxzzxxxxxx
+xxmmm           ^  <mmmmmmmmx            x  xxxxxxxxxxxxxxxxx   xxxxxxx+xxxxzxxxx+xx
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxx      =    mxm                           xzxxxxzxxxxzxx
+xx..........x+x.............x       =  xxxxx~                         xzzzzzzzzzzzxx
+xx          x+x             x          x...x                          xzzxxxxxxxzzxx
+xx          x^x             x         mx + xm                      mmmx+xxxxxxxxx+xx
+xx          x>x             x         xx   xx                      xxxxxxxxxxxxxxxxx
+xx          xKx             x         xw > wx                      x++x  x++x  x++xx
+xx          x x             x        mx  b  xm                     x++x  xx|x  x++xx
+xx          x^x             x        xxxxK|Kxx                  mmmxx||        x|xxx
+xx          x>x             x        xw >   wx                  xxxx              xx
+xxxx        xKx           xxx      mmx  b    xmm                x...              xx
+xx+         x x            +x      xxxxxK||Kxxxx                x          ^    ^ xx
+xxxx        x^x           xxx+     xww      >wwx+              +x     ^|>  |>   | xx
+xx          x>x             xmmmmmmx        b  xmmmmmmmmmmmmmmmmx               V xx
+xx          xKx             xxxxxxxxxxxxK|||Kxxxxxxxxxxxxxxxxxxxx                 xx
+xx          x x             K x....x           Kxxxxxxxxxxxxxxxxx      ^|||^      xx
+xx          x^x             K xx  xx           K xxxxxxxxxxxxxxxw                 xx
+xx          x>x             K                  K  xxxxxxxxxxxxxw                  xx
+xx          xKx             K                  K   xxxxxxxxxxxw          ^        xx
+xx                          K            ^^^   K    wwwwwwwww                     xx
+xx           ^              K                  K                              xx|xxx
+xx           x              K            nnn   K                              x   xx
+xx                          K                  K                              x   xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmKmmmmmmmmmmmmmmmmmmKmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxmDmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

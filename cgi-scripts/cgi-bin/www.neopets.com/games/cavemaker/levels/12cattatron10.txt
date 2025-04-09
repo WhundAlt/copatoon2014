@@ -1,0 +1,66 @@
+Labyrinth_of_Doom
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxt      mKKKKKKKKKKKKKKKKKKKKKKKKKKKxww wx  w       w     wxx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx    x                 xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx    x                 xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx D +xm                xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKxxx=xxx               "xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx  ++xx xxzxxxzxxxzxxx"xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx""++x  xxzxxxzxxxzx"""xx
+xx x x x xKKKKKKKKKKKKKKKKKKKKKKKKKKKx""xxx  xxzxxxzxxxzx"""xx
+xxxxxxxxxxbbbbbbbbbbbbbbbbbbbbbbbbbbbx   wx  xxzxxxzxxxzx"xxxx
+xxwwwwwwwx///////////////////////////x " Lx  xxzxxxzxxxzx""xxx
+xxK      x                           x""xxx mxxzxxxzxxxzx""xxx
+xxK  V  <x                           x""  x xxxzxxxzxxxzxx"xxx
+xxbmm<   x                           x    x xKKKKKKKKKKKKx"xxx
+xx xxx  ^x                           z   bx xKKKKKKKKKKKKx"xxx
+xx www> /K                           z  ++x xKKKKKKKKKKKKx"xxx
+xx     xxx > ^                       zxxx x xKKKKKKKKKKKKx"xxx
+xx     xKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxmx xKKKKKKKKKKKKx"xxx
+xx    +xKwwwwwwwwmwwwwwwwwwwwwwwwwwwwxxKxxx xbbbbbbbbbbbbx"xxx
+xx"xxxxxb  <<<<  x                   xw+    x////////////x"xxx
+xx"ww wx         x                     +   xx            x"xxx
+xx     x       mmx                    xxxxxxK            x"xxx
+xx             xx                     "    xK            x"xxx
+xx                              m  m  "     +             "xxx
+xxxxxxxxx     ^  !xmmm   mmm2  xxxxxxx"     +  > ^        "xxx
+xxx.....xxxxxxxxxxxxxxxxxxxxxxxxKKKKKx"] = [xxxxxxxxxxxxxxxxxx
+xx        wwwwwwwwwwwww  wwwww xKKKKKx"     x|   wxxxxxxxxxxxx
+xx+                            xKKKKKx"     x|       w w wwwxx
+xxxxm                          xKKKKKx"     x|              xx
+xxwxx                         +xKKKKKx"      ||             xx
+xx wxx                        [xKKKKKx"    xxx|  /          xx
+xx+                            xbbbbbx"mm +xKxxxxxxx        xx
+xxxxxxx                        x/////xxxxxxxb      x        xx
+xx+ b K  <  mmmmmmmmmmm        x     xw   w /      x        xx
+xxxxxxxxx """""""""""""       [x     x             xK mmm   xx
+xx"         wwwwwwwwwww  +           z       xxx   xxxxxxxx"xx
+xx"                     +++mm   > ^  z       x+x            xx
+xx"] = = [xxxmmmmmmmmmxxxxxxxxxxxxxxxx       xKxx           xx
+xx"        |xxxxxxxxxxx| w   w   wwxxx      ^xK+x       xxxxxx
+xx" m m m  |  wxxxxxw  |           xox"xxxxxxxKKx +++   x+++xx
+xx" xmxmx  |    wxw    |           xbx"xV    <bbxxxxxxxxxVVVxx
+xx" xxxxx  |           |           x/x x  >   //>        ///xx
+xx" 4      |           |           x x+x             +++    xx
+xxmmmmmmmo |  /     /  |  mmm mmm +x x+x             VVV    xx
+xxxxxxxxxxxxxxxxx=xxxxxxxxxxxxxxxxxxmxxx    >        ///    xx
+xxxxxxxxxxxxxxxxx"xxxxw w w  w  wxKxwxx          +++        xx
+xxxxxxxxxxxxxxxxx"xxxx        +  xbx x           VVV        xx
+xxxxxxxxxxxxxxxxx"xxxx        b  x/x          >  ///        xx
+xxxxxxxxxxxxxxxxx"xxVm       </  < x   m       m            xx
+xxxxxxxxxxxxxxxxx"xx x             x   x m^ ^ ^x            xx
+xxxxxxxxxxxxxxxxx"xxmx            ^x^  w x     x            xx
+xxxxxxxxxxxxxxxxx"xxwx      1      x/   <x     xm   m   m   xx
+xxxxxxxxxxxxxxxxx"xx x m        mo xVV xmx  #  xxmmmxmmmxmmmxx
+xxxxxxxxxxxxxxxxx"b K bxxxm m  mxx=x   xxxxxxxxxxxzxxxzxxxzxxx
+xxxxxxxxxxxxxxxxxxxxxxxxwxxxxxxxxw x   | b   K   w"wxw"wxw"wxx
+xxxxxxxxxxxxxxxxxxxxxxxw wwwwwwww 3x > | KK  K K  " x " x " xx
+xGzzzzzzzzzzzzzzzzzzzzz+ +        bx   |Kx    bK    x   x   xx
+xxxxxxxxxxxxxxxxxxxxxxxx=xxxxxxxxxxx   |K  b  KK    x b x  bxx
+xxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmmmK  |Kb KKbKK  < xb++xb++xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

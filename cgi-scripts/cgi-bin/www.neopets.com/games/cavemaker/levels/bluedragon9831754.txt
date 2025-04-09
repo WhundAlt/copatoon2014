@@ -1,0 +1,46 @@
+Warzone
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx+xxxxxxxxxxxxxxxxxxxVxxxxxxxxxxxxxxxxxx
+xxxK>ww ww|ww ww>ww ww |  ww   |||K|wwwxxx
+xxxK      |>   ||K             |K|K|   xxx
+xxxK      K||  KKK     ||      |K|K|   xxx
+xx+K                  |>       |<<>| D xxx
+xxKxxxxxxxxxxxxxxxxxxxxxxxxx   xxzzxxxxxxx
+xxK    x|VxK|> |xK>  |x+|x    xww  wKwwxxx
+xxK    K  x|Kx|Kx|KxVKxK|+   x|     K  xxx
+xxK     ^ |KK|KKxK|x >  ||  x>|   < K  xxx
+xxK     K| < <>  | <|K KxKxx||xxxxxxK  xxx
+xxx=xxxxxxxxxxxxxxxxxxxxxx+||x  >   |  xxx
+xxx+KKKKK |   V   <KK> K K||x+|        xxx
+xxx+KKKK| |   < |x >|   <K|x+|  ^      xxx
+xxxxKKKKK |  V < x K|K xxxx+| xxxxxxxxxxxx
+xxx+KKKxx |  <  ^ < xxx  ||| x  V     <xxx
+xxx+ |  <xxxxxxxxxxx        x    ||    xxx
+xxxx   x|    <|xbb++    /  xV < |++|   xxx
+xxxx   xmmmmmm xbb++   xxxxV<V < xx   ^xxx
+xxxx   xxxxxxx^xxzxx  |  K|< <^    <   xxx
+xxxxxxxx>     |     x |  K|  xxxxxx    xxx
+xxx>    |            x|  K|KxxKKKKxxx  xxx
+xxx|                 xVxxxxxxK ++ KK  ]xxx
+xxx                       x++          xxx
+xxx^ ++          K        x     xxxxx+mxxx
+xxxxxxx       K     K     x xxxxxKKKxxxxxx
+xxxKx/x  x  +  mmmmm      x      K|   <xxx
+xxxKKKKK K  K  xxxxxxmbm+  xxxxxxxx    xxx
+xxxKK+KKxo     xwwwwwxKxx   >   Vx+    xxx
+xxxKKKKKKKx    x        x   > V |x+    xxx
+xxx|||||||xK   x +     Kxbbxx     xx/ xxxx
+xxx       x    x ||    Kx  x     +x    xxx
+xxx       x +  x>      Kxxxx     +x    xxx
+xxx       x K  x      b x+++Kx|K|xx  x xxx
+xxx^xx==x=x    x      x zKKKKx+x       xxx
+xxx       x   Kx K^ K x z ||Kxxx   x  +xxx
+xxx            x        x  |K+++x    ++xxx
+xxx+x #        x mmmmo  x > ||||K   +++xxx
+xxxxxxxxx xxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,26 @@
+The Weavers Lair
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx> V///b          ooooooooooooo      /x/                                    xx
+xwx /////          ooooooooooooo     Gxwx/                                  z x
+x  x/+///          ooooooooooooo    oxw wx[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[x  x
+x# wx////<"        ooooooooooooo    x/+++wxm       ================>V    mx   x
+xx  wx///          ooooooooooooo   x"""""""xm    +    /////////////^<   mx    x
+xxm  /x//^b        /////////////  z """"""" x]]]]]]]]]]]]]]]]]]]]]]]]]]]x     x
+xxx   wx    "                   /z"         +xm     = ] ] ]  ] ] ++"  mx      x
+xwxmm  wxm                     mx "  [ [ [ [ wxm  + mmmmmmmmmmmmo++" mx       x
+x+xxx    xbm                  mx  "  mmmmmmm  wx]]]]]]]][[[]]]]]]]]]]x        x
+x Lwxm   w/xm                mx   "  xxxxxxx    xm  //wowwo <  <   mx         x
+x b  xx >  /x[              mxxxx "              xm >>    2 /<  + ox          x
+x mm  o     xm[            mxwwwx "        [ " +  x===============x   ++++++++x
+x zz zz ^ <^wxm[          /x+"""  "   [  [   " b   xm  >    V   mx    ++++++++x
+xxxxxxxx[ z/ wx/[        mx     " "  /////// "   o  xm ^oo </<[mx     ++++++++x
+x//////x[[z^   xm[      mxK^^^^^  "  xxxxxxx     o   xm======="x      ++++++++x
+x//////x[[z b+mxxm[    mxxxxxxxxx    wwwwwww     o    xm""""""x       ++++++++x
+x//////x[[xxxxxx/xm[  mxw+ww+ww+x                / <   xm>"<mx        ++++++++x
+x//////x  |||   <wxm^oxw        x    ///oooooo    m mmm/x===x         ++++++++x
+x//////x  |>|   +/ x x/o        /    +b+++++++    xwxxxxxx x       D  ++++++++x
+x//////xzzzzzzxxm/  z/xo     o  / <  b+b++++++     ^      zo          ++++++++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

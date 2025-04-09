@@ -1,0 +1,76 @@
+Great Time Race #1
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx     xwx  Vo xooxbxKxbxKxbz ww  w www xKKKKKKK KK    KKKxo   wwww V<xx
+xx     x x / <  <<      ww <z                  K KK  > Kxxxo          xx
+xx  #  z x    +x  +KKxxKKxb x                   K   KKK   xoo         xx
+xxxxxxxx x    +K  bxxKKxxKx x u o     ( xKK KKxKKKK KxKKK+xoo         xx
+xx"      x 3   K >         ^xxxxxxxxxxx xKK   > KKK  > KK+xooo        xx
+xx"  ++  x     K  x|xKx|xKxxzz      x+  xxxxxxxxxxxxxxxxxzxooo        xx
+xx"xxxxxxx     K ^       (<x+z      xxx=             w w  xoooo       xx
+xx"           xxxxxxxxxxxxnx+x===== xoz                   x>>>K       xx
+xx"         >             ^ +xx +   xoz                   x       bbb^xx
+xxmxxxxxxxmmxmxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx    4  x    =  bbbbxx
+xxxx  K|<xxxxxxK|< x  "       x x   xxLzzxxxxxxxxxx       x^VVV   bbbbxx
+xx +  |K       |K     "      xx xx  xxzzzxz    wwwx  === mx///V   xxKxxx
+xx +u   ^ <      ^ < ("     |K   K  xwxxzzz +     x      xx       xw wxx
+xx [=================]"     |K >   Vx wxxxx              wx       x   xx
+xx   +    + >     K   "     |K   KV<w  x1     xxxxx=======x^    < x   xx
+xx> )   >   >     K+)u"   =  xxxxx x )      mmx + xuxxxxxzx       xm  xx
+xx[||xxx====xxx======]"     ^     <w nxxxxxxxxx   x zGzzzzx       xx  xx
+xx|  www    www x     "xmmmmmmmmmmxV <xwwwxVxww   x xxxxxxxxxxx = x   xx
+xx|             x     "xxxxxxxxxxxx x z+++x"w   = x               x   xx
+xx| [==xxxKKxxx+x        )        >)m^z   x"      x      ++    )  x   xx
+xx              xmmmmmxxxxxxxxxxxxxKxxx >Vx"      xxxxxxxxxxxxxxxxx   xx
+xx             xxxxxxxxVVV      V"x    |  x"   =   K            ww   +xx
+xx             wwx""""""""<  VVV""x>  |< <x"       K     <           Kxx
+xx [=] b b b     x""""""""<VV"""""xxxxxxxxx"    =  K  V<  <        mmmxx
+xx           (   x   ^^^>"""""""""VVVVVVVVV"       K  <  ^        Kxxxxx
+xx        u  [=] x      >"""""^>+"""""""""""      ==  [^<     K  K xooxx
+xx               +       ^^^^^   """""""""""                    K  xooxx
+xxmmmmmmmm mmm   +   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm ++  mmmmmmxooxx
+xxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx>>>>>>>x"x   ooooooooox++  ooo         wwwwww          ww    x      xx
+xxooooooox"xxxxooooooooox++> <<<<|         <                   x   +  xx
+xx>>>>>>>x" ++x>>>>>>>>Kxxx[=   =]xxx==         +              x D    xx
+xxxxxxxxxx" ++x           xmmmmmmmxox            =             xxxxx  xx
+xx> Vwwx  "xxxx           xxxxxxxxxox   =     )                 www  =xx
+xx +   x  "xwwx           >        Vx         =     =                 xx
+xx KV  x xx>            xKxxxxxxxxx x  =   =              =m          xx
+xx^   1x xx>  >^++++++++x|         <x         n        =   x1        =xx
+xx   + x xxx"xxxxxxxxxxxxVxxxxxxxxxxx         =  xmmmmmmmmmxm   " "   xx
+xx^ <K x x  " x/^^^^^^^/x x/^^^^^^^/K            xxxxxxxxxxxx   " "  mxx
+xx     x x  " x [ = = ] x x [ = = ] K                           " " mxxx
+xx +   x x" " x/VVVVVVV/x x/VVVVVVV/K         =                 " " xxxx
+xxmK   x x"   xxxxxxxxxxx xxxxxxxxxxx   o                       " "   xx
+xxx    x x" mmxV        <|>        Vx   K <           <         " "   xx
+xx>  + x x" xxx xxxxxxx  ) uxxxxxxx x         =         >            Vxx
+xx>  Kmx x  oox xxxxxxxxKxKxxxxxxxx x      >        V    V           <xx
+xx>   xx xx oox>        ^x^        <xmmm mm     KK       >           Vxx
+xx>    x x =xxxxxxxxxxxx x xxxxxxxxxxxxx xx   = KK    ^               xx
+xx K   x x  x    + +     x     + +    x  > ^>> VKK  > |>^             xx
+xx    1x+x  x    + +     xmm   + +    x   x K   KK    V               xx
+xx     x x =x xxxxxxxxxxxxxxxzxxxxxxx x   x>K^K>>K             =      xx
+xx   K x x  x   ++ ++         ++ ++   x  ^x <        +            =   xx
+xx     x x  x>                  <     x   x^K                         xx
+xx     x x= xxxxxxxxxxxxxbxxxxxxxxxxxxx + x K       K  K  K  K        xx
+xxmK   x x              x    wxwx  """""xKxKK                       = xx
+xxx    x x              x       x  """""x^ << n   )   <               xx
+xx>    x xxxxxxxxxxxxx= x   m   w     n m xxxxxxxxxxx                 xx
+xx>  Kmx> )       m|<x  x   x           x xwwxxxxxxxxmmm          =   xx
+xx>   xxxxxxxxxxxxx  z =xm  z+x+  mmmmm x  ""       xxxx              xx
+xx>    KKKK|K|K  Kx  z  xxxxxxxxxxxxxxx^xb "" b ++  x V              <xx
+xx K^   < <|||K  Kx  x= x oooooooooo  xxxzxxxxzxxxKxxx x    oo   xxx  xx
+xx "   x K |KKKK Kx      >>>>>>>>>>>            <x^   <x    oo        xx
+xx "   >   |K++K Kx )m n            x     mmmm  +x xxxxxmm (++( mm"   xx
+xxx"|xxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx"xxxxx
+xx~"|       ww     wwwwwwwwwwwwwwwwwwww             wwww     /xxx>"|KKxx
+xx "                          b              +++         +++  www "KKKxx
+xx    x        +++          bbbbb                 )         ) mmm "  <xx
+xx    xmmmm                   b              +++         +++ /xxx/"  <xx
+xxmmmmxxxxx    +++    mmmmmmmmmmmmmmmmmmmm        mmmm      n zzz "KKKxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

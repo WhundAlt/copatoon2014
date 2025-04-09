@@ -1,0 +1,59 @@
+TheUltimateTask
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x   w    xxxxoxxxxxxxxxxxxxxxxxxxxxxxxx            x
+x #      x   o          ++            x            x
+xxxxxxzx"x   o          bb            x            x
+xzz+zzzz"x   o          bb            x            x
+xzxxxxxx"x   b          bb            x  D         x
+xzxxxxxx"x              bb            xxxxxxxxxxxx"x
+xzxxxxxx"x              bb            x           "x
+xzxxxxxx"x              bb            x           "x
+x+zzzzzz"x              bb            x           "x
+xxxxxxxx"x              bb            x           "x
+xxxxxxxx"x              bb            x           "x
+xxxxxxxx"x              bb            xV      <   "x
+xxxxxxxx"x              bb            x           "x
+xxxxxxxx >   ^     |    bb            x           "x
+xxxxxxxx >   >     |    bb   "        x           "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"       4x           "x
+xxxxKKKKKKKKKKxxxxxxxxxxxxxxx"        x           "x
+xxxx||||||||||xxxxxxxxxxxxxxx"        x           "x
+xxxx          xxxxxxxxxxxxxxx"       4x           "x
+xxxx^        <xxxxxxxxxxxxxxx"        x           "x
+xxxx>    <   ^xxxxxxxxxxxxxxx"        x           "x
+xxxx          xxxxxxxxxxxxxxx"       4x           "x
+xxxx          xxxxxxxxxxxxxxx"        x           "x
+xxxx          xxxxxxxxxxxxxxx"        x           "x
+xxxx          xxxxxxxxxxxxxxx"       4x           "x
+xxxx          xxxxxxxxxxxxxxx"        x           "x
+x"z+  ++ ^                  z"        x           "x
+x"z+  [====] >             <z    ++   x           "x
+x"z   mmmmmm >             <z  ++++++ x           "x
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           "x
+x"xV              <     +b                        "x
+x"x                     +b                        "x
+x"x                     +b                    ^   "x
+x"x|                    +b                        "x
+x"z                     +b                    ^   "x
+x"z  >            ^     +b                        "x
+x"z  >            <     LG                    ^   "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx|||||||||||||||||||||||x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+x                                                  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

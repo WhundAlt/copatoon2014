@@ -1,0 +1,46 @@
+Sudden Dea...
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x
+xVVVVVVVV xxwww z    w    K  x             x
+x|||||||| xxt   x>        V  w          x  x
+x         xx   +xx|       <             x  x
+x         xx   +x+||   w                x  x
+x         xx   +x++||   w         =     w  x
+x         xx  + x+++||   w ++           <  x
+x #       xx +  x++++||   w[]m =     =     x
+x    ^    xx +  x+++++||     x             x
+x >  |>  |xx+   x++++++||    x     >    V  x
+x        |<z  mmx+++++++|||||>     ^  = ^  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  mm  mmm    x
+x                            xxxxxxxxxxxxxzx
+x                                  "       x
+x                                  "       x
+x                                  "       x
+x                       |          " =     x
+x                      >|      <   "       x
+x                       |      =   "   =   x
+x                       |>         "       x
+x                                 mmmmmmm=[x
+x                                 xxxxxxxxxx
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                                          x
+x                            D             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

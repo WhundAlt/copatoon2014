@@ -1,0 +1,31 @@
+Jump!
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                    "x1       xx
+x #     mmmm +       "         xx
+xx==]   [==] o       " xxxxx   xx
+xx"   <b     K  <    "x        xx
+xx"   <b             "x     ^  xx
+xx"   <b             "x  xxxxxxxx
+xx"   <b             "x      >Vxx
+xxV   <b             "x       <xx
+xx    |||||||        "x       <xx
+xx>         ^        "xxxxxx  <xx
+xx                   "x    > ^<xx
+xx  mmm>    <mmm^    "x    ^  <xx
+xx  KKKKKKKKKKKK     "x  xxxxxxxx
+xx                   "x        xx
+xx           KKKKK   "x        xx
+xx                   "x        xx
+xx++             m    xxxxxxx  xx
+xx<<  < o       mx    xL       xx
+xx    [=]    ~mmxx[==]xK       xx
+xx     b      xxxx    xb       xx
+xx     b      wwww   +xb       xx
+xxmmmmmmmmmmm mmmm   +x2 D     xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

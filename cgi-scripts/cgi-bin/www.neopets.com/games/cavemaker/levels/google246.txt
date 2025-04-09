@@ -1,0 +1,70 @@
+Sunken Fortress
+terrain 1
+background 1
+water clear
+                                                                
+                                                                
+                                                                
+                                                                
+                 xx    xx    xx    xx    xx    xx    xx    xx   
+                 xxx  xxxx  xxxx  xxxx  xxxx  xxxx  xxxx  xxxx  
+                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 xxx     xxxx     xxxx     xxxx     xxxx      xx
+ D  #  K         xx   4   |>       <|       <|       <|>      <x
+======KK]       xxx  "  ++|>   >   <|"      <|   "   <|>   <  <x
+KKKKKKKK~      xxxxxx"xxxxxxx[]xxxxxx"xxxxxxxxxxx"xxxxxxx==xxxxx
+KKKKKKK       xxxxxxx"xxxxxxx  xxxxxx"xxxxxxxxxxx"xxxxxxx  xxxxx
+KKKKK      xxxxxxxxxx"xxxxxxx  xxxxxx"xxxxxxxxxxw"wxxxxxx  xxxxx
+          Kxxxxxxxxxx"xxxxxxx  xxxxxx"xxxxxxxxww   wwxxxx  xxxxx
+          K          " xxxxxxKKxxxxxx"xxxxxxww       wwxx  xxxxx
+          K|    <    "  K    bbxxxxxx"xxxxxx     3     xx  xxxxx
+          K          "  K      xxxxxx"xxxxxw    mmm    wx  xxxxx
+        mmxxxxxx xxxxxx bxxxxxxxxxxxx"xxxxx   mmxxxmm   x  xxxxx
+      mmxxxxxxxx xxxxxx     x..xxxxxx"xxxxx   xxxxxxx   x  xxxxx
+     mxxxxxxxxxx xxxxxxxxxx    xxxxxx"xxxxx   wx...xw   x Vxxxxx
+     xxxxxxxxxxx xxww"xxxxx    xxx..x"xxxxxm   w   w   mx  xxxxx
+    mxxxxxxxxxxx xx+ "xxxxxxx  xx    "xxxxxxmm       mmxx  xxxxx
+    zxxxxxxxxxxx xxxx"xxxxxxx mxx    "xxxxxxxxmm   mmxxxx  xxxxx
+    zzxxxxxxxxxx xxxx"xxxxxxx xxx xxxxxxxxxxxxxx+++xxxxxx  xxxxx
+  mxzzzzzzzKxxxx xxxx"wwxxxxx  xx xxxxxxxxxxxxxxxxxxxxxxx  xxxxx
+  xxzzzzzzz>    ^xxxx" +xxxxxm xx xxxxxxxxxxxxxxxxxxxxxxx  xxxxx
+  xxxxxxxxxxxxxxxxxxx"xxxxxxxx xx xxxxxxxxxxxxxxxxxxxxxxx  xxxxx
+  xxxxxxxxxxxxxxxxxxx"xxxxxxx  xx xxxxxxxxxxx        xxxx  xxxxx
+  xxxxxxxxxxxx.....xx"xx...xx mxw xxxxxxxxxV   > <  < Vxx  xxxxx
+  xxxxxxxxxxx        "xx   xx xx  xxxxxxxx              x  x..xx
+  xxxxxxxxxxx  xxxxxxxxx m xx  x mxxxxxx          V     K      x
+  xxxx..xxxxx  xxxxxxxxx x xxm x xxxxxxx    >    ^   <  K      x
+  xx+     xxx  xxxxxxxxx x xxx x xxx..x  x        ^   < x  xxxxx
+  xx++   "xxx   ww  ww   x     x xx      xx>^     <    xx  xxxxx
+  xxxxxxx"xxxx           x     x xx      xxxx        xxxx  xxxxx
+  xxxxxxx"xxxxmm  mm  mmxxxxxxxx xxxxxx   xxxxxxxxxxxxxxx  xxxxx
+  xxxxxxx"xxxxxxxxxxxxxxxxxxxxx   xxxxxx  xxxxxxxxxxxxxxx Vxxxxx
+  xxxxxww"wwxxxxxxxxxxxxxxxxwww   wxxxxx   xxxxxxxxxxxxxx  xxxxx
+  zxxxw     wwwxxxxx...xwwww     mmxxxxxx        xxxxxxxx  xxxxx
+  zxxw  mmm    wwwww   w      mmmxxxxxxxxx       xxxxxxxx  xxxxx
+  xxx   xxx                mmmxxxxxxxxxxxxxxxxxx   xxxxxx  xxxxx
+  xxx   www     mmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxx    xxxx||xxxxx
+  xxw       mmmmxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx    xKKxxxxx
+  xx   mmmmmxxxxxxxxxxxxxxxxxx  om    o   xxxxxxxxxxxxx    xxxxx
+  xx   xxxxxxxxxxxxxxxxxxxxx   [==]  [=====xxxxxxxxxxxxx   xxxxx
+  xx   xxxxxxxxxxxxxxxxxxxxx               xxxxxxxxxxxxxx  xxxxx
+  xx   xxxxxxxxxxxxxxxxxxxxxx o mmmm        xxxxxxxxxxxxx  xxxxx
+  xxm xxxxx..xxxxxxxxxxxxxxxxxx [==] [=]    xxxxxxx...xxw  wxxxx
+  xxx         >    KK> < xxxxxxxxxxxxxxxxxx xxxxxx           xxx
+  xxxxxx       >   K|> <  xxxxxxxxxxxxxxxxx xxxxx            xxx
+  xxxxxxx       >  KK> <  xxx          |xxx xxxxx  xxxxxm  mxxxx
+  xxxxxxxxxxxxxxxxxxxxxx  xx>|   >K    K xx xxxxxK xxxxxx  xxxxx
+  zxzzxxxxxxxxxxxxxxxxxxx xx   xx   xx V xx xxxxKK Kxxxxx  xxxxx
+  zxzzzxxxxxxxxxxxxxxxxxx xx  xxxx xxxx  xx xxxxK  +xxxxx  xxxxx
+  xxzxxxxxxxwwwwwwwwwxxxx xx  xxxx xxxx  xx xxxK+ K Kxxxx  xxxxx
+  xxzxxxxwww         wwww KK  x..x Kxx   KK xxxK  K +xxxx  xxxxx
+  xxzzxx>      +++        |K      ^>   |<|K xxx+  KKKxxxx  xxxxx
+  xxzzxx xxxxxxxxxxxxxxxx KK   xx |Kxx   KK xxxxK +Kxxxxx  xxxxx
+  xxxzxx xxxxxxxxxxxxxxxK xx  xxxx xxxx  xx xxxxxKKxxxxxx  xxxxx
+  xxxzzx xxxxxxxxxx....xK xx  xxxx xxxx  xx xxxxxxxxxxxxx Kxxxxx
+  xxxzzx   > >| <K      K xx   xx   xx   xx x..xxxxxxxxx KK xxxx
+  xxxzx  >| <|  >|   <  + xx |    ^    < x      wwwwwww  KK  xxx
+  xxxzz>^|<  >  >K      + xx ^    b      x      mmmmmmm     +xxx
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz       Gxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

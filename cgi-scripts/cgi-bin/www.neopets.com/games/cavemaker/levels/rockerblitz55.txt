@@ -1,0 +1,46 @@
+backtoschool
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx      xxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxx
+xx|" +++ )xxxxxxxxxxxxxxxxxxzzzxxxxxxxxxxx
+xx|"[==]  xxxxxxxxxxxxxxxxzzzzzxxxxxxxxxxx
+xx|"      xxxxxxxxxxxxxxxxzzz          xxx
+xx|"      xxxxxxxxxxxx      z """""""""xxx
+xx|"      zzzzxxxxxxxx      z """""""""xxx
+xx|"n     zzzzxxxxxxxx      z         "xxx
+xx|"       u                z (       "xxx
+xx|"    V     < (      [===]z (       "xxx
+xx|xxxxx xxzxxxxxxx=xxx     z (    [=]"xxx
+xx|xxxxx xxzoooxxxx=xxxxxxxxx       xxxxxx
+xx| V   <xoooooxxxx=xxxxxxx     [=] xxxxxx
+xx|| xxxxooooooxxxx=xxxxxxx         xxxxxx
+xxx| xxxoooooooxxxx"xxxxxxx  [=]n   xxxxxx
+xxx| xxxxoooooozxxx"xxxxxxx         xxxxxx
+xxx|<xxxxxooooozzzz"xxxxxxx==[====="xxxxxx
+xxxxxxxxxxxoooozz+z"xxxxxxx        "xxxxxx
+xxxxxxxxxxxooxxxxxxxxxxxxxx        "xxxxxx
+xxxx>      ||xxxxxxxxxxxzzz        "xxxxxx
+xxxx xxxxxz||xxxxxxxxxxzzzz       n"xxxxxx
+xxxx |||||||||||||>              V "   xxx
+xxxx                     x         "   xxx
+xxx                     xx       V "   xxx
+xxx                  ) xxx        ==]   "x
+xx")                  xxxx D      u     "x
+xx" ^              xxxxxxxxxxxxxx   xxxx"x
+xx"x [==]     [====xxxxxxxxxxxxxx|++++++"x
+xx"x mmmmmmmmmmmmmmxxxxxxxxxxxxxx|++++++"x
+xx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|++oooo"x
+xx"nxxxxxxxxxxxxxxxx (xxxxxxxxxxx|++oooo"x
+xx"                   xxxxxxxxxxx||||||K"x
+xxxxxxxxxxxxxxxxxxxxxn     (    xx      "x
+xxxx+++++++++++++xxxx           xxxx    "x
+xxxx+++++++++++++xxxxxxxxxxx n   zxx    "x
+xxxx|||||||||||||<xxxxxxxxxx[=]xxxxx    "x
+xxxx              xxxxx        x xzx    "x
+xx                xxx)        )z z x    "x
+xx       )        xx    xx=====x x=x    xx
+xx# mmmmmm>mmmmmm^   nxxxx++++++ z zG   Lx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

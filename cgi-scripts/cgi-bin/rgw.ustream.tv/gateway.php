@@ -1,0 +1,1 @@
+<p>amfphp and this gateway are installed correctly. You may now connect to this gateway from Flash.</p><a href='http://www.amfphp.org/docs'>View the amfphp documentation</p><p><a href='browser'>Load the service browser</a></p><pre>

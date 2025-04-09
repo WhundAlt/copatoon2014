@@ -1,0 +1,46 @@
+test
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxV  <wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxx
+xx#                            +++++++++xx
+xx                             >|V|V|V|Vxx
+xx>  ^   o                              xx
+xx/xxx[===]                             xx
+xxzxxx                                  xx
+xx     "                                xx
+xx     "                                xx
+xx     "   o +                          xx
+xxKKKKKKKK>/KK                  +       xx
+xx         >                   ^||^|^|^ xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx~                                     xx
+xx   xxxxxx                             xx
+xx   xxxxxx                    [=======]xx
+xxxx xxxxxx                    .........xx
+xxxx xxxxxx                             xx
+xxxx xxxzzz                           D xx
+xxxx zxzzzz                             xx
+xxxx zzzzxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

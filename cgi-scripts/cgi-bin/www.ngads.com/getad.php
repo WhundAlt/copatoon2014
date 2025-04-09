@@ -1,0 +1,1 @@
+//server.cpmstar.com/adviewas3.swf

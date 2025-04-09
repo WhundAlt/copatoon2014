@@ -1,0 +1,44 @@
+Down_Under_Plunder
+terrain 2
+background 1
+water clear
+xxxxxxxtxxxxxxxxxbbbbbbbbbxoooooooooxxxx
+xxxxxxx xxxxxxxxx+++++++++xoooooooooxxxx
+xxxxxxx wwxxxxxxx+++++++++xoooooooooxxxx
+xxxxxxxx  zxxxxxx|||||||||||||||||||xxxx
+xxxxxxxx  zzzxxGx                     xx
+xxxx  xx  zzzzzzx       > V>    V     xx
+xxxx  xx  xxxxxxx         >^          xx
+xxxx#     ++   xx                     xx
+xxxxxxxxxxx[=  xx>               ^    xx
+xxxx..x        xx|                    xx
+xxxx           xx|      ^             xx
+xxxx     +  mmmxx|              <     xx
+xxxx     xxxxxxxx                   x xx
+xxxx          z    [=]xxxxx         x xx
+xxxx          z+++++  xxxxx         x xx
+xxxxmmmmmmm   z+++++  xxxxxmmmmmmmmmx xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxx  x                               xx
+xxxx  x             +++++             xx
+xxxx  x   bbbbbbbbbbxxxxxxxxxxxxxxxxxxxx
+xxxx  z               >             V  x
+xxxx  z                       1        x
+xxxx++x                 ||||+|||||+|<  x
+xxxx++xbbbbbbbbbbbbb  ^ |+||||++||+|   x
+xxxx++z   mmmmmmmmmm  x ||++||||||||  Dx
+xxxxxxxxxzxxxxxxxxxxzxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxzxxxxxxxxxxzzzzzzzzzzzzzzzzxxxx
+xxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxzz"xxxx
+xxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxx"xxxx
+xxxxxxxxxzxxxxxxxxxxxxxxxxxxxxzzzzz"xxxx
+xxxxxxxxxzzzzzzzzzzzzzzzzzzzz zzzzzzxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                        
+                                        
+                                        
+                                        

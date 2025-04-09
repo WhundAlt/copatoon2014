@@ -1,0 +1,46 @@
+Cavern_Trouble
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                              V     xx+++x                xx
+xx                                    xxbbbx                xx
+xx                                    xxbbbx D              xx
+xx  x  5  5                      x  x xxbbbxxxxx xx      xx"xx
+xx"xxxxxxxxxx+                      x xx         xxx    xxx"xx
+xx"xGoooooooxx                      x xxxxxxxxxxxxxxxmmxxxx"xx
+xx"xooooooooxxxxxxxxxx===x  xKKK|KKKx xx   >     K   xxxxxx"xx
+xx"xoooooooox K          xxxx+++x+++x xx    =====xxx  +  xx"xx
+xx"x<<<<<<<<x K             xxxxx+++x xx ++        xxxxx xx"xx
+xx"           K                 xxxxx xx ==            x xx"xx
+xx"        ^  K    / xx             x xx   ^       <   x xx xx
+xxxx========x K    xxxx x           x xx    ==   ==    x xx xx
+xxxxmmmmmmmmxxx    xxxx x x         x xx               x    xx
+xxxxxxxxxxxxxKxxxxxxxxx x x x       x xx               xxxxxxx
+xx      V   <K       xx x x x x     x xx            ==      xx
+xx           K       xx x x x x x   x xx         > ^        xx
+xx           K      <xx x x x x x x"x xx         ==    ++   xx
+xx                   xx x x x x xmx"x xx              ++++  xx
+xx                   xxmxmxmxmxmxxx"x xx      ==    ========xx
+xx                   xxxxxxxxxxxx  "x xx    x               xx
+xx"xxxxK|KKKxxxx    xx             "x xx   xxmmmmmmmmmmmmmmmxx
+xx"   x+++++x      xxx             "x xxK xxxxxxxxxxxxxxxxxxxx
+xx"   x+++++x     xxxx             xx xx^xV  <xxxxxxxxxxxxxxxx
+xx"   xxxxxxx    xxxxx           x xx xz x xx         +xxxxxxx
+xx"         xKbKxxxxxx         x x xx xz x xx         +xxxxxxx
+xx"         x                x x x xx xzxx            +xxxxxxx
+xxx         xx             x x x x xx xzzx=======xx"xxxxxxxxxx
+xxx x       xxx          x x x x x xx xzz        xx"x       xx
+xxx x x       xx       xmxmxmxmxmxmxx xxz        xx"x   o   xx
+xxx x x x     xxxxxxxxxxxxxxxxxxxxxxx xxz   +    xx"x ====="xx
+xxx x x x x    K   KKK         xxxxx  xxx  +++   xx"x=x    "xx
+xxx x x x x x  |   <|K         xxxx   xxx +++++  xx" =x    "xx
+xxxmxmxmxmxmx  K   KK|         w<xx   xxx+++++++ xx"  x    "xx
+xxxxxxxxxxxxxxxxxxxxxx===     bx"xx xmxxxxxxxxxxxxxxxxx    "xx
+xx       +                 xbxbx"xx xxxxxxxxxxxxxxxxxxx     xx
+xx       K                 xbxb "xx                         xx
+xx     K                   xbxb "xx   o          o          xx
+xx  #      xxxmxmxxxxmxmxxmxmxxx"xxoooooooommmooooooommmooooxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,44 @@
+Razuls Tomb
+terrain 3
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                   4           K  ++++x
+x                               K  ++++x
+x D       ++++++      +++       K  ++++x
+xxxxxxxxxxxxxxxxxxzxxxxxxxxxxxzzzzxxxxxx
+x++++++++                    KKKKKKKKKKx
+xoooooooo         =   >V               x
+xKKKKKKKK />      K                    x
+x|||||||| /       =                    x
+x         />      K   ^        +  >   <x
+x                             +xxxxxxxxx
+x         ^      <+          +xx       x
+x                KKK        +xxx       x
+x               K   K    2 +xxxx       x
+x              K     ======xxxxx       x
+x             K     """"   xxxxx       x
+x    b       K      """"               x
+x   bbb     K       """"               x
+x  bb+bb   K        "+""               x
+x bb+++bb K         "=""+K K+   + +    x
+x^b+++++bK          ""+"xxzxx  xxzxx   x
+xKKKKKKKK       3   "+="xwLwx  x G x   x
+x                   "=""x K x  xmKmx   x
+x                   """"xmmmx  xxxxx   x
+x                   "   xxxxx          x
+x                     |||||||||||||||||x
+x   ooooo             |               |x
+x   KKKKK             |               |x
+x  >|||||             |               |x
+x                   xbx^        <      x
+x                  =xbx  m  m  mxxxm+ "x
+x                   xbxxxxxxxxxxx.xxxx"x
+x                  =x~               x"x
+x        K    1   = x      + + + + + x"x
+x                   x      = = = = = x"x
+x               =   x    >          Kz"x
+x                   x    >          Kz"x
+x             =     x                x"x
+x# ^mmmmm   5 m m mmxmmmmmmmmmmmmmmmmx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

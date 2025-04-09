@@ -1,0 +1,46 @@
+funk
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx            wwwxxxxwwwwwwwwwwwwwwwwwwwxx
+xx               wwww                   xx
+xx                                      xx
+xx                                      xx
+xx>>|                            <| |<  xx
+xx>>|                #           |< <|  xx
+xx>>|                            <| <|  xx
+xx>>          mmm + m>m          |< |<  xx
+xx            xxxxxxxxx     m  m        xx
+xx                    xmmm~mxmmxm mmmmmmxx
+xx                    xxxxmxxxxxx xxxxxxxx
+xx                       xxx    xmxx    xx
+xx                              xxxx    xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xxmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmxx
+xxooooo    oooooooooooooooooooooooooooooxx
+xxooooo 1  oooooooooooooooooooooooooooooxx
+xxooooo    oooooooooooooooooooooooooooooxx
+xxooooo    oooooooooooooooooooooooooooooxx
+xxooooo    oooooooooooooooooooooooooooooxx
+xxooooo    oooooooooooooooooooooooooooooxx
+xxooooo  D oooooooooooooooooooooooooooooxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

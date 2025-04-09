@@ -1,0 +1,52 @@
+Shadow-of-a-Doubt
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xwwwwwwwwwxwwwwwwwwwwwwwwwwwx     +    xxxxxxxxxxx
+x  >    ||x    V|VV|V    |||x >| <"> |<xxxxxxxxxxx
+x#      ||x              |  z >| <"> |<xxxxxxxxxxx
+x       ||x              |  z >| <"> |<xxxxxxxxxxx
+x  ^    ||z     ^  ^|>   |||x >| <"> |<xxxxxxxxxxx
+x> |<   ||z    =======      x          xx"Gzzzzzzz
+xxxxxxxxxxxxxxx+m+mm+mxxxxxxxxxxxxxxxx"xx""zzzzzzz
+xwwwwwwwwwwwwwwxxxxxxx  +++++    >    "xx"<xxxxxxz
+xL               x oooooooooooooo|>   "xx""xxxxxxz
+x=       ++++    x <<<<<<<<<<<<<<|>   "xx>"xxxxxxz
+x+      KKKKK| < x                    "xx""xxxxxxz
+x=      KKKK|K   x                    "xx"<zzzzzxz
+x+      KKK|KK   x                    "xx""zzzzzxz
+x=      KK|KKK ^ x                     xx""zzzzzxz
+x       K|KKKK   z               ^ <   xxxxxxxx"xz
+x       |KKKKK   z  mmmmmmmmmmmmm     mxxxxxxxx"xz
+xzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xz
+x         "                            xx"zzzzz"xz
+x         "                            xx"zzzzz"xz
+x         "                            xx"xxxxxxxz
+x         "                            xx"xxxxxxxz
+xbbbbbbbb "   +++++++++++++++++++++++++xx"xxxxxxxz
+xmmmmmmmmmmm> |||||||||||||||||||||||||xx"xxxxxxxz
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxx"xxxxxxxz
+x||<        <    <K>              <|   xx"xxxxxxxz
+x||>         <    +>              <|   xx"xxxxxxxz
+x||>          <   +>              <|   xzzxxxxxxxz
+x||>           <  +>              <|  <zzzzzzzzzzz
+xzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                      xxxxxxxxxxx
+x                                      xxxxxxxxxxx
+x                                  1 o xxxxxxxxxxx
+x     o +++ o          o ++ o    ===== xxxxxxxxxxx
+x    ========    +o   =========        xxxxxxxxxxx
+x+              ===                    xxxxxxxxxxx
+x==>                                  <xxxxxx   xx
+x                                      zzxxxx   xx
+xmmmmmmmmmmmmm+mmmmm+mmmmmmmmmmmmmmmmmmzzxxxx D xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzxxxxx"xxx
+xx.xxxxxxxxxx...xxxxxxxxxxxxxxxx..xxxxxzzxwwww"wwx
+x+ wwww+++www   wwwwwwww+++wwwww  ww+ww       "  ~
+x 3                                              x
+x                                                x
+x                                                x
+x                                                x
+x 3                                              x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

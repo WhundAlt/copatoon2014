@@ -1,0 +1,46 @@
+Treasure_Trove
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooooooooooooooooooxx
+xbbKbbbbbKbbbbKbbbKbbxx
+x||||||||||||||||||||xx
+x                    xx
+x \\\\\\\\\\\\\\\"  \\\\\\\\\\\\\\\"    \\\\\\\\\\\\\\\"   \\\\\\\\\\\\\\\"    \\\\\\\\\\\\\\\" xx
+x                   1xx
+x              \\\\\\\\\\\\\\\"     xx
+x  \\\\\\\\\\\\\\\"  \\\\\\\\\\\\\\\"    \\\\\\\\\\\\\\\"      \\\\\\\\\\\\\\\"  xx
+x\\\\\\\\\\\\\\\"       \\\\\\\\\\\\\\\"   \\\\\\\\\\\\\\\"       xx
+x    \\\\\\\\\\\\\\\"     \\\\\\\\\\\\\\\"    \\\\\\\\\\\\\\\"    xx
+x                   4xx
+x      \\\\\\\\\\\\\\\"          \\\\\\\\\\\\\\\"  xx
+x      \\\\\\\\\\\\\\\" mmmmmmmmmmm xx
+x= b >  ^xxxxxxxxxxx+xx
+x        wwwwwwwwwwx+xx
+x\\\\\\\\\\\\\\\"                 x+xx
+x>|              + x+xx
+x>|              \\\\\\\\\\\\\\\" x+xx
+x>|      o  < +    x+xx
+x\\\\\\\\\\\\\\\"      xxm   \\\\\\\\\\\\\\\"    x+xx
+x    =    xm       x+xx
+x          xm      x+xx
+xb          xm     x+xx
+xzxxxxx      x     x+xx
+xz+++zz      3x  G x+xx
+xxxxxxxoooooooxzxxxx+xx
+xx+++  /ooooo/  +++x+xx
+xx[=]   /ooo/   [=]x+xx
+xx       /o/       x+xx
+xx        /        x+xx
+xx                 x+xx
+xx                 x+xx
+xx                 x+xx
+xx        (        x+xx
+xx                 x+xx
+xxm     +   +     mx+xx
+xxxm    =  #=    mxxDxx
+xxxxm     ^<    mxxxmxx
+xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx

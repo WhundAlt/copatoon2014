@@ -1,0 +1,46 @@
+Jump
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxtxx
+xx                    xxx               xx
+xx                +++ xxx         x     xx
+xx                [=] xxx         x     xx
+xx                    xxx         x     xx
+xx                    xxx         x     xx
+xx                    xxx         x     xx
+xx             xx     xxx         x     xx
+xx           [=xx     xxx    x    x     xx
+xx             xx     xxx    x    x     xx
+xx             xx     xxx    x    x     xx
+xx         [=] xx    +xxx    x    x     xx
+xx             xx   ++xxx    xxxxxx     xx
+xx      [[     xx  [==xxx         xxxxx xx
+xx             xx  wwwxxx       o  x    xx
+xx             xx     xxx      []  x    xx
+xx        [=]  xx     xxx          x    xx
+xx             xx     xxx          x    xx
+xx           ""xx1    xxx      xx  x    xx
+xx           ""xx     xxx      xx==x    xx
+xx           ""xx  =  xxx      xx  x    xx
+xx           ""xx    3xxx      xx  x    xx
+xx           ""xx     xxx      xx==xxxxxxx
+xx           ""xx     xxx      xx      Lxx
+xx    ++     ""xx     xxx      xx       xx
+xx    xx     ""xx+    xxx      xx       xx
+xx    xx     ""xx++   xxx      xx      2xx
+xx    xxmmm  ""xx+++o xzz      xx [=====xx
+xx   Kxxxxxxxxxxxxxxxzx=x      xx       xx
+xx   KxxxxxxxxxxxxxxxzxGx      xx       xx
+xx  [=xx              xzx      xx++++   xx
+xx   Vxx             4x=x      xx++++   xx
+xx#   xx++++++        xzx      xx++++   xx
+xx=]  xx++++++        x=x      xx++++   xx
+xx    xx++++++        zzx      xx++++   xx
+xx    xx++++++        zzz      xx++++   xx
+xx////xx++++++      5 zoz      xx++++  Dxx
+xx^^^^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

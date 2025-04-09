@@ -1,0 +1,38 @@
+Guess
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx////////////////////////////////////////////////////////////////////////////xxx
+xxx                                                                             xx
+xxx                                                                             xx
+xxx                                                                             xx
+xxx                                                                             xx
+xxx     xxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz       xx
+xxx#      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz       xx
+xxx[[[[   ///////////////////////////////////////////////////////////////       xx
+xxx////<V ===============================================================       xx
+xxx////                                                 b+++++++++++++++b       xx
+xxx////          bbbbbbb                       b+bbbbb  bbbbbbbbbbbbbbbbb"""""""xx
+xxx////      bbbbbbbbbbbb+bbbbbbbbbbbb         bbbbbbbbbbbbbbbbbbbbbbbbbb"xxxxx"xx
+xxx////      bb+bbbbbbbbbbbbbbb+bbb+bb         bbbb+bbbb/////////////////"x|||x"xx
+xxx////  bbbbbbbbbbbb+bbbbbbbbbbbbbbbb+bbbbbbbbbb+bbbbbb                 "x|||x"xx
+xxx////  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb+bbbbbbbbbbbbb                 "x|||x"xx
+xxx////                                               bb^                "xzzzx"xx
+xxx////                                               bb                 "xzDzz"xx
+xxx////mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"xzzzz"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

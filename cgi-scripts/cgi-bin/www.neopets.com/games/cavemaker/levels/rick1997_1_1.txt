@@ -1,0 +1,69 @@
+vaie_volta_mold
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                 wwwxxxxxxwwwwwwwwwwwKKKKKKKV <<<<<<<<<<<xxxxxxxxxxxxxxxxx
+xxmmm                 mmxxxz           KKKKKKK      xxxxxx xxxxxxxxxxxxxxxxx
+xx|||         <       ||xLzz           ooooooo      xwwwww xxxxxxxxxxxxxxxxx
+xxbb|          [      | xxxx]          K<<<<<<<     x      xxKxxxxxxxxxxxxxx
+xx+b|           mx #> |Dxxxx                        xmmmmm xxKKxxxxxxxxxxxxx
+xx+b/>m m mm=][[xxxxxxxxxxxxm                  [[[[ xxxxxx x KKKxxxx+xxxxxxx
+xx"xxxxxxxxxmmmmxxxxx+xxxxxxx ] xxxxxxx      u xx   xwwwww x KKKK   K     xx
+xx"wwwwwwwww[[xxxxxwx+xxxxxxx   xxxxxxx      u xx   x     ^  KKKKK        xx
+xx"            "xmxxx+xxxxxxx   xxxxxxx]     u xx===x      xxKKKKK  ^     xx
+xx"         +++"xxxmx"xxxxxxx   xxxxxxx]     u xx   x       x||||| </     xx
+xx[[[ [ [ [ [K["xxxxx"xxxxxxx   xxxxxxx      u xx   x       x            mxx
+xx             "xmmmx"xxxxxxx  +xxxxxxx  mmmmu xx===x       x        "m m"xx
+xxmmmmmmmmmmmmm"xxxxx"xxxxxxx  xxxxxxxx]]]]]]u xx           x        "" ""xx
+xxxxxxxxxxxxxxx"xxxxx"xxxxxxx  wxxxxxxx      u xxxxxxxxxxxxxxxxxxxxx ""m""xx
+xx++     wwwwww"xwwwx"xxxxxxx   xxxxxxx]     u xxww   www   wwwww    """""xx
+xxbb           "xxxxx"xxxxxxx   xxxxxxx   mm umxx                   ^"""""xx
+xx]]        "  "xmxxx"xxxxxxx   xxxxxxx   ]] u[xx                 =[=ww"wwxx
+xx bbb   "  "  "xxxmx"xxxxxxx   xxxxxxx]     u xx   ] ] ]=V=] ] ] ]m   "  xx
+xx ===   "  "  "xmmxx"xxxxxxx   xxxxxxx      u xx     x            xmm2+mmxx
+xxbb   bb"  "  "xxxxx"xxxxxxxm  xxxxxxx   ]]]u]xxm mmmxmm|||mm|||mmxxxxxxxxx
+xx]]           "xmxmx"xxxxxxxx  xxxxxxx      u xxx=xxxx|||++||+++|xoooooooxx
+xx     mmmmmmmm"xxmxx"xxxxxxxw  xxxxxxx     mumxxw"xxxxxxxxxxxxxxxxKKKKKKKxx
+xx++bbbxxxxxxxx"xmxmx"xxxxxxx   xxxxxxx   ]]=u=xx "x""wwwwwww   >/<|||||||xx
+xxxxxxxxx/wwww<"xxxxx"xxxxxxx   xxxxxxx      u xx "x""                    xx
+xxVwwwwww<     "xxxxx"xxxxxxx   xxxxxxx      umxx "x""        ]           xx
+xx  + + + + +  "xwwxx"xxxxxxx   xxxxxxx [ ]  u=xx]wx"" [ [ [ [    ^       xx
+xx  o o o o o  "x  mx"xxxxxxx   xxxxxxx      u xx   "xx        ]  /      Kxx
+xx> > > > > >b "x  xx"xxxxxxx  +xxxxxxxmmm   u xx   "xx   mmm  x  |      bxx
+xx             "x  wx"xxxxxxx  xxxxxxxx]]]  ]u xx]]]]xxmmmxxxmmx] |      ^xx
+xx   m m m m m "xmmxx"xxxxxxx  wxxxxxxx      u xxmmmmxxxxxxxxxxxx |  /    xx
+xx+mmxmxmxmxmxo"xxxxx"xxxxxxx   xxxxxxx   ]  u xxxxxxxxxxxxxxxxxxxxxxxxxx]xx
+xxxxxxxxxxxxxxx"xxxwx"xxxxxxx   xxxxxxxmm    umxxwwxxxxxxxxwwwwwwwwwwxxxx"xx
+xxxxxxxxxxxxxxx"xww x"xxxxxxx   xxxxxxx]] ] [u=xx  wwwwwwww          wwww"xx
+xx|| wwww     <"x   x"xxxxxxx   xxxxxxx      u xxxx        oooooooooooooo"xx
+xx+| xxxx      "x  mx"xxxxxxx   xxxxxxx   [  u xxww        KKKKKKKKKKKKKK"xx
+xxxx"wwwx+o    "xmmxx"xxxxxxx   xxxxxxx      u xx  >       |||||||||||||K"xx
+xx||"mmmxxxxxx "xxxxx"xxxxxxx+  xxxxxxx      u xx                        "xx
+xx+|"xxxxwww   "xxxxx"xxxxxxxx  xxxxxxxm   m u xxmm ++                   "xx
+xx||"wwwx      "xwwww"xxxxxxxw  xxxxxxx= [ = u[xxxx xx  ++               "xx
+xx+|"   xmmm   "x    "xxxxxxx   xxxxxxx      u xx       xx    b          "xx
+xx||"mmmxxxx   xxm  m"xxxxxxx   xxxxxxxm    mumxxmm       [x             "xx
+xx+|"xxxxwww[[["xxmmx"xxxxxxx   xxxxxxx=== [=u=+xxx  ++    xmmmm         "xx
+xx||"          "xxxxx"xxxxxxx   xxxxxxx   +  u  x    xx  mmxxxxx[] ] ] ]]"xx
+xx+|"          "xxxxx"xxxxxxx   xxxxxxxmmm   u  xmm      xxxxxxx         "xx
+xx||"          "xxxxx"xxxxxxx   xxxxxxx=== [ u [xxx    ]]xxxwxwxmmmmmmmmm"xx
+xxww           "xxxxx"xxxxxxxm  xxxxxxx      u  xww    xxxwx x xxxxxxxxxxxxx
+xx             "wwwxx"xxxxxxxx  xxxxxxx      u =x      xwx x x x   ++     xx
+xx xx xxx xxxx "   xx"xxxxxxxw  xxxxxxx      u  x   [[[x x x x x   ++     xx
+xx^mm>mmm>mmmmm<   xx"xxxxxxx  mxxxxxxx+[+[ bu [x   mm x x x x x          xx
+xxxxxxxxxxxxxxxxx" wx"xxxxxxx  xxxx|++x]]]]  u  xmm^/|                    xx
+xxxxxx"     "    " bx"xxwwwww  wwww|++x      u =xxxxx|||||||||||||||||||[xxx
+xxxxxx"     "    " bx"xx        m  |/|xmmmmmmu  xwww>wwwwwwwwwwwwwwwwww^"xxx
+xxxxxz"     "    " bx"xx        xm /<+x===[[[u [x                       "xxx
+xxxxzz"  /  " bb " mx"xx    o    / |++x      u  x      ||||||||||||||||V"xxx
+xxxzzz"            xx"xx  xxxxxxxxxxxxx        +x                       "xxx
+xxxzxx"x|||xxxmmmmmxx"xx m     ||||+++x       ]xx                       "xxx
+xxxzxx"x|+|xxxxxxxxxx"xxmo >   ||||+++x                                 "xxx
+xxzzxx"xxxxxxxxxxxxxx"xxxxxxxxxxxxxxxzx ]][         ^  ^mm              "xxx
+xGzzzz"                                        [[[[x/||||||||||||||||||><xxx
+xxxxxx"                                         mmmx|KKKKKKKKKKKKKKKKKKxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmmmmmmmmxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

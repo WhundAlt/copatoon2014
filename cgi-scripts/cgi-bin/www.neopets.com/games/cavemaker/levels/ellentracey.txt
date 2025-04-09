@@ -1,0 +1,50 @@
+Steel Horse
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx         K                          xx
+xx     "  KK++                        xx
+xx    ""KKKxK""                       xx
+xx     KK  x K""                      xx
+xx KKKxK o x  K""       o ++          xx
+xx Kb z    x V K""      [==]          xx
+xx K #zzxxzx    K                     xx
+xx KKKx    >    VK+++++++o++   2      xx
+xx    KKKKKK ^ <| KKKKK[=]KKKKKK    ++xx
+xx        K     V    x"   "x    K  +""xx
+xx       K|| || |>      D        ||+"""x
+xx       K|||||      x"[ ]"x      |+"""x
+xx       K||L|| 1    x"""""x      |+"""x
+xx       K |||       xbb"bbx ..   |+"+"x
+xx        K |           "         |[=]"x
+xx         K      o  ..."        K ==""x
+xx          K   mKKKKKK "  KKKxzzxKK"""x
+xx         K   +K      K"KK   K   tKK""x
+xx        K   +K  | |   "      K    K""x
+xx        K  +K   |||   "       Kbb K""x
+xx       K   +K   | |   "       Kb. K""x
+xx       K   +K    ^    "       KbbK  "x
+xx       K  +K    |||   "       Kb+K  xx
+xx        K"K     | |   "      KV<KK  xx
+xx        K"K     |||   "      K nK   xx
+xx        K" K     ^    "     K  +K   xx
+xx        K+ K    |||   "     K VK    xx
+xx         K K    | |   "     K  K    xx
+xx         K K    ||    "    KV <K    xx
+xx        |||     | |   "    |||Kx    xx
+xx       || |      ^    "   || |      xx
+xx       ||||    <|||   "   ||||      xx
+xx       VVVV     |     +       <     xx
+xx                |||   "             xx
+xx                  |  ++        x    xx
+xx          >     |||   "        x    xx
+xx         >       ^   +"  xxxxx x    xx
+xx        >       |||   "  x...x x    xx
+xx       >        |    ++        x    xx
+xx                ||    "        x    xx
+xx                | +  +" +      x    xx
+xx                |||   + >    5^x    xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

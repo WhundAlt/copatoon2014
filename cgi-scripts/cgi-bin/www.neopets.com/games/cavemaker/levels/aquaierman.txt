@@ -1,0 +1,94 @@
+Ascendom
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                                                             x
+xx                                   xxxxxxxxx                                 x
+xx                                    oo                                       x
+xx                                    oo                                       x
+xx                                    oo                                       x
+xx                                   xooxxxxxx xxx                             x
+xx       D                           x///        <                             x
+xx         xxxxxxxxxxxxxxxxxxxxxxx      K        |                             x
+xx         xxxxxxxxxxxxxxxxxxxxxxx      K        |                             x
+xxzzzzzzzzzx                      xxxx==x        |                             x
+xxzzzzzzzzzx                         xmmx        ^<x                           x
+xxzzzzzzzzzx                         xxxx====x===xox                           x
+xxzzzzzzzzzx              1 xxxx        xx   x^  x|x                           x
+xxzzzzzzzzzx                x  x         x >     "^x                           x
+xxzzzxxxxxxx     x 3        x+   3       x== x   xxxxxxx                       x
+xx   +     x    xxxxxxxx+xxxxoooooooox ==x   x   Koooooo                       x
+xx   +     x   xxx     xxx  xxxxxxooox   x   x   K||||||<                      x
+xxLG +  +  x                    xxxxxx== x]]]x[[[x                             x
+xx]]]x +#+   xxx 4      +  3                     x                             x
+xx   x++ ++  xxxxx     xxxxxx xx                 x                             x
+xx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xmmmmmm                       x
+xx   zzzzzzz                              xxxxxxxxxxxxxx                       x
+xx   zzzzzzz                              +++++++                              x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

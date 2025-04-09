@@ -1,0 +1,1 @@
+function load4399Script(type,url){var element=document.createElement("script");element.setAttribute(type,url);document.getElementsByTagName("head")[0].appendChild(element)}window.h5api={initGame:function(){},progress:function(){}};load4399Script("src","http://cdn.h5wan.4399sj.com/h5mini-2.0/dist/static/js/api.js")

@@ -1,0 +1,76 @@
+The_Necropolis
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxm     mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxm   mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxm mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxwwwwwwwwwwwwww wwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx>mmmmmmmmmmmmm mmmmmmmmmmVxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxxxw3wwwwwwwwxxxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxxw          wwxxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxx  ^      "   wxx xxxxxxxxxx xxxxxxxxxxxooooooxxxxxxxx
+xxxxxxxxx         " ++ xx xxxxxxxxxx xxxxxxxxxxxxooooxxxxxxxxx
+xxxxxxxxx         " ++xxx xxxxxxxxxx xxxxxxxxxxxxooooxxxxxxxxx
+xxxxxxxxxx        " xxxxx xxxxxxxxxx xxxxxxxxxxxxxoooxxxxxxxxx
+xxxxxxxxxxx  5  xx"xxxxxx xxxxxxxxxx xxxxxxxxxxxxxooxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx"xxxxxx xxxxxxxxxx xxxxxx      xoxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx " xxwww wwwxxxx   3  xx         b xzzzzxxxxx
+xxxxxxxxxxxxxxxx  "           xx       x        4   xzzzzzxxxx
+xxxxxxxxxxxxxxx   "           KK                    zzzzzzxxxx
+xxxoxxx                       K|   <|          ++   xxxzzz"xxx
+xx>K         ++    xx         KK    V          ++   xxxxzz"xxx
+xx         " ++   xxxxmmm mmmxxxx              xx===xxxxxx"xxx
+xx         "xx= =xxxxxK|||||Kxxxxxxx xx   2  xxxx   xxxxxx"xxx
+xx         "xx   xxxxxxxx xxxxxxxxxx xxxxxxxxxxx     xxxxx"xxx
+xx^        "xx   wwwwwwww^wwwwwwwwww xxxxxxxxx       xzzzz"xxx
+xx         "xxKK|       <|       3  <wxxxxxxx        xzzzz"xxx
+xx         "xxKKK         mmmmmmmmmmmmxxxxxx         xzxxx"xxx
+xx          xxKK|        <xxxxxxxxxxxxxxxxx     x   mxzxxx"xxx
+xx  o o o   xxKKK         wwwwwwwwwwwwwwww ++ x xxmmxxLxxx"xxx
+xx=xx x x x xxKK|mmmmmm<m^mmmmmmmmmmmmmmmm<++ x xxxxxxxxxx"xxx
+xx"xxxxxxxx xxxzxxxxxxx xxxxxxxxxxxxxxxxxx xxzx xxxxxxxxxx"xxx
+xx"xxxxxxxx xxxzxxxxxxx wwwwwwwwwwwwwwwwww xxzxxxzzzzzzzzz"xxx
+xx"xxxxxxxx=xxxzxxxxxxx^mmmmmmmmmmmmmmmmmm<xxzzzzzzzzzzzzzzxxx
+xx"xxxxxx   xxxzxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx
+xx"xxxxww   xxxzx       xxxxxxx     xxxxxx xxxxxxxxxxxxxxxxxxx
+xx"xxww     ww                        xxxx xxxxxxxxxxxxxxxxxxx
+xx"ww  ++  >mm                    1     ww^xxxxxxxxxxxxxxxxxxx
+xx"    ++  mxx         ++       ++      mmmxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx        ++       ++      xxxxx  xxxxxxxxxxxxxxx
+xxxw~ wxxxxxxxxx   5  xxx    5  xx       x     xxxxxxxxxxxxxxx
+xxxmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxz K   D    xx xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxx xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzGxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzbxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

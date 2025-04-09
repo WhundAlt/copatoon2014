@@ -1,0 +1,1 @@
+{"success":true,"app_id":"45746:57Yltlxj","result":{"component":"App.startSession","data":{"success":true,"session":{"id":"36159565.353070287a78f5dd617671a7a36176ae32d9716efb9e20","user":null,"expired":false,"remember":false,"passport_url":"https:\/\/www.newgrounds.com\/passport\/remote\/36159565.353070287a78f5dd617671a7a36176ae32d9716efb9e20"}}}}

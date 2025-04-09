@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Double or Nothing!</title>
+</head>
+<body>
+    <center>
+    <table>
+		<tr>
+			<td class="content">
+				<!-- r0 -->
+				<b>Double or Nothing</b>
+				<p></p>
+				<center>
+					<table align="center" border="0" cellpadding="3" cellspacing="0">
+						<tbody>
+							<tr>
+								<td align="center" height="200" width="300">
+									<script src="http://images.neopets.com/js/swfobject.js?v=2" type="text/javascript">
+									</script> 
+									<script type="text/javascript">
+									var swf = new SWFObject('http://images.neopets.com/medieval/cointoss_tails.swf', 'flash_76016598772', '300', '200', '6', '#FFFFFF');
+									swf.addParam('quality', 'high');
+									swf.addParam('scale', 'exactfit');
+									swf.addParam('menu', 'false');
+									swf.addParam('allowScriptAccess', 'always');
+									swf.addParam('swLiveConnect', 'true');
+									swf.addParam('bgcolor', 'white');
+									swf.write();
+									</script>
+								</td>
+							</tr>
+						</tbody>
+					</table><b>
+                        <?php 
+                            $phrase = rand(1,5);
+                            if($phrase == 1)
+                            {
+                                echo "Ill enjoy counting my winnings!";
+                            }
+                            elseif($phrase == 2)
+                            {
+                                echo "Ha ha ha!";
+                            }
+                            elseif($phrase == 3)
+                            {
+                                echo "YES! Your money is mine!";
+                            }
+                            elseif($phrase == 4)
+                            {
+                                echo "Hand over the cash :)";
+                            }
+                            else
+                            {
+                                echo "Extra cheese on my burger tonight :)";
+                            }
+                        ?>
+                    </b><br>
+					Snargan takes <b>ALL</b> your money!
+					<p></p>
+					<center>
+						<form action="doubleornothing.phtml" method="get">
+							<input type="submit" value="Try again...">
+						</form>
+					</center>
+				</center><br clear="all">
+			</td>
+		</tr>
+	</table>
+    </center>
+</body>
+</html>

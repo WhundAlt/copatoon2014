@@ -1,0 +1,44 @@
+fearofheights2
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                      x
+x                      bL              x
+x     b                 bGb  b      b  x
+x      b                 bbbbbb    b   x
+x   b   b                 b  b    b    x
+x        b                bmmb   b    bx
+x         b               bbbb  b      x
+xb         b                   bx      x
+x           b                 b x   b  x
+x            b               b  x      x
+x   b         b+++++++++++++b   x      x
+x              bbbbbbbbbbbbb    x     bx
+x                               x      x
+xb                              x      x
+x                          +++++x   b  x
+x                          xxxxxx      x
+x   b                           x      x
+x                               x     bx
+x                               x      x
+xb                              x      x
+x                               x   b  x
+x    +++++++++++++++          D x      x
+x   bbbbbbbbbbbbbbbbxxxxxxxxxxxxx      x
+x                                     bx
+x                                      x
+x              "                       x
+x              "bbbbbbbbbbbbb       b  x
+xmmmm          "bbbbbbbbbbbbbb         x
+xxxxx          "bbbbbbbbbbbbbbb        x
+x              "bbbbbbbbbbbbbbbb      bx
+x              "bbbbbbbbbbbbbbbbb      x
+x   >        V "bbbbbbbbbbbbbbbbbb     x
+x    >     V   "bbbbbbbbbbbbbbbbbbb b  x
+xxxx  > V|K|K|K"bbbbbbbbbbbbbbbbbbbb   x
+x  >^    |K|K|K"bbbbbbbbbbbbbbbbbbbbb  x
+x   >^   |K|K|K"bbbbbbbbbbbbbbbbbbbbbb x
+x        |K|K|K"bbbbbbbbbbbbbbbbbbbbbbbx
+x#  > ^ >|K|K|K"bmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

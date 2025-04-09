@@ -1,0 +1,46 @@
+Hectic Horrors.
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      ||    ooooooooooo                 x
+x      ||    ooooooooooo                 x
+xx# xx ||    ooooooooooo                 x
+xx  zz>||> V KKKKKKKKKKK                 x
+xxxxxx|||    |||||||||||                 x
+x     |||  > V                           x
+x     |||                                x
+x            > ^                         x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+x zzzzx                                  x
+x zzzzx                                  x
+x zzzzx              o                   x
+x xzzzx            o o  o                x
+x xzxxx         KKKKKKKKK                x
+x xzzzz         |||||||||                x
+x+====" " "  "                D          x
+x+  1 " " "  "              [===         x
+x+    "   "  "       =                   x
+x+    "      "                 =   ++    x
+x|    "      " +        =          ++    x
+x     "   V <" =   =               ++    x
+x                       G         ====   x
+x =""""""" """"" """""""""""""""""""""   x
+x        " "   "  "                      x
+x        " "   "  "                      x
+x        " "   "^    <  +                x
+x                     =[=                x
+x                                        x
+x                     +                  x
+x                     =                  x
+x                       +                x
+x                       =                x
+x                                        x
+x                                        x
+x^        <<<          L                 x
+xmmmmmmmmmmmmmmmmm44444mmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

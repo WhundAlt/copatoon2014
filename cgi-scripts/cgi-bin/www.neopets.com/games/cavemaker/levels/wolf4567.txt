@@ -1,0 +1,54 @@
+Going Down?
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                      xxxxxxxxxxxxx    x
+x     o                             +  xxxxxxxxxxxx     x
+x#   [=]      [===]K               +++ xxxxxxxxxxxx  D "x
+xxx           mmmmmK              +++++xxxxxxxxxxxx xxx"x
+xxxxxxx[=]  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxuxxx"x
+xxV                                   <xxxxxxxxxxxx+xxx"x
+xx xxxx     xxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxzxxx"x
+x           xxxxxxxxxxxxxxxxxxxxxxxxxx^xxxxxxxxxxxxzxxx"x
+x           wwwwwwwwwwwwwwwwww      V</xxxxxxxxxxxxzxxx"x
+x                          </ </   </  xxxxxxxxxxxxzxxx"x
+x                          </ </   </  xxxxxxxxxxxxzxxx"x
+x                                </</  xxxxxxxxxxxxzxxx"x
+x          >                  V  </</  xxxxxxxxxxxxzxxx"x
+xxKxxxxxxxxx                  >       ^xxxxxxxxxxxxzxxx"x
+x          xmmmmmmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxzxxx"x
+x          xxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxzxxx"x
+x          K>        Vxxxxxxxxxx       xxxxxxxxxxxxzxxx"x
+xxxxxxxx   K xxxxxxxx xxxxxxxxxx+  o  +xxxxxxxxxxxxzxxx"x
+xK     x   K xxxxxxxx xxxxxxxxxxxo o oxxxxxxxxxxxxxzxxx"x
+xV   <|xx xx^xxxxxxxx xxxxxxxxxxxx|||xxxxxxxxxxxxxxzxxx"x
+x []Kx|      <                </>  ^  xxxxxxxxxxxxxzxxx"x
+x   Kx|      </      <        </>  V  xxxxxxxxxxxxxzxxx"x
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx|xxxxxxxxxxxxxxxzxxx"x
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxx x      xxxxxxxxxxxxzxxx"x
+x>                             ^x      xxxxxxxxxxxxzxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+    +xxxxxxxxxxxxzxxx"x
+xVVVVVVVVVVVVVVVVVVVVVVVVVVVV  Vx]    [xxxxxxxxxxxxzxxx"x
+x//////////////////////////// </x      xxxxxxxxxxxxzxxx"x
+xVVVVVVVVVVVVVVVVVVVVVVVVVVV/V/^x      xxxxxxxxxxxxzxxx"x
+x VVV VVV VVV VVV VVV VVV   / ^<x      xxxxxxxxxxxxzxxx"x
+x                           /   xKKK   xxxxxxxxxxxxzxxx"x
+x  VV      V V  VV     VVV V/V  xx[===]xxxxxxxxxxxxzxxx"x
+x                           /   xx     xxxxxxxxxxxxzxxx"x
+xVVV  VV  VV     V V      V<V>V xx     xxxxxxxxxxxxzxxx"x
+x          VVV    VVVV          xx     xxxxxxxxxxxxzxxx"x
+x  VVV                VV        xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxxxxxxxxxxxzxxx"x
+x                              ^xx     xxxxxxxxxxxxzxxx"x
+x                               xx     xxVxVxVxVxVxVxxx"x
+x                              Kxx     xx x x x x x xxx"x
+x||||                          Kxx     xx^x^x^x^x^x^xxx"x
+x>>>|                      ++ ++       x1             x"x
+x>>>|                      +++++                       "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

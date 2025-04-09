@@ -1,0 +1,43 @@
+Cloudy Caverns
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            xxxxxxxxxxxxx
+xxxxxxxxxxxwwwwwwww          xxxxxxxxxxxxxxxxwwwxxxxxxxxxxwwwwwwwxxxxwwwwwwwwwxxxxxxxxxxxxxxxxxxx                   wwxxxxxxx
+xxxxxxwwww              +     wwxxxxxxwwwxxww   xxxxxxwww        wxxw         wwxxxxxxxxxwwwwxww                       wwwxxx
+xxxwww              xxxxxx       wxxxw   wx     wwxxxw            xw            wxxxx        w        xx xxxxxx  +        wwx
+xxw          xxxxxxxxxxxxxx       xxw     w       wxx             w              wxx                xxx  wwwxxxxxxxx       xx
+xw      xxxxxxxxxxxxxxxxxxxx       xx              xw                              x             xxxxxw                   xxx
+xx     xxxx       xxxxxxxxxxxxx     xx             w                    xxxx                  xxxxxxww                xxxxxxx
+xw    xxx               xxxxxx     xxx                                xxxxxxxx           +  xxxxxxww        +     xxxxxxxxxxx
+x    +xx                  xxx     xxxxx                              xxxxxxxxxx        xxxxxxxwwww         xxx       xxxxxxxx
+x    xxx     xxxxxx       xxxxx     xxx          +               + xxxxwwwwxxxxxxxxxx  wxxxwww             wwxxx      xxxwxxx
+x    xxxxxx   xxxxxxx      xxx"   +xxxx        xxxxxxxx        xxxxxwww    wwwxxxxxx    www           m      wxxx      xw wxx
+x    xxxx      xxxxxxx+    xx "  xxxxxx        wwwxxxxxxxx   xxxxwww       m  wwwwww                mmxmm   mxxxx+     w   xx
+xx    xx     +xxxxxxxxx   xxx " xxxxxx            wwxxwwww   wwww        mmxm         mm          mmxxxxxmmxxxxxxxx        wx
+xx     x    xxxxxxxxxxx  xxxxx" xxxxxx1             xw             mmm  mxxxxmmmmmm  mxxmmm   mmmmxxxxxxxxxxxx   xxxx       x
+xxx    x      xxxxxxxx   xxxxx"xxxxxxx              xxm      mmmmmmxxxmmxxxxxxxxxxxmmxxxxxxmmmxxxxxxxxxxxxxxx      xxxx    xx
+xxx   xxxx    xxxxxxxx    xxxx"xxxxxxx             xxxxmmmmmmxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxx   xx                xx
+xxx   xx     xxxxxxxxxx   xxx "xxxxxx1             wxxxxxxxxxxxxxxxxxxxxx            xxxx    xxxxx        x               xxx
+xx         xxxxxxxxxxxx  xxxx " xxxxxx              xxxxxxxxxxxx   xxxx               xx                             + xxxxxx
+xx       xxxxxwwwwwxxx   xxxxx" xxxxxxx        + xxzxzzzzzxx         x                                       x      xxxxxxxxx
+xxx + xxxxwww      ww     xxx "  xxxxx        xxxxxzzzzzzzz                                    x            xx    xxxx    xxx
+xxxxxxxxw                 xx  "   xxx       xxxxxxxzzzGzzxxx+ x         x                     xx           xxxx  xx      # xx
+xxxxxxx                    xx "           xxxxxxxxxxxxxxxxxxxxxx        xx x           x     xxxxxxx +   xxxxxxxxxx         x
+xxxxxx~        D          ++xxx        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx  +xxxxxx         xxx +xxxxxxxxxxxxxxxxxxxxxxx     o  xxx
+xxxxxx+++    xxxxx      ++++xx  u   xxxxx            xxx.....xxxxxxxxxxxxxxxxx       xxxxxxxxxxxxx       xxxxxxxxx     xxxxxx
+xxxxxxx++++xxxxxxxxxx++++xxxx     xxxx       +                 xxxxxxxxxxxxxxx      xxxxx......x     +     xxxxxxx=====xxxxxx
+xxxxxxxxxxxxx.......xxxxxx      xxx       xxxxxxxxxxxxxxxxx       xxxxxxxxxxx      xxxx             xxx   xxxxxxxx      xxxxx
+xxxxx               bxxx      xxx      xxxxxx         xxxxxxxx     xxxxxxxx      +xxx     xxxx     xxx   xxxxxxxx       xxxxx
+xx+              +b++xx     xxxx     xxxxxx     +        xxxxxxx                xxxx    xxxxxxxx   xx   xxxxxxx     x    xxxx
+xx++          b+bb+bxx    +xxxx    xxxxxx     xxxxxxx     xxxxx               xxxxx    xxxxxxxx   xxx+  xxxxxx     xxx   xxxx
+xxx+       b+b+bxxxxx    xxxxx    xxxxx     xxxxxxxxxxx           +  xx      xxxxx   +xxxxxxxx   xxxxx   xxx     xxxxx    xxx
+xxxx      b+xxxxxxxxx    xxxxx     xxx     xxxxxxxxxxxxxx        xxxxxxx    xxxx     xxxxxxxx    xxxxxx       + xxxxxxx   xxx
+xxxx      xxxx...xxxx    xxxxxx              xxxxxxxxxxxxxxxxxxxxxxxxxxx            xxxxxxxxx     xxxxxx     xxxxxxxxxxx   xx
+xxx                xx     xxxxxx                x....xxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxx+    xxxxx  xxxxxxxxxxxxxx   xx
+xxx                 xx     xxxxxxx  +     m                        xxxxxxxxxxxxxxxx.......xxxxxx    xxxxx  xxxxxxxxxxxxx   xx
+xx                         xxxxxxxxxxxm  mxm           mm               xxxxxxxxx            xxxx     xx     x....xxxx     xx
+xxmm   mmm    mmmm     mmmxxxxxxxxxxxxxmmxxxmmm      mmxxm    mmmm                  xxxxxx                                xxx
+xxxxmmmxxxmmmmxxxxmmmmmxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmxxxxxmmmmxxxxmmm     +       xxxxxxxxxxx   +  xx         xxx +      xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,71 @@
+the_great_race
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                      b                                           x
+xxxxxxxxxxxxxxxxxxxxxxxbxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x                      b                                           x
+x                      b                                           x
+x      ~               b                                           x
+x                      b                                           x
+x                      b                            /              x
+x                      b     /              /                      x
+x    4                 b                         /                 x
+x D         4          b            /                         4    x
+x                      b                           /               x
+x                #     b       /                                   x
+x    4                 b                   /   /                   x
+x                      b   /                                       x
+x                      b             /                4            x
+x                      b                            /              x
+x                      b                    /                      x
+x                      b       /   /                               x
+x                      b                                           x
+x  5+ 5+  5++  5+ 5+ 5+b++5 +5 +5 ++ 5 + 5 + 5 + 5+ 5  +++++++++++ x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+x                                                               x."x
+xKKKKKK                                                         x."x
+x ... K       4                                                 x."x
+x ... K                                                         x."x
+x     K                                   ...                   x."x
+x     >       <xxxxx                      ...                   x."x
+x xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx."x
+x"              ...                       ...                   x."x
+x"                                                              x."x
+x"                                                              x."x
+x"                                                              x."x
+x"                                                               ."x
+x"++++5 ++++5 +++++5 ++++++5 ++++++5+++++++5+++5 +++5 ++ 5        "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

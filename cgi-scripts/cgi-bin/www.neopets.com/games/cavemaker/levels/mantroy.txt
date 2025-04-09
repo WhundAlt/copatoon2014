@@ -1,0 +1,77 @@
+the_mini_maze_1
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xwwwwwx                                                                                            x
+x #   x                                                                                            x
+x     x                                                                                            x
+x     x                                                                                            x
+x     x                                                                                            x
+x     x                                                                                            x
+x     x                                                                                            x
+x     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x     x                             x                                                              x
+x     x                             x                                                              x
+x     x                             x  +                                                           x
+x     x                             x  K                                                           x
+x     x                             x                                                              x
+x     x                             x                           xxxxxxxxx                          x
+x     x                             x                           x       x                          x
+x     x                             x                           xxxx    x                          x
+x     x                             x                              x    x                          x
+x     x                             x                              xxxxxx                          x
+x     x                             x                                   x                          x
+x     x                             x                           xxxxxxx x                          x
+x     x                             x  ^                +        +x   x x                          x
+x     x                             x xxxxxxxxxxxxxxx   x    x   +x   x x                          x
+x     x                             x      x        xmmmxmmmmx   +x   x x                          x
+x     x                             x      x        xxxxxxxxxxxxxxx   x x                          x
+x     x       xxxxx    xxxx  xxxx   x[]    x     K   wx               x x                          x
+x     x       xxxxx    x++   x      x     +x   xxx=   x               x x                          x
+x     x      mx   x    x++   x      x    mxx   xxx    x               x x             x            x
+x     xm  xxxxx   x mm xxxxxxx      x    x x[ =xxx   +x               x x             x  [==]      x
+x    xxx          xxxxxxww|       <<x  mxx x    xx    x               x x             x         +  x
+x      xxxxxxxxx= K       xxxxxxxxxxx  xx  x    xx=   x               x x             x         +  x
+x      wwwwwwwww" K       x           xx  xx    xx    x               x x             x      [==]  x
+x               " K       x           x   x     +x   +x               x x             x            x
+x               " KK      x           x  xx+ ===]x    x          x    x x             x    +       x
+x                 oo      x  "xxxxxxxxx xx+ KKKbKx=   x          x   +x x             x   [==]     x
+x                 oo      x+ "x     xxxxx+ =KKKGKx    x          x xxxx x             x            x
+x    xxxxxxxxxxxxxxx      x  "x     xwxx+ =KKKKbKx   +x          x      x   D         x         +  x
+x=    x   b+b+b+b         x+ "x     x    =KK     x    x          xxxxxxxxxxxxxxxxxxxxxx      [==]  x
+x     x xoxxxxxxxxxxxxxxxxx  "x     x          3 x=   x          x                    x    +       x
+x    "x xo                   "x     x +  +   +   x    x         +x                    x    [==]    x
+x    "x xK                   "x     x[=========] x   +x          x                    x         +  x
+x=    x xK                   "x     x          x x    x          x                    x     "[==]  x
+x    "x x                     x     xxxxxxx  x x x=   x          x                    x """""      x
+x    "x x^   5                x     xbbbbbb  xmx x    x          x                    x""          x
+x    "x xb[=============]xxxxxx     xbxxxxxx xxx x   +x          x                    x"           x
+x    "x xb               x          x      x     x    x          xxxxxxxxxxxxx        x"           x
+x    "x xb               x          xxxxxx xxxxxxx=   x         +x           x        x"           x
+x    "x xb              +x          x+   x       x    x          x           x        x"           x
+x    "x xb[=============]x          x+   xxxxxxx x   +x          x           x        x"           x
+x    "x x=               x          x+         x x    x          x           x        x  "        "x
+x   " x x"               x          xx"        x x=   x          x           xxxxxxxxxxxx"        "x
+x  "  x x                xxxxxxxxxxxx "        x x    x          x           x          x"        "x
+x  "  x x                x          x        x x x   +x          x+          x          x"        "x
+x  "  x x[=============] x          x xxxxxx x+x x    x         +x+          x          x"        "x
+x  "  x x  v            "x          x    xxx xxx x=   x          x+          x + o K    x"        "x
+x     x x   ||||||||    "x          xxxx xxx     x    x          x+          x K K K    x"        "x
+x=    x x           |   "x          x++x xxxxxxxxx   +x          x+          x          x"        "x
+x     x x            |  "x  o       x++x x ++ ++ x    x          xxxx        x ^ ^ ^    x"        "x
+x=    x x           |   "x  K    <  x++x x ++ ++ x=   x          x   "x      x b b b    x"        "x
+x     x x            |  "x          x++x         x    x          x    x      x b b b    x"        "x
+x=    x x   >  ||||||   "x          x++xxxxxxxxx x   +x         +x    x      x b b b    x         "x
+x     x x      KKKKKKK  "x          x    wwwx    x    x          x   xx      x b b b   xxx||||||| "x
+x   = x x |||||||||||||||x          x    mmmx    x=   x          x    x      x b b b   xxx||||||| "x
+x     x x=               x          x  xxxxxx xxxx    x          xx   x      x b b b   xxx||++||| "x
+x     x x"               x    b b   x         x  x   +x          x    x      x b b b   xxx||++||| "x
+x   = x x                x    b b   x xxxxxxxxx  x=   x          x   xx      x b b b   xxx||||||| "x
+x     x x                x    b b   x x          x    x          x    x      x b b b   xxx||||||| "x
+x=    x x[=============] x    b b   x x          x   +x         +xx   x      x b b b              "x
+x     x x               =x > bbbb^  x xxxxxxxxxxxx=   x          xx   x      x b b b         /    "x
+x=    x x                x          x            x    x          x   xx      x b b b   x          "x
+x     x x    m      m   =x          x            x    x          x   x+      x         x           x
+x+++++x      K      K    x          b            m               m   x+                x           x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

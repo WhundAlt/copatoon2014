@@ -1,0 +1,46 @@
+NYA NYA!
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxbbb b b      x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxb b bbb      x
+xx xxxxxxxxxxxxxxxxxxxxxxxxxbbb b bb   + x
+xx#zzzzzzzzzzzzzzxxxxxxxxxxx           | x
+xx=xxxxxxxxxxxxxzxxxx xxxxxx           | x
+xx   xxx  x  x   xxx   xxxxx        |  | x
+xx   xxx  x  x + xx  +  xxxx        |  | x
+xx z  xx  z  x bbx   ]  xxxx        |  | x
+xx z+  x  zx   mmx   z   xxx      | |  | x
+xx zx+ z  zz   xx  =zzz  xxx  /   | |  | x
+xx zxx+z  xxxb x   zzzzz  zz  / | | |//| x
+xx zxxxx  xxxb"z       ]  zz  | |/|/|//| x
+xx zxxxx  xxx  z   +zz    xx|||||||||||| x
+xxmmxxxxmmxxxmmx=== zz  b xx             x
+xxxxxxxxxxxxxxxxmmmmmmmmmmxxmmmmmmmmmmmm x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x     oooo+ooooo                         x
+x     oooooooooo                         x
+x     oooooooooo                         x
+x     ||||||||||                 wwwwwww x
+x                      [ =               x
+x  G             b     ///    ]          x
+x              ^  <bbb     ]^^ ^^] ]] ] =x
+x " "            mmmmmmmmmmmmmmmmmmmmmmmmx
+x             xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x" " "      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      "]]         >       K/////// +    x
+x   w  "                >  KK////// K    x
+xL       ""  /  >  ^   <^  KK//////      x
+x]       ""  |  >      ^   KK//////      x
+x    =       |  >        V KK//////   xx x
+x           []]]K        > Kzz|||||      x
+x  ]              xxxxzzxxx Vz||||| x    x
+x                 xxxxzzwxx  xxxx |      x
+x                 xwwwww wx       |      x
+x                 x   o           |      x
+x                 x   o           |      x
+x                 x + o    /<     |      x
+x                 x D o/  x bbbbb |b     x
+xmmmmmmmmmmmmmmmmmxxxxxxxxxmmmmmmm|mmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

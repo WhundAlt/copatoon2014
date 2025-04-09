@@ -1,0 +1,1 @@
+<?php if($_GET[n]==rand(0,9)){echo y;}else{echo n;}?><form><input type=number name=n><input type=submit></form>

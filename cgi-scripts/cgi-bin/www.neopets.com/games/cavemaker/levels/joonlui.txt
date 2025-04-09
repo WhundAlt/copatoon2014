@@ -1,0 +1,104 @@
+681245 Clubhouse
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"+xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx + x" xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      "  xxx  xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo      "     z+xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxK  /   "   |K xxxxxx
+xxxxxxxxxxxxxxx++x  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   /  x#">  |K+xxxxxx
+xxxxxxxzzz xx" ||> <xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ///  xxx^  VxxLxxxxx
+xxxxxxxzz+   "    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx+   // xxx||||||xxxxxx
+xxxxxzzzxxx  ">  ^"xxxxxxx  xxxxxxxxxxxxxxxxxxxxxx     xx+x    +xxxxxx
+xxxxxzzzx " ""    "xxxxx       xxxxxxxxxxxxxxxxxV<^V<x ww xx x xxxxxxx
+xxxzzzxxx ""+"    " xx>     <   xxxxxxxxxxxxxxxxV V< x   bxxxx xxxxxxx
+xxxzzzxx  "  "    "       xxx   mxxxxxxxxxxxxxx|V >V xxxxxxxxxxxxxxxxx
+xzzzxxxx  " "" xx       xxxxxx  xxxxxxxxx  x   || V<xxxxxxxxxxxxxxxxxx
+xzzzxxx+" "  "xxxxxxxxxxxxxxx  xxxxxxxxx1      |>^<xxxxxxxxxxxxxxxxxxx
+xzxxxxx " "" "xxxxxxxxxxxxxxx    xxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxx
+xzzzxxx"  "  " +xxxxxxxxxxxxxx   xxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzzzx "   " xxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxx
+xxx u  "" "xxxxxxxxxx                           xxxx            xxxxxx
+xxx      ""  xxxxxxxx    xxxxxxxxxxxxxxxxxxxxx   xx       +   K+xxxxxx
+xxbxx     ""  xxxxxxx          "        "  / x  >  V[[[[[[[[b[K[xxxxxx
+xxbbbx +  "   xxxxxxx          "        "  / xxx   >     2    K xxxxxx
+xxbbbxxx  "  +xxxxxxxxxxxx     "        "  /+xxxxxx [[[[[[[[[[[[xxxxxx
+xx+xb     "5 xxxxxxxx    x     "        "[[[[x    xx   >   <   +xxxxxx
+xxxxb     xxxxxxxxxxx    x   " "+       "    x    xxxxxxxxxxxxxxxxxxxx
+xxxxxx " xxxxx xxxxxx    x   "  "    "  "    x"xx"xxxxxxxxxxxxxxxxxxxx
+xxx    "xxxxxxxxxxxxx    xxx "  "    "       x"xx"xxxxxxxxxxxxxxxxxxxx
+xx     "xxxxxxx xxxxx        "       "       x"xx"xxxxxxxxxxxxxxxxxxxx
+xx+    " | xxxxxxx xx    x   "    "  "       x"xx"xxxxxxxxxxxxxxxxxxxx
+xxxx    K| +xxxxxxxxx    x   "    "  "        "xx"x                xxx
+xxxx>>> K|xxxxxxxxxxx    x   "    "  +        "xx"                 xxx
+xxxxxxxxxxxxxxxxxxxxx             "    mm     "xx"                 xxx
+xxx xxxxxxxxxxx xxxxx    x        "    xxxxxxxxxxxx   G            xxx
+xxxxxxxxxxx xxxxxxxxx    x        "          xxxxxxxxzzzzzzzzzzxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx    x        "          xxxxxxxxzzzzzzzzzzxxxxxxx
+xxxxxx xxxxxxxxxxx xx    x                   xxxxxxxxzzzzzzzzzzxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx                        xxxxxxxxmmmmmmmmmmxxxxxxx
+xxxxxxxxxxxx  " xxxxx    x   m    Kmmm       xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxx  + "  xxxx    x   KKmmK KKKK m    xx  wxxxxxxxxxxxxxxxxxxxx
+xxxxxx  x====="    w     x     KK      KKK   x    xxx      |<xxxxxxxxx
+xxxxx         "          x                   x    xx  +    |<xxxxxxxxx
+xxxxx+        "  x  xx                          x x   z    |<xxxxxxxxx
+xxxxxxxx"     "  xxxxx                          x          |<xxxxxxxxx
+xxxxxxx "  o    xxxxxxxx                        x >        |<xxxxxxxxx
+xxxxxxx "      xxxxxx+++xxxxxx           xxxxxxxxxx   x    |<xxxxxxxxx
+xxxxxxxx"m   mmxxxxxx||||x                   x>  Vxx       |<xxxxxxxxx
+xxxxxxxx+xmmmxxxxxxxx VV x      xxxxxxx      x    xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx    x     xxxb bbbx     x    xxxxxxxxxx||||xxxxxx
+x>wwwwwwwwwwwwwwwwwww          K xbbbb x [[[[x    xxxxxxxxxx||||xxxxxx
+x xxxxxxxxxxxxxxxxxxx    x  xxxxbx+bbDbx     x    xxxxxxxx||xxxx||xxxx
+x xxxx|||xxxxxxxxxxxx    x     xbb[[[[[x     x    xxxxxxxx||xxxx||xxxx
+x xxxx|||xxxxxxxxxxxx    xx    x  bb mmx    xx    xxxxxx||||xx||xxxxxx
+x xxxx|||xxxxxxxxxxxx    x     xxxxxxxx      x    xxxxxx||||xx||xxxxxx
+x xxxx|||xxxxxxxxxxxx    x                 x x    xxxxxx||||||xxxxxxxx
+x xxxx|||xxxxxxxxxxxx     xxxxxxxxxxxxxxx    x    xxxxxx||||||xxxxxxxx
+x xxxx|||xxxxxxxxxxxx    x+++x+++z+++x  xx   x    xxxxxx||||xxxx||xxxx
+x xxxx|||xxxxxxxxxxxx    x+++z+++z+++x   z        xxxxxx||||xxxx||xxxx
+x xxxxxxxxxxxxxxxxxxx    x+++z+++x+++x   z    ^     xxxxxx||||||xxxxxx
+x xxxx|||xxxxxxxxxxxx    xzxxxxxxxxx"x"xxxxxx K K> Vxxxxxx||||||xxxxxx
+x xxxx|||xxxxxxxxxxxx    x"  x+++x" "x"  z+++xxzxxx xxxxxxxxxxxxxxxxxx
+x xxxx|||xxxxxxxxxxxx    x"  z+++x" "x"  z+++x    x   "   "    "   xxx
+x xxxxxxxxxxxxxxxxxxx    x"  z+++x" "x"  x+++x    x>  "   "    "   xxx
+x xxxxxxxxxxxxxxxxxxx    xxxxxxx"xx"xxxxxxxx"x    xxx""   "  " ""  xxx
+x xxxxxxxxxxxxxxxxxxx        x  "x " x " z  "x    xxx"" """  "  "  xxx
+x xxxxxxxx   xx   xxx^       x  "x " z " z  "x    xxx"  "    "  "  xxx
+x xxxxxxV    <               x  "x " z " x  "x    xxx"mmmmmmmmmmm +xxx
+x xxxx                       x"xxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxx
+x xxxxV           <          z"             +x    xxxx|xxx|xxxxxxxxxxx
+x xxx     +       xxxxxxxx   z"    >       <+x    xxxx+x|x+xxxxxxxxxxx
+x xxx   |||||  xxxxxxxx      zxxxxxxxxxxxxxxxx    xxxx"x+x"xxxxxxxxxxx
+x xxxx>        Vxxxxxxx   "xxxxxxxxxxxxxxxxxxxmmmmxx x"x"x"xxx++++xxxx
+x xxxx V       <xxxxxxx   "                xxxxxxxxx x"x"x"xxx++++xxxx
+x xxxxx>mm mm^xxxxxxxxx   "                  xxxxx     b b    ++++xxxx
+x xxxxxxxxxxxxxxxxxxxxx   "   |   |                    b      ++++xxxx
+x xxxxxxxxxxxxxxxxxxxxxx      |   |   V             m     b xxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxx|||||||||||||||||||   xxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxx     " "       xxxxxxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   " "      xxxxxxxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx " "   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxm" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxx   xxxxxxxxxxxxxxxxxx
+x xxxxxxxxxxxxxxx++xxxxxxxxx                         xxxxxxxxxxxxxxxxx
+x xxxx    xxxx+++++++xxxxxx                             xxxxxxxxxxxxxx
+x xxV  +  "xVVVVVVVVVVVxxx          m     xxxxxxxxx"     xxxxx xxxxxxx
+x xx xxxx "|||||||||||||x   xxxxxxxxxxxxxxx+ xxxxx "  " "  x  xxxxxxxx
+x x  x  +x"                 xxxxxxxxxxxxxxx    xx  "  "+"  w  xxxxxxxx
+x x  x   x"                xxxxxxxxxxxxxx          "  " "     xxxxxxxx
+x^     o x"  V    <      " xxx                     "  " "       x xxxx
+xx  ^    x"   <     ^    "xxxxxxxxxxxxxxxx+x1      "              xxxx
+xxxxxxxx x" >            "   xxxxxxxxxxxxxxx   x   "      xmxbx     xx
+xxxx+|  <x"              "     xxxxxxxxxxxxx m x   "  xmx xxxbx     xx
+xxxx+|    "              "     xxxxxxxxxxxxxxx x mxx  xxx +xx+x+ ++xxx
+xxxxx>    "              "  ~  xxxxxxxxxxxxxxxx+ xxxmxxxxxxxxxxxmxxxxx
+xxxxxxbbx "  x           "    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx         ++ " x  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx^ x x mmxx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

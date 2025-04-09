@@ -1,0 +1,56 @@
+¤‡۩ŴĦÅŦŲÞڴ ڜ
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKKKKKKKKKKKx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKKKKKKKKKKKx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKKKKKKKKKKKx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKKKKKKKKKKKx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKKKKKKKKKKKKKKKKKx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxVVVVVVVVVVVVVVVVVVVVVVVVVxx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxK|||||||||||||||||||||||<xx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxx                         xx
+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxKxxxxxxxxxxxxxxxxxxxxxxx                         xx
+xxKx         zK   ||||||||||||||||     > V            >    Vzzz                         "x
+xx x         zK|  VV||||V|||V|||V|                    ||| "|zzz                        ^"x
+xx+x         zK|  >>||||>|||>|||>|    <^              ||| "|zzzKKKKKKKKKKKKKKKKKKKKKKKKK"x
+xxKx         zK|KKKKKKKKKKKKKKKKKKKKKKKKK||||||||||||K||| "|zxx                         "x
+x            zK|KKKKKKKKKKKKKKKKKKKKKKKKK||||||||||||K||  "| xx                         "x
+x            zK|KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK||  "| xx                        z"x
+x #      D   zK|<|||||||||||||||||||||KKK|||||||||||||||  "| xx                        z"x
+xx^xxxxxxxx  xK| x                   |||||             | <"|+xx                       3z"x
+x ^          xK  x+           +               +       +   "|"xx                       xz"x
+x            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"|"xx                         "x
+x                    |<   <|<   <|<     <z xx             "|"xx                         "x
+x            K      | |  <|<|< <|<|<  ||<z xx+            "|"xx|||                      "x
+x            K     |   |<|<<<|<|<<<| | |<z xxbxxxxxxxxxxxx"|"xx|+|                      "x
+x            >    |<<3  |<    |   3<|    z zz+x           "|"xx|+|                      "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxzzx xxbx          +"|"xx|+|             +        "x
+x> |>                            VK"x    x xx+x          +"|"xx|+|                      "x
+x K|                             |K"x    x xxbx          +"|"xx|+|                      "x
+x K|                             |K"xmmm x xx+x          +"|"xx|+|                      "x
+x K|                             |K"x    x xxbx           "|"xx|+|                      "x
+x K|                             |K"x    x xxb            "|"xxxx|                      "x
+x K|                             |K"x    x xx+            "|"zzzx                       "x
+x K|                             |K"x    x xxx            "|"zzzx                       "x
+x^K|                             |K"xm  mx xLxx           "|"zzzx           +++         "x
+x"K|                             |K"x    x xGxx           "|"xxzx^xxxxxxxxxxxxxxxxxxxxxx"x
+x"K|                 +++     xxx  K"x    x xbxx           "|"zxzx|>  >  >     >       V "x
+x"+xxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxx    x xzxx           "|"zxzx                     V|"x
+x"oooooooooooooooooooooooooooooooooox    x zzxx           "|"zxzx                      |"x
+x"ooooooooooooooooooooooooooooooooooxm mmx zzxx    +      "|"zxzx                      |"x
+x"oooooooooooooooooooooooooooooooooox    x zxxx    ==     "|"zxzx                      |"x
+x"K<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<x    x zz x           "|"zxzx                     >|"x
+x"                                  x    x zz x   +   +   "|"zxzx                       "x
+x"                                  x    x xz x   [   ] ] "|"zxzx^                      "x
+x"                                  x    x Kz             "|"zxzxxxxxxxxxxxxxxxxxxxxxxxx"x
+x"++++++++++++++++++++++++++++++++K x    x Kx+     +     +"|"zxzxK++++++++++++++++++++++"x
+x"KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK^x    x Kx]     ]]]   ["|"zxzxKKKKKKKKKKKKKKKKKKKKKKK"x
+x"K<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<|xmmm x Kx             "|"zxzxKKKKKKKKKKKKKKKKKKKKKKK"x
+x"                                       x KV         <|  "|"zxzx||||||||||||||||||||||K"x
+x"                                       x K              "|"zxzx                       "x
+x"                                       x K<             "|"zxzx                       "x
+x"                                       x                "|"xxbx                       "x
+x"mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm^     x+   mm  mmm>m^mm" "xx> ^                      "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

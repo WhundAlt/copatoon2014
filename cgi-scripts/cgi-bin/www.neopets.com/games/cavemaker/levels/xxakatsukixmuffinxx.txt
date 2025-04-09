@@ -1,0 +1,28 @@
+Abyssal_End
+terrain 1
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx"  D                     xxx
+xx"===                     xxx
+xx"                        xxx
+xx"                  +     xxx
+xx"        +  b  +b +b    "xxx
+xxx++++Kb/bb //bb/bbbbbxxx"xxx
+xxx+LG+K//bb///b///bb/bxxx"xxx
+xxxK+++K|||||||||||||||xxx"xxx
+xxxxxxxKKKKKKKKKKKKKKKKxxx"xxx
+xxxxxxxK|K|K|K|K|K|K|K|xxx"xxx
+xxxxxxxKmmmmmmmmmmmmmmmxxx"xxx
+xxxxxxxKxxxxxxxxxxxxxxxxxx"xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx"xxx
+xxxxxxxx                  "xxx
+xxxxxxxx                  "xxx
+xx  > |K                  "xxx
+xx    |K bb  bb  bb  bb bb"xxx
+xx#>^ |Kb++/b++/b++b/++b++"xxx
+xx|||||x/xxb/xxb/xx/bxx/xx"xxx
+xxmmmmmxmxxmmxxmmxxmmxxmxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

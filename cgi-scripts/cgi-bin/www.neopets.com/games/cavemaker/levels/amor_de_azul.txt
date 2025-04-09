@@ -1,0 +1,51 @@
+The Offlander
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx+xxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxox xxxx   ww  + xxxxxx  KxxKx   xxxxxxx
+xxwxxxxxox    w       bb  xw    K  |     xxxxxx
+xx>xxox K            [==]       |  |     xxxxxx
+xx>  o                         <|< |     xxxxxx
+xxxxxKx ^        [==]           |  |  D  xxxxxx
+xxxxx| <|>              V       KKxKxxxxxxxxxxx
+xxxxx               5           Kxxxxxxxxxxxxxx
+xxxx           xxxxxxxx      xxxxxxxxxxxxxxxxxx
+xxx   xx xxxxxxxwxxxwxxx xxxxxxxxx  xwwxxxxxxxx
+xxx   wx xx  xxx       x xxxx            zzzxxx
+xxx=]  b               w    w            zzzzxx
+xxx    b                                 xzxzxx
+xxx   >|               3          KKK    xxxzxx
+xxxx  >|    m      m        <     K+b    xxxzxx
+xxxxx xx xxmxxx  /xx/       Kb xxxxxx====xxzzxx
+xxxxx  x  xxxxxxxxxxxxxx xxxxxxxx w      xxzxxx
+xxxx          w  xx   w     xw           xxzxxx
+xxx              x              L      KKxzzzxx
+xxx              x        b    bb+    bKKxzxzxx
+xxx"      m   b     2 bb|Vxxxxxxxxxxxxxxxxzmzxx
+xxx"x=xx xxxxxxxxxxxxxxx|Vxxxxxxx xx wxxxxxxzxx
+xxx"x x   xxxxxx  xxw xxx wxxxxx      xxxxxxzxx
+xxx"x         w    x           w      wxxxzzzxx
+xxx"    ^          x                   xxxzxxxx
+xxx"   >|          b                    xxzxxxx
+xxx    >|          bb            +b      xzzxxx
+xxx    >|  m       <bb     x    bbbb     xxzzxx
+xxxxx=xxxxxxxxxx   xxxxx   xxxxxxxxx[====xxxzxx
+xxxx  wx wxxxxx    wxx       xxxxxxx    "xxxzxx
+xxxxx        x      x        w   xxw    "xxxzxx
+xxxxw                             x     "xxxzxx
+xxx     #                               "xxxzxx
+xxx                                      xxzzxx
+xxxx                       4           + xzzzxx
+xxxx===xx            xx||||xxx        bbxxzxxxx
+xxx    xxx         mxxx   bxxxxxx   xxxxxzzzzxx
+xxx++   xxxxbb   mxxxxx  b+xxxxxxx xxxxxxzxxxxx
+xxxxb bxxxxxxbb mxxxxxx  xxxxzxxxxmxxxxxxzxxxxx
+xxxxxxxxxxxxx==xxxxxxxxmmxxxxzxxxxxxxzzzzzxxxxx
+xxxxxxxxxxxxx  xxxxxxxxxxxzzzzzzzzzzzzzxxxxxxxx
+xxxxxxxxxxxxxG   zzzzzzzzzzzzxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxKb  zzzzzzzzzzxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

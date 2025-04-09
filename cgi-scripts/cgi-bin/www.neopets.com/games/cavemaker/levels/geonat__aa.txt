@@ -1,0 +1,54 @@
+Plataforms
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x              oox  o   ox    xxxxxxxxx                    x
+x    ||        bbx  b<> bx   Lxxxxxxxxx                    x
+x    ||      > ||x   ^^  x xxzxxxxxxxxx                    x
+x    ||          x       x x  xxxxxxxxx      ++   ++       x
+x> D ||   #> ^   x       x[x  xxxxxxxxx  b b [[   [[   +   x
+x xxxxxxxxxxxxx +x  +xx +x x+ xxxxxxxxx               [[   x
+x xooooooooooox [x  [xx [x x  xxxxxxxxx   b     ++         x
+x xooooooooooox  x  +xx  x[x +xxxxxxxxx         [[       + x
+x xooooooooooox+ x  [xx +x x  xxxxxxxxx    b b b        [[ x
+x xooooooooooox[ x   xx [x x  zzzzzzzzz           ++ ++    x
+x xooooooooooox  x  +xx  x[x+ zzzzzzzzz           [[ [[    x
+x xbbbbbbbbbbbx +x  [xx +x x  zzzzzzzzz   +   +            x
+x x|||||||||//x [x   xx [x x  xxxxxxxxx b b b b            x
+x x           x[ x  +xx  x[x +xxxxxxxxx  [ [ [  [[         x
+x x           x  x  [xx +x x  xxxxxxxxx             b      x
+x x           x+ x   xx [x x  xxxxxxxxx+                   x
+x x^         ^x[ x  +xx  x[x+ xxxxxxxxx+        KK    b    x
+x x|||||||||||x  x  [xx +x x  xxxxxxxxx+                   x
+x x           x +x   xx [x x  xxxxxxxxx+                b  x
+x x           x [x  +xx  x[x +xxxxxxxxxK b b  [[           x
+x x           x  x  [xx +x x  xxxxxxxxx                    x
+x x           x  x   xx [x x+ xxxxxxxxx         K     b    x
+x x           x+ x  +xx  x[x  xxxxxxxxx                    x
+x x           x[ x  [xx +x x  xxxxxxxxx          K         x
+x x           x  x   xx [x x  xxxxxxxxx                 b  x
+x x           x +x   xx +x[x  xxxxxxxxx                    x
+x x           x [x  [xx [x x  xxxxxxxxx           K        x
+x x           x  x   xx  x x +xxxxxxxxx               b    x
+x x           x+ x   xx +x[x  xxxxxxxxx  + + + + + +       x
+x x           x[ x  [xx [x x  xxxxxxxxx == [ [ [ [ [       x
+x x           x  x   xx  x x  xxxxxxxxx                 +  x
+x x           x  x   xx +x[x+ xxxxxxxxxK                   x
+x x           x+ x  [xx [x x  xxxxxxxxx               [    x
+x x           x[ x   xx  x x  xxxxxxxxx                    x
+x x           x  x   xx +x[x +xxxxxxxxx Kbbbbbbbbbb     [  x
+x x           x  x  [xx [x x  xxxxxxxxx                    x
+x x      ++   x +x   xx  x x  xxxxxxxxxK                   x
+x x      ==  +x [x   xx +x]x  xxxxxxxxx                    x
+x x          =x  x  +xx [x]x+ xxxx+zzzz                    x
+x x   ++      x+ x  [xx  x x  xxxx+zzzz K                  x
+x x   ==      x[ x   xx +x x +xxxx+zzzz                    x
+x x       ++  x +x  +xx [x[x  xxxx+]KKK                    x
+x x ++    ==  x [x  [xx  x    xxxx+ KKKK  + + + + + + + +  x
+x x ==        x+ x  +xx +x    xxxx+]KKK                    x
+x x            [ x  [xx [x x  xxxx+ KKK Kb K b K b b K b b x
+x xG        ^<       xx    x +xxxx+]KKK                    x
+x xxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxx                    x
+x^                          <xxxxxxxxxxmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,61 @@
+Stalactite Stadium
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                               x
+x                                                                               x
+x                                      KKK                                      x
+x                                   KKKKxKKKK                                   x
+x                                KKKKxxxxxxxKKKK                                x
+x                             KKKKxxxwwwwwwwxxxKKKK                             x
+x                          KKKKxxxwwwKKKKKKKwwwxxxKKKK                          x
+x                       KKKKxxxwwwKKKK=====KKKKwwwxxxKKKK                       x
+x                    KKKKxxxwwwKKKKKKKKKKKKKKKKKKKwwwxxxKKKK                    x
+x                 KKKKxxxwwwKKKK=================KKKKwwwxxxKKKK                 x
+x              KKKKxxxwwwKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKwwwxxxKKKK              x
+x           KKKKxxxwwwKKKK=============================KKKKwwwxxxKKKK           x
+x        KKKKxxxwwwKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKwwwxxxKKKK        x
+x     KKKKxxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxKKKK     x
+x  KKKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKKKK  x
+xKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKx
+x  KKKKK                                                                 KKKKK  x
+x  KKKK                                                                   KKKK  x
+x  KKK                                                                     KKK  x
+x  KKK                                                                     KKK  x
+x  KKK                               +++++                                 KKK  x
+x  KKK                               +++++                                 KKK  x
+x  KKK                                +++                                  KKK  x
+x  KKK                                 +                                   KKK  x
+x  KKK                                +++                                  KKK  x
+x  KKK                               [===]                                 KKK  x
+x  KKK                               [===]                                 KKK  x
+x  KKK                  +   +                     +   +                    KKK  x
+x  KKK                 + + + +         D         + + + +                   KKK  x
+x  KKK                    +          xxxxx          +            xx        KKK  x
+x  KKK                    +     KKKKKxxxxx          +            xx        KKK  x
+x  KKK                    +     KKKKKxxxxxooooo     +            xxx       KKK  x
+x  KKK       xxxxxxxxxxt  +   xxKKKKKxxxxxoooooxx   +   xxxx     xxx       KKK  x
+x  KKKG  xxxxxxxxxxxxxx   +                         +   xxxxx    xxx       KKK  x
+x  KKKxxxwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxx     KKK  x
+x  KKKwww    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwn xxxxx     KKK  x
+x  KKK>   )    +    b    +    ^   ^                       >K     xxxxx     KKK  x
+x  KKK xx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  KKK  x
+x  KKK w  nwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxxxxxxxxx KKK  x
+x  KKK^|>                           <xxxxxxxxxxxxxxxxxxxxxxxxxxxxx>V>>V>>VxKKK  x
+x  KKKxx"xxmmmmmmmmmmmmmmmmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx >^ >^ VxKKK  x
+x  KKKxx"xxxxxxxxxxxxxxxxxxxxx              /<wwwwwwwww"+">""""          |3KKK  x
+x  KKKw nxwww www wwww ww wwww              /(         """"""""  (       |4KKK  x
+x  KKK    mm mm mmm mmmm mmm m    bbbbbbb   /n         """""+>"          |1KKK  x
+x  KKK////////////////////////(  <////////xxxxxxxxxxxxx////////xx        xxKKK  x
+x  KKKzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxKKK  x
+x  KKKzxxxxxxxxxxxxxxxxxxxxxxxxxxxmwwxwwmwwwmwwxwwxxxxxxxxxxxxxxxx   xxxxxxKKK  x
+x  KKKxxxxxxxxxxxxxx5     xxxxx   xmmwmmxmmmxmmwmmxxxxxxxxxxxxxxx   xxxxxxxKKK  x
+x  KKKxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxLxxxxxxxxxxK^xxxxxxxxKKK  x
+x  KKKx2wwwwwwwwwwwwwbzbbbbwww  <  wwwwwwwwwwwwwwww """ wwwwwwww    xxxxxxxKKK  x
+x  KKKxmm#mmmmmmmmm) bzbbbb    n< )    o            """         / n zzzzzzzKKK  x
+x  KKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKKK  x
+x  KKK~wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwKKK  x
+x  KKK5                                                                    KKK  x
+xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

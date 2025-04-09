@@ -1,0 +1,43 @@
+<?php
+	$gameId = $_REQUEST['game_id'];
+	
+	$db = new PDO('sqlite:dgs.db');
+	
+	$queryString = 'SELECT * FROM dgs WHERE id = ' . $gameId;
+	
+	$statement = $db->prepare($queryString);
+		
+	$statement->execute();
+	$result = $statement->fetchAll();
+	$result = $result[0];
+
+	$queryString = 'SELECT * FROM p_random WHERE id = ' . $gameId;
+	
+	$statement2 = $db->prepare($queryString);
+		
+	$statement2->execute();
+	$pRandom = $statement2->fetchAll();
+	$ps = $pRandom[array_rand($pRandom, 1)];
+	$ps = $ps[p];
+	
+	$flashVars = "p=" . $ps . "&";
+	$flashVars .= "g=" . $result["g"] . "&";
+	$flashVars .= "ext=" . $result["ext"] . "&";
+	$flashVars .= "f=" . $result["f"] . "&";
+	$flashVars .= "v=" . $result["v"] . "&";
+	$flashVars .= "n=" . $result["n"] . "&";
+	$flashVars .= "c=" . $result["c"] . "&";
+	$flashVars .= "neopoints=" . $result["neopoints"] . "&";
+	$flashVars .= "lang=" . $result["lang"] . "&";
+	$flashVars .= "special=" . $result["special"] . "&";
+	$flashVars .= "threedworld=" . $result["threedworld"] . "&";
+	$flashVars .= "t=" . $result["t"] . "&";
+	$flashVars .= "multiple=" . $result["multiple"] . "&";
+	$flashVars .= "member=" . $result["member"] . "&";
+	$flashVars .= "type=" . $result["type"] . "&";
+	$flashVars .= "sh=" . $result["sh"] . "&";
+	$flashVars .= "sk=" . $result["sk"];
+	
+	usleep(1000000);
+	
+	echo $flashVars;

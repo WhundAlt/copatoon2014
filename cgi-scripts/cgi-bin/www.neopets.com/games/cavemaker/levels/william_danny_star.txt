@@ -1,0 +1,44 @@
+level_twenty_one
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxbbbbbxxxxxxxxxx                 "x
+xxxxxxbbbbbxxxxxxbbxx                 "x
+xxxxxxbbbbbzzzzzzbbbx D               "x
+xxxxxbbbbbxxxxxxxxbLxxxxxxxxxxxxxxxxxx"x
+xzzzzbbbbbxxxxxxxxxxxx               x"x
+xzzzzbbbbbxxxxxxxxxoo                x"x
+xzxxxxxxxxxxxxxxxxxooooo         +   x"x
+xzzxxxxxxxxxxxxxxxx[[[[[[[[[[[[[[x   x"x
+xz                               x   x"x
+xx                               z   x"x
+x"   + + + + + + + + + + + + + + z    "x
+x" x= = = = = = = = = = = = = = =z    "x
+x" xmmmmmmmmmmmmmmmmmmmmmmmmmmmmmzmm  "x
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xx  zzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"x   xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"x   xzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"   +xxzxxxbbbxxxzzxxxxxxxxxxxxxxxxxxxx
+x"  ++xxzzxbbGbbxzzzxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxzxxbbbxxzx=ooxxxxxxxxxxxxxxxxxx
+x"      xzzzzzzzzzx KK          <     "x
+x"      xxxxxxxxxxx ^              <  "x
+x" ++   x 3       x             x     "x
+xxxxxx    1       ====xxxxxxxxxxxxxxxx"x
+xxxxxx    5           xxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxxx           xx"x
+xxxxxxxxxxxxxxxxxxxx                  "x
+xxxxxxxxxxxxxxxxoox          +++      "x
+xxxxxxxxxxxxxxxboox        xxxxxxx    "x
+xx  xxxxxxxxxxxx||      xxxxxxxxxxxxxxxx
+x   wwwwwwwwwwwx      +xxxxxxxxxxxxxxxxx
+x # mm+mb+bb+bb >^  xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

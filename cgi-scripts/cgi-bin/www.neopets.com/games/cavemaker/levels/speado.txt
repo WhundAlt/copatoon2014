@@ -1,0 +1,24 @@
+Splish_Splash
+terrain 1
+background 1
+water clear
+xwwvwmmmmmmwwwwwwwww<x
+x  >vxxxxxxw     xxx.x
+x   >vxxxxw    oxx...x
+x    >wwww     vx    x
+x  # x        > k    x
+x  = xo    +  >|k    x
+x    x>v      > k   ^x
+x    >^       z=x    x
+x   v  <   x    x====x
+x          x    x++++x
+x          xxxxxx    x
+x          K    x====x
+x~ >       |    x    x
+x          K  D x    x
+x    ^   xxxxxxxx    x
+x        x...x       x
+x     xxxx      xxxx x
+x>    mmmmmmkmmmm +< x
+xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx

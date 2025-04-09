@@ -1,0 +1,74 @@
+Look out below!
+terrain 1
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxoxxooxxxooxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxbbbbbbxxxbbxxww        wx
+xxx  wxxxxxxw     ww      / </>   //             x
+xww   w                                          x
+x                                      |K        x
+x                                      K|      D+x
+x                                      |K   "xxxxx
+x                                      K|   " xxxx
+x                   b++                |K  +   xxx
+x               b+xbbb>      ^         K| +++  /Kz
+xo             bbxxxxxx============="==x xxxxxxxxx
+xx#          2oxxxxm         xx     " xx wxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx         xx     "mxx +++wxxxxx
+xxxxxxxxxxxxxxxxxxx          xx     "xxx^///<xxxxx
+xxxxxxxxxxxxxxxxxx           xx     "wxx     xxxxx
+xxxxxxxxxxxxxxxxxxm         mxx     " wx     xxxxx
+xxxxxxxxxxxxxxxxxxx+       [=xx     "  x +++ xxxxx
+xxxxxxxxxxxxxxxxxxx++        xx     "  x>///^xxxxx
+xxxxxxxxxxxxxxxxxxxxx        xx     "  x     xxxx"
+xxxxxxxxxxxxxxxxxxxx===]    +xx     "  x     xxxx"
+xxxxxxxxxxxxxxxxxxxxx       "xx     "  x +L+ xxxx"
+xxxxxxxxxxxxxxxxxxxx        "xx     " +x^///<xxxx"
+xxxxxxxxxxxxxxxxxxx  "      "xx      [=x     xxxx"
+xxxxxxxxxxxxxxxxxxw  "      "xx       "x     xxxx"
+xxxxxxxxxxxxxxxxxx   "   +  "xx       "x +++ xxxx"
+xxxxxxzzxxxxxxxxxz   "+  "  "xx       "x>///^xxxxx
+xxxxxzzzxxxxxxzzzz   "]  "  "xx       "x     xxxxx
+xxxxxzzzzzzzzzzzzz+  "   "   xx       "x     xxxxx
+xxxxzzzxxxxxxxxxxx+  "   "   xx       "x     xxxxx
+xGzzzzzxxxxxxxxxxxx      "  mxx     "xxw     xxxxx
+xxxxxxxxxxxxxxxxxxx      "  xxx     "w       xxxxx
+xxxxxxxxxwwxxxxxxxx      "  wxw     "        wxxwx
+xxw        xxxxxxxxm   m "   w                   x
+xx        +xxxxxxxxx   x "                      mx
+xw       ++xxxxxxxxx   x "              ^      mxx
+x       xxxxxxxxxxxxm mx "          ++ bb    +xxxx
+x    [====xxxxxxxxxxxmxx "         mxxx======xxxxx
+x+        1xxxxxxxxxxxxw         bmxxxxx   "xxwwxx
+x++       mxxxxxxxxx           2bbxxxxxw   " w  wx
+xxxxx"    xxxxxxxx        mxxxxxxxxxxxx    "     x
+xxxx "    xxxxxxx        xxxxxxxxxxxxxx    "    1x
+xx   "   mxxxxxxx==]   [xxxxxxxxxxxxx      "     x
+x        xxxxxxxx       xxxxxxxxxxx        "     x
+xx+    zzxxxxxxxx	xxxxxxxxxxx        "     x
+xxxxxxzzzzzzzzxxx~       xxxxxxxxxx              x
+xx xxxxzzzzzzzxx           xxxxxx x              x
+x  xxxxxxxxzzzx             ++ xx                x
+x  xxxxxxxxxzzx            ++++x                 x
+x  xxxzzzzzzzzx           xxxxxx                 x
+x  zzzzzzzzzzxx           xxx..x               ++x
+x  zzzzxxxxxxxx            xx  x              [=xx
+x  xxxxxxxxxxxx                     +++          x
+x  xxxxxxxxxxx                      +x+          x
+x  xxxxxxxxx                        xxx          x
+x  x..xxxxxx                                    3x
+x  x  xxxxxx                                     x
+x        xx               +xx                    x
+x                         xxx                    x
+x       +xxx                                     x
+x     xxxxxxxx                                   x
+x     xxxxxxxx+                                  x
+x     xxxxxxxxxx                                 x
+x     xxxxxxxxxx                      xx         x
+x ++ +xxxxxxxxxx         xx           xx         x
+xbbbbbxxxxxxxxxx         xxx          xxx        x
+xbbbbxxxxxxxxxxx       +xxxx          xxx        x
+xb++bxxxxxxxxxxx++   xxxxxxx+         xxx        x
+xx++xxxxxxxxxxxxo+   xxxxxxxxb       +xxx   ++   x
+xxxxxxxxxxxxxxxxxob  xxxxxxxx+b     ++xxxx ++++ xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

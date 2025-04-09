@@ -1,0 +1,46 @@
+Grassy_Greens
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      x   >   |     |>  V <            Vx
+x #    x    V    |>                 <x
+xxxxxxbx  o^|  | || ^ >  <" <<<x
+xL     x xxx|xx|x|xxx|xxx|xxxxxxxxxx"  <|x
+x+     x>                        V x"  <|x
+xxxxxxbx                           x"  <|x
+xG     x^   <                      x"  <|x
+x+     x>  V                       x"  <|x
+xxxxxxbx    ^    <      V        < x"  <|x
+xx     x^  V                   x"  <|x
+xx xxxxx    V <                    x"  <|x
+xx     x   > ^                     x"  <|x
+xxxxxx xx>    ^                    x"  <|x
+xx||    x ^ <                      x"  <|x
+xx|     x^    <> ^                 x"  <|x
+xx|     xxxxxx x+                  x"  <|x
+xx|^    xxxoox x|       >        V x"  <|x
+xx|||||||  oox^x||                 x"  <|x
+xxxxxxxxx  ||||x|||                x"  <|x
+x            x x||||               x"  <|x
+x            x x|||||              x"  <|x
+x            x x||||||             z"  <|x
+x         xbbx x||||||||||||||||||=x     x
+x  bbbbbb x  x                     x     x
+x xbbbbbbxx  x                    +x     x
+x xbbbbbbxx  x                    xx     x
+x xbbbbbb"   x                   x x     x
+x xmmmmmm"   x^        +    +   +  xmmmmmx
+x xxxxxxx"x  ||   <    x +  x   x  x=====x
+x x>    V"xmmxxx x x + x x  x  x   x     x
+x x      "xxxx     x x x x  x +    x     x
+x x      "   x     x x x xmmxmx D  x     x
+x x          w     x x x xxxxxx=xxxx|    x
+x x     >         ^x x x xxxxxzzxxxx|    x
+x x^|    =   m     x x x xxxxzzzxxxz|   3x
+x |> V   "   x     x x x xxzzzzxxxzz|    x
+x |      "   x     x x x xzzzzxxxzzxo   ox
+x>| ^|   "   x     x x x xzzxxxxxzxxoo+oox
+xxxxxxxxxxxxxxmmmmmx x x xzzzzzzzzxxooooox
+xxxxxxxxxxxxxxxxxxxxmxmxmxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,54 @@
+Platformer
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x" x      4     x   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"     m    m     D xxxxxxxxxxxxxxxxxzzzz                                   V<"xx
+x"xxxxzzzxxzzzxxxxxxzzzzzzzzzzzzzzzzzzzzz                                     "xx
+x"   xxxxxxxxxx      xxxxxxxxxxxxxxxxKzzz                                    ^"xx
+x"                   zxxxxxxxxxxxxxxx|xxx||||||||||||||||||||||||||||||||||||x"xx
+x                    zzzzzzzzzzzzzzzx|||||xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xx
+xbbbb  bbbb  bbbbx   xxxxxxxxxxxxxxzxxxxx>mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmVx"xx
+xmmmm  mmmm  mmmmxx  xxxxxxxxxxxxxxzzzzxxxxxxxxxxxx>Vxxxxxxxxxxxxxxxxxxxxxxx x"xx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxzxxxxxxxxxxzz                           "|x
+xx>           /V     xxxxxxxxxxxxxxxxxzxxxxxxxxxzzz                           "|x
+xx            V      xxxxxxxxxxxxxxxxxzxxxxxxxxzzzz^                          "|x
+xx                  xxxxxxxxxxxxxxxxxxzxxxxxxxzzzxxx||||||||||||||||||||||||||||x
+xx                 xxxxxxxxxxxxxxxxxxxzxxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxx=xxxx
+xx#               xxxxxxxxxxxxxxxxxxxxzxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKxxxx
+xx               xxxxxxxxxxxxxxxxxxxxxzxxxxzzzxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxx
+x/<             zxGzxxxxxxxxxxxxxxxxxxzxxxzzzxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x/============KKzxzzzxxxxxxxxxxxxxxxxxzxxzzzxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x////////////b"xzxxzzzxxxxxxxxxxxxxxxxzxzzzxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x             "xzxxxzzzxxxxxxxxxxxxxxxzzzzxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xm   mmmmmmmmm"xzxxxxzzzzzzzzzzzzzzzzzzzzxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx^bbxxxxxxxxx"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x///m         "xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x//mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x/mxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x//<                                          "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x" wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"                                            "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"          3                                 "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"                                            "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"x2mm mm mm mm mm mm mm mm mm mm mm mm mm xxx"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzz"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x   >                                       V "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                          </ "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                          </ "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x/> ^                                      </ "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x>" K  5  K                                </ "xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "[===========================================xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "KooooooooooooooooooooooooooooooooooooooooooKxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "KooooooooooooooooooooooooooooooooooooooooooKxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "KooooooooooooooooooooooooooooooooooooooooooKxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "||||||||||||||||||||||||||||||||||||||||||||xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x "                                            xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                               zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                             ^<zzwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

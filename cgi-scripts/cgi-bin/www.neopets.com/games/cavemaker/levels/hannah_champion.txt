@@ -1,0 +1,57 @@
+level
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+xx      +   xxx            |                  "xxxxxx 
+xx      "   xxx            |                  "xxxxxx 
+xx     +"  DxV            <|             xxxxx"xxxxxx 
+xx  |"  " xxx x   "        | /           xwww|"xxxxxx 
+xx  |"    xV <x  |"xxxxxxxxxxxxxxxx b b bx   |"xxxxxx 
+xx  |"    x xxx  |"xoooooooooooooox      x>  |"xxxxxx 
+xx  |"    x> Vx  |"xoooooooooooooox      x|"  "xxxxxx 
+xx  |"    xxx xxx|"xoooooooooooooox      x|"   xxxxxx 
+xx> |"    x> >  <|"xoooooooooooooox      x|"   xxxxxx 
+xx|" "    xxxxxxx|"xoooooo    oooox      x|"  mxxxxxx 
+xx|" "    wwwwwww|"xooooo      ooox      x|" mxxxxxxx 
+xx|"             |"xoooo        oox      x|" xxxxxxxx 
+xx|"            V|"xoooo>>>>>>>>>bx      x   xxxxxxxx 
+xx|"               xoooo          xmmmmmmx^  xxxxxxxx 
+xx|"               x>>>>^         xxxxxxxxx|"xxxxxxxx 
+xx|"               x        o     xxo     x|"  xxxxxx 
+xx ||||||||||||||||x oooooooK     x K <   x|"  xxxxxx 
+xxmmmmmmmmmmmmmmmmmx     x       x|"  xxxxxx 
+xxxxxxxxxxxxxxxxxxxx       o o    x       x|"  xxxxxx 
+xxxxxx    xxxx      ^ooooooK^Koooox       x|||     xx 
+xxxxxx    xxxx       >>>>>>>/>>>>>x       xV<|     xx 
+xxxxxx  # xxxx      ^             x   ^   x  |     xx 
+xxxxxx xxxxxxx      /^            x       x  ||||| xx 
+xx     xxxxxxx                                     xx 
+xx     xxxxxxx    > ^                       ^      xx 
+xx ~ xxxxxxxxx   xxxxmmmmmmmommmmm       mx||||||||xx 
+xx   xxxxxxxxx   xxxxxxxxxxxxxxxxxxx===x=xxxxxxxx^xxx 
+xx   xxxxxxxxx   xxxxxxxxxxxxxxxxxxxxzxxzxxxxxxxxxxxx 
+xx   xxxxxxxxx   xxxxxxxxxxxxxxxxxxxxzxxzzxxxxxxxxxxx 
+xx   xxxxxxxxx   xxxxxxxxxxxxxxxxxxxxzxxzzxxxxxxxxxxx 
+xx   xxxxxxxxx   wxxxxxxxxxxxxxxxxxxxzxxxzzxxxxxxxxxx 
+xx   xxxxxxxxxm   xxxxxxxxxxxxxxxxxxxzxxxzzxxxxxxxxxx 
+xx   xxxxxxxxxx   xxxxxxxxxxxxxxxxxxxzxxxxzxxxxxxxxxx 
+xx   xxxxxxxxxx===xxxxxxxxxxxxxxxxxxxzxxxxzzzxxxxxxxx 
+xx   xxxxxxxxxx / xxxxxxxxxxxxxxxxxxxzxxxxzzzxxxxxxxx 
+xx   xxxxxxxxxx   wxxxxxxxxxxxxxxxxxxzxxxxxzzxxxxxxxx 
+xx   xxxxxxxxxxm   xxxxxxxxxxxxxxxxxxzxxxxzzzxxxxxxxx 
+xx   xxxxxxxxxxx   xxxxxxxxxxxxxxxxxxzxxxzzzxxxxxxxxx 
+xx   xxxxxxxxxxxm  wxxxxxxxxxxxxxxxxxzxxxzzxxxxxxxxxx 
+xx   xxxxxxxxxxxx   xxxxxxxxxxxxxxxxxzxxzzxxxxxxxxxxx 
+xx   xxxxxxxxxxxx   wxxxxxxxxxxxxxxxxzxxzzxxxxxxxxxxx 
+xx   xxxxxxwwKKxw    xxxxxxxxxxxxxxxxzxxzxxxwwwwwxxxx 
+xx   xxxxxw  bb      xxxxxxxxxxwwwwxxGzzzxxw     wxxx 
+xx   xxxxw   bb     mxxxxxxxxxw    wxxxxxxxm     mxxx 
+xx   xxxx    bb     xxxxxxxxxw      wxxwwxxxm   mxxxx 
+xx   xxxx    KK  mmmxxxxxxxxxm      mxw  wxxxmmmxxxxx 
+xx   x..x    xxmmxxxxxxxxxxxxxm    mxxm  mxxxxxxxxxxx 
+xx          mxxxxxxxxxxxxxxxxxxmmmmxxxxmmxxxxxxxxxxxx 
+xx     ++   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 

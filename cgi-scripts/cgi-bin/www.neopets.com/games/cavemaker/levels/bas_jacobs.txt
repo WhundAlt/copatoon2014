@@ -1,0 +1,57 @@
+moltaria
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxwwwxxxxxxxxxxxxx
+xxxxxxxxxwwwxxxwxwxxxxxwxw   xxxxxxxxxxxxx
+xxxxxxx ||  www w#wwwxx w    wxxxxxxxxxxxx
+xxxxxxxV||   mm  <   ww       wxxxxxxxxxxx
+xxxxxxx xxmmmxxooooo om    m   xxxxxxxxxxx
+xxxxxxw wxxxxxxKKKKKKxxm  mx   xxxxxxxxxxx
+xxxxxx     KKKKK||||Kxxxo xx="=xxxxxxxxxxx
+xxxxxx|||>      ||||Kxxxx xx "mxxxxxxxxxxx
+xxxxxxK"KKKKKKKKKKKKKxxxxmwxm"xxxxxxxxxxxx
+xxxxxx "mxxxxxxx   xoxxxxxmxx"xxxxxxxxxxxx
+xxxxww "xxxxxxxx===xxxxxxxxxx"++xxxxxxxxxx
+xxxxm  "wwxxxxww   xxxxwxxxxx"++xxxxxxxxxx
+xxxxx  "  xxxx     wxxw wxxxx"xxxxxxxxxxxx
+xxxxxmmx  wwww      xx   xxxx xxxxxxxxxxxx
+xxxxxxxx  o              wxxw xxwxxxxxxxxx
+xxxxxxxx  KKKKKm          xw  xw wxxxxxxxx
+xxxxxxxx  KKKKKxm  mxKK   w   w mmxxxxxxxx
+xxxxxxxx  xxxxxxxmmxxKK       mmxxxxxxxxxx
+xxxxxxxx  xxxxxxxxxxxxxKKKKKKKxxxxxxxxxxxx
+xxxxxxxw  wxxxxxxxxxwxxbbbbbbbxxxxxxxxxxxx
+xxxxxxx    wwwxxxxww xbbbbb++bxxxxxxxxxxxx
+xxxxxxx       xxxw mmmobbbb++bxxxxxxxxxxxx
+xxxxxxxm      xxx  xxxxxxxxxx"xxxxxxxxxxxx
+xxxxxxxx      xxx==xxxxxxxxxx"xxxxxxxxxxxx
+xxxxxxxxm mm xxxw   xxxxxxxw "xxxxxxxxxxxx
+xxxxxxxxxmxx"xxw    xwxxxxw  "xxxxxxxxxxxx
+xxxxxxxxxxxx"xw     w wwxx   KKxxxxxxxxxxx
+xxxxxxxxx" x w          ww   KKxxxxxxxxxxx
+xxxxxxxxx" o               KKKKxxxxxxxxxxx
+xxxxxxxxx"xxxKKKK===KK     KKKKxxxxxxxxxxx
+xxxxxxxxx"  x++xx   xxK"KKKKKKKxxxxxxxxxxx
+xxxxxxxxx"  x++xw   xxK"KKKKKKKxxxxxxxxxxx
+xxxxxxxxxx          xxx"xxxxxxxxxxxxxxxxxx
+xxxxxxxxxx          wxx"xxxxxxxxxxxwxxxxxx
+xxxxxxxxxxxKKKK      ww    ++xxxxxw wxwwxx
+xxxxxxxxxxxKKKKmm          ++xxxxx   w  "x
+xxxxxxxxxxxxxxxxx===KKKKKKKKKxxxxw      "x
+xxxxxxxxxxxxxxxxx   KKKKKKKKKxxxx       "x
+xxxxxxxxxxxxxxxxxm  xxxxxxxbbxxxx       "x
+xxxxxxxxxxxxxxxxxxm xxxxxxxLGxxxw      m"x
+xxxxxxxxxxxxxxxxxxx wxwwwxx  xxw      mx"x
+xxxxxxxxxxxxxxxxxxK  w   K<  ww     m xx"x
+xxxxxxxxxxxxxxxxxxK    mDK<  mmmo  mx xx"x
+xxxxxxxxxxxxxxxxxxK  mmK"KxxxxxxK==Kxmxx"x
+xxxxxxxxxxxxxxxxxxK KxxK"KxxxxxxK  Kxxxx"x
+xxxxxxxxxxxxxxxxxxK KxxK"KxxxxxxK  Kxxxx"x
+xxxxxxxxxxxxxxxxxxK KKKK"KxxxxxxK  Kxxxx"x
+xxxxxxxxxxxxxxxxxxK     "KxxxxxxK  Kxxxx"x
+xxxxxxxxxxxxxxxxxxKKKKKK"Kxxxxxxx  xxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxx"zxxxxxxx  xxxxx"x
+xxxxxxxxxxxxxxxxxxxxxxxx"zzzzzzzz  zzzzz"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

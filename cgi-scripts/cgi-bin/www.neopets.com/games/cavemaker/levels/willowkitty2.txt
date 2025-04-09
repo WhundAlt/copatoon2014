@@ -1,0 +1,44 @@
+Oh, No!
+terrain 1
+background 1
+water clear
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+K|||||||||||<VVVVVVKKKKKKKKKKKKKKK     K
+KVVVVVVVVVVV|||||||             |K D   K
+K                 ^ +++++++++++"|K[=]  K
+K ++++++++++  K   K||||||||||||"|K|>=  K
+K KKKKKKKKKKK   K  ^^^^^^^^^^^|"|K|1   K
+K K+V<V<V/Vb                  |"|K|>=  K
+K K+ ^ ^ ^ b                  |"|K|1   K
+K K+#/>/>/ b                  |"|K|>=  K
+K KKKKKKKK KK^ ^ ^ > V V V V  +"|K|1   K
+K K       >  |>|>|>|          +"|K|>=  K
+K K         K      V          |"|K|1   K
+K KmmmmmmmmmKmmmmmm           |+|K|>=  K
+K KKKKKKKKKKKKKKKKK> /> /> /> |+|K|1   K
+K>            V   K  ^  ^  ^  |||K|>=  K
+K >           <  VKmmmmmmmmmmmmmmK|1   K
+KKKKKKKKKKKKKKKKK|KKKKKKKKKKKKKKKK|>=  K
+K                VK  >          K ^ m  K
+K                 K  ^ V| <|   <KKKKK  K
+K                 K  |  V  V    KV++V  K
+KV <| <| <|  <| <|K=<|   =  = = KV++V  K
+K                 K  | <       ^K<VVV  K
+K                 K=<|                 K
+K mmmmmmmmmmmmmmmmK  |                 K
+K KKKKKKKKKKKKKKKKK=<|           ^^^^ "|
+K              KK       =  =  KKK|||||"|
+K              KK     K              |"|
+K|KKKKKKKKK  <|KK                KKKK|"|
+K>>>>>>>>>>  ||KK                KKKK|"|
+KmmmmmmmmmK  <|KKmmmmmmmmmmmmmmmmKKKK|"|
+KKKKKKKKKKK  <|KKKKKKKKKKKKKKKKKKKKKK|"|
+K >      VK  <|||                KKKK|"|
+K  KKKKKK     V                  KKKK|"|
+K" KKKKKK>       VVVVVV>     V   KKKK|"|
+K" KKKKKKKK  <|KK                >>>>^"|
+K" KKKKKK K  <|++                     "|
+K"^<<<<<<<K  <|++  >>>>>     <<<|^    "|
+K"        K  <|KKKKKKKKKKKKKKKKK||||||||
+K"       ^   <|mmmmmmmmmmmmmmmmmmmmmmmmK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK

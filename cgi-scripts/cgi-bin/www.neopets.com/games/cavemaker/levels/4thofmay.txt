@@ -1,0 +1,46 @@
+FungusCaves
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxw xxxxxxxxxxwwtxoooooxxox
+xxxxxxxxxxxxxxxxwmxxxxxxxxwmmmxxxoooooxxox
+xxxxxxxwwwwwwwmmmxxwmxxxxx xxxxxxoooooxxox
+xxxxxxx       xxxxxxxxxmmm mmxxxxxoooxxxox
+xxxxxxx       wwxxwwwxxxxx xxxxxxxx/wmm</x
+xxxxxxx         xxxxmx         1xxxKxxxx x
+xxxxxxx         wwxxxx                 x x
+xxxxx             wwww                 x x
+xxxxxD#                  + + +         x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxmxmxxxx    x=x x
+xxxxwwxxwwwxooomxxwwwxxxxx=xxxxxx    x x x
+xxxxxxxxxxxxoooxxxoxxxxxxx=xxxxxx    x=x x
+xxxxxxxxxxxxxoxxxxoxxxxxxx xxxxxx    x=x x
+xxx>mwwwmwwmm//////xwwwxxx xxxxxx  o x   x
+xxx xxxxxxxxxKxxxxKx   xxx xxxxxxxxx x=  x
+xxx xwxxxx                   xxxxmmw xx= x
+xxx xxwwwx             +++   xwwxxxx  x  x
+xxx xxxxxx     xxxxxxxxxxx   x      o x= x
+xxx xwwmmx     xxxxxxxxx     x  xxxxxmx  x
+xxx xxxxxx     xxxxwwwwx=====x==xxxxxxx= x
+xxx^>>mmmm<++++mmwmm<<mx     x  xxxxxxx  x
+xxxxxxxxxxxxxxxxxxxxxxxx=====x==xxxwwwx= x
+xxxxxxxxxxxxxxxxxxxxxxxx     x  xxxxxxx  x
+xxxxxxxxxxxxxxxxxxxxxxxx=====x==xwwwwxx= x
+xxxxxxxxxxxxxxxxxxxxxxxx     x  xxxxxxx= x
+xxxxxxxxxxxxxxxxxxxxxxxx xxxxx  x....xx  x
+xxxxxxxxxxxxxxxxxxxxxxxx x            x=^x
+xxxxxxxxxxxxxxxxxxxxxxxx x xxxxx      x= x
+xxxxxxxxxxxxxxxxxxxxxxxx x     x      xx x
+xxxxxxxxxxxxxxxxxxxxxxxx xxxxx x       x x
+xxxxxxxxxxxxxxxxxxxxxxxx       x       x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

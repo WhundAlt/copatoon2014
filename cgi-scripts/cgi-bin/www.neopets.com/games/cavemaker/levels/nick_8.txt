@@ -1,0 +1,44 @@
+The Temple Of Doom
+terrain 1
+background 1
+water clear
+x                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxooooooooooooooooooxxxxxxxxxxxxxxoooooxxxxxxxxx
+xxx                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxxxxxxooooooooooooooooooxxxxxxxxxxxxxxoooooxxxxxxxxx
+xxx                          xxxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxxxxxxooooooooooooooooooxxxxxxxxxxxxxxoooooxxxxxxxxx
+xxx    2        o    #       xxxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxxxoxx||||||||||||||||||xxxxxxxxxxxx|||||||xxxxxxxxx
+xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxxooxx |>                   Vxxxxxxx|x     xxxxxxxxx
+xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxxoooxx                       xxxxxxx|x     xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxxxxxxxxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxxxxxxxxxxxxooooxx                       xxxxxxx|x     xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxxooxooxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxxxxxxooxxxxxxxxxxxxxxxxoooooxx ^                     xxxxxxx|||    xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxxooxooxxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooxxxxxooxxxxxxxxxxxxxxxoooooob                       |              xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxxooxooxxxxoVVooxxxxxxxxxxxxxxxxxxxxxxxxxxoooooxxxxxooxxxxxxxxxxxxxxooooooob                       |              xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxxooxooxxxV|||||xxxxxxxxxxxxxxxxxxxxxxxxxxoooooxxxxxooxxxxxxxxxxxxxoooooooob                       |   |K  /      xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxxV|||||||x    V xxxxxxxxxxxxxxxxxxxxxxxxxxoooooxxxxxooxxxxxxxxxxxxooooooooox============x=======xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxx V V VVVx   > Vxxxxxxxxxxxxxxxxxxxxxxxxxx|||||||  <ooxxxxxxxxxxxooooooooooxmmmmmmmmmmmmx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=xxxxxxxxxxxxxx        x      xxxxxxxxxxxxxxxxxxxxxxxxxx     xx   ooxxxxxxxxxxoooooooooooxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=xx|||||||||>Vx  >    Vx      xxxxxxxxxxxxxxxxxxxxxxxxxx     xx  ^ooxxxxxxxxxooooooooooooxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=xxVVVVV|VVVV|x        x      xxxwwwwwwwwwwwwwwwwwwwwwxx     xx V|||xxxxxxxxoooooooooooooxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=x      |    |         x      xxx                              >      |    >|||||||||||||xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=x      ^    |   ^ ^   x ^^^  xxx                              ^ ^    |    ^             xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxx                 |        |       xx                                      |                  xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxx                 |        |       xx                                      |                  xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxx D               |        |      K                                        |                  xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxx=xx"x^xxxx^x^xxx=====xxxxxxxxxxxx    =    =    =   =  xx=====xxxxxxxxxxxxxxxx            xxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxxxxx"xxxxxxxxxxxx     xxxxxxxxxxxx                     xx     xxxxxxxxxxxxxxxxmmmmmmmmmmmmxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxxxxx"xxxxxxxxxxxx     xxxxxxxxxxxx                     xx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxx "xxxx  1  xxxxxxxxx
+xxxxxxxxxxxxxxxx"xxxxxxxxxxxx     xxxxxxxxxxxx                     xx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxxxxxxxxxxxxxxx"xxxxxxxxxxxx     xxxxxxxxxxxx                     xx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxx "xxxx     xxxxxxxxx
+xxx             "xxxxxxxxxxxx     xxxxxxxxxxxxmmmmmmmmmmmmmmmmmmmmmxx     xxxxxxxbbb  zzzzzzzzzzzzzzzzz       bbxx         xxxxxxx "xxxx     xxxxxxxxx
+xxx             "xxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxgbb  zzzzzzzzzzzzzzzzz      bbLxx         xxxxxxx "xxxx       xxxxxxx
+xxx"xxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxx         xxxxxxx "            xxxxxx
+xxx"xxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxx           xxxxxxx "                +x
+xxx"  xxxxxxxxxxxxxxxxxxxxxx                                                     xxxxxxxxxxxxxxxxxxxxxxxxx"                xxxxxxx^"                bx
+xxx"  bbbbbbxxxxxx                                                                   xxxxxxxxxxxxxxxxxxxxx"                xxxxxxx "    mmmmmxxxxxxxxx
+xxx" bbbbbbbxxxxxx                                                                        xxxxxxxxxxx     "                xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx" bbbbbbb                           x        5           x                                             "                xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

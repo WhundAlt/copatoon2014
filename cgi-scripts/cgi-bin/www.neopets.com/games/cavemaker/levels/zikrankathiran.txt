@@ -1,0 +1,46 @@
+Hannah
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                        x
+x       K=    ++                         x
+x    xx=     o++                         x
+x   =x    + KKKK +                       x
+x    x    ==     b                       x
+x    xD mmm mmmmm                        x
+x   xxxxxxx xxxxx                        x
+x    V    KmK                            x
+xK        KKK                            x
+x    V                                   x
+x                                        x
+x  K ^ < < <                             x
+x    ^                                   x
+xK    V>   ^                             x
+x     |V                                 x
+xxx    |VVV                              x
+x  x  || ||                              x
+x      | ||V                             x
+x    = |||||       x                     x
+x   =         KK   x                     x
+x bbb  >  ^ | <<   x                     x
+x       |<   <KK   x                     x
+x             KK  /                      x
+xxxxxKKKKKKKKxxxxxxxx"                   x
+x V <                "                   x
+x                    "                   x
+x       +     +      "                   x
+x       [     =      "                   x
+xK#                  "                   x
+xK> ^               ++                   x
+x |||||||||||||||   ==                   x
+x                                        x
+x         / /                            x
+x    V          K                        x
+x         /                              x
+x                                        x
+x                                        x
+x                                        x
+x                                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

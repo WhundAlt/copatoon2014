@@ -1,0 +1,114 @@
+Ultimate Labyrinth
+terrain 4
+background 1
+water clear
+>                                V                                  
+                   xxxxxxxxxx                                       
+                   xoooooooxx                 xxxx                  
+                  xxoooooooxx                 xKxx                  
+            xxxxxxzzoooooooxx                 xKxx                  
+            xzzzzzzxoooooooxxxxxx    xxxxxxxxxxb<w               <  
+            xzxxxxxxx|||||xxxxxxx    xxxxxxxxxx  xxxxxxxxxx         
+            xzx        |        m<   xx                 xxx         
+            xzx                 x    xx                 xxx         
+            xzx"xxxxxx   xxxxxx x    xx"xxxxx     xxx+  xxx         
+            xzx"x     x x     x x    xx"x    x   x  xx+ xxx         
+            xzx"x     x x     x x    xx"x ++  x xx   x+ xxx         
+            xzx"x xxx"x x  x  x x    xx"x ++  x x     x xxx         
+            xzx++ xxx"x x  xx   x    xx   xxx"x x       xxx         
+            xzx++ xxx"x x  xx   x    xx   xxx"x x xxx   xxx         
+            xzxxxxxxx"x x xxxxxxx    xxxxxxxx"x x x xxxxxxx         
+            xzzzxxxxx"x x  xxxxxxxxxxxxxxxxxx"x xbx xxxxxxx         
+            xzzzxxxxx"x x  xxxxxxxxxxxxxxxxxx"x x x                 
+            xxxzxxxxx"x x   xxxxxxxxxxxxxxxxx x x x                 
+              xzzzzzx"x x   wwwwwwwwwwwwwwwww x x x                 
+ xxxxxxxxxxxxxxzLzzzx"x x                     x x xxxxxxxxxxxxxxx   
+ xxxxxxxxxxxxxxxxxxzx"x xzxxxxxxxxxxxxoxxxxxxxx x xxxxxxxxxxxxxxx   
+ xx                 x"x xzxxxxxxxxxxxxoxxxxxxxx xbxxxxxxxxxxxxxxx   
+ xx                 x"x xzx         xxbw++ wwww w w             w < 
+ xx          xxxxx  x"x xzx         xo x++    x x x             x   
+ xx"xxxxxx  x    zx x"x xzx xxxxxxx xb xxx    x x x   xxxxxxx   x   
+ xx"x     x x    zx x"x xzx xKKb  x x         x x x  x++     x  x   
+ xx"x     x x   ozx x"x xzx xKbb  x x         x x x  x++     x  x   
+ xx"x     xbx+ xxxx x"x xzx=xbbb  x x    xx   x xbx =xxxx/"x  x x   
+ xx   xx  x x[ x    x"x xzx xbbbx"x    xx    [x x x     x""x    x   
+ xx   xx  x x  x    x"x xzx  b/bx"x   =x      x x x     x""xx   x   
+ xxxxxxx  x x  x xxxx"x xzx  bbbx"x    x  xx  x x xxx   x"<xxxxxx   
+ xxxxxxx =x x +x wwww x xzxxxx  x"x    x"x++  x x    x  x""xxxxxx   
+ xxxxxxx  x x =x      x xmxxxx  x"x    x"x++ xx xmmmmx  x""xxxxxx   
+      xx  xbx  x        xxxxxx [x"x    x"xxxxx  xxxxxx =x""x        
+      xx  x x  x        wwwwww  x"x   ox                x>"x        
+      xx[ x x+ x++              x"x   xx                x""x        
+      xx  x x= xxxxxxxxxxxxxxxxxx"x    xxxxxxxxxxxxxxxxxx""x        
+      xx  x x   wwwwwwwwwwwwwww<|<x>                       w     ^  
+      xx  x x>                  |<xx>                      m      ^ 
+      xx =xbx                  <|<xxxx=xxxxxxxxxxxxxxxxxx""xxxxxxxxx
+      xx  x x==xxxxxxxxxxxxxxxxxxzx+xxux                x>"xooooooox
+      xx  x x oxwww   x         xzx+xx x                x""xooooooox
+      xx  x x=xw   o  x         xzxbxx x   xxx   xxxxx  x""xooooooox
+ xxxxxxx] x x x    xx"x         xzx xx x  xwwwx x     x x"<xxoooooox
+ xxxxxxx  x x x    Vx"x       ++xzx xx x  x   x x     x x""xxxooooox
+ xxxxxxx  xmx x     x"xuxuxux=xxxzx xx x= b   x x x   x x""xxxxxooxx
+ x    xx  xxx=x]    x"x x x x   xzx xx x  b++ x x xx  xmx>"x   Vxox 
+ x    xx =x x x     x"x x x x   xzx xx x  x== x x xx  xxx""x    xox 
+ x""x xx  x b       x"x x x x   xzx xx x  x   x x xx  xxx""x   ^xox 
+ x"/x     x x       x"x x x xxx"xzx xx  xxx   x x x+x1          xbw<
+ x""x     x xxmmmmmmx"x x x xxx"xmx xx    xo =x x x+x           x x 
+ x  xxxxxxx xxxxxxxxx"x x x xxx"xxx^xxxx  xx  x xmxbxxxxxxxxx|||x x 
+ x         1        x"x x x x          1  xx  x xxx 1           x x 
+ x    2             x x x x x             xx] x xxx^            x x 
+ xxxxxxxxxxxxxxxxxxxx x x x xxxxxxxxxxxxxxxx  x xxxxxxxxxxxxxxxxx x 
+  x<>|                x x x  >|              <x x                 x 
+^ mb>|           < #  x x x  >|               x x              D  x 
+ xxxxxxxxxxxxxxxxxxx [x x x xxxxxxxxxxxxxxxxx=x x"xxxxxxxxxxxxxxx x 
+ xx                x  x x x                 x x x"+ +           x x 
+ xx                x  x x x                 x x x"+ +           x x 
+ xx  xxxx     xxx  x |x x x                 x=x x"xzxxxxxxxxxxx"x>m^
+ xx xxxxxx   xxxxx x  x x xxxxxxxx   xxxxxx x x x"xzx         x"x xV
+ xx x    xx xzzzxx=x  x x xxx    xx x     x x x x"xzx           x x 
+ xx x     x xzzzxx x| x x xxx    xx x     x x=x x"xzx           x x 
+ xx   xx  x x"x    x  x x xxx    xx x"x   x x x x"xzx"xx   xxxxxx >^
+ xx   xxx x x"x    x  x x xxx x  xx x"xx  xmx x x"xmx"xxx xxxxxxx x 
+ xxxxxxxx x x"x=xxxx |x x xx  x =xx x"xx  xxx=x x"xxx"x x xxxxxxx x 
+ xxxxxxxx x x"x x+V> /x x     x  xx x"xxx     x x       x xxxoxxw x 
+ xxxxxxxx x x"x x+    x x    xx  xx x"xxx     x x     x=x xxxbww  w<
+       xx x x"x=xxxxxxx xxxxxxx] xx x"xxxxxxxxx xxxxxxx x zzx  x  xx
+       xx x x"x++  >       <++x  xx x"x>>      >     |<<x zzx  x xxx
+       xx x x"x++  >   >   <++x  xx x"x>>             <<x xGz  x wwx
+       xx x x"xxxxxxxxxxxxxxxxx =xx x"xxxxxxxxxxxxxxxxxxx xxxm x   x
+      Vww w<x                     x x"                    xxxx x   x
+       xx x x                     x x"                    xxxx=x   x
+       xx x xxxxxxxxxxxxxxxxxxxxx=x x"xxxxxxxxxxxxxxxxxxx"xKxx x [[x
+       xx x xxx                 x x x"xwwwwwwwwwxx      x"xbxx x   x
+       xx x xxx                 x x x"x         xx++    x"xbxx  /mmx
+       xx x xxx"xxxxxx   xxxxxx x x x"x         xxxx    x"xbxxxxxxxx
+       xx xbxxx"xxxxxxx xxxxxxx x=x x"x       b+x    x  x"xb     <  
+       xx x xxx"xxxxxxx x     x x x x"x       bbx    x] x"x xxxxx   
+       xx x xxx"xxxxxxx x     x x x x"x     xxbbx"xxxx  x"x xxxxx   
+    mm xx x xxx     xxx x     xmx x x"x     xxxbx"x     x"x x   x   
+    xx xx x xxx     xxx x==xx xxx=x x"xmmm  xxx x"x    xx"x x   x   
+    xx    x xxxoxxx"xxx x""xx xxx x x"xxxxx"xxx x"x"xxxx      x"x   
+    xx    x xxxxxxx"xxx x"Vxx     x x  ++xx"xxx x"x"x++       x"x   
+    xx  ++x xxxxxxx"xxx x""xx   ++x x  ++xx"xxx x"x"x++  xx xxx"x   
+    xx  xxx xxxxxxx"xxx x""xxx]xxxx  xxxxxx"xxx x"x"xxxxxxx xxx"x   
+    xx >       >  < xxx x/"xww wwwwx wwwwww xxxbx"x xxxxxxx     x   
+    xx>        <   <xxx x""x         4      xxx x"x>            m^  
+    xxxxxxxxxxxxxxxxxxx x""x                xxx x"xxxxxxxxxxxxxxx   
+    xxxxxxxxxxxxxxxxxxx x"Vzxxxxxxxxxxxxxxxxxxx x"xxxxxxxxxxxxxxx   
+    xxxxxxxxxxxxxxxxxxx x""zzzzzzzzzzzzzzzzzzzx x"xxxxxxxxxxxxxxx   
+                    xxx x""xxxxxxxxxxxxxxxxxxzx x"x                 
+                    xox x>"x                xzxbx"x                 
+                    xox x""x                xzx x"x xxxxxx          
+                    xox x""xxxxxx    xxxxxx xzx x"x xxxxxx          
+              xxxxx xox x"<xxxxxx    xxxxxx xzx x"x xxxxxx          
+              xxxxx xox x""xx   x    xx   xxxzx x"xxx   xx          
+              xxxxxxxox x""xx   x    xx   xxxzx x"xxx   xx          
+              xx     ]x x/"xx x"x    xx     ++x x++   x"xx          
+              xx  >  ^x x""   x"x    xx x   ++xmx++   x"xx          
+              xx  x ++x xo    x"x    xx xxxxxxxxxxxxxxx"xx          
+              xx xxxxxx xxxxxxx"x    xx                "xx          
+              xx                x    xx                "xx          
+              xx                x    xx                "xx          
+              xxxxxxxxxxxxxxxxxxx    xx V  V     V  V  "xx          
+              xxxxxxxxxxxxxxxxxxx    xx mmmmmm  mmmmmmm"xx          
+              xxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxx          

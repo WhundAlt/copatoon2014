@@ -1,0 +1,46 @@
+daring_cave
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xwwwwwwwzz++       K          <          x
+x       zz++       K          <          x
+x    o  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x
+x  =====xx  K     wwwwwxLK           <   x
+x       xx  K          xxxxxxxxxxxxxxxxx"x
+x       xx++K          x                "x
+x       xx++K          x                "x
+x  =====xx++K mm/      x                "x
+x       xxxxxxxxxxx    x                "x
+x       xx           mmx                "x
+x       xx          xxxx                "x
+x   ====xx    < <      x                "x
+x       xx    <|< x    x                "x
+x       xw    < < xx   x                "x
+x D#  o   > mmm^mmxxx  x                "x
+xxxxxxxxmmxxxxxxxxxxxx x                "x
+xxxxxxxxxxx>       +   xooooooooooooooo "x
+xxxxxxxxx++>|  <   K   xooooooooooooooo "x
+xxxxxxxxx++>           xooooooooooooooo "x
+xxxxxxxxxxxxxxx        xooooooooooooooo "x
+xxxxxxxxxxxGxxx        x||||||||||||||| "x
+xxxxxxxxxxx"xxx==      x                "x
+xxxxxxxxxxx"zzx        x                "x
+xxxxxxxxxxx"zzx      mmx                "x
+xxxxxxxxxxx"zzz xxxxxxxx                "x
+xxxxxxxxx++"zzz        x                "x
+xxxxxxxxx++" xx        x                "x
+xxxxxxxxx++  wx        x                "x
+xxxxxxxxx++            x                "x
+xxxxxxxxxxxxxmmx        ^               "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

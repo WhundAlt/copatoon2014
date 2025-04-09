@@ -1,0 +1,46 @@
+cra_z_mans Map
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"  "    "    "    "zooooooooooo  |>        """"""""+xooooo xx
+x"  "    "    "    "z>>>>>>>>>>>  |>        """""""""xooooo xx
+x"=="===="===="===="x             |>        xxx """""xooooo xx
+x"  "    "    "    "x^^^^^^^^^^^  |>     xxxxxx ""mmmx<<<<< xx
+x"mm+mmmm+mmmm+mmmm+x||||||||||||||     <x"     xxxxxx      xx
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"     x"          "x
+x"           xwwwwwwwwwwwwwwwwwwwwwwwwwwwx"xxxxxx" +      ^ "x
+x"           x" " " " " " " " " " " " " "x"      "xxxxxxxxxx"x
+x"           x" " " " " " " " " " " " " "x"3     "xx"       "x
+x"           x" " " " " " " " " " " " " "x" 3    "xx" "     "x
+x"           x" " " " " " " " " " " " " "x"  +   "xx" " "   "x
+x"          +x"mmmmmmmmmmmmmmmmmmmmmmmmm"xxxxxxxxxxx" " "   +x
+xxxxxxzxxxxxzxzxxxxxxxxxxxxxxxxxxxxxxxxx"xxV<    <xx" " "   "x
+x  "xxzxxxxxzzzxxxxxxxxxxxxxxxxxxxxxxxxx"xx>     |xx" " "   "x
+x  "xxzxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxx"x      V<xx" " "   "x
+x  "x   x                               "x">^  <|>zz" " "   "x
+x++"xmmmx                               "x"xxxxxxxxx" " "  ""x
+x++"xxxxx                                x"       xx"      " x
+xxx"zzzzz         +           +          x"       xx"      " x
+xxx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxx"       xx"      " x
+xww"wwwx          +                      x"       xx"      " x
+x  "   x          o                      x        "x"mmmmmmmmx
+x  "   x          o                      xm   +   "xxxxxxxxxxx
+xmm"mmmx          o                      xxxxxxxxx"x        xx
+xxx"xxxx         oo                      xx      1"x        "x
+x  "   x        ooo                      x"       "x+       "x
+x  "   x       oooo                      x"  +    "xxxxxxxxx"x
+x  "   x      ooooo                      x"xxxxxxxxxxxxxxxxx"x
+x  "   xooooooooooo                      x"xxxxxxxxxxxxxxxxx"x
+x  "   xoooooooooooxxxxxxxx              x"  |>             "x
+xL "   xoooooooooooxxxxxxxx     ==       x"  |>             "x
+xG+" D xoooooooooooxxxxxxxx==        ==  x"  |>             "x
+xxxxxxxxoooooooooooxxxxxxxx3             x"  |>             "x
+x       oooooooooooxxxxxxxx  ==          x"  |>             "x
+x       >>>>>>>>>>bxxxxxxxx     ==     ==x"  |             <"x
+x  )   )   )   )   )   )  x  ==     ==   xxxxxxxxxxxxxxxxxxx"x
+x                         x==                wwwwwwwwwwwwwww"x
+x#     >^                 x      + ==   +                   "x
+x==================xxxxxxxx==   ==     ==x                 4"x
+xmmmmmmmmmmmmmmmmmmxxxxxxxxmmmmmmmmmmmmmmx                  "x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

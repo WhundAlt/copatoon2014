@@ -1,0 +1,21 @@
+<?php
+
+	include 'api.php';
+	
+	$dbId = '17608';
+	
+	if (isset($_REQUEST['share_id'])) {
+		$share_id = $_REQUEST['share_id'];
+		
+		echo getLevel($dbId, $share_id);
+	
+	} else if (isset($_REQUEST['page'])) {
+		$page = $_REQUEST['page'];
+		$max_items = $_REQUEST['count'];
+			
+		echo getGameShares($dbId, $page, $max_items);
+		
+	} else if (isset($_REQUEST['random'])) {
+		echo getRandomLevel($dbId);
+		
+	}

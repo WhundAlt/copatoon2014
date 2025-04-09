@@ -1,0 +1,89 @@
+Birthday_Surprises
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                                x
+x                                                                                x
+x                                                                                x
+x                                                                                x
+x KKKKKKKKKKKKKKKKKKKK                                                       xxx x
+x K        KK     |||K      KK                        KKxxKKxxKKxxKKxxK     x b xx
+x K        KK   |||||K      xx xxxx                   z""        |||||K    x  ^  x
+x K   bb   KK     |||K      xx x   x     xxx          z """"    ||+++|z   x   ^  x
+x K  bbbb  KK    | | K      xx x    x   x  x          K   +"     |+++|z   zb  x> x
+x K bbbbbb KK      | K      xx x     x x   x          K""" " "" ||+++|K   z      x
+x K  bbbb  KK        K    xxxx  x     x   x xKKK      x +"""""+  |||||K   x      x
+x K        KKx       K   xxxxxx  x       x  xKKK   || x    "    | | | z    x  b  x
+x KKKKKKKKKKxKxKKKKKKK  xbbbxxxxxxxxxxxxxxxxxKKK   || K "" """""      z     x   xx
+x KKKKKKKKKxKxKxKKKKKK  xKKbxxxxxxxxxxxxxxxxxxxx   || K +""" + +  ^^^ K     x " xx
+x K"   "  xKKxVx | | K  xKKbxxxxxxxxxxxxxxxx       || z    "          K     x " xx
+x K " "  x KK>V<  "  K  xxxxxxxxxxxxxxxxxxxx       || z  """"         z     xx"xxx
+x K  "  x  KK ^  |x| K   bxxxxx  xxxxxxxxxxx       || Kbbbbbbbbbbbbbbbz       "  x
+x K "" x   K||||| x  K    xxxx    xx     xx           KxxKKxxKKxxKKxxKK       "  x
+x K" ""x"  K|||||bbbbK            xx     xx        ||                         "  x
+x K  " x   K|||||bbb K             xx   xx         ||                         "  x
+x K  " x   KK||| bbb K             xx   xx                                    "  x
+x KKKKKxKKKKKK|KKKKKKK                             V   <                      "  x
+x      x   x                                        < V                       "  x
+x      x  x                                         >V<                       "  x
+x      x x                                         V | ^                      "  x
+x  xxxxxx     x    x                                ||                        "  x
+x  x Kxxxz   x    x                                |||                        "  x
+x  x  xxzzz x    x   x                            ||||                       """ x
+x  xxxzzzzxx     x  x                       ||b  ||||| b||              mmmmm""" x
+x  xxxzzzxx      xxx                        |  b||||||b  |              xxxxx""" x
+xx  xxzxzx      x                           b  bbbbbbbb  b             x     z   x
+x x  xzxzxx    x                   KKKK      bbbbbbbbbbbb      KKKK   x       x  x
+x  xxx+xzxxx  x                   bbbbbb      bbbbbbbbbb      bbbbbb  x x xzz x  x
+x   xxxxzxxx x                    bbbbbb      bxxxbbxxxb      bbbbbb  x x x x x  x
+xx  xxxxzzzxx                      bbbb       bxKKbbKKxb       bbbb   x x xzz x  x
+x x xxzzzz+x                        KK        bxKKbbKKxb        KK    x x x z x  x
+xx  xxzxxxxx                        KK        bbbbbbbbbb        KK    x x xxz x  x
+x   xx+zzxxx                        KK         bbbxxbbb         KK    x       x  x
+x  x xxxzxx                         KK          bbbbbb          KK     x     z   x
+x x   xxzx                          KK           bbbb           KK      x   x    x
+xx   xx zx                          KK            bb            KK       x x     x
+x x xx zz                           KK       KKKKKKKKKKKK       KK      x   z    x
+x xxx  z                            KK      KKKKKKKKKKKKKK      KK     x  "  x   x
+x x   xzx                           KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK     xxx"xxx   x
+x                                   KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK        "      x
+x                                             |||KKKK|||          bxb     "      x
+x                                             |||KKKK|||         bbxbb    "      x
+x                                             ||||||||||       bbbbxbbb   "      x
+x                                             ||||||||||      bbbbbxbbbb  "      x
+x                                             ||||||||||      xxxxxxxxxx  "      x
+x                                             ||||||||||          <x      "      x
+x                                             ||||||||||      xG   x  bx  "      x
+x      +  + +  + +   + +   + +  + +  +        ||||||||||      xxxx^xxxxx  "      x
+x      b  b bbbb b   b b   b bbbb b  b        ||||||||||      xxxxzzzzzz  "      x
+x      b  b b  b bb  b bb  b b  b b  b        ||||||||||      [[[[[[[[[[[ "      x
+x      bbbb bbbb b b b b b b bbbb bbbb        ||||||||||bb                "      x
+x      b  b b  b b  bb b  bb b  b b  b        |||||||||| bb               "   xxxx
+x      b  b b  b b   b b   b b  b b  b         bbb  bbb   b               "  xbbbx
+x     |||||||||||||||||||||||||||||||||        bbb  bbb   b               " xbbbbx
+x     |||||||||||||||||||||||||||||||||        bbb  bbb   b               " xbbbbx
+x    |||||||||||||||||||||||||||||||||||       bbb  bbb   |               " xbbbbx
+x    |||||||||||||||||||||||||||||||||||       bbb  bbb                   "  xbbbx
+x   |||||||||||||||||||||||||||||||||||||      bbb  bbb            xxx    "   xbxx
+x   | ||||||||||||||||||||||||||||||||| |      KKK  KKK           x+++x   "  xbbbx
+x   x^zzxxxxzxxxxxxzxxxxxxxxzxxxxxxxxxxbx     xxxxxxxxxx         x+++++x  "  xx"xx
+x   xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxx     xKKKKKKKKx         x+++++x  "    " x
+x   xxzxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxx     x>>>>>>>>x         x+++++x  "    " x
+x   xzzx +           +     +         xxxx     x|       x          x+"+x   "    " x
+x   xzzx |           <     K       + xxxx     x|       x           x"x    "    " x
+x   xzxx        ===    ==  >       K xxxx     x|VVVVVVVx          x+"+x   "    " x
+x   xzzx   ]]]       ^               xxxx     x||||||||x          xx"xx   "    " x
+x   xzzx                         ^   xxxx     xV|| ||  x            "     "    " x
+x   xxzx               [[[           xxxx     x|  |  | x            "     "    " x
+x   xzzx       ====                  xxxx     x||   ||<x            "     "    " x
+x   xzzx+             ===          ]]xxxx     x  | |   x            "     "    " x
+x   xzxxK    >           V          |xxxx     x ||<||  x            "     "    " x
+x   xzzx|                  ^    <  |+xxxx     x ||<||  x            "     "    " x
+x   xzzx        [[[[                |xxxx     x >>V^> ^x            "     "    " x
+x   xxzx                             xxxx     x ||V||  x            "     "    " x
+x  #zzzxD                            xxxx     z ||>||  z            "     "    " x
+xxxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,39 @@
+The Thirteen Trials
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x///////////x   wwwwwwwwwz   +b+b+       x
+xVV/VVVVVVVVx            z   b/b/b       x
+x   >    V  x            z   bbbbb       x
+x    +++V/V x     + + +  z   bb/bb       x
+x    xxx    x   < b b b bz   /bbb/       x
+x          /K            z   bbbbb       x
+x# ^^   < >/K   mmmmmmmmmz   bb/bb       x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxxx """"ww"+ x ooooo  x                 x
+xxxx m"m""""" x oooob  x                 x
+xxxx """"+mm" x ooobb  x   KK+KKK+KKK+K  x
+xxxx "+m"mm""1x+bbbbG  x   KKK|KK|KK|KK  x
+xxxx """"""m" z+bbbbb  z   K||K||K||K|/ <x
+xxxx mmmmmmmm z+bbbbb  z   KKK|KK|KK|KK  x
+xxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x               x   ""+<+"" xwwwwwww     x
+x               x   ">"<"<" x+  +  +     x
+x//<>         < x   ">"<"<" x=======     x
+x]]]]]]]]]]]]]]=x   ">"<"<" x            x
+x               x   ">"<"<" x    ===     x
+x               x   ">"<"<" x            x
+x     V   V o   x   ">"<"<+ x    ===     x
+x===== === ==   x   """""""4x            x
+x              +z           z    ===     x
+x    ^/>^^/mmm++z           z            x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxxxxxxxxxx            xooooooo     x   +x
+xwwwwwwwwwx            xoooooooo    /   +x
+x         x      +    3xooooooooo   /   =x
+x         x      =     x<<<<<<<<<   x    x
+x   + + + x3+       3+ x            x  /+x
+x   b b b z =        ] z+           xxxxxx
+x D mmmmm z            z++      ^  <xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

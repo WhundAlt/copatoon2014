@@ -1,0 +1,86 @@
+Graveyard
+terrain 2
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                                x
+x                                                                                x
+x                                                                                x
+x   zzz                                                           zzz            x
+xx# z"z      x     x     x     x     x     x     x     x     x    z"z    x     x x
+xxxxx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"xxxxxxxxxxxxxx
+xxxxx"x  wwwwwwwwwwwwxxwwwwwwwwwwwxxxxxxxxxxxxxxxxxxowwwwwwwwwxwwww"wwwwx      Dxx
+xxxxx"x"        t  t xx  o    o   xxxxx          xxxb       </x    "    x       xx
+xxxxx"x"xm           xx> >    b   xxxxx   ++++ " >           ^x    "    x       xx
+xxxxx"x"xxm          xx           xxxxxxxzxxxxx"xxxxx         x    "    x       xx
+xxxxx"x"xxxm         xx           xxxx w  ww wx"x    x        x    "    x       xx
+xxxxx"x"xxxxmmmmmmmmmxx           xxxx       mx"x     x       x++++"++++x       xx
+xxxxx"x"xxxxxxxxxxxxxxx           xxxxm mmm mxx"xx     xmmmmmmxxxxxxxxxxx       xx
+xxx z" "xxxxxxxxxxxxxx              xxxxxxxxxx " x      xxxxxxx                 xx
+xxx"z  "            >  ^                      +"+x                              xx
+xxx"xxxxxxxxxxxxxxxxxx[==========]xxxxxxxxxxxxx"xx                              xx
+xxx"xxxxxxxxxxxxwwwwwx            xwwwwwwwwwwwx"x                               xx
+xxx"xxxxxxxxxxxx     x            x  o   o    x"x                               xx
+xxx"xxxxxxxxxxxx     x            x  b   b    x"x                               xx
+xxx"           x     x            x  //////   x"x                               xx
+xxx"      "       mmmx            x  ^    <   x"x                               xx
+xxxxxxxxxx"xxxxxxxxxxx            x           x"x                               xx
+xxxxxxxxxx"xwwwwwwwwwx            x  >    ^   x"x                               xx
+xxxxxxxxxx"xoo     t x            x           x"x                               xx
+xxxxxxxxxx"xoo       x            x           x"x                               xx
+xxxxxxxxxx"xoo       x            x  ^     <  x"x                               xx
+xxxxxxxxxx"xob       x            x         mmx"x                               xx
+xxxxxxxxxx"xx        x            x         xxx"x                               xx
+xxxxxxxxx " x     zzzx            x            "x                               xx
+xxu       "  ^    z"zx            x        ^   "x                               xx
+xx xxxxxxxxxxxxxxxx"xx            x[======]xxxxxx                               xx
+xx xxwwwwwwwwwwwwwx"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx   o   o  o  x"xx            x        x                                    xx
+xx xx   b   b  b  x"xx            x        x                                    xx
+xx xx/////////////x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx             x"xx            x        x                                    xx
+xx xx              "xx            xm   "  mx                                    xx
+xx >        ^      "xx            xxxxx"xxxx                                    xx
+xxxxxxx[=========]x"xx            xwwwx"x                                       xx
+xxwwwww           x"xx            x   x"x                                       xx
+xx                x"xx            x   x"x                                       xx
+xx                x"xx            x   x"x                                       xx
+xx                x"xx            x   x"x                                       xx
+xx                x"xx            x   x"x                                       xx
+xx                x"xx            xooox"x                                       xx
+xx                x"xx            xooox"x                                       xx
+xx                x"xx            xooox"x                                       xx
+xx                x"xx            xbbbx"x                                       xx
+xx                x"xx            x///x"x        xxxx        xxxxxxxx           xx
+xx                x"xx            x   x"x        xoxx        x||||||x           xx
+xx                x"xx            x   x"x   xxxxxxbxx        x||    x           xx
+xx                x"xx            x   x"x   x     ^xxxxxxxxxxx||"  ^x           xx
+xx                x"xx            x   x"x   x      xxx      xxxx"xxxx           xx
+xx                x"xx            x   x"x   x  "   xxx "   <xxxx"x              xx
+xx                x"xx            x   x"x   xxx"xxxxxxx"xxxxxxxx"x              xx
+xx                x"xx            x   x"x     x"xxxxxxx"xxxxxxxx"x              xx
+xx                x"xx            x   x"x     x"xxxxxxx"xxxxxxxx"x              xx
+xx                x"xx            x   x"x     x=xxxxxxx=xxxxxxxx=x              xx
+xx                x"xx            x   x"x     x" xxxxx " xxxxxx "x              xx
+xx                x"xx            x   x"x     x"       "        "x              xx
+xx                x"xx            x   x"x     xxxxxxxxx"xxxxxxxxxx              xx
+xx                x"xx            x   x"x             x"x                       xx
+xx                x"xx            x   x"x             x"x                       xx
+xx                 "xx            x   x"x             x"x                       xx
+xx                 "xx            x   x"x             x"x                       xx
+xx++             ++"xx            x   x"x             x"x                       xx
+xxxx[===========]xxxxx            x   x"x             x"x                       xx
+xxxx             xxxxx            x   x"x             x"x                       xx
+xxxxxm        mmxxxxxx            x xxx"xx           xx=xx                      xx
+xxxxxxm      mxxxxxxxx            x xx " xxxxxxxxxxxxx " xxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxmmmmmmxxxxxxxxxmmmmmmmmmmmmx^   "               "                        xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,24 @@
+Bonecountry
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x     wwwwww"z               zxxxxxxxxxG
+x+       """"z               zxxxxxxxxxL
+x+       """"K== b   = b     z         "
+x+ xxxxxxzzzzK" "  [      b  z         "
+xx=mmmmmmmmmmK+ "           ]z]]]]]]]]]]
+xw=wwwwwwwwwwK" " |   |   " "xxxxxxxxxxx
+x+=++""""""""K" "       " " +x          
+xxxxxxx   "" K "    |   + + "x          
+xoooooxxxxzzxK +        " " "x          
+xooooox+   [ K "      | "    x          
+xooooox+  [  K "             x          
+x////<x+    +K  ++      |    x          
+x     x+    ]K """"       +++x          
+x >  ^x[  ]  K           xxxxx          
+x  xxxx    + Kxxxxxxx    x   x          
+x ^zzz     ] K///// x    z  Dx          
+x  zzz +     K++++/ z    z xxx          
+x#xxxx|/| ]  K++++/ z    zxxxx          
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          

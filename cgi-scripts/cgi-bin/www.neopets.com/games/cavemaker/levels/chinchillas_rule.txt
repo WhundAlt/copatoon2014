@@ -1,0 +1,51 @@
+Locksmith_Bigger
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxK                     x
+xxxxxxxxxxxxxxxxxxxK                     x
+xxxV  V  V  V  VxxxK                     x
+xxx             xxxK                     x
+xxx             xxxK  V            <     x
+xxx xx xx xx xx xxxKxx ++++++++++xx x xxxx
+xxx                |   ++++++++++       xx
+xxx^  ^  ^  ^  ^   |  |||||||||||V      xx
+xxx                |                 <  xx
+xxx                                     xx
+xxx                                     xx
+xxx=KK=KK=KK=KK=KKxxxxxxxxxxxxxxxKx     xx
+xxx xx xx xx xx xxx             x"x     xx
+xxx xx xx xx xx xxx          |  x"x     xx
+xxx xxLxx xxGxx xxx    >     b  x"x     xx
+xxx xx xx xx xx xxx             x"x     xx
+xxx xx xx xx xx xxx   V <  <    x"x     xx
+xxx xx xx xx xx xxx >V          x"x     xx
+xxx xx xx xx xx xxx      >     Vx"x     xx
+xxx xx xx xx xx xxx  >     ^    x"x     xx
+xxx xx xx xx xx xxx             x"x     xx
+xxx xx xx xx xx xxx   >  ^V     x"x^ ^  xx
+xxx xx xx xx xx xxx             x"x     xx
+xx   x xx xx xx xxx             x"      xx
+xx   x xx xx xx xxx       ^    <x"      xx
+xx D x2xxmxx1xxmxxxx xx xx xxxxxxxxxxx  xx
+xxxxxxxxxxxxxxxxxxxx xx xx x+x+x+x+xxx  xx
+xx>      VxxxxxxKxxx xx xx xoxoxoxoxxx==xx
+xx xxxxxx xxxxxKKxxx xx xx xoxoxoxoxxx "xx
+xx^xxxxxx xxxxxKKxxx        =========x "xx
+xxK   VVVVVVxxx|K>x                  x "xx
+xx||||||||||xxx|KKx       > |||||||  x "xx
+xx          xxV|||x         V V V V  x "xx
+xx                x                  x "xx
+xx                x                  x "xx
+xx       o    |   x                  x "xx
+xx      o o   |   x ^  ^             x "xx
+xx  #  o o o  |   x                  x "xx
+xx^   o o o o |   K                  x "xx
+xxxxxx|||||||xxxmxxxxxxxxxxx         x "xx
+xxxxxx=xx|xxxxxx^|xxxxxxxxxx           "xx
+xxxxxx=xx|xxxxxxx|xxxxxxxxxx           "xx
+xxxxxx=++|||K     xxxxxxxxxx|x|x|x|xxxxxxx
+xxxxxx=++|||K    ^xxxxxxxxxx^x^x^x^xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

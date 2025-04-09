@@ -1,0 +1,44 @@
+Pirate's Dungeon
+terrain 1
+background 1
+water clear
+KKKKKKKKKKKKKKKKKm                      
+K   #KVV <Koo+++Km                      
+K [[[K    KbbbbbKm                      
+K    K    K^^^^^Km                      
+K    K^  ^K     Km                      
+KbbbbK          Km                      
+K"^^^KK"KKKKKKKKKm                      
+K"   KV"VVKV   <Km                      
+K"   K "  K  +  Km                      
+K" ++  "..   +  Km                      
+K^KKKK[[[[K  + ^Km                      
+KKKKKKKKKKK^KKKKKm                      
+KwwwwK <..K..<<<Km                      
+K...   <  K  <<<Km                      
+K    K <        Km                      
+K+ ++K <  KK++++Km                      
+KK KKKKKKKKKKKKKKm                      
+Kw w"K          Km                      
+K+++"K          Km                      
+KKKK"KVVVVVVVVV Km                      
+Kwww"KVVVVVVVVV Km                      
+K   "           Km                      
+KKKKKKKKKKKKKKK Km                      
+KwwwwKwwwwwK.ww"Km                      
+K    Kbbbb K   "Km                      
+K    KVVVV K   "Km                      
+K++  K      +++"Km                      
+K++        KKKK^Km                      
+KKK KKKKKKKKKKKKKm                      
+K>+"            Km                      
+K>+"            Km                      
+K>+"            Km                      
+K>+"            Km                      
+K>+"            Km                      
+K>+"  VVVVVV    Km                      
+K>+" >^^^^^><   Km                      
+K>+" ><++++><   Km                      
+K>+" ><++L+><   Km                      
+K>+" ><++G+><  DKm                      
+KKKKKKKKKKKKKKKKKm                      

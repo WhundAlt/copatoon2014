@@ -1,0 +1,1 @@
+funky_flag=cango&world_town=gapupy&world_swf_ver=3.7.8

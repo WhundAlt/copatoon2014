@@ -1,0 +1,46 @@
+finish_at_the_door
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxVzzxxxxxxxxzzzzzzzzx
+xxxxxxxxxxxxxxxxxxxxxx zzzzzzzzzzzzzzzzzzx
+xV        <            xxxxxxxxxxxxxxxxxzx
+x> V              xxx  x    wwwwww +++++ x
+x   +  xxxxxx     x+ K x"          +++++ x
+x |||||xxxxzz   " x+ x x"xxxxxxxxxxxxxxxxx
+x     |xxx+zzxxx" x[ x x"  wwwwwwwww   xxx
+x     | xxxxxxxx" x  x x"             +zzx
+x   + | xxxxxxxx" x  x x"    ||||||  xxxzx
+x|||| |xwwx     " x +x x"   //////|/xxxzzx
+xx /  |xxxx     " x [x x" "xxxxxxxxxxxxzxx
+xx /  /xoxx   # " x  x x" " ||||||||||| tx
+xx //b/xxxx=======x  x x" "           | xx
+xx   + xx>                              Vx
+xx   + xx  "    V x[ x x" "           |  x
+xx|| + xxxx" ===  x  x x" "           |  x
+xx+| +   < "      x  x x" "          +|  x
+xx|| +     "      x +x x" "  ||||| |/||  x
+xx              b x [x x" "  |     >  |  x
+xx   =======  ++++x  x x" "  |     >  |  x
+xx            ++++x  x x" "  | ||||||||  x
+xx           |||||x+ x x" "  | ||||||||  x
+xx                x[ x x" "  | //  ||]|  x
+xxbbbbbbbbbbbbbbb x  x x" "  | / //// |  x
+xxbbbbbbbbbbb+bbb x +x x" "  |  +     /  x
+xxbbbbbbbbbbbbbbb x [x x" "//||| ||||||  x
+xxbbbbbbb+bbbbbbb x  x x" "/     |       x
+xxbb+bbbbbbbbbbbb x+ x x" "/     | ||||||x
+xxbbbbbbbbbbbbbbb x] x x" "/ ||||| ||+++|x
+xxbbbbbbbbbbb+bbb x  x x" "/  // | ||   |x
+xxbbbbbb+bbbbbbbb x +x x" "/++++ | || D |x
+xxbb+bbbbbbbbbbbb x [x x" "/++++ |xxxxxxxx
+xx                x  x x= "||||| |   |   x
+xx               3x  x x  "         >|   x
+xxxxxx xx         xx x x= "    >    ^|   x
+xxzxxx xx                 "    >    <|   x
+xxzxxx xx3                "    >    <| + x
+xx]xxx xxxxxxxxxxxxxxx|xxxxx xxxxxxxxxxxxx
+xxzx+    +xxxxxxxxxxxx|xxxxx x       ++++x
+xxzz++++++xxxxxxxxGzzz|xxxxx z       ++++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

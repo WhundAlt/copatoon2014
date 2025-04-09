@@ -1,0 +1,71 @@
+Great_Adventure
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooxooxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoooooxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>  >|xVxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx> V xx     xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx^ >V     ^    xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|        <x#  xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|x Kxx====xxx+xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|>KVxx mmm   x  xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxx x    xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxx  xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx^zz          xxx"++++++++xxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxx"++++++++xxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [=======]xxx"xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxV    <^^^^  ^^^xxx"xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxx   > ||||||||||||x"        xxx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxx   xxx    xxxxxxxxxxxxxxxxxxxx    xVVVVVVVVVKx|x"         xx
+xxxxxxxxxxxxxxxxxxxxxxxxKxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx>  ^x          x|xxxx[]xxxx xx
+xxxxxxxxxxxxxxxxxxxxxx> |Vxxxxxxxx++>    xxxxxxxxxxxxxxxxxxxxxxxxxx         mx|x>      Vx xx
+xxxxxxxxxxxxxxxxxxxxxx x          ++^    "xxxxxxxxxxxxxxxxxxxxxxxxx         xx|x   []   x xx
+xxxxxxxxxxxxxxxxxxxxxx x          ++|<   "xxxxxxxxxxxxxxxxxxxxxxxxxKKKKKKKKKKx|x^      <x xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxxxxxxxxVxxxx"xxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmKx|x   [=   x xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxxxxxxxx xxxx"xxxxxxxxxxxxxxxxxxxxxxxxx||||||||||x||>      ^x xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxxxxxxxx xx  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxx|xxxx|||||||x xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx|||||||    "xxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx||||||xxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx|/  |       xxxx+xxxxxxxxxxxxxxx>||||||<    |xxxx  xxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx|   |[=]    xxxx+xxxxxxxxxxxxxxx>|||||V<=   |      xxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx|+++|    |xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx||++K   <|xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxxx x  xxxx| |+| [] |xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxxx ^K  xxx||  |     |xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxx  ||  xxx"      V>^|xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxxx   |  xxx"  ||||||||xxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxx  >^|  xxx"xxxxxxxxxxxxxxxxb<xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxx  xx|  xxx"xxxxxxxxxxxxxxxx |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx~ xx
+xxxxxxxxxxxxxxxxxxx xxx>  Vxx"xxxxxxxxxxxxxxxx |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxxxxxxxxxxxxxxxxxx x" x x xx"xxxxx....xxxxxxx |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xx
+xxxxxxxxxxxxxxxxxxx x" x x xx"..x       >|      .bbxxbbxwwxxwwxxxxxxxxxxxxxxxxxxxxxxxxxx  xx
+xxxxxxxxxxxxxxxxxxx x" x x xx"  x     >|||<|   <.bb++bb.        xxxxxxxxxxxxxxxxxxxxxxxx  xx
+xxxxxxxxxxxxxxxxxxx x"Dx x xx"  x  xxxxxxxxV    xxb++bb.++++++  xxxxxxxxxxxxxxxxzzzzxxww  xx
+xxxxxxxxxxxxxxxxxxx x"x| w<xxx  x  xxxxxxxx    ^xxxxxbbx        xxxGzzzzzzzzzzzzzzzz      xx
+xxxxxxxxxxxxxxxxxxx x"x| .xxxx  x  xxxxxxxx|||||xxxxxxxxxxmmxx  xxxzxxxxxxxxxxxxxzb       xx
+xxxxxxxxxxxxxxxxxxx x"x| .xxx   x  xxxxxxxx     xxxxxxxxxxxxxx"xxxxzxxxxxxxxx...xbb     xxxx
+xxxxxxxxxxxxxxxxxxx x"x| xxx    x  xxxxxxxx     xxxxxxxxxxxxx."xxxxzxxxxxxx      bb mmxxxxxx
+xxxxxxxxxxxxxxxxxxx x"x| xx    x   xxxxxxxx     xxxxxxxxxxxxx."xxxxzxxxxx      + bb zzxxxxxx
+xxxxxxxxxxxxxxxxxxx x"+| xx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxx."xxxxzxxx       +++bxxxzxxxxxx
+xxxxxxxxxxxxxxxxxxx x"+| xx  x   xxxxxxxxxxxxxxxxxxxxxxxx....x"xxxxzxxx      xxxxxxxxzxxxxxx
+xxxxxxxxxxxxxxxxxxx x"+K xx  x  x..xxxxxxxxxxxxxxz+++ K       "xxxxzxxx    xxxxxxxxzzzxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx  x     xxxxxxxxxxxxxxz+++ K       "xxxxzxxx  xxxxxxzzzzzzLxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   xox  xxxxxxxxxxxxxxz+++ K|  <   "xxx...x     x....xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   +x+  xxxxxxxxxxxxxxzxxxxxx"xxxxxxx                    xxxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   xox  xxxxxxxxxxxxxxzxxxxxx"xxxxxxx3            KK     xxxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   +x+  xxxxxxxxxxxxxxzxxxxxx"xx|<www        <    KK     xxxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   xox  xxxxxxxxxxxxxxzxxxxxx".x|xxxx             KK     xxxxxxxx
+xxxxxxxxxxxxxxxxxxx xxxx xx   +x+  xxxxxxxxxxxxxxzxxxxxx".x|xxxxx||||||||    || <   xxxxxxxx
+xxxxxxxxxxxxxxxxxxx x..x xx   xox  xxxxxxxxxxxxxxzxxxxxx"xx||||> |+++++|| omm       xxxxxxxx
+xxxxxxxxxxxxxxxxxxx      xx    z   xxxxxxxxxxxxxxzxxxxxx"xxxxxxxxxxxxxxxxxxxx  x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxx" |>     ..........  []w^xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzz" |               <    xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

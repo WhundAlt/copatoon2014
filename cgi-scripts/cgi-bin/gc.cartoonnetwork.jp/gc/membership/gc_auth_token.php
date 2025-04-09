@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><result status="FAILURE"> <errorMessages><error><errorCode>authService.tokens.missing.authid</errorCode><errorMessage>Missing authid token </errorMessage></error></errorMessages></result> 

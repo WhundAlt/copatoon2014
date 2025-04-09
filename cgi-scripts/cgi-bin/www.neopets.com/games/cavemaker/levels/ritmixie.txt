@@ -1,0 +1,49 @@
+Win_OR_Lose
+terrain 3
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxxxxxxxzzzzx
+xx>>>                                    xxGx
+xx^x #mmmmm>                    |>      <xxLx
+xx^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx=x
+xx^x       ++++++++++++++++++++++++++++  xxzx
+xx^x+      ++++++++++++++++++++++++++++  xxzx
+xx^x++     xxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxzx
+xx^x+++++++++++++++++++++++++++++        xx=x
+xx^x++++++++++++++++++++++++++++++       xxzx
+xx^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xxzx
+xx^x       ++++++++++++++++++++++++++    xxzx
+xx^x       ++++++++++++++++++++++++++++  xx=x
+xx^x       xxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxzx
+xx^x++++++++++++++++++++++++++++++       xxzx
+xx^x+++++++++++++++++++++++++++++++      xxzx
+xx^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      xx=x
+xx^x      +++++++++++++++++++++++++++++  xxzx
+xx^x      +++++++++++++++++++++++++++++  xxzx
+xx^x      +xxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxzx
+xx^x D ++++++++++++++++++++++++++++      xx=x
+xx^xxxx+++++++++++++++++++++++++++++     zzzx
+xx^xxtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xx^x    ooooooooooo+oooooooooooo         zzzx
+xx^x    oooooooooooooooooooooooo         xx=x
+xx^x    oooooooooooooooooooooooo         xxzx
+xx^x    oooooooooooooooooooooooo        Vxxzx
+xx^x   b<<<<<<<<<<<<<<<<<<<<<<<<|       <xxzx
+xx^x                                     xx=x
+xx^x                                     xxzx
+xx^x            (nn  nuu n)u             xxzx
+xx^x            ( u   (   (              xxzx
+xx^x            (u    (   (              xx=x
+xx^x            ( )   )   (              xxzx
+xx^z            ( n  nnu  (              zxzx
+xx^                                  <   zzzx
+xxxx                                     xx=x
+xxzx                                     xxzx
+xxzx                                     xxzx
+xxzx                                     xxzx
+xxzx                                     xx=x
+xxzxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxzx
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzx
+xxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

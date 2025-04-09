@@ -1,0 +1,57 @@
+_
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxx    xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxx    xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx      xxxxxxx     xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx         xxxx      xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx           xx      xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx                       xxxx
+xxxxxxx   xxxxxxxxxxxxxxx    x                   xxx
+xxxxxx        xxxxxxxxxxx        xxxx            xxx
+xxxxxx            xxxx          xxxxxxxx        xxxx
+xxxxx                       x   xxxxxxxxx    xxxxxxx
+xxxxx                           xxxxxxxxx    xxxxxxx
+xxxxx                          xxxxxxxxxx     xxxxxx
+xxxxxx                          xxxxxxxxxx    xxxxxx
+xxxxxxx     x                   xxxxxxxxxx     xxxxx
+xxxxxxxx           x      xxx  xxxxxxxxxxxx    xxxxx
+xxxxxxxxx                xxxxxxxxxxxxxxxxxx    xxxxx
+xxxxxxxxx               xxxxxxxxxxxxxxxxxxx     xxxx
+xxxxxxxxxx             xxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxx
+xxxxxxxxxxxxx    xxxxxxx  xxxxxxxxxxxxxxx       xxxx
+xxxxxxxxxxxxx       xxx    xxxxxxxxxxxx         xxxx
+xxxxxxxxxxxxx              xxxxxxxxxx          xxxxx
+xxxxxxxxxxxxx             xxxxxxxxxx          xxxxxx
+xxxxxxxxxxxxx             xxxxxxxxx         xxxxxxxx
+xxxxxxxxxxxxxx           xxxxxxxxxx       xxxxxxxxxx
+xxxxxxxxxxxxxx           xxxxxxxxx       xxxxxxxxxxx
+xxxxxxxxxxxxxxx         xxxxxxxxxx     xxxxxxxxxxxxx
+xxxxxxxxxxxxx           xxxxxxxxxxx   xxxxxxxxxxxxxx
+xxxxxxxxxxxx           xxxxxxxxxxx     xxxxxxxxxxxxx
+xxxxxxxxxxx      xxmmmxxxxxxxxxxxx       xxxxxxxxxxx
+xxxxxxxxw       xxxxxxxxxxxxxxxxx    x    xxxxxxxxxx
+xxxxxxxx      xxxxxxxxxxxxxxxxxxx           xxxxxxxx
+xxxxxxx      xxxxxxxxxxxxxxxxxxxx       x    xxxxxxx
+xxxxxxw     xxxxxxxxxxxxxxxxxxxx    x         xxxxxx
+xxxxxxm   mxxxxxxxxxxxxxxxxxxxxx               xxxxx
+xxxxxxx# xxxxxxxxxxxxxxxxxxxxxxxx              xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+D

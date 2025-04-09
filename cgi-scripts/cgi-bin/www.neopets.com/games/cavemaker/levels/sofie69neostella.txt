@@ -1,0 +1,74 @@
+Crocodile_dangers
+terrain 4
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xKKKKK                                                                                   x
+xwwKKKKKK                                                                                x
+x  wwKKKKKK                                                                              x
+x    wwKKKKKK                                                                            x
+x      wwKKKKKK                                                                          x
+x        wwKKKKKK        KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKx
+x          wwKKKKKK      K    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwx
+x            wwKKKKKK    K   ||||||||              /////////<  VVVVVVVVVVVVVVVVVVVVVVVVVVx
+x              wwKKKKKK  K   |||++|||              /////////<  ||||||||||||||||||||||||||x
+x                wwKKKKKKK   |||++|||              /////////<                            x
+x#           +               ||||||||              /////////<                            x
+x==================      >   ^                     /////////<                      ///// x
+x                mmKKKKKKK                    ///  /////////<  ^^^  ///            ///// x
+x              mmKKKKKKGLK  ==========        ///  /////////<  ^^^  ///  VVVVVVVV  ///// x
+x            mmKKKKKK====Kmmmmmmmmmmmmmmm     ///                   ///  VVVVVVVV       "x
+x          mmKKKKKK    ""KKKKKKKKKKKKKKKKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+x        mmKKKKKK      ""wwwwwwwwwwwwwwwK wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"x
+x      mmKKKKKKK       ""               K """""/""""/"""""/////////////////////"////////"x
+x    mmKKKKKKK         ""               K """""/""""/"""""/////////////////////"////////"x
+x  mmKKKKKKK           ""               K "//""/"//"/+/"""///////+++++++///////"////////"x
+x mKKKKKKK         ++                   K "//""/"//"/+/"""///////+++++++///////""/"""""""x
+xmKKKKKK          ====                  K "//""/"//"/+/"""/////////////////////""""""""""x
+xKKKKKK     ====                        K "//""/"//"/+/"""/////////////////////""""//""/"x
+x                                       K "//""""//""+/"""/////////////////////""""//""/"x
+x                                       K "//""""//""+/""""""""""""""""""""""""""""//++/"x
+x      ===                              K xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x+++++++                                K                     wwwwwwwwwwwwwwwwwwwwwwwwwwwx
+x+++++++    |   2   5  |                K   V     VVVVV          |>     |<               x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"    K                        |>     |<               x
+x     wwwwwwwwwwwwwwwwwwwwwwwwwwwww"    K      |||||||||||||     |>     |<               x
+x            3              3      "    K     |<               x
+x                                  "    K    | 33333333333 |     |>     |<               x
+x "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx||||              |  >  |                   +   x
+x "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwKKKKKKKKKKxxxxxxxxxxxxxxxxxxxxxxxxxxx      KKKKbbx
+x "  |||||||||||||||||||  V<V   <||        KKKKKKKwwwwwwwwwwwwwwwwwwwwwwwwwwK      K  Kbbx
+x "  ||||||+++++||||||||   ^<    ||        KKKKKKK       "                  K      K  Kbbx
+x "  |||||||||||||||||||  <      || /      KKKKKKK       """""""""""""""""" K====  K  Kbbx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   KKKKKKK       "                  K      K  Kbbx
+xxxxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww+x    KKKKKKK       "                  K  ====K  Kbbx
+xxxx/////////////////////////////////"x    KKKKKKK       "                 +K      K  Kbbx
+xxxx/VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"x "KKKKKKKK        "                 K      K   Kbbx
+xxxx/                                "x "KKKKKKKK        "                 K      K   Kbbx
+xxxx/ 4                            "+"x "KKKKKKKK        "                 K =====K   Kbbx
+xxxx/                              "xxx "KKKKKKKK        "                 K      K   Kbbx
+xxxx/                              "x   "KKKKKKKK        "                 K]]    K   Kbbx
+xxxx/                              "x   "KKKKKKKK        "                +K      K   Kbbx
+xxxx/            1                 "x "KKKKKKKKK         "                K      K    Kbbx
+xxxx/                              "x "KKKKKKKKK         "                K====  K    Kbbx
+xxxx/                             +"x "KKKKKKKKK         "                K      K    Kbbx
+xxxx/             "  o            xxx "KKKKKKKKK         "                K   ===K    Kbbx
+xxxx/             "  ommmmmmmmm   x   "KKKKKKKKK         "                K 4    K    Kbbx
+xxxx/             " xxxxxxxxxxxxxxx   "KKKKKKKKK         "               +K      K    Kbbx
+xxxx/             " x++     xxxxxxx   "KKKKKKKKK         "               K  ====K     Kbbx
+xxxx/             " x++     zzzzzzz "KKKKKKKKK           "               K      K     Kbbx
+xxxx/             " z++     zzzzzzz "KKKKKKKKK           "               K      K     Kbbx
+xxxx/     5  <  K " z++     zzzzzzz "KKKKKKKKK           "               K]]]]] K     Kbbx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx "KKKKKKKKK           "               K      K     Kbbx
+xwwwwwwwwwwwwwwwwwwwwwwwwwwwww      "KKKKKKKKK           "             ++K++++++K     Kbbx
+x                                   "KKKKKKKKK           "             KKKKKKKKKKK    Kbbx
+x                             ""KKKKKKKKKKKKKKKK         "                 KKK        Kbbx
+x                             ""     K K K               "               +K K K       Kbbx
+x                             ""    K  K  K              "              +K  K  K      Kbbx
+x                   ++++++    ""   K   K   K             "             +K   K   K     Kbbx
+x  +++++         ============ ""  K    K    K D          "             K    K    K    Kbbx
+x========                     ""             xxx         "            xxxxxxxxxxxxxzzzKbbx
+x                             ""                         "            xxxxx ++zzzzz+++Kbbx
+x~                                                                    zzzzzzzzzzzzzzzz   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

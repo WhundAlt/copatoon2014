@@ -1,0 +1,64 @@
+Cave_In_Cavern
+terrain 1
+background 1
+water clear
+xxxxxxxoooooooooooxxxxxxxx     xxxxxxxxxxxxxxxxxxxxxxxxoxxxx
+xxxxxxxooooooooooox|||xxxxoooo xxxxxx||||||xxxxxxxxxxxxKxxxx
+xxxxxxxooooooooooox|x|xxxxoooo xxxxxx|xxxx|xxxxxxxxxxxx xxxx
+xxxxxxx|||||||||||||x|x|||||||||||||||x||||xxxxxxxxxxxx^xxxx
+xxxxxxx^          xxx|x|xx     xxxxxxxx|xxxxxxxxxxxxxxxLzxxx
+xxxxxxx^          xxx|x|xx     x||||||||xoooooooooooxxx=xxxx
+xxxxxxx^          xxx|x|xx     x|xxxxxxxxoooooooooooxxx xxxx
+xxxxxxx            xx|||xx     x|||xxxxxxoooooooooooxxx xxxx
+xxxxxxx       +     xxxxxx     xxx|xx|||||||||||||||xxx=xxxx
+xxxxxxx       x       xxxx     xxx|xx|xxx           xxx xxxx
+xxxxxx     ++ x                xxx||||xxx           xxx xxxx
+xxxxxx#  + xx x      xxxx======xxxxxxxxxx           xxx=xxxx
+xxxxxx>^ x xx x    xxxxxxx     xxxxxxxxxx   +   +   xx   xxx
+xxxxxxxx x xx x    zxxxxxx     xxxxxxxxxx           xx   xxx
+xxxxxxxx x xx x    zzzzxxx     xwx wxxxxx                xxx
+xxxxxxxx x xx x    zzzzxxx     x x xxxxx  x=========xxxx xxx
+xxxxxxxxmxmxxmxmmmmxxxzxxx       w   xxx  x         xxx  xxx
+xxxxxxxxxxxxxxxxxxxxxxzxxx               xx         xx   xxx
+xxxxxxxxxxxxxxxxxxxxxxzxxxmmmmxxxx[xxxxxxxx         xx   xxx
+xxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzzx xxxxxx         xx   xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxzz   zzzzzx xxxxxx         xx  mxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxz   zxxxxx xxxxxxxxxxxxxxxxx  xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx   xx/x/x/xxooooooooooo  xx   xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx G xx x x xxooooooooooo  xx   xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xx|||||||||||<<xxm  xxx
+xxxxxxxxoooooooooooooooooooo xxx  +  xx            ^ xx  xxx
+xxxxxxxxoooooooooooooooooooo xxx=x=x=xx                  xxx
+xxxxxxxx||||||||||||||||||||<xxx x x x           +  xxxxxxxx
+xxxxxxxx                               +         ]]=xxxxxxxx
+xxxxxxxx                    ^ xxxxxxxxx]]     +     xxxxxxxx
+xxxxx         +   +   +      xxxxxxxxxx       ]]    xxxxxxxx
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   +         xxxxxxxx
+xxxxx xxxxxxxxxx^ > V < xxxxxxxxxxxxxxx   ]]        xxxxxxxx
+xxxxx xxxxxxxxxxb b b b xxxxxxxxxxxxxxx             xxxxxxxx
+xxxxx xxxxxxxxxx        w  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xxxxxxxxxx        Ko xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx         xxx"xx====== xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx       xxx"xx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx  + +   xx"xx       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx x x x xx" x       xxxxxxxxxxxxxxxxxx     o     xxxx
+xxxxxxxxmxmxmx xx"                      xxx w     K     xxxx
+xxxxxxxxxxxxxx xxx   xxxxxxxxxxxxxxx    xxxVm<          xxxx
+xxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxx    xxx x           xxxx
+xxooooooxxxooxxxxxxoooooooooxxxxxxxx====xxx x     ^     xxxx
+xxooooooxxxooxxxx<xoooooooooxxxxxxxx    xxx x           xxxx
+xxooooooxxxooxxxxb<|||||||||xxxxxxxx ++      ^          xxxx
+xx||||||xxxooxxxx           xxxxxxxxxxxxxxxox   +   +   xxxx
+xx    ^xxxxbbxxxx           xww  wxxxxxxxxxzxx==========xxxx
+xx    ^    ||              ^x     wxxxxxxxxzxxx xx xx xxxxxx
+xxx    xxxx  xxxxxxxxxxxxxx x xx   xxxxx  xzxxx xx xx xxxxxx
+xxx    xxxx  xxx  xxwwxxwwx=x xx     xxx  xxxxx~xx xx xxxxxx
+xxx    xxxx  xxx  xx  xx  x   xxxx         xxxx xx xx xxxxxx
+xxx    xxxx  xxx  xx  xx  xxxxxxxxxxxxx    xxxx xx xx xxxxxx
+xxxx  xxxxxxxxxx  xx  xx  xxxxxxxxxxxxxx        xx xx xxxxxx
+xxxx  xxxxxxxxxx  xx  xx  xxxxx       xx +      xxmxxmxxxxxx
+xxxx  xxxxxxxxxx  xx  xx   www   mmm     xxxxxxxxxxxxxxxxxxx
+xxxx xxxx..xxxxx  ++  ++        xxxxx    xxww  wxxxxxxxxxxxx
+xxxx  xxx  xxxxxxxxxxxxxxxxxxxxxx...xxxxxxx     xxxxxxxxxxxx
+xxxx   +             ++                       D xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

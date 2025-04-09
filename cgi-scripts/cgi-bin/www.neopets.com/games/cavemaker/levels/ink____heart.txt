@@ -1,0 +1,46 @@
+Stalactite_Terror
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx    x           x        x       x          +        xx
+xx     x         x     +    x     x                    xx
+xx      xx      x     xxx    xxxxx    >       m      < xx
+xx #      x    x     x   x           xxxxxxxxxxxxxxxxx xx
+xxxxx     xx xx     x     x         x         V     x  xx
+xx   x    wwxww    x   ++  x+m+m+m+x               x   xx
+xx+   x           x   +xx+  xxxxxxx               x    xx
+xxx+   xmm     mmx   +x  x+       x              x     xx
+xx x+   xx  +  xx   +x    x+      x    ////// ^+x     xxx
+xx  x+    xxxxx    +x  ++  x+     x xxxxxxxxxx"x     x xx
+xx   x            +x  ++++  x+    x x        x"     x  xx
+xx               +x  ++++++  x    x x        x"    x   xx
+xx"             +x  ++++++++      x x   ++   x"   x    xx
+xx"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  +xx+  xxxxx     xx
+xx"                              x x  +x  x+           xx
+xx"                              x x +x    x+          xx
+xx"                              x x"xx    xxxxxxxxxxx xx
+xx"                       >   >  | |"+++++++x          xx
+xx"                       >   >  | |"+++++++x          xx
+xx"   / / / / / / /    xxxxxxxxxxx xxxxxxxxxx          xx
+xx"    / / / / / /    xxxxxxxxxxxx x          m+m m+m xxx
+xx    / / / / / / /  xxxxxxxxxxxxx x          xxxxxxxx xx
+xx===xxxxxxxxxxxxxxxxxxxxxxxxxxxxx x         x         xx
+xx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx x       xx          xx
+xx   xxxxxx        +xxxxxxxxxxxxxx x     xx    xxxxxxx xx
+xx===xxxxxx       ++xxxxxxxxxxxxxx x    x+"  +x        xx
+xx   xxxxxx      +++xxxxxxxxxxxxxx x  xx  "  x         xx
+xx   zzzzzz     ++++xxxxxxxxxxxxxx x x    " x          xx
+xx===xxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x    "x        xxxxx
+xx   xxxxxxx                     x x x   +"x       xxxxxx
+xx   xxxxxx                      x x x    "x      x    xx
+xx===xxxxx                      Gx x x    "x    xxx    xx
+xx   xxxx                  >  =xxx x x    "x   xxx   D xx
+xx   xxx                   ^   xxx x x    xx  x w   xxxxx
+xx===xx                    /   xxx x x  +x   x     xxxxxx
+xx                         /> =xxx x x  x   x    xxxxxxxx
+xx +                       ^>      x   x   x     xxxxxxxx
+xxxxx      /|/|/|/|/|/     /   <   x   x         xxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

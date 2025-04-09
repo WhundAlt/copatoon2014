@@ -1,0 +1,26 @@
+Thunder_Slow
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwwwwwwwwwwwwwx  xwwwwwwwwwwwwwx  xwwwwwwwwwwwwx              x             ++    xx
+xx~              x  x             x  x            x            ++x    ++       ++    xx
+xx               w  w             w  w            z            ++x    ++           D xx
+xx  ++                                            z       ..     x           ..      xx
+xx  ++                         ++                 x              x                 ++xx
+xx                             ++       ++        x++            w                 ++xx
+xx                                      ++        x++                                xx
+xx                                                x          ++       ..             xx
+xx                                            1   x          ++                      xx
+xx        ++            ++                        x              m           ++      xx
+xx#       ++            ++             ++         x     ++       x           ++      xx
+xx                                     ++         x     ++       x                .. xx
+xx                                                x              x                   xx
+xx                                                x     ..   ++  x                   xx
+xx                                                x          ++  x                   xx
+xx                                        4       x              x ++                xx
+xx              ++                ++              x             3x ++            ++  xx
+xx    ..        ++     ..       5 ++         ..   xG             x       ..      ++  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

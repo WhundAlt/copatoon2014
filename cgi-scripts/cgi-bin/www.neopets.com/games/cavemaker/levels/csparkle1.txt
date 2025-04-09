@@ -1,0 +1,86 @@
+Sparkle
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                   x+oox                  x
+x                   x+oox                  x
+x                   x+oox                  x
+x                   x+oox                  x
+x                   x+oox                  x
+x                   x+oox                  x
+x                   xK<xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+x                   x  xx                  x
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx  x                  xx
+xxxxxxxxxxxxxxxxxxxxx ^                <  xx
+xxxxxxxxxxxxxxxxxxxxx  xV                <xx
+xxxxxxxxxxxxwwwxxxxxx  x V              < xx
+xxxwwwxxxxxb   bxxx+x >                  Vxx
+xxxmmmxxxxxxmmmxxxxox  x>               V xx
+xxxxxxxxxxxxxxxxxxxox  x >             V  xx
+xxxxxxxxxxxxxxxxxxxox  x                  xx
+xxxxxxxxxxxxxxxxxxxox  x                  xx
+xxKKKKKKKKKKK++++ xox  x                  xx
+xx|||||||||||++++Vxox  x                  xx
+xx xxxxxxxxxxxxxx xox  x                  xx
+xx^            <  xox  x                  xx
+xx=  +   xxxxx    xox  x                  xx
+xx===]       x  x xox  x                  xx
+xx>      <     ^x x|x  x                  xx
+xxxxxx       x  x      x                  xx
+xx+ |    xx #x  x      x                ^ xx
+xx+ |  x  xxxxxxx   x  x                  xx
+xx+ | xx  woooo x   x  xxx>             V xx
+xx"x|xxx   <<<<<x> ^x  xxx|              ^xx
+xx"x|xxx       ^xx  x  xxx|||||||||||  ^  xx
+xx"x|         <| xxxx  xxx>         |   V+xx
+xx" |      mmmm| < x   xxx  |||||||||||  +xx
+xx" |   xxxxxxx    x  =x  |||         |  +xx
+xx" |   xxxxxxxx+ "x  V|| >   ||||||||| V+xx
+xx" |          xx "x    |     |       |  +xx
+xxxxxx          x "x    ||||||||||||| |  +xx
+xx   xxxxxxxx   x "x                | |||Vxx
+xx  +       x   x "x            >  V|   V xx
+xx==xxxxxxx"x   x "xx ++++++       >|>   Vxx
+xx     o  x"x   x "xxx++++++    ^  mmxxx  xx
+xx==   o+"x"x ++x "+"xK|||xxxxxxx +xxV  < xx
+xx     ox"x"x [=x "+"x   |||   xxoox      xx
+xx===] ox"x"x  ox  x"x^x   |    xooKK|  < xx
+xxxx   ox"x"x  ox  x"x|xx  |> |KKooKK|  < xx
+xxox  ||x"x"x  Kx^ x"x|xxx |>>|KKooKK| D< xx
+xxoxxx| x"x"x  |<| +"x|xxxx    xxKKxxxxxx xx
+xxV   < x"L"x   x  +"x|xx> ^+ [x ||    w <xx
+xx      x"G"x   x "xxx|xx xxx  x    mmVm <xx
+xx  >  ^xx+"x   x "xVx|xx^ <  xxxxxxxx xxxxx
+xx      xx+"x   x "x x|||    ^      <    <xx
+xx   xxxxxxxx   x "x xxxx  ^      <||||| |xx
+xx [=  xx       x "x^|||xxxxxxxxxxxxxxx| |xx
+xx              x "x   ||||||||||||||||| |xx
+xxm ===        m  "x                      xx
+xx>m           >m^ x>           ||||>    ^xx
+xxxxxxxxxxxxxxmxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

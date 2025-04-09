@@ -1,0 +1,119 @@
+Descent
+terrain 4
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx   mooooooooooooooooooooooooooooooooo xx
+xx # mbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb xx
+xx   mbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxooooooooooooooooooooooooooooooooooooo xx
+xxooooooooooooooooooooooooooooooooooooo xx
+xxKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK xx
+xx||||||||||||||||||||||||||||||||||||| xx
+xx                                      xx
+xx                                    ^<xx
+xx                 ++                   xx
+xxx                                     xx
+xxx                                     xx
+xzz                                     xx
+xzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xz wwwwwwwwwwwwwwwwwwwwwww              xx
+xx                                      xx
+xx                                      xx
+xx + + +                                xx
+xx= = = = = = = = = = = = = bbbbbbbbbbb xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xx                                      xx
+xx      "    "    "    "    "    "    " xx
+xx      "    "    "    "    "    "    " xx
+xx  +  >"    "    "    "    "    "    " xx
+xx KKKK>"    "    "    "    "    "    " xx
+xx     >"    "    "    "    "    "    " xx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxx
+xxV                              <    KGxx
+xx                                    KKxx
+xx                                      xx
+xx                                      xx
+xx                                     bxx
+xx KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK xx
+xx>||||||||||||||||||||||||||||||||||||^xx
+xx     +           mmmmmmmmmmmm         xx
+xxxxxxxxxx         KKKKKKKKKKKK         xx
+xx       x         bbbbbbbbbbbb         xx
+xx+++++++x         bbbbbbbbbbbb ++      xx
+xxKKKKKKKx         bbbbbbbbbbbb ++      xx
+xx|||||||xxxxxxxxxxxxxxxxxxxxxxxxxx   m=xx
+xx      ^                             xxxx
+xx      ^                             xxxx
+xx      ^                             xxxx
+xx~                                   xxxx
+xx                                    xxxx
+xx                                    xxxx
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxz                x..x                 xx
+xx     3                                xx
+xx                                      xx
+xx                                      xx
+xx  +                               +   xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxwwwwwwwwwwwwwwwwwx..xwwwwwwwwwwwwwwwwzxx
+xx                 w  w        +        xx
+xx                         +        +   xx
+xx                     +        +       xx
+xx                                      xx
+xxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxz                  x....x....x        xx
+xx            1                         xx
+xx                        +             xx
+xx                                      xx
+xx          2                           xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xx
+xxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww xx
+xx                                      xx
+xx+                                   o xx
+xx                                    ==xx
+xxxxxzzxxxxxxxxxxzzxxxxxxxxxxxzzxxxx===xxx
+xxxxxzzxxxxxxxxxxzzxxxxxxxxxxxzzxxxxzzzxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzxxx
+xx                    3                 xx
+xx                        xxxxx         xx
+xx                        x...x         xx
+xx                  3                   xx
+xx             xxxxx                    xx
+xx             x...x                    xx
+xx               3                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx        3                             xx
+xx      xxxxx                           xx
+xx      x...x                           xx
+xx                   xxxxx              xx
+xx                   x...x              xx
+xx         3                            xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx         3                       KKKKKxx
+xx                                 K....xx
+xx                     >        KKKK    xx
+xx  >                           K      Dxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx
+xxwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww wxx
+xx......................+............. .xx
+xx...................... ............. .xx
+xx..................... .............. .xx
+xxxxxxxxxx.............. ............. .xx
+xxwwwwwwww............. .............. .xx
+xx        .............. ............. .xx
+xxL       ............. .............. .xx
+xx        .............. ...............xx
+xx        ............. ................xx
+xxmmmmmmmm.............. ...............xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,56 @@
+It can be done!
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx   xxxzzzzzzzzzzxxxxxxxxx>  V+xxxxx
+xxz#  zzzzzzzzzzzzzzzzzzzzzz^   +xxxxx
+xxzxxxxxxzzzxxxxxxxxxxxxxxxx////+xxxxx
+xxzxK xK xxzxxxxxxxxxxxxxxxz    +zxxxx
+xxzx  x  xxzxxxxxxxxxxxxxxzzxxxxxzxxxx
+xxzxxxxxxxxzzzzzzzzzzzzzzzzxxxxxxzxxxx
+xxzxwwwwwxxzzzzzzzzzzzzzzzxzzzzzzzxxxx
+xxzx     xxzzxxxxxxoooxxxxz+zzzzzzxxxx
+xxzxmmmmmxxzxxxxxxxoooxxxxzxxxxxxxxxxx
+xxzxxxxxxxxzxxxxxxxooozzzzzxxxxxxxxxxx
+xxzzzxxxxxxzzzzzzzx/// xxxxxxxxxmxxxxx
+xxzzzxxxxxxxxxxxxzx      zzz xxxxxxxxx
+xxzzzzzzzzzxxxxxxzx^  <     4xxxxxxxxx
+xxzxxxxxxx     4xzx          zzzxxxxxx
+xxzx   zzx     3xzx          zzzzxxxxx
+xxzx   zzx      xzxmmm m     xxxzxxxxx
+xxzx D zzxxxxxxxxzxxxxxxxxxxxxzzzxxxxx
+xxzxxxzxzxzzzzzzzzxxxxxxxxxxxxzxxxxxxx
+xx       zzxx"xxxxxxxxxxxxzzzzzzzzxxxx
+xx      =xzxx"xxxx      xxzxxxxxxzxxxx
+xx>     Vxzxx"xxxxmmmmmmxxzxxxxxxzxxxx
+xx     b/xzxx"xxxxxxxxxxxxzxxzzzxzxxxx
+xx    V||xzxx"zzzzxxxxxxxxzxzzzzxzxxxx
+xx   b/||xzxxxxxx       3xzxzzxzxzxxxx
+xx  V||||xmxzzzzz        xzzzxxzxzxxxx
+xx b/||||xxxzzzzz        zxxxxxzxxxxxx
+xx=xxzxxxxxxzxxxx        zzxxxxzxxxxxx
+xx"xxzxxzzzxzxxxx  ommmmmxzxxzzzzzxxxx
+xx"xxzxxzzzxzxxxx"xxxxzxxxzxxzxxxzxxxx
+xx"xxzxzzzzzzzzzx"xxxxzxxxzxxzxxxzxxxx
+xx"xxzxzxzxxxxxzx"xxxxzzxxzxxzxxxzxxxx
+xx"xxxxzxzxxxxxzx"xxxxzzxxzxxzxxxzxxxx
+xx"xxxxzxzxxz"xzx"xxxxzzx+www w+xzxxxx
+xx"z++xzxzxxz"xzxzzxxxxxx+     +xxxxxx
+xx"z++xzxzxx    xzzxzzzzx+[===]+zzxxxx
+xx"xxxxzxzxxm   xxzzzzzzx+wwwww+zzzxxx
+xx"xxxxzxzzzxxxxxxxzzzzzx+++++++xxzxxx
+xx"xzzzzxxxxxxxxxxxxzLzzz+++++++zxzxxx
+xx"xzxxxxx      4xxxxxzxxxxxxxxxzxzxxx
+xx"xzxxxox       xxxxxzxxxxxxxxxzxzxxx
+xx"x    /        xxxxxzxxxx+zxxxzxzxxx
+xx"x|||      /   xxxx  5xxxxzzxxzxzxxx
+xx"z   |||/  |   xxxxxxxxxxxxzxxxzzxxx
+xxxz       ||||/ xxxxxxxxxxxzzxxmzzxxx
+xxxx       +     xxxxxxxxxxzzxxxxxxxxx
+xxxx       /////+xxxxxxxxxxzxxxxxxxxxx
+xxxxmmmmo       +zzzzzzzzzzzzzzzzzz+xx
+xxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

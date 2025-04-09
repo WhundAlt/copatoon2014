@@ -1,0 +1,27 @@
+Labyrinthe
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxx xx x   x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxx xx xx xx xxxxxxxzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzxxxxx
+x+xxxxxxxx    xx xx xxxxxxxzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxx
+x+xxxxxxxx xx xx xxxxxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxx
+x+xxxxxxxx xx x   x xxxxxxxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxzxxLGxxxxx
+x+xxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzxxxxxxxxxxzxxxxxxxxxxxxzxx                                       x
+xbwwwwwwwwwwwwwwwwwwwwwwwwx x x x x xwwwwwwwwwKKwwwww   KK   K++               >                    <x
+x ww      wwwwwwwwwwwwwww   ooooooo           KK        KK  +K++               =     +               x
+x w        wwwwwwwwwwwww  ooooooooooo         //        KK[[[K[=[                    ]               x
+x           wwwwwwwwwww   ooooooooooo         ++       > V           ]  o   +                        x
+x #  +       wwwwwwwww    ooooooooooo        ++++        /        ]     [[  ]     ]                  x
+xxx  b        wwwwwww     >>>>>>>>>>>       ++++++    KKKKKKKKK                       ]              x
+xxx ///       wwwwwww     ^                ++++++++   KKKKKKKKKmmmmmmmmm+mmmmmmmmmmmmmmm           D x
+xxxxxxxmmxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

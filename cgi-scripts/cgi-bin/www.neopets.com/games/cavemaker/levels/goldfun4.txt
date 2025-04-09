@@ -1,0 +1,61 @@
+Tentacle
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwwxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkwwwxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxwwk<<<| k +xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxwww       vk [wxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxww    vo<    |   <wwxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxw  o k> > |    > > v >|xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxw>  k k <xxxv          <|xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxm >    ^xxx> ^>    ^   <|xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx      kvxv <omm    mm^ <|xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx     k > ^ kxxm   ||  <|xxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx     k^ <mmxxxx   ww   <vwwxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx+    k>^xxxxxxxmb          wxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx  #mxxxxxxxxxxxm       > vkxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx=k=xxxxxxxxxxxxxm    mxx  k+xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxm mxxxxxxxxxxxxxxk=kkxxxx |kxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxmxxxxxxxxxxxxxxw + xxxxw   xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwowww    xxww   [xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxwwww> b       ww     mxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxww       > >   =     m^xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxww k    ^m | m<|  < < <| xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxw   kv< m|< mmxxv       wmxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxw    k   <ww xxxx      mm xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxw>         >^ xxxx>  =mmxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxww>|     <     ^wxxw  m xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxwwwvm<wmxxx  ^ <^|  ww<  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxww    kk xxxxx    |>      mxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxwk>m>m   +xxxxx   m|>    mxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxww kw|||  kkxxxxx]  >vw  [=xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxww   kvwm m> kxxwxxk     [==+xxxxxxxxxxxxxxxxx
+xxxxxxxxxxw kmk   kkv|m kwx xwkm   [===xxxxxxxxxxxxxxxxxx
+xxxxxxxxxx  k|w   <k kkk    w kkkm    mxxxxxxxxxxxxxxxxxx
+xxxxxxxxxw> m|mmk> w^m|w     m< wk   mxxxxxxxxxxxxxxxxxxx
+xxxxxxxxw mm|mxxm  kkww>     |<  k^ mxxxxxxxxxxxxxxxxxxxx
+xxxxxxxwv k|xxxxxm^kk        w<k=k  xxxxxxxxxxxxxxxxxxxxx
+xxxxxxx   |wxxxxx|w   <[==xxm  k w mxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx v < wxxxwv km kkk xxx  k  mxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx   ><>vwww    |k    wxx   + xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx >         m  |w    kxwk k]mxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx|k    |  v>| mm <   kw wmkmxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxvw>  ^|    wwmxxm     k  k xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxv    >|      xxxx        wmxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxwv    |>     xxxxxx====kk kxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx v    >|     xxxxxxkk  wk kxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxmv  ^  >|    xxxxxxw  ^mw  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx> mm v >    wxkxww   |k  mxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxm^||      >  w>w     |   xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxwm>  m     kkm  o+   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxmmkkk     k===k=[[xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxmmkm    k   kmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx D kmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

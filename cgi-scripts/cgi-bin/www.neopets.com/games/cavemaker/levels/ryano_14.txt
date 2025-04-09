@@ -1,0 +1,62 @@
+Dynamite Falls
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx +K>     x          xxxxxxxxxx
+xx KKK     x          xxxxxxxxxx
+xx |||     x        +Dxxxxxxxxxx
+xx         xx"xxxxxxxxxxxxxxxxxx
+xx ^K>     x "V     < xxxxxxxxxx
+xx KKK     x "> V     xxxxxxxxxx
+xx |||     x      <|  xxxxxxxxxx
+xx     |<|<x  >     V xxxxxxxxxx
+xx     |<|<x"==|||| ^ xxxxxxxxxx
+xx     |<|<x"     |^ mxxxxxxxxxx
+xx     |<|<x"     |||xxxxxxxxxxx
+xx     |<|<x"     xb|bxxxxxxxxxx
+xx     |<|<x"     xb|bxxxxxxxxxx
+xz     |<|<x"     x+|+xxxxxxxxxx
+xz# ^  |<|<x"m><  x+|Lxxxxxxxxxx
+xxxxxxxxxx=xxxxxx"xx|xxxxxxxxxxx
+xx      b  x     "ww wxxxxxxxxxx
+xx      b  xV   <"    xxxxxxxxxx
+xx 3    b  x     "    xxxxxxxxxx
+xK      xxxx||   "    xxxxxxxxxx
+xK      |++x||   "    xxxxxxxxxx
+x+// >  |++xKK  ^"    xxxxxxxxxx
+xxKKKK  |++x++xxxxKK  xxxxxxxxxx
+xx    K xxxxxxx++x.KK xxxxxxxxxx
+xxmmmm       wx++x    xxxxxxxxxx
+xxxxxxxxxxxx  xooo    xxxxxxxxxx
+xxwwwxx..xwx  x|<<  [=xxxxxxxxxx
+xx   1     xx x       K+xxxxxxxx
+xx         wx x  ^<  /K+xxxxxxxx
+xx+++       x xxx  [xxxxxxxxxxxx
+xxxxxx~x    x   x   xxxxxxxxxxxx
+xxxxxx xx   xxx x ==xxxxxxxxxxxx
+xxxxxx xxx      x   xxxxxxxxxxxx
+xxxxxx xxxx     x   xxxxxxxxxxxx
+xxxxxx x..xxxxxxx== xxxxxxxzzzxx
+xxx..x x            xxxxxxxzGzxx
+xx     x/"          xxxxxxxzzzxx
+xx     x/"xxxxxx====xxxxxxzzzxxx
+xx KKK x/"x++bbK    xxxxxxzzzzzx
+xx     x/"x++bb| <  xxxxxxzzzzzx
+xxVVVVVx/"xxxxxxxxxxxxxxxxxxxzzx
+xx     x/" ooowwxxxxxxxxxzzzzzzx
+xx|||||x/" KKK  zzzxxxxxzzzzzzxx
+xx^^^^^x/" |||  zzzzzzzzzzxxxxxx
+xx     x   ^^^  zzzzzzzzzxxxxxxx
+xx     xmmm   mmxxxxxxxxxxxxxxxx
+xx    4xxxx   xxxxxxxxx....xxxxx
+xx     xzzx+++b ||||          xx
+xx     xzzz+++b ||||          xx
+xx     xxzz+++b |||| <        xx
+xx     xxxxxxxxxxxxxxxxxxxxx||xx
+xx     xxxxxxxx...xwwwwwwwww  xx
+xx     wwwwwww || b          ^xx
+xx      >      || b           xx
+xxxxxxxxxxxxxxxxxxxmmmmmmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

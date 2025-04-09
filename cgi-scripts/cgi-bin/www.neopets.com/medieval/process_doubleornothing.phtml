@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <?php
+            $bool = rand(0,1);
+            $points = $_GET["points"];
+            $winnings = $points * 2;
+            $winURL = "Location: http://www.neopets.com/medieval/win_doubleornothing.phtml?points=" . $winnings;
+            if ($bool == 0)
+            {
+                header("Location: http://www.neopets.com/medieval/lose_doubleornothing.phtml");
+                exit();
+            }
+            else
+            {
+                header($winURL);
+                exit();
+            }
+        ?>
+    </body>
+</html>

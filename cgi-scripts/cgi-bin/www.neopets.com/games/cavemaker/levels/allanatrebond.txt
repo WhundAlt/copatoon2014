@@ -1,0 +1,46 @@
+Waiting_for_boulders
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxwwwwwwwww  xxooooxxxxxxxxxxxx+xxxxxxxxxx
+xx >     V   xxoooox         3xou ++++xxxx
+xx           xxoooox4         xo" o+boxxxx
+xx ^ o       xxoooox         Dxo"=o[]oxxxx
+xx"[=====    xxoo||x"xx x x xxxo" o  oxxxx
+xx"          xxoo|  "KoooooooK o" o  oxxxx
+xx"          xxoo|  "KoooooooK o" o  oxxxx
+xx"          xxoo|  "KoooooooK o" o  oxxxx
+xx"          xx|||   KoooooooK o" o  oxxxx
+xx"          x        oooooooK o" o  oxxxx
+xx"      >            |ooooooK o" o  oxxxx
+xx"          x+    ]" |ooooooK o" o  ozLxx
+xx"          xx     " |ooooooK o" o  ozzxx
+xx"   +      xx     " |ooooooK o" o  oxzxx
+xx"          xx     " |ooooooK o  o  oxzxx
+xx"          xx     "||||||||| o  o  ox=xx
+xx"          xx     "          o  |  |xzxx
+xx"     +  + xx    ="          o      xzxx
+xx"     b  " xx     "          o      xzxx
+xx"        " xx     "          |      x=xx
+xx"        " xx     "                 xzxx
+xx"  +     " xx     "                 xzxx
+xx"  b     " xx     "                 xzxx
+xx"        " xx     "                 x=xx
+xx         " xx                       xzxx
+xx         " xx                       xzxx
+xx         " xx                       xzxx
+xx         " xx              x"       x=xx
+xx                          xx"       xzxx
+xx                         oxx"       zzxx
+xx                         xxx        zzxx
+xxmmmmm=m=]xxxx       xx^^xxxx        xxxx
+xxxxxxxzxzxxxxx      1xxxxxxxxn      nxxxx
+xxxxxzzzxzxxxxx       xxxxxxxx        xxxx
+xxxxxzzzxzxxxxx))))   xxxxxxxx        xxxx
+xxzzzzxxxzxxxxx^+o+o++xxxxxxxx ^  ^  ^xxxx
+xxzzzzxxxzxxxxx++bbb++xxxxxxxx        xxxx
+xxzxxxxxxzxxxxxxxxxxxxxxxxxxxx    #   xxxx
+xGzzzzzzzzzxxxxxxxxxxxxxxxxxxx[=======xxxx
+xxxxxxxxxxzxxxxxxxxxxxxxxxxxxxmmmmmmmmxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

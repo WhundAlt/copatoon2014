@@ -1,0 +1,92 @@
+DeathTrap
+terrain 2
+background 1
+water dark
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxV            <xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxV     <||||xxxx|||||||xxxx||||xxxx|||||||xxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxx xxxxx|xxxxxxxx|xxxxx|xxxx|xxx|xxx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxVVVVxx|xxxxxxxxx|xxxxx|xxxx|xxxx|xx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xx    xx|xxxxxxxxx|xxxxx|xxxx|xxxx|xx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xx    xx|<       <|xxxxx|<<<<|xxxx|<<|||||||xxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xx====xx|xxxxxxxxx|xxxxx|xxxx|xxxx|xx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxx|xxxxxxxxx|xxxxx|xxxx|xxx|xxx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxx|xxxxxxxxx|xxxxx|xxxx|xx|xxxx|xxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxx|xxxxxxxx|||||||xxxx|||xxxxx|||||||xxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx||||xxxxxxVxxxxxxxxxxVxxxxxxxxxVxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|||||||xxxxx||||||||xxx||||xxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxx|xxxxx|xxxxxxxxxx|xxx|xxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxx|xxxxx|xxxxxxxxxx|xxxx|xxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxx|xxxxx|xxxxxxxxxx|xxxx|xxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|||||||xxxxx||||||||xxx|xxxx|xxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxxx|xxxx|xxxxxxxxxx|xxxx|xxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxxxx|xxx|xxxxxxxxxx|xxx|xxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxxxxx|xx|xxxxxxxxxx|xx|xxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxx|xxxxxxxxx|x||||||||xxx|||xxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxKx xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooo  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooo  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooo  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooo  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxooo  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|||||  xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx>||||||||||||||||||||||||||||||      xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV      xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                     xxxxox xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                     >   |x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x xxxooooooooooooooooooooooooooooxxx
+xxxxxxxxxx                                          x^  <||||||||||||||||||||||||||||xxx
+xxxxxxxxxx#                                         xxxxx   V                        xxx
+xxxxxxxxxxV                                         xxxxx                            xxx
+xxxxxxxxxxV                                         xxxxx                            xxx
+xxxxxxxxxx|>                            <   5       xxxxx   |||||||||||||||||||||||||xxx
+xxxxxxxxxx||||||||||||||||||||||||||||||| xxxxx     xxxxx              VVV VVVVVVVVVVxxx
+xxxxxxxxxx>                              ^xxxxx     xxxxx                            xxx
+xxxxxxxxxx                                xxxxx     xxxxx                            xxx
+xxxxxxxxxx                               xxxxxx     xxxxx                            xxx
+xxxxxxxxxxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxxxx     xxxxx                            xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxx                            xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxx                            xxx
+xxooooooox>>>V>>>>>>V    |||||||||||||||||          xxxxx                            xxx
+xxbbbbbbbx   V^     V        VVV VVVVVVVVVxxxxx     xxxxx                            xxx
+xxbbbbbbbx   V^ooooo|oooo                 xxxxx     xxxxx                            xxx
+xxbbbbbbbx   V^ooooo|oooo                 xxxxx     xxxxx                            xxx
+xxbbbbbbbx   V^ooooo|oooo                 xxxxx     xxxxx                            xxx
+xx+++++++ ^  V^ooooo|oooo                 xxxxx     xxxxx                            xxx
+xxxxxxxxxx=="V^ooooo|oooo                 xxxxx     xxxxx                            xxx
+xx          "V^ooooo|oooo   >                  ^    xxxxx                            xxx
+xx          ">^ooooo|oooo                   xxx     xxxxx                            xxx
+xx          "  ||||||||||^                  wwx     xxxxx                         bbbxxx
+xxV                 <>      ^  "    "         x     xxxxx                         bbbxxx
+xx          "                  "    "    >+  <x     xxxxx  ^ +/ 2      +/ ^       bb+xxx
+xx          "                  "    "    "x   x     xxxxx[[[[[[[[[[[]=======]KKKKKKKKxxx
+xx          "                  "    "    "xmmmx     xxxxx            "               xxx
+xx        + "                  "    "    "xxxxx     xxxxx            "      x        xxx
+xx       =====          + ^^   "    "    "xxxxx     xxxxx            "      xmmmmmmmmxxx
+xx                  ==  ====              xxxxx     xxxxx            "      xxxxxxxxxxxx
+xx               +                        xxxxx     xxxxx            "       xxxxxxxxxxx
+xx|>           ====                       xxxxx     xxxxx            "        xxxxxxxxxx
+xx|>       +                                                         "         xxxxxxxxx
+xx|>    =====                                                        "          xxxxxxxx
+xx|                             <                                    "               zzx
+xx|>                     ====   =                  =                 "K[============]xzx
+xx|>    +    +     1 +                    >     <                    "K++++ "        zzx
+xx|> ======  =    ====         +          === m ]   m==              "K++++ "        xxx
+xx                             =======        K     K                "K++++ "        xxx
+xx                                            K     K       4        "K++++ "        xxx
+xxmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmKmmmmmK                "K++++G"       Dxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

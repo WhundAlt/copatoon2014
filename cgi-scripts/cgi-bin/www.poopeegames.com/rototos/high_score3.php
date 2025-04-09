@@ -1,0 +1,1 @@
+&name1=adiana&score1=839

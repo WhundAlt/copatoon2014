@@ -1,0 +1,1 @@
+idpartida=-1&error=login_incorrecto

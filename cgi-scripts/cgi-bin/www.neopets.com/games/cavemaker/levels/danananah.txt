@@ -1,0 +1,37 @@
+Great_Gem_Challenge
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxx
+x     wwwwwww        "x
+x                  + "x
+x #                = "x
+x==]      +   V []   "x
+x    [="=====]      "[x
+x      "            " x
+x      "            " x
+x  +   " o     +   2" x
+xxxxxxxxxx     ="===] x
+xzzzzzzzx       "     x
+xzzzzzzzz+   =  "   o x
+xzzxxxxxx[]     "  xx x
+xzzxx           " b   x
+xzzzz           " b   x
+xzzzz +         " b   x
+xxxxxxx x|||  <[==]   x
+xxxxxxx x             x
+xxxxxxx xmm     u   + x
+xxxxxxx xxx      [====x
+xxxxxxx x             x
+xxxxxxx x        1  L x
+xxxxo               xxx
+xxxxo  m        )   xxx
+xxxxo GK            xxx
+xxxx|===]           xxx
+xxxx|        <    ++xxx
+xxxx              xxxxx
+xxxx              xxxxx
+xxxx              xxxxx
+x+++>        ^      xxx
+x+++>    5   <    D xxx
+xxxxxxxxxxxxxxxxxxxxxxx

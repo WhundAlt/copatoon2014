@@ -1,0 +1,47 @@
+Mazing
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                        x
+x                                ++++    x
+x  ===================================   x
+x " x                                    x
+x " x                        3           x
+x " x                                    x
+x " x  ==================================x
+x " x                      K             x
+x " x                     KK             x
+x " x                    KKK             x
+x " x=======            KKKK      ++x    x
+x "        x           KKKKK      ++x    x
+x "         ==        ||||||xxxxxxxxx    x
+x "                         x+ooooo+x    x
+x "          x              x|||||||x    x
+x "          x              x|||||||x    x
+x "          x              x       x    x
+x "          x                      x  D x
+x " #        x    >    ^    > ^     xxxxxx
+xxxxxxxx  "xxxxxxxxxxxxxxxxxxxxxxxxxx ~xxx
+xxxx      "x                           xxx
+xxxx      "x                           xxx
+xxxx      "x                           xxx
+xxxx       x      xxxxxxxxxxxxxxxxxxx  xxx
+xxxx   xxxxx      x               ++x  xxx
+xxxx   x          x               ++x  xxx
+xxxx   x     xxxxxx   xxxxxxx   xxxxx  xxx
+xxxx   x     x...   ++x....            xxx
+xxxx   x     x      ++x                xxx
+xxxx   x     xx   xxxxx                xxx
+xxxx   x      x       xxxxxxxxxxxxxx   xxx
+xxxx   xxxx   x                        xxx
+xxxx   ...x   x   xxxzxxxxxxxxxxxxxxx  xxx
+xxxx      x   x   xxxzxxxxxxxxxxxxxxx  xxx
+xxxx      x   x   xxxzzzzzzzzzzzzzzzz  zGx
+xxxx      x   x   xxxxxxxxxxxxxxxxxxx  xxx
+xxxx      x   x                        xxx
+xxxx   +++x   x                        xxx
+xxxx   xxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxx                     ......      ++++x
+xxxx                     ......      ++++x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

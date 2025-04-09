@@ -1,0 +1,79 @@
+You_Want_The_Candy
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxkkkkxxkkkkxxkxxxkxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxkxxxkxkxxxkxkxxkxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxkxxxkxkxkkxxkkkxxxxxxxxxxxxxxx
+xxxxxxxxxoxxxxxxxxkxxxkxkxxxkxkxxkxxxxxxxxxxxxxx
+xxxxxxxxxoxxxxxxxxkkkkxxkkkkxxkxxxkxxxxxxxxxxxxx
+xxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxoxxxxxxxxxxxxxxv w mm ww     <xxxxxxxxx
+xxxxxxxxxoxxxxxxxxxxxww   xxxx   m m   xxxxxxxxx
+xxxxxxxxxb    mm  m     <mxkxxxxxxxxm  wxxxxxxxx
+xxxxxxxxx  xxxxxxxxm    mxxoxxxxxxxxx   w  wxxxx
+xxxxxxxxx  xxxxxxxxxm mmxxxkw     w wm    m <xxx
+xxxxxxxxx  wxxxxxxxxxxxxxxx|<m mm   <x   mxx xxx
+xxxxxxxxx   xxxxxxxxxxxxxxx xxxxxxxx x   xxx xxx
+xxxxxxxxx  mxxxxxxxxxxxxxxxkxxxxxxxx x   xxx xxx
+xxxxxxxxx  xxxwxxxxx>  wwm b   < mww^x  mxxx xxx
+xxxxxxxxx xx w xx w  xxxxxx xxx xxxxxx  xxxx xxx
+xxxxxxxxw xx   ww    xx wxx x      xxw  xxxx xxx
+xxxxxxxx  xx          w  xx    ^    w   xxxw xxx
+xxxxxxxx  xw        ^    xx             xxx  xxx
+xxxxxxxx  x              xx             xxx  xxx
+xxxxxxxw  x   ++         xx   o o o     xxxm xxx
+xxxxxxx   x   ++         ww   xxxxxxxx  xxxx xxx
+xxxxxxx   x===xxxxx===x     xxxxxxxxxx  xxxx xxx
+xxxxxxx     " wxxxx   xxxxo xxxxxxxxxx mxxxx xxx
+xxxxxxxm    "  xxww   xxxxoxxxxxxxxxxx xxxxx xxx
+xxxxxxxx    "  ww     wxxxokxxxxxxxxxx xxxxx xxx
+xxxxxxxxm              wxxo@xxxxxxxxxw xxxxx xxx
+xxxxxxxxxm              xxo@xww  xxxx  xxxxw xxx
+xxxxxxxxxxm       >       >>w     w w  wwm  ^xxx
+xxxxxxxxxxxm               m           xxxxxxxxx
+xxxxxxxxxxxxm             mx++         xxxxxxxxx
+xxxxxxxxxxxxxm           mxx++         xxxxxxxxx
+xxxxxxxxxxxxxx  [=]     mxxxxx         xxxxxxxxx
+xxxxxxxxxxxxxx         mxxxxxxx   o   ^xxxxxxxxx
+xxxxxxxxxxxxxx        mxxxxxxxxx xx==||xxxxxxxxx
+xxxxxxxxw xxxx o      xxxxxwwwxx=xx"   xxxxxxxxx
+xxxxx ww  wxxx [======xxxxw      xx"   wxxxxxxxx
+xxxxx  >  vxxx        wxxx   xxxmxx"    xxxxxxxx
+xxxxx      xxx          xxm xxxxxxw"    xxxxxxxx
+xxxxx <<<  xxx o  [=]   xxx xxwxx  "    xxxxxxxx
+xxxxx      xxx=]        wwx xkkkw       xxxxxxxx
+xxxxx >>>  xxx               k|<        xxxxxxxx
+xxxxx      xxx       o    #  kkk       "xxxxxxxx
+xxxxw ^^^  xxx====x==========xxxxxxxx  "xxxxxxxx
+xxxx       xxx==xxx        "xxxxxxxxxx "xxxxxxxx
+xxxx       www  xxxm       "xxxxxxxxxx "xxxxxxxx
+xxxx       mmm  xxxx       "xxxxxxxxxx "xxxxxxxx
+xxxx xx=xxkxxxmmxxxx      x"xxxxxxxxxw "xxxxxxxx
+xxxx=xx xx xxxxxxxxxm     x"xxxxxxxx   "xxxxxxxx
+xxxx~xx=xx xxxxxxxxxxm  D x"xxxxxx     "xxxxxxxx
+xxxw    xw xxxxxxxxxxx=xxxx xxxxw      "xxxxxxxx
+xxx   ++x  xxxxx...xxw   xx xx       x "xxxxxxxx
+xxxxm ++x   xxx    wx  ++wx x      xxx xxxxxxxxx
+xxxxxxxxx   www     xx ++xx x++   mxxx xxxxxxxxx
+xxxxxxxxxm          wxmxxxx xx++  xxxx xxxxxxxxx
+xxxxxxxxxx           xxxxxx xxxxxxxxxx xxxxxxxxx
+xxxxxxxxxx mm        wwwxxx  wxxxxxxkx xxxxxxxxx
+xxxxxxxxxxxxx mm  m     xx     wwwxxkx xxxxxxxxx
+xxxxxxxxxxxxxxxxmmxm    x  >    m  |>w^xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxm           xx vxx=xxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx        mxxxxx xx  lxxxxxxx
+xxxxxxxxxxxxxxxxxx..x        xxxxxx xx xxxxxxxxx
+xxxxxxxxxxxxxxxxxw       mm mxxxxxx xxmxxxxxxxxx
+xxwwww wxxxxxxxxw      mxxx xxxxxxw wxxxxxxxxxxx
+xx      wwxxxxxx++   xmxxxx xxxxxx   wxxxxxxxxxx
+xx        xxxxxx++ xxxxxx|||mw  wm <mmxxxxxxxxxx
+xx mm     xxxxxxxxxxxxxx|||^xxxxxxmmxxxxxxxxxxxx
+xxxxxmm   wwwxxxxxxxxxx|||>^xxxxxxxxxxxxxxxxxxxx
+xxxxxxxbb    wxxxxxxxx|||> ^xxxxxxxxxxxxxxxxxxxx
+xxxxxxxbb     xxxxxxxx||>  ^xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxm    wxxxxxxx|>   ^xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxbbbm wxxxxxx>  m ^xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxmmxxxxxxxmmxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

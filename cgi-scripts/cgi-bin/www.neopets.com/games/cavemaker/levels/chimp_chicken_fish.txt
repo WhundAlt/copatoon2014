@@ -1,0 +1,46 @@
+The Cove of Darkness
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xKKwwwwwxxx>  |||| 4xxxxxxxxx
+xKK    1xxxzzz||||  xxxxxxxxx
+xKK #   xxx"xxx"xxxzxxxxxxxxx
+xxxxxxzxxxx"xxx"xxxzx++L+xxxx
+xxxxxxzxxxx"xxx"xxxzx>/>/xxxx
+xxxxxxzxxxx"xxx"xxxzx/</<xxxx
+xxxxxxzxxxx"xxx"xxxzx^ ><xxxx
+xxxxxxzzzxx"xxx"xxxzx    zxxx
+xxxxxxzzzxx"xxx"xxxzx[ =]zzxx
+xxzzzzzzzzzzzzzzxxxzz    ozxx
+xx+zzzzxxxxxxx||Vxxxxxxxxxzxx
+xxxxxxxxx"zzzz|||xxxxxxxxxzxx
+xxxxxxxxx"xxxx^+|xxxxxxxxxzxx
+xxx" b b b b >^x|xxxxxxxxxzxx
+xxx |||<|||||||      < bbbzxx
+xxx"^++^"<^+++|zzzzzz  bbbzxx
+xxx"|||<"o|+++|xxxxxxKKbbbzxx
+xxxbbb^<bx|||||zxxxxxKKbbbzxx
+xxxxxxxxxxxxxxxzxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxzxxxxxxxxxxxxx
+xxx+zzzzzzzzzzzzzzwwwwwwwwwxx
+xxxxxxxxxxxxxxxozz         xx
+xxxxxowwwV <xxxxxxxxxxxxxx"xx
+xxxxxK   < "xxxxxxxxxxxxxx"xx
+xxxxx xxxxx"xxxxx+++++++/ "xx
+xxxxx xxxxx"xxxxxooooooo/ "xx
+xxxxx=xxxxxzzzzzzooooooo/ "xx
+xxxxx xxxxxzzzzzz<<<<<<</ "xx
+xxxxx xxxxxxxxxxx       ^<"xx
+xxxxx=xxxxxxxxxxxxxxxxxxxxxxx
+xxxxx xxxxxxxxxxxxzzzzzz++xxx
+xxxxx xxxxxxxxxxxxzzzzzz++xxx
+xxxxx=xxxxxxxxxxxx"xxxxxxxxxx
+xxxxx xxxxxxxxxxxx"xxxxxxxxxx
+xxxxx~xxxxxxxxxxxx"xxxxxwwwxx
+xxxxx xxxxxxxxxxxx"xxxxx   xx
+xxxxx zzxxxxxxxxxx"xxxxx   xx
+xxxxx                  > D xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx

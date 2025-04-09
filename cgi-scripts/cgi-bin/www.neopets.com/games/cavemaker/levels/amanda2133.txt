@@ -1,0 +1,104 @@
+Drop!!
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxx
+x   wwwxzz+++  xzz++++x
+x D    xzx===  xzx====x
+x===+++xzx     xzx   +x
+x  +   xzx    +xzxm  =x
+x  =   xzxmmm =xzx    x
+x    1 xzx     xzx+4  x
+xmm   +xzx    =xzx=  mx
+x     =xzx     xzx    x
+x 3    xzxwwww xzx   +x
+x  +   xzx    +xzx   =x
+x  =   xzx    =xzx    x
+x    mmxzx     xzx+  wx
+x+     xzx  + wxzx=1  x
+x=     xzx  =  xzx    x
+x   4  xzx     xzxw  +x
+x   + mxzx+  mmxzx   =x
+x   =  xzx=    xzx  w x
+xmm    xzx     xzx+  wx
+x    1 xzx  + mxzx=   x
+x     +xzx  =  xzxw   x
+x     =xzx     xzx 1 +x
+x  +   xzx    +xzx   =x
+x  =   xzxmmm =xzx  m x
+x   3  xzx     xzx+   x
+x+  mmmxzx    =xzx=   x
+x=     xzxmmm  xzx    x
+x    4 xzx     xzxm  +x
+x   +  xzx    +xzx   =x
+x   =  xzxmm  =xzx 1m x
+x     4xzx     xzx+   x
+xmmm   xzx  + mxzx=   x
+x     +xzx  =  xzx  1 x
+x  3  =xzx     xzxm  +x
+x      xzx+ wwwxzx   =x
+x   +  xzx=    xzx+   x
+x   =  xzx     xzx+   x
+x    mmxzx  +  xzx= 3 x
+x+1    xzx  =  xzxm  +x
+x=   mmxzx     xzx   +x
+x   3  xzxwww +xzx   =x
+x   +  xzx    =xzx+   x
+x   =  xzx     xzx+  mx
+xmmm   xzxmmmm=xzx=   x
+x     +xzx     xzx    x
+x     =xzx     xzx   +x
+x 1    xzxmmm +xzxm  =x
+x  +   xzx    =xzx    x
+x  =   xzx     xzx+  mx
+x   mmmxzx  +  xzx= 3 x
+x+     xzx  =  xzx    x
+x=   mmxzx    1xzxm  +x
+x   4  xzx+ mmmxzx   =x
+x   +  xzx=    xzx    x
+x   =  xzx   mmxzx+ 1 x
+xmmm   xzx  +  xzx=  mx
+x     +xzx  =  xzx    x
+x  3  =xzx     xzxm 4+x
+xmm    xzxmmm +xzx   =x
+x   +  xzx    =xzx+ wmx
+x   =  xzx     xzx+   x
+x   4  xzxmmmm=xzx= 1 x
+x+     xzx     xzx    x
+x=  mmmxzx  3  xzx   +x
+x  3   xzxmmm +xzx+  =x
+x    mmxzx    =xzx+4w x
+x  +   xzx     xzx+   x
+x  =   xzx  +  xzx=   x
+x   1  xzx  =  xzxm  +x
+xmm   +xzx    3xzx  1+x
+x     =xzx+ mmmxzx   =x
+x  +   xzx=    xzx+  mx
+x  =   xzx     xzx+   x
+x   4  xzx  + mxzx=   x
+x+  mmmxzx  =  xzx   +x
+x=     xzx     xzxm  +x
+x     1xzx    +xzx   =x
+x   +  xzx    =xzx  3 x
+x   =  xzxmmmm xzx+  mx
+xmmm   xzx    =xzx=   x
+x     +xzx     xzx    x
+x     =xzxmmm  xzxm  +x
+x  3   xzx    +xzx   =x
+x  +   xzxww  =xzx    x
+x  =mmmxzx     xzx+  mx
+x     3xzx  +  xzx=   x
+x+     xzx  =  xzx    x
+x=     xzx    3xzxm  +x
+x    wwxzx+    xzx   =x
+x  +   xzx= mmmxzx    x
+x  =   xzx     xzx+  mx
+x      xzx  +  xzx=   x
+xwwww +xzx  =  xzx   1x
+x     =xzx     xzx   +x
+x""""""xzx""""+xzxmm =x
+x"mmmmmxzx"mmm=xzx    x
+x"wwwwwxzx"wwwwxzx#   x
+x""""""zzx"""""zzx=""=x
+xmmmmmmxxxmmmmmxxxmmm x
+xxxxxxxxxxxxxxxxxxxxxxx

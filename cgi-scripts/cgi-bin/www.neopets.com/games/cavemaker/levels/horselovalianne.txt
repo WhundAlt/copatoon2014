@@ -1,0 +1,42 @@
+Ladders and Crates
+terrain 3
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                      xwwwx
+x                      x   x
+x    >  V          > V x  Dx
+x  V  <   <    <> V    x"xxx
+xV      <         >^    "  x
+x||> ^         ^^V   <  " +x
+x+|               o     " +x
+x]]]]]]]]]]]]]]]]]]]]]]]] Kx
+x                         Kx
+x                        KKx
+x                        <Kx
+x"""+"""""+++"""""3"""  KKKx
+x+"""""""+""""3""""+""  <KKx
+x"""+"""3+"""""""""""" KKKKx
+x+""""""""""""+"""3"+" <KKKx
+x""+"3"""+""""""+"""""KKKKKx
+x"+""""""""""3""""""""<KKKKx
+x   V V V V V V V [  KKKKKKx
+x++  ^ ^ ^ ^ ^ ^   [ xxxxxxx
+xxxxxxxxxxxxxxxxxx[  bbbbbbx
+x             xxxx [ b+bbb+x
+x+++++o+++++      [  bbb<bbx
+x+++o+++o+++       [ +bbb+bx
+x+o+++++++o+    4o[  b<bbbbx
+xxxxxxxxxxxxxxxxxxzz bb+bb<x
+xxxxxxzzzzzzzzzzzzzz"xxxxxxx
+xxxxxxzxxxzxxxx    ""x     x
+xxxxxxzxxxzxxxx   "" x     x
+xxxxxxzxxGLzoo   ""  x     x
+xxxxxxzxxxxxoo  ""   x     x
+xxxxxxzzzzxxooo "          x
+xxxxxxxxxzxx|||xxxxxxxxxxxxx
+xx+++    www|||www        xx
+xx]]]                     xx
+xxbbb                2   1xx
+xxbbb    #  <^>       mmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx

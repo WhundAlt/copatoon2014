@@ -1,0 +1,44 @@
+Lets_do_this_thing
+terrain 1
+background 1
+water clear
+xxxxxxxxxx      " xxxxxoo               
+xxxxxxxxxx      " xxxxxoo               
+xww         xxxx" xxxxxoo               
+x  xxxxxxxx w xx" xxxxx//              <
+x      xxx    xx" xxxxx  xzxxx ]]   xx  
+x       w     wx" xxxxx  xzxxx      xx  
+xxxxxxx   xxxx x" xxxxx  xz       D xx  
+xxxx ww   wwww x" xxxxx  xz     xxxxxx  
+xxxx           x" xxxxx  xz[xxxxx   xx  
+xxxx xxxxxx xxxx" xxxxx  xz x       xx  
+xxxx xxxwxx xxxx" xxxxx  xz=x xxxxx xx  
+xxxx xxx xx xxxx" xxxxx  xz x  xxx  xx  
+x+xx xxx xx xxxx" xxxxx  xz=x  xxx  xx  
+x+xx xxx xx xxxx" xxxxx  xz  x xxx xxx  
+x+xx xxx xx xxxx" xxxxx  xm    x    xx  
+x+xx xxx xx xxxx" xxxxx  xxxxxxx    xx  
+x+xx   w w  xxxx" xxxxx  x   xxx  xxx   
+xoxx        xxxx"      # >             ^
+x+xxm       xxxxxxxxxxxxxxx"xxxxxxxxxxzx
+x+xxxxx xxx xxxxxxxxxxxxxxx""""""xxxxxzx
+x+x           xxx+oxxxxV          <xxx+x
+x+x           xxxooxxxx V       <x xxxx 
+x+x x"     "x xxxooxxxx  xxxVxx" x xx V<
+x   x"     "x   xooxxxx>               ^
+x   x"m+ +m"x   xooxxxxx xxxxxx" x xxx  
+x   xxxx xxxx   x//  < < < < <   <   < <
+x               x     V              <  
+x               xx    >  /"" ""x x xx   
+xxxxxxxx xxxxxxxxxx     >/""  xx x xx >^
+xx     x xxxxxxxxxxx     /"" Vxx x xV  <
+xx    Gxtxxxxxxxxxxxx    /"/^<xx x x  / 
+xx xxxxx xxxxxxxxxxxxx    ""//xx x x  / 
+xx xxxxx xxxxxxxxxxxxxx """"x/xx x x  / 
+xx xxxxx xxxxxxxxxxxxxx " x"  xx^   < / 
+xx xxxxx xxxxxxxxxxxxxx " x"  >   ^xx / 
+x+++++++++++++++xxxxxx+===x"xx/////// / 
+x+++++++++++++++xxxxxx  xxx"> > >  > ^/ 
+x+++++++++++++++xxxxxx  xxx"  x//////// 
+xxxxxxxxxxxxxxxxxxxxxxx xxx"  >        ^
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

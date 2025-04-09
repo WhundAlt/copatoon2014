@@ -1,0 +1,46 @@
+Sloth Returns (1)
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx                                      xx
+xx              bbbbbbbb                xx
+xx              b +  + b       ++"      xx
+xx              b++  ++b       ||"      xx
+xx              b      b     = ||"      xx
+xx              b  ++  b       ||"      xx
+xx            " b +  + b   =   ||"      xx
+xx            " bbbbbbbb       ||"      xx
+xx            "xxxxxxxxxx]     ||"      xx
+xx            "xxxxxxxxxx      ||"      xx
+xx            "xxxxxxxxxxK|||||||"      xx
+xx            "xxxxxxxxxxK|||||||"      xx
+xx      |||||||||||||||||        "      xx
+xx     ||||||||||oooooo||               xx
+xx    |||      ||oooooo||<^<            xx
+xx"  |||       ||oooooo||xxxxxxxxxxxxxxxxx
+xx" |||        ||||||||||xxxxxxxxxxxxxxxxx
+xx"|||         ||      ||xxxx           xx
+xx"||          ||      ||xxxx           xx
+xx"            ||      ||xxxx           xx
+xx"            ||      ||xxxx           xx
+xx"       =    zz      zz>wwV           xx
+xx"           [||======||]              xx
+xx"    =       xx      xx               xx
+xx"         =  ||      ||               xx
+xx" =          ||      ||               xx
+xx"            ||      ||               xx
+xx"            ||      ||               xx
+xx"            ||      ||               xx
+xx"            ||      ||               xx
+xx"          ||||      ||||             xx
+xx" #  /   ||||||      ||||||         D xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

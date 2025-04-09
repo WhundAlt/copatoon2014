@@ -1,0 +1,36 @@
+Thecave2
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzGxx
+xxxV<////  <////  <//// <     xxxzzzzzzzzzzxx
+xxxV<////  <////  <////    z""xxxz[xxxxxxxzxx
+xxx bbbbbbbbbbbbbbbbbbbb   z""xxxzzxxxxxxxzxx
+xxx xxxxxxxxxxxxxxxxxxxxxxzx""xxxzzxxxxxxxzxx
+xxxVwwwwwwwwwwwwwwwwwwww xzx""xxx]zxxxxxxxzxx
+xxx>////////////////////Vxzx/"xxxzzxxxxxxxzxx
+xxxxxxxxxxxxxxxxxxxxxxxx xzx/"xxxzzxxxxxxxzxx
+xxxV////////////////////<xzx/"xxxz[xxxxxxxzxx
+xxx mmmmmmmmmmmmmmmmmmmm xzx/"xxxzzxxxxxxxzxx
+xxx xxxxxxxxxxxxxxxxxxxxxxzx/"xxxzzzzzzzzzzxx
+xxx|K  ++++++++  xxxxxxxxxzzzzxxx]zzzzzzzzzxx
+xxx|K  ++++++++  xxxxxxxxxxxxxxxzzzxxxxxxxxxx
+xxxxxxxxxxxxxxx  xxxxxxxzzxxxxzzzzzxxxxxxxxxx
+xxxV <           xxxxxxozzxxxxzzzzxxxxxxxxxxx
+xxx            xxxxxxo>/zzxxxxzzzz++++Lzzzxxx
+xxx            xxxxo>/^ x+xxxxxxxz++++zzzzxxx
+xxx/bxxxzxxxzxxxxo>/^ x+x+xx"[xxxz++++zzzzxxx
+xxx/bxxxmxxxmxxo>/^ x+x+x+xx" xxxxxxxxxxx=xxx
+xxx xxxxxxxxxo>/^ x+x+x+x+xx" xxx         xxx
+xxx+xxxxxxxo>/^ x+x+x+x+x+xx" xxx         xxx
+xxxDxxxxxo>/^ x+x+x+x+x+x+ 2  xxx xxxxxxxxxxx
+xxxxxxxo>/^ x+x+x+x+x+x+x+xx="xxx         xxx
+xxxxxz>/^ x+x+x+x+x+x+x+x+xx "xxx         xxx
+xxxxxzx x+x+x+x+x+x+x+x+x+xx "xxxxxxxxxxx xxx
+xxx                          "zzz         xxx
+xxx #                        "zzz         xxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

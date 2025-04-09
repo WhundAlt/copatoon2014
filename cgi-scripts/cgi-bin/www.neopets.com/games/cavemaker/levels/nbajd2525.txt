@@ -1,0 +1,44 @@
+The_First_Ascent
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x"           4                        "x
+x"               +                    "x
+x"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+x"x                                  x"x
+x"x                1                 x"x
+x"x+                                 x"x
+x"x[                          +++  D x"x
+x"x       m>>>>>>>>>>>V      xxxxxxxxx"x
+x"x    =  x V<<<<<<<<<<    = x        "x
+x"x  1    x >>>>>>>>>>V      x   ++++ "x
+x"x       x <<<<<<<<<<< 2 mmmx  xxxxxx"x
+x"x+     +xxxxxxxxxxxxxxxxxxxx xoooooxmx
+x"x]     ]V  <|  <|  <|  <|    <bbbbb  x
+x"x           V   V   V   V   G |||||  x
+x"x   =                       =        x
+x"x                                    x
+x"x         +   +   +   +              x
+x                                      x
+x[====]                                x
+x V  <    =   =   =   =   =   [====]  "x
+x                                     "x
+x        +    +    +    +    +    +   "x
+x  > ^                                "x
+x  K                                  "x
+x  KL    mm   mm   mm   mm   mm   mm^ "x
+x[||||||||||||||||||||||||||||||||||| "x
+x"                                    "x
+x"                                     x
+x"                                     x
+x"  +                                 1x
+x"bbbbbKbbKbbKbbKbbKbbKbbKbbKbbKbbKbb "x
+x                                     "x
+x+          >                       V "x
+x+          ^>          <          <  "x
+x>          />          <          </ "x
+x           K>          <          <+ "x
+x  KKK     KKK     KKK     KKK      = "x
+x#KKKKK 5 KKKKKmmmKKKKKmmmKKKKKmmmKmmm"x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

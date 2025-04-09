@@ -1,0 +1,22 @@
+<?php
+function neopets_transcontent_route() {
+	global $router_base_urls;
+	
+	if (isset($router_base_urls) === true) {
+		// Legacy Infinity
+		router_route_pathname('www.neopets.com/transcontent/' . $_REQUEST['type_id'] . '/' . $_REQUEST['item_id'] . '/' . $_REQUEST['lang'] . '.xml');
+	} else {
+		// Core/Ultimate/Game ZIPs
+		header('Content-Type: application/xml');
+		@readfile($_REQUEST['type_id'] . '/' . $_REQUEST['item_id'] . '/' . $_REQUEST['lang'] . '.xml');
+	}
+}
+
+if (isset($dirname_file) === true) {
+	if (@chdir($dirname_file) === false) {
+		return false;
+	}
+}
+
+neopets_transcontent_route();
+?>

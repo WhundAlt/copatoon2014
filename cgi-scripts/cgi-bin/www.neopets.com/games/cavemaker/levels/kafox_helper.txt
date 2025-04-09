@@ -1,0 +1,50 @@
+Pirate Chamber
+terrain 1
+background 1
+water murky
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x              x             x
+x              x             x
+x              x             x
+x      |||>    x             x
+x      |>||>   b          #  x
+x     +>|>||<  b             x
+x     x>||>||< x             x
+x    =x>|||>|K<x / 5         x
+x    =xxxxxxxxxx xxxoxxxoxxxxx
+x     xxxxxxxxxx x+xox+xox+xxx
+x 4  "xxzxxxxxxz xoxoxoxoxoxxx
+x    "xzzzGxxxxz x||||||||||xx
+x    "xz=xxxxxzz x V V V V Vxx
+x4   "xzzzzzzzzx x          xx
+x   ""xxxxxxxxxx x          xx
+x   " x+ + +   x x3        "xx
+x   " xVoVoV   x x         "xx
+x   " x|V|V|   x xxz       "xx
+x   " x|||||   x xLz  ^     xx
+x    Vx     xxxx xxx   =    xx
+xV^V^|x     x  x b  x    ]  xx
+x|||||x     z  b b  z      ]xx
+x++x++x^^^^^z  b b< z m+m+m xx
+x=====xxxxxxxxxx xxxxxxxxxxxxx
+x              x x           x
+x                            x
+x                            x
+x                 xxxx       x
+x                 x  x       x
+x                 xD x       x
+xxxt     x=============x     x
+x x      x             x     x
+x x      x>           <x     x
+x x~     x^^^^^^^^^^xxxx     x
+x x mmmmmxbbbbbbbbbbx        x
+x x xxxxxxVVVVVVVVVVx        x
+x x    ..x          x        x
+x x      x+      xxxx        x
+x x      x] w    x..x        x
+x x      x+    w xbbx        x
+x x      x=        +x        x
+x x      xx      bbbx        x
+x xmmmmmbbb  m m b++x        x
+x xxxxxxxxxxxxxxxxxxx        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

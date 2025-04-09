@@ -1,0 +1,46 @@
+Dynomite_Cave
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxww V  <xK|K|K|K|K|K|KKx               xx
+xx    V< |K|K|K|K|K|K||Kb               xx
+xx    >  ||||||||||||||Kb              "xx
+xx   > ^ |K|K|K|K|K|K||Kb+ + + + + + + "xx
+xx# >   ^xK|K|K|K|K|K|KKx= = = = = = =x"xx
+xxxxxxxxxxxxxxxxxxxxxxxxxmmmmmmmmmmmmmx"xx
+x>w        |||||||||||V  xxxxxxxxxxxxxx"xx
+x xV                                   "xx
+x x x     =|||||||||||||               "xx
+x x x=   = |KKK|||||KKK|xxxxxxxxxxxxxxxxxx
+x x x = =  xKbKVVVVVKbKx               ""x
+x x x  =   xKKK     KKKx+++++++++++++++""x
+x x x mmmmmxxxx     xxxx===============x"x
+x x x xxxxxx   |||||                  xx"x
+x x x          |ooo|                  xx"x
+x x x          |ooo|   x[[[[[[[[[[[[[[xx"x
+x x xxxxxxxxxxxxxxxxxxxx^^^^^^^^^^^^^^xx"x
+x x|>wwwwwwwwwwwwwwwwwww||||||||||||||xx"x
+x xVxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
+x x x         xxKKxxxxxxxxxxxxxx        "x
+x x x         xxxxxxxxxxxxxxxxxx        "x
+x x x D       xzzzzG+++wx|xxx    o      "x
+x x x==]x]    xzzzzL+++mmxxx  ooxzxxxxxxxx
+x x x   x     zzxxxxxxxxxxx  oooxzxzzzzzxx
+x x x  ox    [xxxxxxxxxxxx  ooooxzxzzzzzxx
+x x x   x     xxxxxxxxxxx  oooooxzxzxxxzxx
+x x xo  x     xxxxxxxxxx  ooooooxzzzxxxzxx
+x x x   xxxxxxz          oooooooxxxxxxxzxx
+x x x  oxxxxwwxxxxxxxxxxxxxxxxxxxxxxxxxzxx
+x x x   xxxw           |||||||||||||||| |x
+x x xo  xxw "          |                |x
+x x x       "          |                |x
+x x xKKKKKKK"KKKK      |                |x
+x x x       "    K     |  bbb    bbb    |x
+x x xb+bbbbb"+b+b K    |  b/b    b/b    |x
+x x xbbb+bbb"bbbbb K   |  bbb    bbb    |x
+x x x+bbbb+b"bbb+b+ K  |                |x
+x^m<xbb+b+bb"b+bbbb+ K |                |x
+xxxxxxxxxxxxxxxxxxxxxxx||||||||||||||||||x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

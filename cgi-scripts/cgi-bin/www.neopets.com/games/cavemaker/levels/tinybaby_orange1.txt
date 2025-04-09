@@ -1,0 +1,76 @@
+Be Mine
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                      x
+x                                                                      x
+x            xxx   xxx                        xxx   xxx                x
+x           x"""x x"""x                      x"""x x"""x               x
+x           x""""x""""x                      x""""x""""x               x
+x           x"""""""""x                      x"""""""""x               x
+x           x"""""""""x                      x"""""""""x               x
+x            x"""""""x                        x"""""""x                x
+x             x"""""x        xxxx   xxxx       x"""""x                 x
+x              x"""x        x    x x    x       x"""x                  x
+x               x"x    ^ <  x     x     x  >     x"x                   x
+x                x      ^ < x           x   >     x                    x
+x                      >>>>>x>>>>>>>>>>>x>>>>>                         x
+x                       ^ <  x         x    >                          x
+x                      ^ <    x       x    >                           x
+x                              x     x                                 x
+x                               x   x                                  x
+x                                x x                                   x
+x                                 x                                    x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x         """""""  """""""         """   """""""""""   """""""""       x
+x         "xxxxx"" "xxxxx"         "x"" ""x"xxxxx"x""  "x"xxxxx"       x
+x         "x""""x"""x"""""         "xx"""xx"""x"""xx"" "x"x"""""       x
+x         "x"  ""x""x"             "x"x"x"x" "x" "x"x" "x"x"           x
+x         "x"  ""x""x"             "x""x""x" "x" "x"x"""x"x"           x
+x         "x""""x"""x""""          "x"""""x" "x" "x""x""x"x""""        x
+x         "xxxxx"" "xxxx"          "x"   "x" "x" "x""x""x"xxxx"        x
+x         "x""""x"""x""""          "x"   "x" "x" "x""x""x"x""""        x
+x         "x"  ""x""x"             "x"   "x" "x" "x"""x"x"x"           x
+x         "x"  ""x""x"             "x"   "x" "x" "x" "x"x"x"           x
+x         "x""""x"""x"""""         "x"   "x"""x"""x" ""xx"x"""""       x
+x         "xxxxx"" "xxxxx"         "x"   "x"xxxxx"x"  ""x"xxxxx"       x
+x         """""""  """""""         """   """""""""""   """""""""       x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                                                                      x
+x                       xxxx                xxxx                       x
+x                    xxxx  xxxx          xxxx  xxxx                    x
+x                   xx        xx        xx        xx                   x
+x                   x          xx      xx          x                   x
+x                  x            xx    xx            x                  x
+x                  x       +++   xx  xx   +++       x                  x
+x                  x       xxx    x  x    xxx       x                  x
+x                  x      x   zz  x++x  xx   z      x                  x
+x                  x     x======x  zz  x======z     x                  x
+x                  xx    x+ +++ xx    xx +++ +x    xx                  x
+x                   xx   xx++++  xx  xx  ++++xx   xx                   x
+x                    xx   xx======x+Lx======xx   xx                    x
+x                     xx   xx+     xx     +xx   xx                     x
+x        bbb   bbb     xx   xx+   oooo   +xx   xx                      x
+x       bbbbb bbbbb     xx   zz+  K++K  +xx   xx                       x
+x       bbbbbbbbbbb      xx   zx++/<>/++xx   xx            bbb   bbb   x
+x       bbbbbbbbbbb       xx   xx======xx   xx            bbbbb bbbbb  x
+x       bbbbbbbbbbb        xx   xx >++zz   xx             bbbbbbbbbbb  x
+x        bbbbbbbbb          xx   xx^+zz   xx              bbbbbbbbbbb  x
+x         bbbbbbb            xx   xxxx   xx               bbbbb#bbbbb  x
+x          bbbbb              xx   xx   xx                 bbbb=bbbb   x
+x           bbb                xx      xx                   bbbbbbb    x
+x            b                  xx    xx                     bbbbb     x
+x                                zz++zz                       bbb      x
+x            D                    xxxx                         b       x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

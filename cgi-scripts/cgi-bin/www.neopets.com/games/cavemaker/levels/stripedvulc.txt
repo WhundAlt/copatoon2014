@@ -1,0 +1,28 @@
+treasuretrap
+terrain 3
+background 1
+water clear
+#                                     </
+                                      </
+xxxxxxxxxxxxx =xxxxxxx o              </
+         V  <  x      xxzxxxxxxxxxxxxx  
+            ===                         
+                                        
+                      mmmmmmmmmmmmmmm   
+                      xxxxxxxxxxxxxxx   
+                                        
+                                        
+                                        
+         >>>>>>>>>>>>>                 ^
+         x++++++++++++G++++L++++++++++++
+xxxxxxxxxxxxxxxxxzxxxxzxxxxzxxxxxxxxxxxz
+                 z                     "
+         mmmmmmmmzmmmmmmmmmmmmmmmmmmmmm"
+xxxxxxxxxxxxxxxxxzxxxxxxxxxxxxxxxxxxxxx"
+         x                             "
+         x                             "
+         x      xxx"                   "
+         x         "                   "
+         x         "               D   "
+         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                        

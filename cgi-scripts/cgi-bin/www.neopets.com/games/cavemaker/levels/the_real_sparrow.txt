@@ -1,0 +1,36 @@
+Ladders
+terrain 4
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx            xxwwwwwwwwwwwwwwwwwwwwwwwwwww  +  xx
+xxxx # "        xx                             +  xx
+xxxx[=]"        xx                           KKb  xx
+xxxx   "        xx "===                    KKKK   xx
+xxxx   "        xx "                       KKKK   xx
+xxxx   "        xx "   ]===              KKKKKK   xx
+xxxx   "  +++   xx "                    KKKKKKK   xx
+xxxx   " [[[[   xx "          +         KKKKKKK   xx
+xxxx   "        xx "         ==        KKKKKKKK   xx
+xxxx   "        xx "   +              >>>>>>>>>^  xx
+xxxx   "        xx "   ===                        xx
+xxxx   "        xx "                            D"xx
+xxxx+  "        xx "                           xx"xx
+xxxx== "        xx "         +        ^        xx"xx
+xxxx   "      ooox "       =====               xx"xx
+xxxx   "      bbbx "   ++                      xx"xx
+xzzz   "   >  ///x "  ++++                     xx"xx
+xzxx==="=====    x "  bbbb            ^        xx"xx
+xzzx   "           "                           xx"xx
+xLzx   "           "                           xx"xx
+xzzz   "           "        /                  xx"xx
+xxxx==================xxxxxxxxx////xxxxxxxxxxxxxx"xx
+xxxx                  xxxxxxxxx||        xxxxxzzz"xx
+xxxx~          o      xx  ++xxx   K      xxxxzzGz"xx
+xxxx          xxxxxxxxxx  ++xxx  KKK     xxzzzzxxxxx
+xxxx                xxx+++]]]xx  KKKK    zzzzzxxxxxx
+xxxx++++++++++++++++++x++++++    KKKKK   zzzxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

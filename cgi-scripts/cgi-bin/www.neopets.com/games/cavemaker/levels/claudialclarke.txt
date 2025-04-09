@@ -1,0 +1,46 @@
+TheStoneGarden
+terrain 3
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xzwwwwwwwwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxx
+xz        o  o           xxxxxxzxxxxxxxxxx
+xz              o        xxxxxzzzxxxxxxxxx
+xz           3           xxxxzzzzzxxxxxxxx
+xz          o     o      zzzzzzzzzzzz"xxxx
+xzmmm #               D  zzzzzzzzzzzz"xxxx
+xzxxxxx      3      xxxxxxxxxxxzxxxxx"xxxx
+xzxxxx  o      +     xxxxxxxxxxzxxxxx"xxxx
+xzxxx          o      xxxxxxxxxzxxxxx"xxxx
+xzxx       o           xxxxxxxxzxxxxx"xxxx
+xzx                     xxxxxxxzzzzxx"xxxx
+xzx      o  o            xxxxxxzzzzxx"xxxx
+xzx                      xxxxx   zzxx"xxxx
+xzx           o  o  o    xxxxx L zzzz"xxxx
+xzx  o                 o xxxxxmmmxxxx"xxxx
+xzx                  3   xxxxxxxxxxxx"xxxx
+xzx     o            o   xxxxxxxxxxxx"xxxx
+xzx                      xxxxxxxxxxxx"xxxx
+xzx                o     xxxxxxxxxxxx"xxxx
+xzx                      xxxxxxxxxxxx"xxxx
+xzx       o          o   xxxxxxxxxxxx"xxxx
+xzx                      xxxxxxxxxxxx"xxxx
+xzx                     oxxxxxxxxxxxx"xxxx
+xzx         +      +     xxxxxxxxxxxx"xxxx
+xzx    o        o  ^  o  xxxxxxxxxxxx"xxxx
+xzx [                    xxxxxxxxxxxx"xxxx
+xzx [      o             xxxxxxxxxxxx"xxxx
+xzx [          +   o     xxxxxxxxxxxx"xxxx
+xzx [          ^         xxxxxxxxxxxx"xxxx
+xzx [           o        xxxxxxxxxxxx"xxxx
+xzx [           3        xxxxxxxxxxxx"xxxx
+xzx [       o     o      xxxxxxxxxxxx"xxxx
+xzx [                    xxxxxxxxxxxx"xxxx
+xzx [          o         xxxxxxxxxxxx"xxxx
+xzx [                    xxxxxxxxxxxx"xxxx
+xzx  o  +3  o            xxxxxxxxxxxx"xxxx
+xzx     o             3  xxxxxxxxzzzz"xxxx
+xzxmmmmmmmmmmmmmmmmmmmmmmxxxxxxxxzzzz"xxxx
+xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,119 @@
+Claustrophobia
+terrain 1
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx          "             xx
+xx          "             xx
+xxxxxxxxxxxx"xxxxxxxxxxxxzxx
+xxx        x"x/   o xxxxxzxx
+xxx >  | x x"xVVVVbVxxxxxzxx
+xxx |""| x x"x||||||<xxxxzxx
+xxx |""| x x"x       xxxxzxx
+xxx |""| x x"xVV  VV xxxxzxx
+xxx |"K>   |"x||||||^xxxxzxx
+xxx |"> V  |"x      xxxxxzxx
+xxx |""    |"x      xxxxxzxx
+xxx |""  x |"x      xxxxxzxx
+xxx |"K|   <"x      xxxxxzxx
+xxx |""| x x"x      xxxxxzxx
+xxx |""| x x"x      KKKxxzxx
+xxx |""| x"""x      KKKxxzxx
+xxx |""| x"""x      KKKxxzxx
+xxx |""| x"xxx^     KKKxxzxx
+xxx |""| x"xxx|>    >>>xxzxx
+xxx |""| x xxx         xxzxx
+xxx |""| x xxx^        "xzxx
+xxx |""| x |||         "xzxx
+xxx |""| x |||         "xzxx
+xxx>|""| x |||         "xzxx
+xxx^x""x xxxxxxxxxxxxxx"xzxx
+xxx^w" x ww| "x     xxx"xzxx
+xxx^< <<<<<| "x     xxx"xzxx
+xxxmm"     | "x     xxx"xzxx
+xxxxx"""   x "x     xxx"xzxx
+xxxxx""" "^z "x     xxx"xzxx
+xxxxx    " zx"      xwx"xzxx
+xxxxx mm mmzx"      x x"xzxx
+xxxxx KK KKxx"m     xmx"xzxx
+xxxxxKwK KKxx"x     xxx"xzxx
+xxxxx> KKK xx"x     xxx"xzxx
+xxxxx> w<w>>>"x     xxx"xzxx
+xxxxx     >>> w     wVx"xzxx
+xxx||      ||"x     x x"xzxx
+xxx|xKKKKKK||"x     x x"xzxx
+xxx|xwwwwwK|> ||||||x x"xzxx
+xxx|x +++ Kxx"xxxx||x x"xzxx
+xxx|x +++ Kx "x ++  x x"xzxx
+xxx|x [=] Kx "x ++  x x"xzxx
+xxx|x  "  Kx "x ++  x x"xzxx
+xxx|x ="= Kx "x xxxxx x"xzxx
+xxx|x  "  Kx""x     x x"xzxx
+xxx|x     Kx""x     x x"xzxx
+xxx|K      x"xx     x x"xzxx
+xxx||        wm     w<x"xzxx
+xxxxK  mm   " x     xmx"xzxx
+xxxxxxxxxxxx" x     xxx"xzxx
+xxxxxo     x" x     xxx"xzxx
+xxxww>VVVVVx" xmm mmxxx"xzxx
+xxx>m||||||x" xxxVxxxwx"xzxx
+xxx x      x" x  |  x x"xzxx
+xxx x      x" x     xmx"xzxx
+xxx x"   < x" x     xxx"xzxx
+xxx x"  <  x" x     xxx"xzxx
+xxx x      x" x     xxx"xzxx
+xxx x"<    z" x   <|xxx"xzxx
+xxx w"  KKKxxxx>   <xxx"xzxx
+xxx^ < <   x  x     xxx"xzxx
+xxxmm"     x "xm mmmxxx"xzxx
+xxxxx      z "xx xxxxxx"xzxx
+xxxxx      z "x     xxx"xzxx
+xxxxx      x "x     xxx"xzxx
+xxxxxxxxxxxx "x     xwx"xzxx
+xxxxxoooooox "x     x x"xzxx
+xxxxxoooooox "x     xmx"xzxx
+xxxxx>>>>>>x "xmm mmxxx"xzxx
+xxxxx      x "xxx xxxxx"xzxx
+xxxxx [ = ]x "x     xxx"xzxx
+xxxxx   1  z "x     xxx"xzxx
+xxxxx [===]xxxx     xxx"xzxx
+xxxxx      x        xxx"xzxx
+xxxxx [== ]x        xxx"xzxx
+xxxxx      x        xxx"xzxx
+xxxxx [ ==]         xwx"xzxx
+xxxxx^  2  mmmmm mmmx x"xzxx
+xxxxx [===]xxxxx xxxxmx"xzxx
+xxxxx^<<<<<x        xxx"xzxx
+xxxxx=====]x        xxx"xzxx
+xxxxx   o  x    b   xxx"xzxx
+xxxxx  +++ x mmmm   xxx"xzxx
+xxxx|" +++ xxxxxx   zzx"xzxx
+xxxx|"xxxxzx        zzx"xzxx
+xxxx|""""" x    m mmxzx"xzxx
+xxxx|""""" x    xxxxxzx"xzxx
+xxxx|""""" x     +++xzx"xzxx
+xxxx|      x     +++xzx"xzxx
+xxxx|      x mmm +++    xzxx
+xxxx       xxxxxxxxxxxxxxzxx
+xxxx^   >   > m>>>< xxxxxzxx
+xxx>>   |  x mxm    xxxxxzxx
+xxx xxx  # x x|x    xxxxxzxx
+xxx^www    x wxw    xxxxxzxx
+xxx|m>m  >    w <  Vxxxxxzxx
+xxx|||||||||        xxxxxzxx
+xxx|||||||||       <xxxxxzxx
+xxxxmmmmmmmmmmmmmmmmxxxxxzxx
+xxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxxxxxxxxxxxxxxxxxxxxxxxxzxx
+xxxwwwwwwwwwwwwwwwwwwwwww xx
+xxx+++++++                xx
+xxx++[=]++                xx
+xxx++   +++++   +++++  +++xx
+xxx++   +++++   +++++  +++xx
+xxx++ D +++++   +++++  +++xx
+xxxxxxxxxxxxxxzxxxxxxxxxxxxx
+xxxxxxxxxxxxxxzxxxxxxxxxxxxx
+xxxxxxxxxxxxmmmmmxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx

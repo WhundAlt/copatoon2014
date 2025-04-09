@@ -1,0 +1,1 @@
+<embed type="application/x-burster" src="/geta3d/blends/scena.blend" pluginspage="http://geta3d.com/geta3d/install/setup.msi" id="2&amp;Itemid=18&quot;" width="600" height="480">

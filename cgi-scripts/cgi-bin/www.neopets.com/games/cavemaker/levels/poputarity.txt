@@ -1,0 +1,35 @@
+Watch_Out_Improved
+terrain 2
+background 1
+water clear
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           x
+xxxt          zzzzzzzzzzzzzoooooooooooox           x
+xxx        >> zzzzzzzzzzzzz   >>>>>>>>>x           x
+xxx        [==xooooooooooox            x           x
+xxx           x|||||||||||x            x           x
+xxx        x           x            x           x
+xxx        [==x      ^    x            x           x
+xxx           x           x   ^        z           x
+xxx         <<x     #     x   K b  b   z           x
+xxx        ===x    xxx    x   K        x           x
+xxx           x    xxx    x+++K mmmmm  x  D        x
+xxx    +   > <x    xxx    xxxxxxxxxxxxxxxxxxx      x
+xxx    +   ===x    xxx    x                        x
+xxx    +      z    xxx    x                        x
+xxx    +      z    xxx    x                        x
+xxxxxxzxzxxxxxz    xxx    x                        x
+xxx           x    xxx    x                        x
+xxx           x    xxx    x                        x
+xxxmmmmmmmmmmmmmmmmxxx    x                        x
+xxxxxxxxxxxxxxxxxxxxxx    x                        x
+x                    x    x                        x
+x                    x    x                        x
+x                    x    x                        x
+x                    x    x                        x
+x                    xmmmmx                        x
+x                    xxxxxx                        x
+x                                                  x
+x                                                  x
+x                                                  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

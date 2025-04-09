@@ -36,7 +36,8 @@ jobs:
     - name: Prepare htdocs
       run: |
         mkdir -p htdocs
-        cp -r htdocs/
+        cp -r src/* htdocs/
+
 
     # Optionally, deploy htdocs content to GitHub Pages or another server
     - name: Deploy to GitHub Pages

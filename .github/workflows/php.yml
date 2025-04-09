@@ -32,8 +32,15 @@ jobs:
     - name: Install dependencies
       run: composer install --prefer-dist --no-progress
 
-    # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
-    # Docs: https://getcomposer.org/doc/articles/scripts.md
+    # Add a step to copy files to the htdocs directory
+    - name: Prepare htdocs
+      run: |
+        mkdir -p htdocs
+        cp -r src/* htdocs/
 
-    # - name: Run test suite
-    #   run: composer run-script test
+    # Optionally, deploy htdocs content to GitHub Pages or another server
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: htdocs

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<server-configuration>
+		<server-base-address>http://staging.cartoonnetwork.com/dragonsvc/</server-base-address>
+		<!--
+		Leave it empty to use Application.dataPath + "/" or set the address where the game assets are stored on.
+		Must end with a backslash (/).
+		Game intro will be loaded from <data-path> + "intro.ogg" (it needs to be an Ogg Theora video, and the extension needs to be ogg and not ogv 
+		or Unity will not properly stream it).
+		If no "intro.ogg" is found, the game will search for "intro.jpg", which will be a cover image to replace the video.
+		-->
+		<data-path></data-path>
+		<min-delay-between-saves>30</min-delay-between-saves>
+		<intro-image-timer-sec>10</intro-image-timer-sec>
+		<skip-login>true</skip-login>
+		<lock-multiplayer>false</lock-multiplayer>
+		<use_udp>true</use_udp>
+		<!--
+		<serviceDirector>http://www.cartoonnetwork.com/games-director/services/cn.superstarsoccer.dev/cascade</serviceDirector>
+		-->
+		<serviceDirector>http://www.cartoonnetwork.com/games-director/services/cn.copatoon.la.prod/cascade</serviceDirector>
+		<button1>z</button1>
+        <button2>x</button2>
+		<!-- Instructions of use of In-game Advertising System on Copatoon. The Advertising will be presented on Load screens and on billboards across the soccer field. These sections are identified by the tag “LoadingSlot” and “FieldSlot”, respectively. At each Loading screen or game instance, a single sponsor is selected to fill the advertising slots. For this reason, each sponsor must have a proper banner for each slot. The game retrieves the images using the specified links on the config.xml of the CN application controller. Each sponsor uses a <sponsor> XML tag to provide  the necessary URLs, according to the following example bellow. The XML tags to provide the URLs must be  <LoadingSlot> or <FieldSlot> and contain the image with the correct size and format. The game loads randomly the sponsor each time it is needed. Given enough time, the distribution will be uniform across all the registered sponsors. If no sponsor is defined here, the game will load the default ad. An example of two sponsors with fake urls is presented below: -->
+	    <sponsor>
+		    <LoadingSlot>
+			http://i.cdn.turner.com/toonla/images/copatoon2014/br/dtc/loading.png
+		    </LoadingSlot>
+	        <FieldSlot>
+	        http://i.cdn.turner.com/toonla/images/copatoon2014/br/dtc/field.png
+	        </FieldSlot>
+	    </sponsor>
+	    <sponsor>
+		    <LoadingSlot>
+			http://i.cdn.turner.com/toonla/images/copatoon2014/br/mundogaturro/loading.png
+		    </LoadingSlot>
+	        <FieldSlot>
+	        http://i.cdn.turner.com/toonla/images/copatoon2014/br/mundogaturro/field.png
+	        </FieldSlot>
+	    </sponsor>
+	    <sponsor>
+		    <LoadingSlot>
+			http://i.cdn.turner.com/toonla/images/copatoon2014/br/giraffas/loading.png
+		    </LoadingSlot>
+	        <FieldSlot>
+	        http://i.cdn.turner.com/toonla/images/copatoon2014/br/giraffas/field.png
+	        </FieldSlot>
+	    </sponsor>
+	</server-configuration>
+</data>
